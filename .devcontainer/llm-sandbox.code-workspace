@@ -1,0 +1,76 @@
+  {
+  "settings": {
+    // this "feature" is bananas. vscode scans the output of every command run in the terminal for
+    // strings like "running on localhost:2000" and then automatically forwards that port. you
+    // basically _never_ want this if those terminal commands run processes in docker containers.
+    // this should stop the phantom rows appearing in the ports view
+    "remote.autoForwardPorts": false,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 120,
+    "editor.rulers": [120],
+    "prettier.requireConfig": true, // use folder-specific prettier formatting
+    /* language specific config */
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.formatOnSave": true
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.formatOnSave": true
+    },
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.formatOnSave": true
+    },
+    // python
+    "python.languageServer": "Pylance",
+    "docker.containers.label": "ContainerName",
+    "docker.containers.description": ["Status"],
+    "docker.containers.sortBy": "Label",
+    "githubPullRequests.commentExpandState": "collapseAll",
+    "githubPullRequests.ignoredPullRequestBranches": ["master"],
+    "eslint.alwaysShowStatus": true,
+    "eslint.useESLintClass": true,
+    "search.exclude": {
+      "**/node_modules": true,
+      "**/dist": true
+    },
+    "cSpell.diagnosticLevel": "Information"
+  },
+  "extensions": {
+    // cSpell:ignore sleistner stkb britesnow wmaurer dbaeumer rebornix eamodio bradlc
+    "recommendations": [
+      /* generic editing */
+      // file rename/delete/etc commands in command menu
+      "sleistner.vscode-fileutils",
+      // rewrap comments to wrap column
+      "stkb.rewrap",
+      // transform between camelCase, snake_case, etc
+      "wmaurer.change-case",
+      /* spelling */
+      "streetsidesoftware.code-spell-checker",
+      /* code formatter for js, json and yaml files */
+      "esbenp.prettier-vscode",
+      /* js */
+      // static checking
+      "dbaeumer.vscode-eslint",
+      /* python */
+      "ms-python.vscode-pylance",
+      "ms-python.python",
+      /* shell */
+      // static checking
+      "timonwong.shellcheck",
+      /* git */
+      // inline commit info
+      "eamodio.gitlens",
+      // resource monitor
+      "mutantdino.resourcemonitor",
+      /* tailwind (styles) completion */
+      "bradlc.vscode-tailwindcss",
+      /* sync edits to the name of corresponding closing tag in html & jsx */
+      "formulahendry.auto-rename-tag"
+    ]
+  }
