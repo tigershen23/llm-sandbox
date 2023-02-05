@@ -16,5 +16,17 @@
         "ms-python.python"
       ]
     }
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {},
+    "ghcr.io/devcontainers/features/node:1": {},
+    "ghcr.io/devcontainers/features/nvidia-cuda:1": {
+      "installCudnn": true
+    },
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {},
+    "github-cli": "latest",
+    "ghcr.io/devcontainers/features/sshd:1": {
+      "version": "latest"
+    }
   }
 }
