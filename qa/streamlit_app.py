@@ -2,7 +2,7 @@
 # For now, it's a manual process of updating this file when we make changes to document_qa.ipynb
 # MAKE SURE YOU'VE RUN THE CRAWLERS BEFORE RUNNING THIS APP OR IT WON'T WORK
 
-from gpt_index import GPTTreeIndex, SimpleWebPageReader, SimpleDirectoryReader, BeautifulSoupWebReader, GPTSimpleVectorIndex
+from gpt_index import GPTTreeIndex, GPTListIndex, SimpleWebPageReader, SimpleDirectoryReader, BeautifulSoupWebReader, GPTSimpleVectorIndex
 from langchain.agents import load_tools, Tool, initialize_agent, ZeroShotAgent, AgentExecutor
 from langchain.llms import OpenAI
 from langchain import OpenAI, LLMChain
@@ -18,7 +18,6 @@ path = os.path.dirname(__file__)
 def get_marketing_site_index():
     welcome_marketing_site_data = SimpleDirectoryReader(path +"/crawls/collections/welcome_marketing/pages").load_data()
     welcome_marketing_site_index = GPTSimpleVectorIndex(welcome_marketing_site_data)
-    welcome_marketing_site_index.set_text("Welcome Marketing Site")
 
     return welcome_marketing_site_index
 
@@ -46,8 +45,6 @@ def get_marketing_site_agent():
 def get_blog_index():
     welcome_blog_data = SimpleDirectoryReader(path + "/crawls/collections/welcome_marketing/pages").load_data()
     welcome_blog_index = GPTSimpleVectorIndex(welcome_blog_data)
-    welcome_blog_index.set_text("Welcome Blog")
-
     return welcome_blog_index
 
 # Query DB
@@ -74,7 +71,6 @@ def get_blog_agent():
 def get_zendesk_index():
     welcome_zendesk_data = SimpleDirectoryReader(path + "/data/welcome_zendesk/2023-02-06").load_data()
     welcome_zendesk_index = GPTSimpleVectorIndex(welcome_zendesk_data)
-    welcome_zendesk_index.set_text("Welcome Zendesk")
 
     return welcome_zendesk_index
 
@@ -98,24 +94,73 @@ def get_zendesk_agent():
 
 #region combined supporting code
 # Set up document QA index
-@st.cache(allow_output_mutation=True)
-def get_combined_index():
+def get_combined_list_index():
     welcome_marketing_site_index = get_marketing_site_index()
+    summary = welcome_marketing_site_index.query(
+        "What is a summary of these documents?",
+    )
+    welcome_marketing_site_index.set_text(summary)
+
     welcome_blog_index = get_blog_index()
+    summary = welcome_blog_index.query(
+        "What is a summary of these documents?",
+    )
+    welcome_blog_index.set_text(summary)
+
     welcome_zendesk_index = get_zendesk_index()
+    summary = welcome_zendesk_index.query(
+        "What is a summary of these documents?",
+    )
+    welcome_zendesk_index.set_text(summary)
+
+    return GPTListIndex([welcome_marketing_site_index, welcome_blog_index, welcome_zendesk_index])
+
+def get_combined_tree_index():
+    welcome_marketing_site_index = get_marketing_site_index()
+    summary = welcome_marketing_site_index.query(
+        "What is a summary of these documents?",
+    )
+    welcome_marketing_site_index.set_text(summary)
+
+    welcome_blog_index = get_blog_index()
+    summary = welcome_blog_index.query(
+        "What is a summary of these documents?",
+    )
+    welcome_blog_index.set_text(summary)
+
+    welcome_zendesk_index = get_zendesk_index()
+    summary = welcome_zendesk_index.query(
+        "What is a summary of these documents?",
+    )
+    welcome_zendesk_index.set_text(summary)
 
     return GPTTreeIndex([welcome_marketing_site_index, welcome_blog_index, welcome_zendesk_index])
 
 # Query DB
-def query_combined_db(query: str):
-    return get_combined_index().query(query, verbose=True)
+def query_combined_list_db(query: str):
+    return get_combined_list_index().query(query, verbose=True)
+
+def query_combined_tree_db(query: str):
+    return get_combined_tree_index().query(query, verbose=True)
 
 # Create LangChain agent
-def get_combined_agent():
+def get_combined_list_agent():
     tools = [
         Tool(
             name="QueryingDB",
-            func=query_combined_db,
+            func=query_combined_list_db,
+            description="Returns most relevant answer from document for query string",
+        )
+    ]
+    llm = OpenAI(temperature=0.1)
+    agent = initialize_agent(tools, llm, agent="zero-shot-react-description", verbose=True)
+    return agent
+
+def get_combined_tree_agent():
+    tools = [
+        Tool(
+            name="QueryingDB",
+            func=query_combined_tree_db,
             description="Returns most relevant answer from document for query string",
         )
     ]
@@ -140,6 +185,24 @@ def main():
     welcome_logo = Image.open(path + "/static/welcome_light.png")
     st.image(welcome_logo, width=200)
     hide_streamlit_img_full_screen()
+
+    st.markdown("""
+    ### What is this?
+
+    Yesterday I loaded up some public info on Welcome (marketing site, blog, and Zendesk) into a little
+    question-and-answer interface.
+
+    I wanted to share it in the spirit of experimentation even though it's far, far from perfect -- don't get your
+    expectations up!
+
+    What stood out to me was how much the infrastructure and tooling has evolved around Language Models. This type of
+    thing would have been basically impossible for 1 person to do just a few years ago, let alone in just one day. I'm
+    looking forward to seeing where it branches out!
+
+    Let me know what sorts of silly or spot-on responses you're able to get out of this thing!
+
+    :tiger:
+    """)
 
     st.header("Welcome Marketing Site Q&A")
     marketing_site_search = st.container()
@@ -193,23 +256,43 @@ def main():
             zendesk_answer = zendesk_agent.run(zendesk_query)
         zendesk_search.write(zendesk_answer)
 
-    st.write("━" * 34)
+    # st.write("━" * 34)
 
-    st.header("Welcome Q&A")
-    combined_search = st.container()
-    combined_query = combined_search.text_input(
-        "Ask about Welcome!",
-        '',
-        placeholder='Ex: What 3rd-party platforms does Welcome integrate with?'
-    )
+    # st.header("Welcome Q&A (List)")
+    # combined_list_search = st.container()
+    # combined_list_query = combined_list_search.text_input(
+    #     "Ask about Welcome!",
+    #     '',
+    #     placeholder='Ex: What 3rd-party platforms does Welcome integrate with?',
+    #     key="Combined List Q&A text input"
+    # )
 
-    previous_combined_query = ""
-    if combined_search.button("Go!", key="Combined Go button") or combined_query != previous_combined_query:
-        previous_combined_query = combined_query
-        with st.spinner("Spinning the hamster..."):
-            combined_agent = get_combined_agent()
-            combined_answer = combined_agent.run(combined_query)
-        combined_search.write(combined_answer)
+    # previous_combined_list_query = ""
+    # if combined_list_search.button("Go!", key="Combined List Go button") or combined_list_query != previous_combined_list_query:
+    #     previous_combined_list_query = combined_list_query
+    #     with st.spinner("Spinning the hamster..."):
+    #         combined_list_agent = get_combined_list_agent()
+    #         combined_list_answer = combined_list_agent.run(combined_list_query)
+    #     combined_list_search.write(combined_list_answer)
+
+    # st.write("━" * 34)
+
+    # st.header("Welcome Q&A")
+    # combined_tree_search = st.container()
+    # combined_tree_query = combined_tree_search.text_input(
+    #     "Ask about Welcome!",
+    #     '',
+    #     placeholder='Ex: What 3rd-party platforms does Welcome integrate with?',
+    #     key="Combined Tree Q&A text input"
+    # )
+
+    # previous_combined_tree_query = ""
+    # if combined_tree_search.button("Go!", key="Combined Tree Go button") or combined_tree_query != previous_combined_tree_query:
+    #     previous_combined_tree_query = combined_tree_query
+    #     with st.spinner("Spinning the hamster..."):
+    #         combined_tree_agent = get_combined_tree_agent()
+    #         combined_tree_answer = combined_tree_agent.run(combined_tree_query)
+    #     combined_tree_search.write(combined_tree_answer)
 
 if __name__ == "__main__":
     main()
