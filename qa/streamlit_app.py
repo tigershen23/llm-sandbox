@@ -187,7 +187,7 @@ def main():
     hide_streamlit_img_full_screen()
 
     st.markdown("""
-    ### What is this?
+    # What is this?
 
     Yesterday I loaded up some public info on Welcome (marketing site, blog, and Zendesk) into a little
     question-and-answer interface.
@@ -204,7 +204,9 @@ def main():
     :tiger:
     """)
 
-    st.header("Welcome Marketing Site Q&A")
+    st.write("━" * 40)
+
+    st.subheader("Welcome Marketing Site Q&A")
     marketing_site_search = st.container()
     marketing_site_query = marketing_site_search.text_input(
         'Ask a question about anything public about Welcome!',
@@ -220,9 +222,9 @@ def main():
             marketing_site_answer = marketing_site_agent.run(marketing_site_query)
         marketing_site_search.write(marketing_site_answer)
 
-    st.write("━" * 34)
+    st.write("━" * 20)
 
-    st.header("Welcome Blog Q&A")
+    st.subheader("Welcome Blog Q&A")
     blog_search = st.container()
     blog_query = blog_search.text_input(
         "Ask a question about anything written on Welcome's blog!",
@@ -238,9 +240,9 @@ def main():
             blog_answer = blog_agent.run(blog_query)
         blog_search.write(blog_answer)
 
-    st.write("━" * 34)
+    st.write("━" * 20)
 
-    st.header("Welcome ZenDesk Q&A")
+    st.subheader("Welcome ZenDesk Q&A")
     zendesk_search = st.container()
     zendesk_query = zendesk_search.text_input(
         "Ask a question about any of Welcome's support content!",
