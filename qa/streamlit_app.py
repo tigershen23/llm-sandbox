@@ -2,6 +2,11 @@
 # For now, it's a manual process of updating this file when we make changes to document_qa.ipynb
 # MAKE SURE YOU'VE RUN THE CRAWLERS BEFORE RUNNING THIS APP OR IT WON'T WORK
 
+# Copy/paste prompts
+# What are some features of Welcome that help engage an audience?
+# What can you do with Agenda Builder in Welcome?
+# What are the recommended dimensions for event cover images on Welcome?
+
 from gpt_index import GPTTreeIndex, GPTListIndex, SimpleWebPageReader, SimpleDirectoryReader, BeautifulSoupWebReader, GPTSimpleVectorIndex
 from langchain.agents import load_tools, Tool, initialize_agent, ZeroShotAgent, AgentExecutor
 from langchain.llms import OpenAI
