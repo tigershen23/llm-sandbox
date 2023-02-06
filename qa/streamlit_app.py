@@ -173,7 +173,7 @@ def main():
     combined_query = combined_search.text_input(
         "Welcome Q&A",
         '',
-        placeholder='Ask anything! Ex: What 3rd-party platforms does Welcome integrate with?',
+        placeholder='Ask anything! Ex: What CRMs does Welcome integrate with?',
         key="Combined Q&A text input",
         label_visibility="collapsed"
     )
