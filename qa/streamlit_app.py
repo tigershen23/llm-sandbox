@@ -2,12 +2,9 @@
 # MAKE SURE YOU'VE RUN THE CRAWLERS BEFORE RUNNING THIS APP OR IT WON'T WORK
 
 from gpt_index import GPTListIndex, SimpleWebPageReader, SimpleDirectoryReader, BeautifulSoupWebReader, GPTSimpleVectorIndex
-from IPython.display import Markdown, display
 from langchain.agents import load_tools, Tool, initialize_agent, ZeroShotAgent, AgentExecutor
 from langchain.llms import OpenAI
 from langchain import OpenAI, LLMChain
-from pathlib import Path
-import hashlib
 import streamlit as st
 
 #region marketing site supporting code
