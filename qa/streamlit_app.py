@@ -31,7 +31,7 @@ def get_marketing_site_agent():
             description="Returns most relevant answer from document for query string",
         )
     ]
-    llm = OpenAI(temperature=0.1)
+    llm = OpenAI(temperature=0.0)
     agent = initialize_agent(tools, llm, agent="zero-shot-react-description", verbose=True)
     return agent
 #endregion
