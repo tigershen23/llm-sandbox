@@ -148,8 +148,9 @@ def main():
     Yesterday I loaded up some public info on Welcome (marketing site, blog, and Zendesk) into a little
     question-and-answer interface.
 
-    I wanted to share it in the spirit of experimentation even though it's far, far from perfect -- don't get your
-    expectations up!
+    I wanted to share it in the spirit of experimentation even though it's far, far from perfect (slow, can hallucinate,
+    etc etc -- don't get your
+    expectations up!)
 
     What stood out to me was how much the infrastructure and tooling has evolved around Language Models. This type of
     thing would have been basically impossible for 1 person to do just a few years ago, let alone in just one day. I'm
