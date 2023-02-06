@@ -3,3 +3,5 @@ notebooks/cifar_net.pth
 .ipynb_checkpoints/
 /**/crawls/**/archive/**
 /**/qa_venv/**
+**.pem
+**/proxy-certs/**
