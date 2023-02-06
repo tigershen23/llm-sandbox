@@ -5,13 +5,15 @@ from gpt_index import GPTListIndex, SimpleWebPageReader, SimpleDirectoryReader, 
 from langchain.agents import load_tools, Tool, initialize_agent, ZeroShotAgent, AgentExecutor
 from langchain.llms import OpenAI
 from langchain import OpenAI, LLMChain
+import os
 import streamlit as st
 
 #region marketing site supporting code
 # Set up document QA index
 @st.cache(allow_output_mutation=True)
 def get_marketing_site_index():
-    welcome_marketing_site_data = SimpleDirectoryReader("./crawls/collections/welcome_marketing/pages").load_data()
+    path = os.path.dirname(__file__)
+    welcome_marketing_site_data = SimpleDirectoryReader(path +"/crawls/collections/welcome_marketing/pages").load_data()
     welcome_marketing_site_index = GPTSimpleVectorIndex(welcome_marketing_site_data)
 
     return welcome_marketing_site_index
@@ -38,7 +40,8 @@ def get_marketing_site_agent():
 # Set up document QA index
 @st.cache(allow_output_mutation=True)
 def get_blog_index():
-    welcome_blog_data = SimpleDirectoryReader("./crawls/collections/welcome_marketing/pages").load_data()
+    path = os.path.dirname(__file__)
+    welcome_blog_data = SimpleDirectoryReader(path + "/crawls/collections/welcome_marketing/pages").load_data()
     welcome_blog_index = GPTSimpleVectorIndex(welcome_blog_data)
 
     return welcome_blog_index
