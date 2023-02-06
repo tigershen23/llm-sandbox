@@ -156,7 +156,7 @@ def main():
     thing would have been basically impossible for 1 person to do just a few years ago, let alone in just one day. I'm
     looking forward to seeing where it branches out!
 
-    Let me know what sorts of silly or spot-on responses you're able to get out of this thing!
+    Let me know what sorts of silly or spot-on responses you're able to get out of this thing.
 
     Some prompts to get you started:
 
