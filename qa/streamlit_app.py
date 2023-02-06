@@ -5,14 +5,16 @@ from gpt_index import GPTListIndex, SimpleWebPageReader, SimpleDirectoryReader, 
 from langchain.agents import load_tools, Tool, initialize_agent, ZeroShotAgent, AgentExecutor
 from langchain.llms import OpenAI
 from langchain import OpenAI, LLMChain
+from PIL import Image
 import os
 import streamlit as st
+
+path = os.path.dirname(__file__)
 
 #region marketing site supporting code
 # Set up document QA index
 @st.cache(allow_output_mutation=True)
 def get_marketing_site_index():
-    path = os.path.dirname(__file__)
     welcome_marketing_site_data = SimpleDirectoryReader(path +"/crawls/collections/welcome_marketing/pages").load_data()
     welcome_marketing_site_index = GPTSimpleVectorIndex(welcome_marketing_site_data)
 
@@ -40,7 +42,6 @@ def get_marketing_site_agent():
 # Set up document QA index
 @st.cache(allow_output_mutation=True)
 def get_blog_index():
-    path = os.path.dirname(__file__)
     welcome_blog_data = SimpleDirectoryReader(path + "/crawls/collections/welcome_marketing/pages").load_data()
     welcome_blog_index = GPTSimpleVectorIndex(welcome_blog_data)
 
@@ -67,7 +68,8 @@ def get_blog_agent():
 # Streamlit interface
 def main():
     # st.title("Welcome Question-Answering")
-
+    welcome_logo = Image.open(path + "/static/welcome_light.png")
+    st.image(welcome_logo, width=200)
     st.header("Welcome Marketing Site Q&A")
 
     marketing_site_search = st.container()
@@ -98,6 +100,7 @@ def main():
 
     previous_blog_query = ""
     if blog_search.button("Go!", key="Blog Go button") or blog_query != previous_blog_query:
+        previous_blog_query = blog_query
         with st.spinner("One mississippi, two mississippi..."):
             blog_agent = get_blog_agent()
             blog_answer = blog_agent.run(blog_query)
