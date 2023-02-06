@@ -1,0 +1,121 @@
+<h1>11/9/21</h1>
+<p>Welcome back for another round of updates, fixes, and features!</p>
+<h1>Features</h1>
+<ul>
+<li>
+<strong>BETA: Skip Welcome Registration Form</strong>
+<ul>
+<li>We are making a setting for previously registered attendees to jump right into events, without needing to confirm their information. When we know an attendee's first name, last name, email address, and they don't need to put in any required custom fields, they should be able to get into the event without seeing Welcome's registration form or entering a password.</li>
+<li>
+<span class="discussion-level-1 discussion-id-d11edbc6-015f-4895-a62d-dd20afe95c36 notion-enable-hover" data-token-index="0" data-reactroot="">When a new attendee, who doesn't have a password, chooses "Register with Email" and "Login with Password Instead" they will still hit the Welcome Registration Form, even if </span><span class="discussion-level-1 discussion-id-d11edbc6-015f-4895-a62d-dd20afe95c36 notion-enable-hover" spellcheck="false" data-token-index="1" data-reactroot="">Skip Welcome Registration Form</span><span class="discussion-level-1 discussion-id-d11edbc6-015f-4895-a62d-dd20afe95c36 notion-enable-hover" data-token-index="2" data-reactroot=""> is set.</span>
+</li>
+</ul>
+</li>
+</ul>
+<h1>Enhancements</h1>
+<ul>
+<li><span class="discussion-level-1 discussion-id-69b9e535-24ef-4d46-af13-b46c0f1344d4 notion-enable-hover" data-token-index="0" data-reactroot="">Producers can now change their password in the producer login screen</span></li>
+<li>
+<p>Add switch for the analytics email to the stage close modal</p>
+<p><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4410052970132/Untitled.png" alt="Untitled.png"></p>
+</li>
+<li>
+<p>Show full date and time for recordings</p>
+<p><strong>Before:</strong></p>
+<p><img src="https://user-images.githubusercontent.com/1158544/133312660-91a35b52-5411-4e13-8868-b4b08dd3d1cc.png" alt="https://user-images.githubusercontent.com/1158544/133312660-91a35b52-5411-4e13-8868-b4b08dd3d1cc.png"></p>
+<p><strong>After:</strong></p>
+<p><img src="https://user-images.githubusercontent.com/1158544/133312621-2901b776-b73f-41c5-8616-1fac07d9767d.png" alt="https://user-images.githubusercontent.com/1158544/133312621-2901b776-b73f-41c5-8616-1fac07d9767d.png"></p>
+</li>
+<li>
+<p><strong>BETA: At-a-glance analytics</strong></p>
+<ul>
+<li>A 1-page analytics report in the Event Dashboard that provides actionable insight into event performance at-a-glance. The At-a-glance analytics report makes it easy for customers to understand how their events are received by attendees. This is critical for helping our customers demonstrate the return on their investment in their events.<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4410059408276/Untitled__1_.png" alt="Untitled__1_.png">
+</li>
+<li>
+<p><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">The report can be downloaded as a PDF and s</span>taff can be emailed a link to the report when it is ready after the event.</p>
+<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4410047671700/Untitled__2_.png" alt="Untitled__2_.png"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4410047671444/Untitled__3_.png" alt="Untitled__3_.png">
+</li>
+</ul>
+</li>
+<li>
+<p>Speakers will now be able to use language translations.</p>
+</li>
+<li>
+<p>Japanese translations</p>
+</li>
+<li>Speakers can now visit closed tracks in multi track events</li>
+<li>Event navigation now updates for multi track events when doors open / close for other tracks.</li>
+<li>Enabled 500 watchers per lounge room. This is limited to 2000 people in total across each stage (for multi-track events).</li>
+<li>We now use the customized Lounge name in the "Lounge open" notification. </li>
+<li>Get rid of new feature beacon that existed for Agenda in two spots:
+<ul>
+<li>The event dash</li>
+<li>The top right nav when viewing the stage (near the agenda button)</li>
+</ul>
+</li>
+<li>New Stage Kit Addition: NPS and Ice Breaker Polls<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4410048160276/Untitled__4_.png" alt="Untitled__4_.png">
+</li>
+<li>Changing and overlay name can now be saved by simply pressing enter</li>
+<li>Turned off automatic emails when visiting failed passwordless link</li>
+<li>Added a pop-up a warning when trying to leave the dashboard with unsaved changes</li>
+<li>Analytics updates
+<ul>
+<li>Changed all times from _UTC to _Event_Local_Time</li>
+<li>Added Stage_Name field to Attendance and Polling tabs</li>
+<li>Made all field names Proper Case</li>
+<li>Added a bit of ordering logic where it was lacking</li>
+</ul>
+</li>
+</ul>
+<h1>Fixes</h1>
+<ul>
+<li>Fixed an <span class="discussion-level-1 discussion-id-d855f1d0-e16c-47b9-a4bd-4575958f7698 notion-enable-hover" data-token-index="1" data-reactroot="">overlay flickering issue</span>
+<ul>
+<li>Another fix for overlay flickers is they should no longer show background when swapping between overlays</li>
+</ul>
+</li>
+<li>Added an additonal backup redudancy for recordings</li>
+<li>Added reconnect logic in the control room to combat some instances of unresponsiveness for producers</li>
+<li>Moving from Watch mode to Join mode in a lounge won't clear all the people and re-insert them anymore</li>
+<li>Fixed an issue where streams were not showing up in the dashboard</li>
+<li>
+<p>Disable add speaker buttons in the event dashboard if we reach our speaker limit. We currently have a limit of 100 speakers per event, but this was not effectively communicated. Now you will see the options to add more speakers greyed out once this limit has been reached.</p>
+<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4410059242516/Screen_Shot_2021-11-09_at_12.31.01_PM.png" alt="Screen_Shot_2021-11-09_at_12.31.01_PM.png">
+</li>
+<li>Fixed issue where users logged in multiple times wouldn't get kicked.</li>
+<li><span class="discussion-level-1 discussion-id-a2b9f8b8-d031-4396-bea1-50266d31e117 notion-enable-hover" data-token-index="0" data-reactroot="">Adding ability to prevent the takeover method of kicking someone out.</span></li>
+<li>Fixed issue where breakout control room could not add unconfirmed users</li>
+<li>Hiding green room no longer mutes the audio</li>
+<li>Non-fade transitions now go away as it should</li>
+<li>
+<p>Fixed bug where mouseover on the stage caused the CPU to spike</p>
+</li>
+<li>
+<p>Fixed issue so Welcome should now work when under firewall conditions that block some, but not all, UDP traffic.</p>
+</li>
+<li>
+<p>Allow producers to be on multiple different stages at once without a takeover/prevention message.</p>
+</li>
+<li>
+<p>Stage volume now works if asset volume is at max</p>
+</li>
+<li>
+<p>Tooltip for the download button on multi-track analytics now works and says "Reach out to support to download CSVs for multi-track events"</p>
+</li>
+<li>
+<p>"http" is now stripped from the lounge CTA (was only "https" before)</p>
+</li>
+<li>
+<p>Updated chat tabs so that GR chat appears consistently for producers</p>
+</li>
+<li>Fixed an issue where attendees had their controls under the stage</li>
+<li>Fixed an issue where you couldn't delete an event that had previously uploaded CSVs</li>
+<li>Fixed an issue where stage overlays can get out of sync if you change them rapidly</li>
+<li>Fixed an issue where email scanners could cause Welcome to send endless passwordless login emails. Automatic emails are now off by default (you can request to turn it on if you'd like)</li>
+<li>
+<p>Adding support for mobile presence</p>
+</li>
+<li>
+<p>Fixing bug that would cause the People tab to update the list of people slowly</p>
+</li>
+</ul>

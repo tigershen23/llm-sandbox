@@ -1,0 +1,41 @@
+<h1>Quick Registration Guide</h1>
+<p>Registration should be as simple as possible for new attendees. Welcome strives to reduce as many friction points that are possible and thus we've created the Quick Registration flow. This will ease the process of account creation for both new attendees and producers as well.</p>
+<p>When Quick Registration is enabled for an event, you can use your 3rd party marketing platform to send access links to your attendees without leveraging an integration. It’s as simple as including our Quick Registration link to the form in the emails of your attendees from your preferred marketing platform. </p>
+<p>Below is a demo of the normal registration flow without using quick registration.</p>
+<p class="wysiwyg-text-align-center"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4418016291092/Normal_Registration_Workflow.gif" alt="Normal Registration Workflow.gif" width="519" height="292"></p>
+<p>Now, let's watch and see how much easier it is for an attendee to join an event with Quick Registration.</p>
+<p class="wysiwyg-text-align-center"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4418036600980/Quick_Registration_Workflow_Annotated.gif" alt="Quick Registration Workflow Annotated.gif" width="519" height="292"></p>
+<h2 id="01FTREPD5S5H33PNVJJJR25FYF">How to Edit your Dynamic Link</h2>
+<p>Our quick registration link contains dynamic fields that you will need to make sure is compatible with the marketing platform you are using. Let's break down the dynamic link and give you some examples of the commonly used platforms.</p>
+<p><strong>https://app.experiencewelcome.com/events/EventID/quick_reg?email=<span class="wysiwyg-color-red">{email}</span>&amp;firstName=<span class="wysiwyg-color-red">{firstName}</span>&amp;lastName=<span class="wysiwyg-color-red">{lastName}</span></strong></p>
+<p>In this example of what the dynamic link would look like, we have highlighted the dynamic areas in red. These areas are the dynamic sections and will need to be made compatible with your marketing platform. What your marketing platform will do is auto-fill in these areas for you when you send out emails to your prospective users. </p>
+<p><strong>Be sure to use your platforms hyperlink functions and not simply copy and paste. In some cases you may need to manually enter them by editing the link.</strong></p>
+<p>Let's go over some of the default fields of some of the more popular marketing platforms. This will not be an exhaustive list and you should always confirm with their respective resources. </p>
+<h3 id="01FTREPD5ST198TN0TKK0NN5CQ">Marketo</h3>
+<p>Marketo calls them <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.html?lang=en" target="_blank" rel="noopener noreferrer">Tokens</a>. Be sure to include them in the link settings.</p>
+<p>{{lead.Email Address}}</p>
+<p>{{lead.First Name}}</p>
+<p>{{lead.Last Name}}</p>
+<p>EXAMPLE: https://app.experiencewelcome.com/events/EventID/quick_reg?email=<span class="wysiwyg-color-red">{{lead.Email Address}}</span>&amp;firstName=<span class="wysiwyg-color-red">{{lead.First Name}}</span>&amp;lastName=<span class="wysiwyg-color-red">{{lead.Last Name}}</span></p>
+<h3><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/9701792574356/Clipboard_2022-28-09_at_12.45.08_PM.png" alt="Clipboard 2022-28-09 at 12.45.08 PM.png"></h3>
+<h3 id="01FTREPD5SJ5B8FKRD2BN8FH1H">Splash</h3>
+<p>Splash calls them <a href="https://support.splashthat.com/hc/en-us/articles/115003093346-Inserting-Dynamic-Fields-in-Emails" target="_blank" rel="noopener noreferrer">Personalization Tags</a>. Be sure to include them in the link settings.</p>
+<p>[email]</p>
+<p>[first_name]</p>
+<p>[last_name}</p>
+<p>EXAMPLE: https://app.experiencewelcome.com/events/EventID/quick_reg?email=<span class="wysiwyg-color-red">[email]</span>&amp;firstName=<span class="wysiwyg-color-red">[first_name]</span>&amp;lastName=<span class="wysiwyg-color-red">[last_name]</span></p>
+<h3><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/9701783544852/Clipboard_2022-28-09_at_12.47.52_PM.png" alt="Clipboard 2022-28-09 at 12.47.52 PM.png"></h3>
+<h3 id="01FTREPD5SE1Q44ZG204NXFD3S">Hubspot</h3>
+<p>Hubspot uses <a href="https://knowledge.hubspot.com/conversations/how-do-i-add-personalization-tokens-to-a-template-or-snippet" target="_blank" rel="noopener noreferrer">Personalization Tokens</a> and these need to be inserted through the Text Editor UI.</p>
+<p><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/9701791172116/Org-level_Integrations_Page_in_Event_Dashboard.png" alt="Org-level Integrations Page in Event Dashboard.png"></p>
+<h3 id="01FTREPD5SGZGDWC45CSBYQWAR">Salesforce/Pardot</h3>
+<p>Pardot calls them <a href="https://help.salesforce.com/s/articleView?id=sf.pardot_variable_tags_reference.htm&amp;type=5" target="_blank" rel="noopener noreferrer">Variable Tags</a> and you may need to create these fields yourself depending on how your environment is set up. Please refer to <a href="https://help.salesforce.com/s/articleView?id=sf.pardot_content_dynamic_content_parent.htm&amp;type=5" target="_blank" rel="noopener noreferrer">Pardot support articles</a> for specifics.</p>
+<h2 id="01FTREPD5S85CVFAMGB7HCAGER">How to Enable this Feature</h2>
+<p>In the event dashboard, using the left panel, navigate to <em><strong>Event Details</strong></em>, scroll down to the <em><strong>Registration Flow</strong></em> section, click on the box next to <strong>Enable Quick Registration</strong>, then click <strong>Save</strong>.</p>
+<p class="wysiwyg-text-align-center"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/7048936433556/mceclip0.png" alt="mceclip0.png"></p>
+<h2 id="01FTRH5CWJFXR9ZCB5XGB17Z6Z">Things to be Aware of</h2>
+<p>You should not add attendees whom you want to use quick registration links into the Welcome Attendees Tab, manually, via an integration, or CSV upload. <strong>This feature will NOT work for Speakers, please pre-register your speakers and send them <a href="https://experiencewelcome.zendesk.com/hc/en-us/articles/360056999612" target="_blank" rel="noopener noreferrer">One-Click Links</a>.</strong></p>
+<p>Rather, you should send out quick-registration links in emails that come from your marketing automation tool and let the attendee's action of clicking the quick registration link load them into the Welcome attendee tab automatically.</p>
+<p>Quick registration links will not take over regular Welcome registrant accounts that get loaded into the Attendees Tab or those that have an existing Welcome profile. So, if a person attempts to use a quick reg link for an existing event registrant, they will be redirected to the event landing page to log in as that registrant.</p>
+<p><strong>Lastly, "Email Allow List" should not be used in conjunction with Quick Registration, as the two functionalities will conflict with each other.</strong></p>
+<p><strong>Still need help?</strong></p><p>If none of the solutions work above and you're still experiencing issues, feel free to contact support@experiencewelcome.com or click <strong>Help</strong> at the bottom right corner of the screen.</p>

@@ -1,0 +1,15 @@
+<h1>Networking — troubleshooting & tuning for optimal performance</h1>
+<p>If the audio and video streams for an event are coming through very slowly or cutting in and out, you are likely accessing our application behind a network security filter that is blocking or throttling connections to our media backend.</p>
+<p>Network security filters could be running on: your device, a corporate firewall, your wifi access point, or a VPN you are using.</p>
+<p>If you can, turning off your VPN before joining the event will generally improve the quality and reliability of the audio and video streams.</p>
+<p>Our networking layer has been designed to support the strictest filtering rules we've encountered on our enterprise customers' corporate networks. Specifically, these are:</p>
+<ul>
+<li>Block all UDP traffic except port 53 (DNS)</li>
+<li>Block all TCP traffic except for ports 80 and 443 (HTTP and HTTPS respectively)</li>
+<li>Network Address Translation policy is set to "symmetric"</li>
+</ul>
+<p>Under those conditions, our networking layer will establish a TCP connection to a media proxy server running on port 443 (HTTPS), then tunnel all audio and video data through that connection.</p>
+<p>If you are a network administrator looking to optimize the event's experience for your users and reduce the bandwidth usage on your internet link, we recommend that you modify your firewall configuration to include the following rules:</p>
+<pre>allow traffic on:<br>  UDP port 3478<br>  TCP and UDP ports 4700 - 5000<br>  TCP ports 3433, 5668, 5669, 6080, 6443, 8667, 9667, 30011 - 30013<br>if the destination IP matches a DNS record in one of these domains:<br>  agora.io edge.agora.io sd-rtn.com edge.sd-rtn.com</pre>
+<p><strong>Still need help?</strong></p>
+<p>If you're experiencing issues, feel free to contact <a href="mailto:support@experiencewelcome.com">support@experiencewelcome.com</a> or use the blue help button at the bottom right corner.</p>

@@ -1,0 +1,232 @@
+<h1>Hubspot Integration Documentation</h1>
+<h1 class="p1">Overview</h1>
+<p class="p2">Welcome’s Hubspot integration enables our customers to use the actions a Contact takes in Welcome to inform the next step of that Contact’s buyer’s journey.<br><br>The integration is streamlined to require minimal configuration. It makes it so your Hubspot Contacts need only click a link to get into an event, without going through registration. It sends back clear, easy-to-interpret signals of attendee sentiment, in real-time, for follow-up action. Some examples of things you can do with the Welcome integration are:</p>
+<ul class="ul1">
+<li class="li2">Signal an Account Executive in real time when their prospect is attending one of your Webinars, or when a qualified account engages with a “Do you want to talk to a Salesperson?” Poll<span class="Apple-converted-space"> </span>
+</li>
+</ul>
+<p class="p4"><span class="Apple-converted-space"> <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12461446100500" alt="mceclip1.png"></span></p>
+<ul class="ul1">
+<li class="li2">Increase the Hubspot lead score by 25 points for any lead which has spent more than 10 minutes at a specific Webinar.</li>
+</ul>
+<p class="p4"><span class="Apple-converted-space"> <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12461465783444" alt="mceclip2.png"></span></p>
+<ul class="ul1">
+<li class="li2">Create new Contacts for people who attend your webinars with their custom registration fields<span class="Apple-converted-space"> </span>
+</li>
+</ul>
+<p class="p5"><span class="Apple-converted-space"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12461504096660" alt="mceclip3.png"> </span></p>
+<h1 class="p1">Note to Previous Hubspot Integration Users</h1>
+<p class="p1"><strong><em>If you were using the previous version of our Hubspot integration which leverages the built-in Welcome Properties – Invited Welcome Events, Registered Welcome Events, and Attended Welcome Events – the new integration does NOT update these fields anymore.<span class="Apple-converted-space"> </span></em></strong></p>
+<p class="p1"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12700422811028" alt="mceclip3.png"></p>
+<h1 class="p1">Setup – Connecting Welcome to your Hubspot Instance<span class="Apple-converted-space"> </span>
+</h1>
+<ol class="ol1">
+<li class="li2">Log in to your Welcome Producer Account at app.experiencewelcome.com</li>
+<li class="li2">Navigate to Integrations<span class="Apple-converted-space"> <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12461563769492" alt="mceclip4.png"></span>
+</li>
+<li class="li2">Click configure<span class="Apple-converted-space"> <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12461551684756" alt="mceclip5.png"></span>
+</li>
+<li class="li2">Log in to your Hubspot Instance in the window that pops up.<span class="Apple-converted-space"> </span>
+<ol class="ol2">
+<li class="li2">Enter any name for your authentication and Click Create. Leave the Developer API Key field blank.<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12461568064660" alt="mceclip6.png">
+</li>
+<li class="li2">Choose the Hubspot account you want to connect to.<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12461621343636" alt="mceclip7.png">
+</li>
+<li class="li2">Confirm with Hubspot that Welcome should connect to your account. <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12461592342036" alt="mceclip8.png">
+</li>
+<li class="li2">Click Finish<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12461593946516" alt="mceclip9.png">
+</li>
+</ol>
+</li>
+<li class="li2">Next, you will be asked to Map Welcome Fields to Hubspot Fields. If you are okay with the default field mapping configuration You can just click save.<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12461672808212" alt="mceclip10.png">
+</li>
+<li class="li2">You can always update your Hubspot Authentication or field mappings by clicking Edit and selecting which settings you want to update from the dropdown.<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12461724750996" alt="mceclip12.png">
+</li>
+<li class="li2">You can remove the connection to Hubspot and your field mapping configuration by clicking Reset. This will not delete any data. You can always connect to Hubspot and set a new field mapping configuration again.<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12461726904596" alt="mceclip13.png">
+</li>
+</ol>
+<p class="p5"><span class="Apple-converted-space"> </span></p>
+<h1 class="p1">Setup – Mapping Welcome Fields to Hubspot Contact Fields</h1>
+<p class="p2"><strong><em>Note: if you were using the previous version of our Hubspot integration which leverages the built-in Welcome Properties – Invited Welcome Events, Registered Welcome Events, and Attended Welcome Events – do not map data to these fields.<span class="Apple-converted-space"> </span></em></strong></p>
+<p class="p2"> </p>
+<p class="p2"><strong><em><span class="Apple-converted-space"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12461855079188" alt="mceclip14.png"></span></em></strong></p>
+<ol class="ol1">
+<li class="li2">The default field mapping provided works for the standard Hubspot instance so if you don’t need any specific field mapping you can click “Save” to finish configuring the Hubspot integration. You can always come back to the field mapping configuration later.</li>
+<li class="li2">All Welcome fields that will map to Hubspot Contacts are visible on this page. The integration will send other Welcome data to Hubspot in the form of timeline activities on Contact objects. (See the “What data gets synced and when” section below).<span class="Apple-converted-space"> </span>
+</li>
+<li class="li2">Not all Field mappings are configurable by you. The destination of those mappings that you cannot update are in black boxes. The destination of those mappings that you can update are in grey boxes.<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12461859677844" alt="mceclip15.png">
+</li>
+<li class="li2">When you click a mappable field to update you will be taken to a page to search for the field in Hubspot that you can map to.<span class="Apple-converted-space" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;"> If you need to create a new field in Hubspot, first, create the field, then click “Select Mapping” in the Welcome Field Mapping Table.</span><img style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;" src="https://experiencewelcome.zendesk.com/hc/article_attachments/12461912733716" alt="mceclip16.png"><img style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;" src="https://experiencewelcome.zendesk.com/hc/article_attachments/12461918279188" alt="mceclip17.png">
+</li>
+<li class="li2">You must also select the Update Policy for a field. You can choose from: “Always Update”, “Update If Empty”, and “Don’t Update”.<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12462042949780" alt="mceclip18.png">
+</li>
+<li class="li2">Custom Registration Fields:</li>
+</ol>
+<p class="p4"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12462090909588" alt="mceclip19.png"></p>
+<ol class="ol1">
+<ol class="ol2">
+<li class="li2">You can map up to 5 attendee custom field inputs on an event registration page.</li>
+<li class="li2">For example, if the custom field is "City", the integration will sync the attendee's answer: "New York"</li>
+<li class="li2">The custom fields are mapped in order</li>
+<li class="li2">Mapping custom fields is optional.<span class="Apple-converted-space"> </span>
+</li>
+<li class="li7">You should come back to the field mapping page to update the mapping configuration for different events which have different custom fields</li>
+</ol>
+</ol>
+<h1 class="p16">What Welcome data gets synced to Hubspot</h1>
+<h2 class="p10">Part 1: Contact Timeline Events</h2>
+<p class="p2">The majority of information sent to Hubspot by this integration is in the form of Timeline Events on individual contacts. In order to view how a contact interacts with a Welcome Event, you need to add Welcome Events to your Activity Filter for Contacts.</p>
+<p class="p3"><span class="Apple-converted-space"> <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12462955118996" alt="mceclip20.png"></span></p>
+<p class="p3"> </p>
+<p class="p2">Timeline events can be used to filter Contact lists</p>
+<p class="p3"><span class="Apple-converted-space"> <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12462968320404" alt="mceclip21.png"></span></p>
+<p class="p3"> </p>
+<p class="p2">Timeline Events can be used to trigger workflows <span class="Apple-converted-space"> </span></p>
+<p class="p3"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12462957368212" alt="mceclip22.png"></p>
+<p class="p2">Timeline events can be used to score leads<br><span class="Apple-converted-space"> <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12462970323220" alt="mceclip23.png"></span></p>
+<p class="p17"> </p>
+<h3 class="p18">Contact Timeline Events sent by this Integration</h3>
+<p class="p3"> </p>
+<table class="t1" style="height: 154px;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 22px;">
+<td class="td1" style="height: 22px; width: 268.953px;" valign="top">
+<p class="p2"><strong><em>Activity</em></strong></p>
+</td>
+<td class="td1" style="height: 22px; width: 387.93px;" valign="top">
+<p class="p2"><strong><em>When is the activity sent to Hubspot</em></strong></p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td class="td2" style="height: 22px; width: 268.953px;" valign="top">
+<p class="p2">Attendee Registered for the Webinar</p>
+</td>
+<td class="td2" style="height: 22px; width: 387.93px;" valign="top">
+<p class="p2">Real Time</p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td class="td1" style="height: 22px; width: 268.953px;" valign="top">
+<p class="p2">Attendee Responded to a Poll</p>
+</td>
+<td class="td1" style="height: 22px; width: 387.93px;" valign="top">
+<p class="p2">Real Time</p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td class="td1" style="height: 22px; width: 268.953px;" valign="top">
+<p class="p2">Attendee Asked Question</p>
+</td>
+<td class="td1" style="height: 22px; width: 387.93px;" valign="top">
+<p class="p2">Real Time</p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td class="td2" style="height: 22px; width: 268.953px;" valign="top">
+<p class="p2">Attendee Clicked CTA on Stage</p>
+</td>
+<td class="td2" style="height: 22px; width: 387.93px;" valign="top">
+<p class="p2">Real Time</p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td class="td1" style="height: 22px; width: 268.953px;" valign="top">
+<p class="p2">Attendee Attended Webinar Live</p>
+</td>
+<td class="td1" style="height: 22px; width: 387.93px;" valign="top">
+<p class="p2">90 mins after event ends*</p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td class="td3" style="height: 22px; width: 268.953px;" valign="top">
+<p class="p2">Attendee Viewed Webinar On Demand</p>
+</td>
+<td class="td3" style="height: 22px; width: 387.93px;" valign="top">
+<p class="p2">90 mins after the duration of the content they viewed*</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p3"> </p>
+<p class="p2">* These events include analytics data like, in the case of live attendance, the number of chat messages the attendee sends. The transmission of this data to Hubspot does not happen in real time because it needs to be aggregated and processed on Welcome’s servers first.</p>
+<p class="p17"> </p>
+<h3 class="p19">Examples of Timeline Events</h3>
+<p class="p20">Attendee Registered for the Webinar</p>
+<p class="p20"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12699041878292" alt="mceclip0.png"></p>
+<p class="p21">Attendee Responded to a Poll</p>
+<p class="p22"><span class="Apple-converted-space"> <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12463148924820" alt="mceclip24.png"></span></p>
+<p class="p21">Attendee Asked Question</p>
+<p class="p22"><span class="Apple-converted-space"> <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12463149744660" alt="mceclip25.png"></span></p>
+<p class="p21">Attendee Clicked CTA on Stage</p>
+<p class="p22"><span class="Apple-converted-space"> <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12463104534676" alt="mceclip26.png"></span></p>
+<p class="p20">Attendee Attended Webinar Live<span class="Apple-converted-space"> </span></p>
+<p class="p20"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12699146114836" alt="mceclip1.png"></p>
+<p class="p23"><span class="s1">(</span>Note: You must have session durations enabled in your event to see which sessions an attendee viewed.)</p>
+<p class="p21">Attendee Viewed Webinar On Demand</p>
+<p class="p3"><span class="Apple-converted-space"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12463105760532" alt="mceclip27.png"> </span></p>
+<p class="p24"> </p>
+<h2 class="p10">Part 2: Marketing Events</h2>
+<ul class="ul1">
+<li class="li2">When someone registers for a Welcome Event, this integration will find or create a Hubspot Marketing Event and subscribe the registering contact to that Marketing Event as “Registered” in real time</li>
+<li class="li2">When someone attends the event, this integration will subscribe the contact to the Marketing Event as “Attended” in real time</li>
+<li class="li2">Marketing Event subscriptions can be used to create lists in Hubspot </li>
+</ul>
+<p class="p24"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466386097812" alt="mceclip28.png"></p>
+<h2 class="p10">Part 3: Contact Properties</h2>
+<p class="p2">When someone registers for your Welcome event, this integration will update their Hubspot Contact with the properties you have configured in the field mapper during integration set up. The update will occur in real time and will respect the Update Policy of the individual fields you have set in the field mapper.</p>
+<p class="p15"> </p>
+<h1 class="p1">How do I send registrants into Welcome from Hubspot</h1>
+<p>To send Contacts into Welcome such that they don’t need to register again, we recommend using our <a href="https://experiencewelcome.zendesk.com/hc/en-us/articles/4415386814996-Quick-Registration-Guide"><span class="s2">Quick Registration link functionality</span></a>.<span class="Apple-converted-space"> </span></p>
+<p> </p>
+<p>Alternatively, you can create a Hubspot workflow to send registrants into Welcome, populate a Unique Link Property on each registrant’s Contact Object, and use that property your pre-event communications. To do so, do the following:</p>
+<ol>
+<li style="list-style-type: none;">
+<ol class="ol2">
+<li class="li2">Navigate to your Organization Integration settings. <span class="Apple-converted-space"> <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466367304980" alt="mceclip29.png"></span>
+</li>
+<li class="li2">Click Edit Field Mapping<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466389892244" alt="mceclip30.png">
+</li>
+<li class="li2">Ensure that you have selected a mapping for a registrants’ Unique Links.<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466419672340" alt="mceclip31.png">
+</li>
+<li class="li2">Otherwise, create a Contact property in Hubspot for the Unique Link and select that property in the field mapper<span class="Apple-converted-space" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;"> <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466392193556" alt="mceclip32.png"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466423532436" alt="mceclip33.png"></span>
+</li>
+<li class="li2">Navigate back to your integrations settings and Copy the webhook url listed<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466424801300" alt="mceclip34.png">
+</li>
+<li class="li2">In Hubspot create a contact based Workflow with your event’s Hubspot registration form as the trigger.<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466461796244" alt="mceclip36.png"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466464598292" alt="mceclip37.png"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466465728404" alt="mceclip38.png">
+</li>
+<li class="li2">Add a step to Send a Webhook<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466471339284" alt="mceclip39.png">
+</li>
+<li class="li2">Choose the POST Webhook option<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466472407572" alt="mceclip40.png"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466469013908" alt="mceclip41.png">
+</li>
+<li class="li2">Paste the URL you copied from the Welcome Event Dashboard into the Webhook URL field<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466520618516" alt="mceclip42.png">
+</li>
+<li class="li2">Navigate to the Welcome event that you want to send registrants to and copy the Event ID of that event. (It’s the 6 characters in the event link after app.experiencewelcome.com/events/)<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466522768148" alt="mceclip43.png"><span class="Apple-converted-space"> </span>
+</li>
+<li class="li2">Replace the “ReplaceWithYourYourEventId” String in the Webhook URL with the actual Welcome event ID. In this case “wnuK0Z”<span class="Apple-converted-space"> <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466512005268" alt="mceclip44.png"></span>
+</li>
+<li class="li2">Click Save and Publish your workflow</li>
+<li class="li2">Now when someone fills out your Hubspot registration form they will appear in the attendees list of your Welcome event<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466513047956" alt="mceclip45.png">
+</li>
+<li class="li2">Their Contact object will also contain their unique link to get into the Welcome event. This link will be stored in the Contact property you set for the Attendee’s Unique Link in the Field Mapping Configuration step above.<span class="Apple-converted-space"> <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466525822228" alt="mceclip46.png"></span>
+</li>
+<li class="li2">You can use the Unique Link Property in your Hubspot emails as a personalization token.<span class="Apple-converted-space"> <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12466515433876" alt="mceclip47.png"></span>
+</li>
+</ol>
+</li>
+</ol>
+<ol>
+<li style="list-style-type: none;"> </li>
+</ol>
+<h1 class="p1">Contact us</h1>
+<p class="p2">If you need any assistance or you have any questions regarding your Welcome &lt;&gt; Hubspot integration, please email support@experiencewelcome.com</p>
+<p class="p3"> </p>
+<p class="p3"> </p>
+<p class="p3"> </p>
+<p class="p3"> </p>
+<p class="p3"> </p>
+<p class="p3"> </p>
+<p class="p3"> </p>
+<p class="p3"> </p>
+<p class="p3"> </p>
+<p class="p3"> </p>
+<p class="p3"> </p>

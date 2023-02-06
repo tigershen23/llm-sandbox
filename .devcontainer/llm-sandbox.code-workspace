@@ -80,7 +80,7 @@
   },
   "folders": [
     {
-      "path": "/workspaces/llm-sandbox"
+      "path": ".."
     }
   ]
 }
