@@ -1,0 +1,3020 @@
+
+1
+00:04:59,200 --> 00:05:01,700
+Hello and welcome.
+
+2
+00:05:02,000 --> 00:05:03,900
+It's so great to see you here.
+
+3
+00:05:03,900 --> 00:05:08,200
+I see we have folks from Houston Crystal from Florida.
+
+4
+00:05:08,300 --> 00:05:09,400
+We got Puerto Rico.
+
+5
+00:05:09,400 --> 00:05:12,100
+Toronto Bloomington, Illinois is Catherine.
+
+6
+00:05:12,200 --> 00:05:15,800
+Hi Welcome to our home here.
+
+7
+00:05:15,900 --> 00:05:26,400
+It's so nice to have you and we have an amazing panel today, you know, we're going to be talking about building employee experiences that retain top talent.
+
+8
+00:05:26,400 --> 00:05:28,800
+And so before we jump into that, just note, I am going.
+
+9
+00:05:29,000 --> 00:05:30,500
+It's some housekeeping here.
+
+10
+00:05:30,600 --> 00:05:32,900
+Obviously, you all know the chat.
+
+11
+00:05:32,900 --> 00:05:35,200
+We have got an emoji tray as well.
+
+12
+00:05:35,200 --> 00:05:47,300
+So feel free to drop fires or raise Tans, if anything, really resonates with you and then there's Q&A at the top that tab feel free to drop questions throughout this entire time.
+
+13
+00:05:47,500 --> 00:05:52,600
+And at any given moment, we might pull your question on stage and answer it throughout this event.
+
+14
+00:05:52,600 --> 00:05:54,300
+So feel free to drop questions there.
+
+15
+00:05:54,300 --> 00:05:58,800
+And if you have some technical difficulties, you can give a shout out to us in.
+
+16
+00:05:58,900 --> 00:06:00,300
+In The Help tab.
+
+17
+00:06:00,400 --> 00:06:04,100
+All right, so jumping into today's program.
+
+18
+00:06:04,200 --> 00:06:15,700
+We're going to start off with an amazing panel, with a couple of great leaders, Roberto Ortiz, co-founder and CEO of welcome and Jason from bucket list, rewards.
+
+19
+00:06:15,700 --> 00:06:31,400
+They have a lot to share with us their, and then we're going to end our time with Marta from marvelous, where she's going to walk us through a mental emotional exercise, and you're going to feel grounded and well, Balanced coming out of this time.
+
+20
+00:06:31,700 --> 00:06:33,900
+So, does that sound good?
+
+21
+00:06:34,300 --> 00:06:35,500
+I would love to see you in chat.
+
+22
+00:06:35,500 --> 00:06:37,000
+If you guys are resonating.
+
+23
+00:06:37,300 --> 00:06:38,700
+Give me, give me a firechat.
+
+24
+00:06:38,700 --> 00:06:40,800
+Give me something a fist bump, what not.
+
+25
+00:06:40,800 --> 00:06:42,100
+Thank you, Madeline.
+
+26
+00:06:42,100 --> 00:06:42,900
+There we go.
+
+27
+00:06:42,900 --> 00:06:45,200
+Alright, people feel in this cool.
+
+28
+00:06:45,600 --> 00:06:48,100
+So, you know, talking about our panel.
+
+29
+00:06:48,800 --> 00:06:58,600
+There's some Gallop stats that I am sure some of you are familiar with, but nearly 85 percent of employees, worldwide are not engaged at work.
+
+30
+00:06:58,600 --> 00:07:01,300
+I That's a crazy staggering number.
+
+31
+00:07:01,600 --> 00:07:10,300
+And so, you know Gallup will mention that the number one reason why these engagement programs or whatnot.
+
+32
+00:07:10,400 --> 00:07:18,600
+Our failure failing not working is because Employee Engagement is not owned by the leaders themselves.
+
+33
+00:07:19,200 --> 00:07:23,800
+It's not an expectation held on managers, or is it fully understood by employees?
+
+34
+00:07:24,200 --> 00:07:36,900
+And so that's why I am so excited to bring up Roberto and who are leaders, their CEOs, co-founders, who are infusing Employee Engagement into the DNA of their companies.
+
+35
+00:07:37,100 --> 00:07:40,200
+So, would you join me, Roberto and Jason on stage?
+
+36
+00:07:42,500 --> 00:07:46,900
+Hi, thank you both.
+
+37
+00:07:48,500 --> 00:07:49,400
+How are you?
+
+38
+00:07:52,600 --> 00:07:54,300
+Doing great.
+
+39
+00:07:54,300 --> 00:07:55,800
+I did Dean II.
+
+40
+00:07:56,200 --> 00:07:58,500
+I am always amazed by the energy.
+
+41
+00:07:58,500 --> 00:08:01,800
+You bring to the stage, and I am always like thinking about when I jump on stage.
+
+42
+00:08:01,800 --> 00:08:04,700
+I am probably not going to be able to keep up.
+
+43
+00:08:04,700 --> 00:08:05,800
+But here we are.
+
+44
+00:08:05,800 --> 00:08:06,800
+I am glad to be here.
+
+45
+00:08:06,800 --> 00:08:07,200
+Jason.
+
+46
+00:08:07,200 --> 00:08:09,600
+Thanks for taking time to be here as well.
+
+47
+00:08:09,800 --> 00:08:11,200
+I am looking forward to the topic.
+
+48
+00:08:11,200 --> 00:08:14,400
+Its top of mind for leaders at every company.
+
+49
+00:08:14,600 --> 00:08:20,300
+Is this idea of just employee experiences Talent retention?
+
+50
+00:08:20,300 --> 00:08:21,300
+How do we drive?
+
+51
+00:08:22,700 --> 00:08:26,300
+The right coaches, we want in our company, so I am here for, I am glad to be here.
+
+52
+00:08:27,800 --> 00:08:47,700
+Hey Jason, you know, I think what's interesting if both of you can maybe intro and kick this panel discussion off with the DNA of your companies because I do think just like I shared with that Gallup step, you know, a lot of the failures of Employee Engagement programs is due to the lack of ownership at the leadership level.
+
+53
+00:08:47,900 --> 00:08:53,500
+But both of you are passionate about your employees about your people.
+
+54
+00:08:53,600 --> 00:08:58,600
+And I know that firsthand with Roberto Jason the moments that I have Able to engage with you.
+
+55
+00:08:58,600 --> 00:09:03,200
+I can feel the passion off of you and you're constantly thinking about Gentiles.
+
+56
+00:09:03,200 --> 00:09:05,800
+So, could you both speak to your organization's?
+
+57
+00:09:05,800 --> 00:09:08,100
+Just a little bit, like what you all do?
+
+58
+00:09:08,100 --> 00:09:12,200
+And how Employee Engagement is infused in your DNA?
+
+59
+00:09:14,000 --> 00:09:16,500
+Yeah, I would be happy to and Jenna.
+
+60
+00:09:16,500 --> 00:09:18,000
+Thank you so much for the really warm welcome.
+
+61
+00:09:18,000 --> 00:09:24,100
+I Deco I love the energy and it's just a pleasure to be participating in to today's session.
+
+62
+00:09:24,400 --> 00:09:32,100
+I will maybe give you the 30-second overview into bucket list and just a little bit a couple of reasons why it's so important to me personally.
+
+63
+00:09:32,500 --> 00:09:37,000
+Well buckets rewards is an employee rewards and recognition platform.
+
+64
+00:09:37,400 --> 00:09:43,700
+And I think as everybody here, probably knows, when you take great care of your employees, they stick around longer, and they perform better.
+
+65
+00:09:44,000 --> 00:09:45,300
+At the heart of our platform.
+
+66
+00:09:45,300 --> 00:09:46,000
+That's what it's all about.
+
+67
+00:09:46,000 --> 00:09:51,600
+It's about recognizing outstanding contributions and really rewarding people in a meaningful way.
+
+68
+00:09:51,600 --> 00:09:59,800
+Ideally, try to make dreams come true, whether they are small or very, very big and culture for me is from day one.
+
+69
+00:09:59,800 --> 00:10:01,500
+This is a third tech company.
+
+70
+00:10:01,500 --> 00:10:11,100
+I built it scaled over the years and the theme I have seen time and again, is it always comes down to the people surrounded by the Mission Vision and values.
+
+71
+00:10:11,400 --> 00:10:17,200
+And if you get that right, you can create an Unstoppable force and have just a ton of fun in that Journey as well.
+
+72
+00:10:17,500 --> 00:10:20,000
+So, that's kind of little bit about me and why cultures important.
+
+73
+00:10:20,000 --> 00:10:23,200
+But Rob, I would love to get your insights on this as well?
+
+74
+00:10:23,700 --> 00:10:24,200
+Yeah.
+
+75
+00:10:24,200 --> 00:10:24,600
+Yeah.
+
+76
+00:10:24,600 --> 00:10:25,300
+Thanks, Jason.
+
+77
+00:10:25,300 --> 00:10:27,000
+I love making dreams come true.
+
+78
+00:10:27,000 --> 00:10:28,900
+That's super aspirational.
+
+79
+00:10:29,100 --> 00:10:35,000
+I love it, you know, over, I mean at welcome.
+
+80
+00:10:35,000 --> 00:10:36,600
+You guys first of all, welcome to welcome.
+
+81
+00:10:36,600 --> 00:10:37,900
+This is our platform.
+
+82
+00:10:38,100 --> 00:10:43,500
+What we do on our side is we partner with companies that care about employee experiences and help them.
+
+83
+00:10:43,800 --> 00:10:48,200
+Form these Keystone employee experiences to having engaging ones.
+
+84
+00:10:48,300 --> 00:10:51,300
+All right, and we know that the distributed Workforce.
+
+85
+00:10:51,800 --> 00:10:56,900
+We have to be much more intentional about every touch point with our employees, right on that employee Journey.
+
+86
+00:10:57,100 --> 00:11:02,100
+There are these Keystone experiences that should be elevated, and we should make every meeting count.
+
+87
+00:11:02,100 --> 00:11:08,700
+And I think that's, that's one of the key drivers for us in the season to supporting companies like that.
+
+88
+00:11:08,800 --> 00:11:09,600
+At a high level though.
+
+89
+00:11:09,600 --> 00:11:17,200
+We are also accompanied ourselves, not just supporting companies Drive, amazing experiences and Nature but also on my side I think about this every single day.
+
+90
+00:11:17,300 --> 00:11:21,600
+How do we make sure that our employees during the right position to thrive?
+
+91
+00:11:21,600 --> 00:11:28,900
+Not just at work but at home and I think that the at-home part has become so important.
+
+92
+00:11:28,900 --> 00:11:45,500
+Now, I think this last couple of years people have taken the opportunity to assess things in a real way, assess what's important to them, assess just distribute like the distribution of work and the flexibility that comes with that.
+
+93
+00:11:45,700 --> 00:11:52,400
+And I think what is required of us as Leaders is to be mindful about that and not just, hey, what are you executing at home?
+
+94
+00:11:52,400 --> 00:11:53,500
+I mean, at work, we're all.
+
+95
+00:11:53,500 --> 00:11:55,200
+So, what are you executing at home?
+
+96
+00:11:55,200 --> 00:12:03,200
+And I think for us as we're building the culture at welcome, we take that to heart and it's about the entire employee.
+
+97
+00:12:03,400 --> 00:12:04,900
+Not just what they can do for us.
+
+98
+00:12:07,000 --> 00:12:08,000
+So good.
+
+99
+00:12:08,000 --> 00:12:18,300
+I love to hear of just the authenticity of this passion heart actually being threaded in the DNA of the organization.
+
+100
+00:12:18,300 --> 00:12:19,600
+So, thank you for sharing that.
+
+101
+00:12:20,300 --> 00:12:36,700
+You know, we are in this employee era where retaining employees is obviously the top topic and organizations need to do things differently and probably need to be a little bit more intentional about the way they look at employee.
+
+102
+00:12:36,900 --> 00:12:38,300
+The engagement.
+
+103
+00:12:38,300 --> 00:12:42,300
+What are some things that both of you are seeing that successful organizations?
+
+104
+00:12:42,300 --> 00:12:45,000
+Your customers are doing for hybrid teams today?
+
+105
+00:12:47,500 --> 00:12:49,300
+Yeah, I am robbed.
+
+106
+00:12:49,300 --> 00:12:49,900
+You want to leave?
+
+107
+00:12:49,900 --> 00:12:50,800
+Go first, sir.
+
+108
+00:12:51,300 --> 00:12:52,500
+Are you can, you can go for it?
+
+109
+00:12:52,800 --> 00:12:54,300
+I think thank you.
+
+110
+00:12:54,300 --> 00:12:55,100
+Thanks very much.
+
+111
+00:12:55,600 --> 00:13:04,300
+Um, I will share some experiences that we have implemented but also share some things we have seen some of our customers doing as well.
+
+112
+00:13:05,700 --> 00:13:22,500
+So in also tied to that bucket list were recognized as one of the top 50 best corporate cultures in Canada, and I don't mention that as a bragging I am super proud of it, but it's just a, it's a measure of all the things we have implemented internally.
+
+113
+00:13:22,500 --> 00:13:41,800
+That's culture is as I mentioned before so near and dear to what we do but I the two stories are two quick examples that I have seen have a big impact is first, I think it's super important to be so intentional about the whole employee experience, and something we have done, is we have taken the time to map it, map it out, and its entirety.
+
+114
+00:13:41,800 --> 00:13:47,900
+So, everything from the first touch point, so when somebody sends in their resume for Sample to a job to the first interview.
+
+115
+00:13:47,900 --> 00:13:48,800
+Second interview.
+
+116
+00:13:49,000 --> 00:13:54,200
+We have mapped out before they start day one week, one, 30 60 90 days.
+
+117
+00:13:54,600 --> 00:13:56,600
+And once that was all mapped out.
+
+118
+00:13:56,600 --> 00:14:00,700
+We then surveyed staff as they go through that entire cycle to find out where we're strong.
+
+119
+00:14:00,900 --> 00:14:01,900
+They were weak.
+
+120
+00:14:02,300 --> 00:14:08,400
+And when you uncover these weaknesses in your employee experiences, your then better and power to up to address those things.
+
+121
+00:14:08,800 --> 00:14:14,300
+And so we have been able to create a really repeatable scalable employee experience for all our staff.
+
+122
+00:14:14,900 --> 00:14:16,000
+And then the second thing we did.
+
+123
+00:14:16,200 --> 00:14:25,000
+In tandem with that is, we made it a one of our corporate rocks to have a, an absolutely delightful employee onboarding experience.
+
+124
+00:14:26,400 --> 00:14:30,000
+Specifically, we decided to survey all new employees joining the team.
+
+125
+00:14:30,000 --> 00:14:33,200
+And our goal was to score 9 out of 10 or higher.
+
+126
+00:14:34,100 --> 00:14:36,000
+And after two quarters of running the survey.
+
+127
+00:14:36,000 --> 00:14:38,800
+We have an average score of about a nine point six out of ten.
+
+128
+00:14:39,200 --> 00:14:41,200
+And I think it that's just as a result of being.
+
+129
+00:14:41,200 --> 00:14:45,600
+So deliberate about mapping the entire experience out, identifying the weaknesses.
+
+130
+00:14:46,100 --> 00:14:51,700
+And then also we made it pop, we made the leaders publicly accountable, and we shared everybody's results publicly.
+
+131
+00:14:51,700 --> 00:14:53,200
+So like I am holding leader.
+
+132
+00:14:53,900 --> 00:15:03,200
+The onboarding leader like we held their toes to the fire if you will to be super accountable to providing a delightful experience, but those are just a couple of things we have done.
+
+133
+00:15:04,300 --> 00:15:04,800
+Yeah.
+
+134
+00:15:05,900 --> 00:15:07,300
+Yeah, Robert over to you sir.
+
+135
+00:15:08,000 --> 00:15:08,400
+Yeah.
+
+136
+00:15:08,400 --> 00:15:08,900
+Yeah.
+
+137
+00:15:10,100 --> 00:15:10,600
+I love that.
+
+138
+00:15:10,600 --> 00:15:13,700
+I love the taking the surveys.
+
+139
+00:15:13,700 --> 00:15:15,300
+After every employee on board.
+
+140
+00:15:15,300 --> 00:15:20,000
+We do some very Lawyers, well, I think you know, the way we have been mapping it out.
+
+141
+00:15:20,600 --> 00:15:23,900
+We think about it as an employee success in general, right?
+
+142
+00:15:23,900 --> 00:15:26,800
+And the idea that companies have a so much time.
+
+143
+00:15:26,800 --> 00:15:28,600
+So much energy into customer success.
+
+144
+00:15:29,000 --> 00:15:43,600
+It's an entire sometimes at companies and is one of the biggest teams it makes up one third of a company's head count many ways, and they exist only to make sure that the customers to cuss well, and then the question we're asking is like, what does that look like for our employee success?
+
+145
+00:15:43,900 --> 00:15:47,800
+And so, Jason back to your point of map and Entire employee Journey.
+
+146
+00:15:48,500 --> 00:15:51,200
+We were looking at these the same thing and asking the question.
+
+147
+00:15:51,200 --> 00:15:56,600
+Okay, how do we put those same levels intention into equipping?
+
+148
+00:15:56,600 --> 00:16:00,200
+Our employees to be successful retaining them and helping them Thrive.
+
+149
+00:16:00,200 --> 00:16:02,800
+What does that look like and mapping out those touch points?
+
+150
+00:16:04,100 --> 00:16:08,500
+I think what we're seeing also just in the market in general because we see a lot of companies.
+
+151
+00:16:08,600 --> 00:16:11,700
+We partner with a lot of companies that are in this space, right?
+
+152
+00:16:11,700 --> 00:16:13,500
+I am talking to HR leaders every day.
+
+153
+00:16:13,500 --> 00:16:16,000
+I am talking to people that are part of internal.
+
+154
+00:16:16,200 --> 00:16:25,800
+I am saying trying to drive these employee experiences and what I am finding is that It's just the top item in conversation.
+
+155
+00:16:25,900 --> 00:16:27,700
+Like it's a top item in conversation.
+
+156
+00:16:27,700 --> 00:16:34,800
+And but there's a big gap as well between angry when you talk about holding toes to the fire of leaders.
+
+157
+00:16:34,800 --> 00:16:36,100
+I think that's really important.
+
+158
+00:16:36,100 --> 00:16:36,400
+Right?
+
+159
+00:16:36,400 --> 00:16:41,400
+Like top five issues across the board for HR leaders.
+
+160
+00:16:41,700 --> 00:16:43,700
+There's a few of them that you think about it.
+
+161
+00:16:43,700 --> 00:16:48,200
+It's like, how do we make sure that we actually drive change forward?
+
+162
+00:16:48,200 --> 00:16:57,800
+So, for instance, you know, there was this Gardener report at one of Do the top five, one of them I recall was future of work at the top of my conversation for everybody.
+
+163
+00:16:57,900 --> 00:17:09,300
+Distributed, Workforce is top of my conversation, but less than 40% of people feel like they have actual plan to address the shifting landscape, right?
+
+164
+00:17:09,300 --> 00:17:20,000
+And so what we're seeing our customers do is actually put a lot of intention behind that and drive, not just technology, but experiences of those employees forward.
+
+165
+00:17:20,000 --> 00:17:30,600
+So for instance, you know, one of our Murmurs, they're being super intentional about hosting these monthly employee company-wide experiences.
+
+166
+00:17:32,700 --> 00:17:33,200
+Why?
+
+167
+00:17:33,200 --> 00:17:44,100
+Because you're for that remote employee for a distributed Workforce that person is going from their bed to their desk and then back to the kitchen and sort of that's like their commute.
+
+168
+00:17:44,200 --> 00:17:49,400
+It's just a couple steps away and there's isolation that case in and all these other things that kick in.
+
+169
+00:17:49,600 --> 00:17:53,100
+And so no longer are the perks of Beautiful office.
+
+170
+00:17:53,100 --> 00:17:54,900
+I used to work at Google and it was fantastic.
+
+171
+00:17:54,900 --> 00:18:00,700
+Going from the third floor to the first floor on a slide and grab your latte on the way to the next meeting.
+
+172
+00:18:00,800 --> 00:18:02,000
+All that goes away.
+
+173
+00:18:02,000 --> 00:18:02,800
+All that goes away.
+
+174
+00:18:02,800 --> 00:18:06,800
+So what it does it make it so that us as Leaders?
+
+175
+00:18:06,800 --> 00:18:13,800
+We have to actually provide value beyond the perks and that just invites deeper conversation.
+
+176
+00:18:13,800 --> 00:18:24,400
+And so what we're seeing our customers do is be intentional about the space, be much more intentional and I think you know, with folks that are shown Own up today and sort of events that we posted the past.
+
+177
+00:18:24,400 --> 00:18:32,300
+And the future is evident that people are looking for ways to solve and close the gaps of Employee Engagement and culture.
+
+178
+00:18:32,300 --> 00:18:45,300
+So anyway, I will stop there Gina, but super, super exciting to see sort of the intention sort of surface to the top and maybe it was a crisis that made it happen.
+
+179
+00:18:45,300 --> 00:18:48,000
+And say, hold on the things that's most important is our people.
+
+180
+00:18:48,200 --> 00:18:49,600
+We have to put more attention about this.
+
+181
+00:18:49,600 --> 00:18:50,600
+What does that look like?
+
+182
+00:18:51,100 --> 00:18:52,000
+And so that's what I have been seeing.
+
+183
+00:18:52,300 --> 00:18:56,000
+On my side, you know, I want to pull a thread a little bit more.
+
+184
+00:18:56,000 --> 00:18:59,100
+You were both talking about holding leadership accountable.
+
+185
+00:18:59,800 --> 00:19:10,800
+Now if that statistic from Gallup says that the number one reason to failure of Engagement programs is because a lack of ownership from leaders, how are you all doing that today?
+
+186
+00:19:11,500 --> 00:19:17,700
+How do you keep the leaders accountable to driving these initiatives forward?
+
+187
+00:19:20,500 --> 00:19:21,800
+I will start off with Jesus.
+
+188
+00:19:21,800 --> 00:19:27,300
+You took the last one and I think, I think it starts with us, right at the end of the day.
+
+189
+00:19:28,600 --> 00:19:33,200
+Founders and CEOs, the buck stops there.
+
+190
+00:19:33,300 --> 00:19:36,800
+And, so I think that we just have to take ownership of what's right?
+
+191
+00:19:36,800 --> 00:19:38,500
+And what's wrong for us.
+
+192
+00:19:38,500 --> 00:19:51,400
+We do a quarterly post survey, and we just got results recently, and they're not the ones I was looking to continue to crush and continue to grow and it's like, okay, like we got some work to do.
+
+193
+00:19:51,500 --> 00:19:53,800
+And the question is, what do I do about that?
+
+194
+00:19:53,800 --> 00:19:54,300
+Do I say?
+
+195
+00:19:54,300 --> 00:19:54,500
+Okay.
+
+196
+00:19:54,500 --> 00:20:08,200
+I am just going to keep taking customer calls and investor calls and Keep working on the product feature, or we can actually put more intention and keep growing employee satisfaction and I think it starts and stops there Gina, I think from a leadership perspective.
+
+197
+00:20:08,200 --> 00:20:11,000
+Then it becomes that from there're managers.
+
+198
+00:20:11,100 --> 00:20:25,600
+And the idea that your managers are actually, you know, when I am interviewing managers, and I am thinking about this, you know, they're responsible for a big portion of your people in many times, in many ways.
+
+199
+00:20:25,600 --> 00:20:30,900
+They're responsible for the culture that Is marinated in there.
+
+200
+00:20:30,900 --> 00:20:39,900
+Something you can say from the top and say, these are our core values as a difference in terms of the practicality of that being carried out at the team level and at the individual level.
+
+201
+00:20:40,100 --> 00:20:47,500
+And, so I think it starts at the top and then it goes right into the management and I think measuring things is what we have to do.
+
+202
+00:20:47,500 --> 00:20:59,200
+So for us, looking at Polk survey, whether their quarterly or more frequent and that having skip levels, so that we understand sort of not just for more direct reports what's happening, but also, So, what are other folks?
+
+203
+00:20:59,200 --> 00:21:02,700
+That other organizations that you typically don't have time with?
+
+204
+00:21:03,000 --> 00:21:04,700
+How do you break bread with them and understand?
+
+205
+00:21:04,700 --> 00:21:06,800
+Hey, how can we improve your job?
+
+206
+00:21:06,800 --> 00:21:11,700
+How can we improve the work that you're trying to do, and what you're trying to accomplish?
+
+207
+00:21:11,700 --> 00:21:17,700
+And so, I think it starts with us at the top and then obviously our Frontline managers to be held accountable.
+
+208
+00:21:19,800 --> 00:21:22,500
+Yeah, I think that's a super good summary Rob.
+
+209
+00:21:22,500 --> 00:21:27,600
+I may decide just a couple of bullet points that even Echo a lot of the key things.
+
+210
+00:21:27,800 --> 00:21:32,100
+Saying, but like are saying is like the fish will rot from the head down.
+
+211
+00:21:32,100 --> 00:21:40,900
+So unless your leadership really walks to talk, like you're not going to get buy-in alignment and I truly believe everything kind of Rises and falls with leadership as well.
+
+212
+00:21:40,900 --> 00:21:52,300
+So leaders have to be accountable for the failures and also ideally push down the winds to the team, but in terms of creating accountability, I think there's a lot of systems and processes you can do to drive down accountability.
+
+213
+00:21:52,300 --> 00:21:53,600
+So it's not just the seat does.
+
+214
+00:21:53,600 --> 00:21:57,000
+This should not be should not rest just on the CEOs shoulder.
+
+215
+00:21:57,000 --> 00:21:58,600
+They should be the champion up there.
+
+216
+00:21:58,800 --> 00:21:59,900
+We should be the torchbearer.
+
+217
+00:21:59,900 --> 00:22:06,600
+I believe in and around culture, but a good CEO should create alignment and simplicity around these sort of goals.
+
+218
+00:22:06,600 --> 00:22:14,100
+And so, for example, as I mentioned before setting a quarterly goal, that's public you shared with your company or your team.
+
+219
+00:22:14,100 --> 00:22:16,800
+So, we use okrs objective key results.
+
+220
+00:22:16,800 --> 00:22:19,100
+We know whatever your company may do.
+
+221
+00:22:19,600 --> 00:22:24,800
+I highly, Advocate sharing those publicly not, just with the leadership team, but the entire company.
+
+222
+00:22:25,500 --> 00:22:32,000
+And so we have our, okay, ours, this That typically sit with the leadership team and there will be a Leaders name assigned to it.
+
+223
+00:22:32,200 --> 00:22:47,500
+We talked about those every week, and we say whether the green yellow or red and then on a monthly basis, we share our progress with the entire company and a company wide, how everybody can kind of full transparency on whether we're green yellow or red fork over a great culture.
+
+224
+00:22:48,200 --> 00:22:55,000
+And there's the result when you stay at a goal publicly and then attach some of these name to it and then see what you're on track or off track.
+
+225
+00:22:55,200 --> 00:22:56,200
+That's a beautifully.
+
+226
+00:22:56,200 --> 00:22:57,600
+Simple way to drive accountability.
+
+227
+00:22:57,700 --> 00:23:01,500
+You know, it's we have had a lot of, we have had a lot of success with that.
+
+228
+00:23:01,500 --> 00:23:07,200
+And again, it anchors into that the public transport were super transparent about everything we do here.
+
+229
+00:23:07,200 --> 00:23:09,500
+So, I am a big believer of that.
+
+230
+00:23:10,200 --> 00:23:19,000
+When you say on track or off track, what are some examples of quantifiable ways that you can track the success of Employee Engagement.
+
+231
+00:23:19,300 --> 00:23:27,600
+So for example, the onboarding goal of getting an, a score of 9 or higher out of 10, that score was made public with the entire.
+
+232
+00:23:27,700 --> 00:23:35,600
+You so green scored benign or higher, a yellow scored kind of be 7 point 5, to 8 in red is sub 7.5.
+
+233
+00:23:35,600 --> 00:23:38,100
+So that's attached a number to it.
+
+234
+00:23:38,100 --> 00:23:40,600
+Make it green, yellow, or red and then share it with everybody.
+
+235
+00:23:40,600 --> 00:23:42,800
+So they can see how we're doing.
+
+236
+00:23:43,400 --> 00:23:43,700
+This.
+
+237
+00:23:43,700 --> 00:23:50,300
+Really inside bar, color coding is really motivational, like you could you can be had an outstanding result.
+
+238
+00:23:50,300 --> 00:23:52,700
+But if it's in the red people do not like that.
+
+239
+00:23:52,700 --> 00:23:57,500
+Whether you're a sales rep, whether you're ahead of culture, you only find him.
+
+240
+00:23:57,700 --> 00:24:02,900
+People simple markers that are shared with the team can again drop performance and accountability.
+
+241
+00:24:02,900 --> 00:24:06,000
+So That's a great tip.
+
+242
+00:24:06,900 --> 00:24:08,300
+Thank you for that.
+
+243
+00:24:08,300 --> 00:24:09,000
+Both of you.
+
+244
+00:24:09,800 --> 00:24:11,200
+We're going to go into Q&A.
+
+245
+00:24:11,200 --> 00:24:13,900
+I, it looks like we actually do have some questions coming in.
+
+246
+00:24:13,900 --> 00:24:14,700
+Oh, this is great.
+
+247
+00:24:14,700 --> 00:24:15,100
+All right.
+
+248
+00:24:15,100 --> 00:24:17,000
+First question is from Spencer.
+
+249
+00:24:17,100 --> 00:24:18,100
+It's for you Jason.
+
+250
+00:24:18,900 --> 00:24:25,200
+What were some of the weaknesses you uncovered in your onboarding process that you think everyone could learn from?
+
+251
+00:24:25,500 --> 00:24:33,000
+So I am gonna, I am gonna go big picture, obvious ones, and I will talk about some more recent ones because we're constantly surveying for feedback.
+
+252
+00:24:33,200 --> 00:24:42,900
+So, Early in the process prior to building a true culture part of me prior to hiring for and Building Systems people and systems.
+
+253
+00:24:43,200 --> 00:24:43,800
+Cultures.
+
+254
+00:24:44,100 --> 00:24:44,900
+One of the things we did.
+
+255
+00:24:44,900 --> 00:24:49,500
+That's so obvious that I think everybody will know, but it's embarrassing and it's for the sake of transparency.
+
+256
+00:24:49,500 --> 00:24:50,200
+I will mention it.
+
+257
+00:24:50,400 --> 00:24:53,000
+We ghosted some of the candidates who applied with us.
+
+258
+00:24:53,000 --> 00:25:00,400
+So like sometimes people would apply, and we didn't reply to everybody since we have committed to providing a really transparent high-level communication.
+
+259
+00:25:00,400 --> 00:25:01,800
+Everybody gets a response.
+
+260
+00:25:01,800 --> 00:25:03,900
+So there's no ghosting in the application process.
+
+261
+00:25:04,000 --> 00:25:04,400
+Process.
+
+262
+00:25:04,400 --> 00:25:18,600
+I know that one's kind of obvious but for my informal and formal research, it's a pretty common theme that a lot of companies are guilty of that and that I also was guilty of and then more recently, I have as our systems, become more evolved.
+
+263
+00:25:19,000 --> 00:25:25,000
+Some we're getting really granular, and we're starting to appreciate how we onboard different team members matters.
+
+264
+00:25:25,000 --> 00:25:38,200
+So at first we had a one consistent kind of onboarding process that I thought was pretty sweet, but for example in sales, the sales team will teach them in the Worried about Discovery demo and Etc, but it turns out on day one.
+
+265
+00:25:38,200 --> 00:25:40,700
+They really want to get a big picture of exactly how the product works.
+
+266
+00:25:40,700 --> 00:25:42,800
+They want to see like what the heck they want context.
+
+267
+00:25:42,800 --> 00:25:43,800
+What the heck, am I selling?
+
+268
+00:25:43,800 --> 00:25:49,100
+So in that last piece of feedback, I shared that was based upon.
+
+269
+00:25:49,800 --> 00:25:54,300
+I did a met with some of the new account Executives who just met joined our team.
+
+270
+00:25:54,300 --> 00:26:03,400
+And I would ask them like, where we strong, where we weaken our onboarding, and they share, there's a bunch of great stuff, but they had shared having detailed insights into exactly other product works from day.
+
+271
+00:26:03,400 --> 00:26:04,600
+One would be early viable.
+
+272
+00:26:04,600 --> 00:26:10,500
+So those are just kind of too top of mine things that I have seen recently.
+
+273
+00:26:11,800 --> 00:26:14,000
+I would add on to that, just a bit.
+
+274
+00:26:14,000 --> 00:26:19,700
+I had a great conversation with another CEO about comparing notes about onboarding and interviewing.
+
+275
+00:26:19,700 --> 00:26:27,600
+And I think it's worth were saying that especially in this market like Your time as a Founder.
+
+276
+00:26:27,600 --> 00:26:37,900
+As a leader, jumping on calls, with candidates jumping on cost, to close them, jumping on costs, understand like what their goals are, even beyond your company, I think is super important.
+
+277
+00:26:37,900 --> 00:26:48,500
+And so making time for that Canada to feel like you can say like I really want this candidate, but if they don't feel they're on the other side, it's not real.
+
+278
+00:26:48,600 --> 00:26:49,300
+It's not real.
+
+279
+00:26:49,300 --> 00:27:16,400
+And, so I make time to show up for those candidates who are making a big decision, you know, when I am interviewing And by the way, all of our Founders three founders, we interviewed every single candidate at welcome, we committed to until we can no longer because of time, time constraints, but we're going to keep doing that for as long as we can and, you know, at the end like part of the last interview, and I am typically doing the last, the last touch point on an interview at that point.
+
+280
+00:27:16,400 --> 00:27:18,600
+I am just really just getting to know the person story.
+
+281
+00:27:18,600 --> 00:27:26,000
+So they're coming in prepped with all their things and sort of all the tough because my team, I really trusted my team has done their due diligence.
+
+282
+00:27:26,000 --> 00:27:28,000
+Diligence on this candidate at this point.
+
+283
+00:27:28,000 --> 00:27:29,800
+I just want to get to know who she is.
+
+284
+00:27:30,000 --> 00:27:33,300
+Like what's like, what's your biggest challenge right now?
+
+285
+00:27:33,300 --> 00:27:36,100
+Even Beyond welcome, how can we help like, what does that look like?
+
+286
+00:27:37,300 --> 00:27:45,700
+And just get to know them and their story and I think us being able to even like make sure that everyone that interview that candidate if the offer is out to them.
+
+287
+00:27:46,800 --> 00:27:52,800
+It doesn't hurt for people to drop them at extract from a message up with an email and say, hey, we're excited about the potential of working with you.
+
+288
+00:27:53,000 --> 00:27:54,700
+Let me know how we can answer any questions?
+
+289
+00:27:54,900 --> 00:28:00,900
+It just makes it especially in the remote world where you're not meeting people face-to-face, and grab a coffee or grab a lunch with them.
+
+290
+00:28:01,400 --> 00:28:05,200
+We just had to be more intentional and leaning into those conversations.
+
+291
+00:28:07,000 --> 00:28:10,000
+Those are some great practical tips and points.
+
+292
+00:28:10,000 --> 00:28:10,600
+Thank you.
+
+293
+00:28:11,100 --> 00:28:11,900
+Alexandria.
+
+294
+00:28:11,900 --> 00:28:13,400
+Lane has a question.
+
+295
+00:28:13,900 --> 00:28:15,900
+What is an example?
+
+296
+00:28:16,100 --> 00:28:21,400
+Of an intention besides collaboration when redesigning the in-office experience.
+
+297
+00:28:23,600 --> 00:28:25,500
+It's a great question, and I am pretty sure.
+
+298
+00:28:25,500 --> 00:28:25,800
+Jason.
+
+299
+00:28:25,800 --> 00:28:29,900
+You have some, some thoughts to what you're seeing in the market, especially around employee recognition.
+
+300
+00:28:30,200 --> 00:28:36,900
+I think I will answer this from The Experience side of a distributed Workforce.
+
+301
+00:28:36,900 --> 00:28:44,100
+And so, you know, besides collaboration and sort of like thinking how the office experience should be.
+
+302
+00:28:44,100 --> 00:28:50,700
+I think, I think, attention shows up a lot in the in-betweens that goes ignored in many ways.
+
+303
+00:28:51,400 --> 00:29:02,600
+So for instance, you know, higher Employee, let us say you have a headquarters in New York and la and Austin but you're hiring someone that lives in Tennessee, and she is the only employee in Tennessee.
+
+304
+00:29:03,600 --> 00:29:09,900
+It's all the in-betweens of thinking about that employee as if that's the most important point.
+
+305
+00:29:09,900 --> 00:29:10,700
+We at your company.
+
+306
+00:29:10,700 --> 00:29:13,800
+And asking the question, what is her experience?
+
+307
+00:29:14,700 --> 00:29:16,400
+What is her experience from Tennessee?
+
+308
+00:29:16,400 --> 00:29:21,800
+She's not going to be anybody else for a long time until we hire some other people, maybe start pod and Tennessee.
+
+309
+00:29:23,000 --> 00:29:24,200
+What is her experience?
+
+310
+00:29:24,200 --> 00:29:38,700
+And going back to what Jason was saying, map and I have experienced, but bringing the attention down to even those and I go back to from what I am seeing in the market, you know, our customers, they're taking that little contention into every touchpoint from the employee onboarding.
+
+311
+00:29:39,100 --> 00:29:44,300
+How do we make that better than another Zoom call or performance, review, call or interview cop?
+
+312
+00:29:44,900 --> 00:29:52,600
+From the company Town Hall, which is the most important event at your company, that builds culture and drives the values of the company.
+
+313
+00:29:52,700 --> 00:29:53,800
+How do we do that better?
+
+314
+00:29:53,800 --> 00:30:08,000
+Then just another call, like the whole another call, that's the easy way out putting intention and to and fill in the gaps in something they want is for that person, especially that's not submitted to, the office goes, goes really, really far.
+
+315
+00:30:08,000 --> 00:30:13,700
+And that's just one example of what we're seeing, how our companies are taking that and little contention.
+
+316
+00:30:15,700 --> 00:30:24,900
+Nice, I might kind of share an idea around like if it sounds like the question is around, understanding how to create better collaboration in person and virtually in hybrid.
+
+317
+00:30:25,400 --> 00:30:33,300
+I think what we're trying to do is Design Systems that work in both environments and I will share a couple of examples of things that seem to work really well.
+
+318
+00:30:33,600 --> 00:30:36,900
+So, I think fundamentally there's this huge desire for human connection.
+
+319
+00:30:36,900 --> 00:30:38,000
+No surprises there.
+
+320
+00:30:38,200 --> 00:30:45,000
+And so what we're trying to be to Rob's point is we're trying to create all these, what we call them micro moments where people can connect ideally in a day.
+
+321
+00:30:45,100 --> 00:30:47,900
+Basis and have meaningful connection.
+
+322
+00:30:48,300 --> 00:30:54,000
+And so, one thing we have done that works well in person or remotely as we do a daily huddle, a daily scrum.
+
+323
+00:30:54,000 --> 00:31:00,500
+So everybody in the entire company to 10 minute long meeting, they get broken up into small groups, and these aren't the normal functional groups.
+
+324
+00:31:00,500 --> 00:31:03,600
+It's not like software developers of soft, develop software developers.
+
+325
+00:31:03,600 --> 00:31:14,900
+It's like, it can be like a customer success person, an Ops person, a software engineer their lumped together in small groups of sort of 7 to 10 people, and they talk about one personal goal and one work goal.
+
+326
+00:31:15,100 --> 00:31:17,200
+Every single day and it's really cool.
+
+327
+00:31:17,200 --> 00:31:19,100
+You hear about what matters in their life.
+
+328
+00:31:19,100 --> 00:31:23,300
+And like, for example, we have one software engineer, mark, an amazing guy.
+
+329
+00:31:23,600 --> 00:31:27,000
+He's done a, he's hit 100 over 100 days streak on Duolingo.
+
+330
+00:31:27,000 --> 00:31:29,200
+I know that he's learning Spanish, which is amazing.
+
+331
+00:31:29,900 --> 00:31:30,500
+Just the other day.
+
+332
+00:31:30,500 --> 00:31:37,700
+I learned one of our sdrs Guillermo wants to do his MBA and I as a CEO, I could potentially be in a good position to help them maybe with educational practice.
+
+333
+00:31:37,700 --> 00:31:39,000
+Maybe just some time off.
+
+334
+00:31:39,500 --> 00:31:48,100
+So creating these micro moments in a very deliberate matter is super powerful and the other thing is It's not it's obviously not just about me but about connecting the team.
+
+335
+00:31:49,000 --> 00:31:52,600
+And so yeah, every single day on video 10 minutes long, the whole team connects.
+
+336
+00:31:52,800 --> 00:31:59,200
+And then one other the way you wrap it up, everybody comes back together in one big room, and we are we asked a fun fact question.
+
+337
+00:31:59,200 --> 00:32:00,700
+So one person lost the question.
+
+338
+00:32:01,100 --> 00:32:04,600
+One person will answer it, and they're kind of playful silly questions.
+
+339
+00:32:04,900 --> 00:32:07,600
+But again, it creates humor creates his likeness in the day.
+
+340
+00:32:07,900 --> 00:32:14,900
+And yesterday's question, for example, was, if you're on a baseball team, what would be your entrance song and the fellowship?
+
+341
+00:32:15,000 --> 00:32:17,200
+Has meant so, so run.
+
+342
+00:32:17,200 --> 00:32:18,900
+I am sorry friend of but love it.
+
+343
+00:32:19,200 --> 00:32:25,000
+Like it's it connects people and yet to hear you get to see the human side of what people are all about.
+
+344
+00:32:25,000 --> 00:32:36,400
+So, I think these are micro moments can be, well, then important is to create repeatable scalable systems that you can stamp into your company, whether it's us or yourself and create fun environment.
+
+345
+00:32:37,100 --> 00:32:44,000
+So Jason, what was your wish your entry song to the baseball game, so I didn't answer it, but I will tell you Shawn.
+
+346
+00:32:45,200 --> 00:32:47,500
+He's like just because like here comes the bride.
+
+347
+00:32:47,500 --> 00:32:48,900
+So Sean's not married.
+
+348
+00:32:49,100 --> 00:32:49,400
+I don't know.
+
+349
+00:32:49,400 --> 00:32:54,300
+It was just a random answer ever and then there's the Rick Ashley song.
+
+350
+00:32:54,300 --> 00:32:55,400
+Somebody else answered.
+
+351
+00:32:55,400 --> 00:32:57,200
+Never going to give up.
+
+352
+00:32:57,200 --> 00:32:59,300
+So it was like, oh, that's fun.
+
+353
+00:33:00,100 --> 00:33:01,200
+Playful silliness.
+
+354
+00:33:01,700 --> 00:33:02,300
+That's fine.
+
+355
+00:33:02,900 --> 00:33:03,200
+That's great.
+
+356
+00:33:03,200 --> 00:33:04,400
+That's awesome.
+
+357
+00:33:04,500 --> 00:33:06,900
+Love this micro moment ideas.
+
+358
+00:33:06,900 --> 00:33:07,800
+That's great.
+
+359
+00:33:07,900 --> 00:33:14,900
+All right, we have time for one last question, and I am already cutting into some of the meditation time, but we have got some good up votes on this question.
+
+360
+00:33:15,000 --> 00:33:15,800
+From Abby.
+
+361
+00:33:15,800 --> 00:33:16,900
+So Rob.
+
+362
+00:33:16,900 --> 00:33:19,400
+Jason, if you can make a quick, that would be great.
+
+363
+00:33:19,500 --> 00:33:24,600
+How do you keep employees, engaged and connected in a fully remote Workforce?
+
+364
+00:33:24,600 --> 00:33:26,500
+What are some exciting ideas?
+
+365
+00:33:26,500 --> 00:33:28,700
+You have seen for remote employees.
+
+366
+00:33:28,700 --> 00:33:31,500
+I think you have covered some of them, but are there any others?
+
+367
+00:33:31,500 --> 00:33:33,400
+Yeah, I will cover 11.
+
+368
+00:33:33,400 --> 00:33:34,100
+That we do here.
+
+369
+00:33:34,100 --> 00:33:34,500
+Welcome.
+
+370
+00:33:34,500 --> 00:33:39,000
+We call it the welcome Cafe and it's a No Agenda.
+
+371
+00:33:39,100 --> 00:33:47,100
+It's picture yourself walking into the building and you're gonna go grab coffee at the Adding space and you bump into some employees.
+
+372
+00:33:47,400 --> 00:33:48,700
+And so, is an unstructured way.
+
+373
+00:33:48,700 --> 00:33:53,200
+It's a happens at noon, East Coast, which is 9 AM Pacific.
+
+374
+00:33:53,500 --> 00:34:09,000
+And so, whether you're having your first cup of coffee, or just starting to eat your lunch, we encourage employees to drop by and have unstructured conversations and so on, welcome, we basically have some tunes that you land into in this Auditorium and then you go into some Lounge.
+
+375
+00:34:09,000 --> 00:34:11,199
+We call them now and we call them Lounge rooms.
+
+376
+00:34:11,500 --> 00:34:15,400
+You can go and grab a table, sit down and have a conversation and it's Interesting.
+
+377
+00:34:15,400 --> 00:34:22,100
+Because someone there's a few employees here at, welcome, learning, Spanish, kind of keeping the Duolingo thing going learning Spanish.
+
+378
+00:34:22,199 --> 00:34:26,600
+And they created a table within the welcome Cafe called, welcome espanyol.
+
+379
+00:34:26,800 --> 00:34:30,000
+And now, people are jumping in there, and they're practicing their Spanish.
+
+380
+00:34:30,100 --> 00:34:44,900
+And, so I think what we're seeing is structured and unstructured ways where you have the structured opportunities of company Town Hall employee experience, onboarding, all these ERT group communities really making those cow.
+
+381
+00:34:45,199 --> 00:34:53,699
+Whether you have these unstructured ways of just holding space, whether that's for a light conversation or a deeper conversation.
+
+382
+00:34:53,900 --> 00:34:56,100
+It's about just making space for those conversations.
+
+383
+00:34:57,800 --> 00:34:58,500
+That's awesome.
+
+384
+00:34:58,500 --> 00:34:59,200
+I love it.
+
+385
+00:34:59,700 --> 00:35:01,500
+And then again, really quickly.
+
+386
+00:35:01,500 --> 00:35:10,500
+That one thing I might add, is we to part, quick answer, we have weekly one-to-ones between all team leads, and all employees.
+
+387
+00:35:10,900 --> 00:35:15,200
+And one of the questions we asked is what's on your bucket list and I like, how can we support you in that journey?
+
+388
+00:35:16,200 --> 00:35:21,300
+And in summary if you can help an employee achieve, what matters most to them.
+
+389
+00:35:21,500 --> 00:35:26,800
+Like, that's how you break that traditional employee-employer barrier and you come alongside as I can.
+
+390
+00:35:27,000 --> 00:35:28,000
+Partner in life.
+
+391
+00:35:28,200 --> 00:35:35,000
+And I tell you if you want to see people light up, you f*** find out what matters to them and you help them achieve it and it could be something incredibly Spa.
+
+392
+00:35:35,000 --> 00:35:36,800
+Maybe there are stray.
+
+393
+00:35:37,100 --> 00:35:38,400
+It could be something incredibly simple.
+
+394
+00:35:38,400 --> 00:35:39,400
+Maybe they're single mom.
+
+395
+00:35:39,400 --> 00:35:52,400
+Maybe they work in healthcare, given the day off, sending them to the spa, can be massively impactful, maybe something, bigger middle of traveling or wine, sending them to Napa Valley, can be, you know, really meaningful as well.
+
+396
+00:35:52,900 --> 00:35:53,400
+Whatever.
+
+397
+00:35:53,400 --> 00:35:58,100
+It is, find out what that thing is and help them achieve it and you're going to break that barrier.
+
+398
+00:35:58,100 --> 00:36:04,200
+You can become a mentor or a cheerleader in their life, and they're never going to forget you as a leader colleague or friend.
+
+399
+00:36:05,100 --> 00:36:07,000
+So good, got a snap.
+
+400
+00:36:09,400 --> 00:36:10,400
+Amazing.
+
+401
+00:36:10,400 --> 00:36:10,700
+Wow.
+
+402
+00:36:10,700 --> 00:36:13,500
+Well, thank you so much Roberto Jason.
+
+403
+00:36:13,500 --> 00:36:22,400
+It is a pleasure to hear from each of your experiences and inspiring quite honestly to see how you are executing employee experiences within your org.
+
+404
+00:36:22,400 --> 00:36:26,500
+So, thank you so much, and we're going to actually transition now.
+
+405
+00:36:26,900 --> 00:36:30,400
+Into our marvelous experience.
+
+406
+00:36:30,400 --> 00:36:35,500
+So, let us all clear our minds, like, keep those insights.
+
+407
+00:36:35,500 --> 00:36:38,500
+Keep those amazing golden nuggets that are applicable to you.
+
+408
+00:36:38,700 --> 00:36:42,700
+And now we're going to move into a session with Marda.
+
+409
+00:36:42,800 --> 00:36:46,100
+But before we jump into that, we want to take a quick poll.
+
+410
+00:36:46,600 --> 00:36:48,400
+So Jessica is my producer.
+
+411
+00:36:48,500 --> 00:36:50,800
+Thanks, Jess for putting that up on stage.
+
+412
+00:36:51,000 --> 00:36:53,100
+How are you feeling right now?
+
+413
+00:36:53,200 --> 00:36:56,700
+And all of you can just click one through ten.
+
+414
+00:36:57,100 --> 00:36:59,900
+One being the worst ten being absolutely marvelous.
+
+415
+00:37:00,400 --> 00:37:01,500
+How are you feeling?
+
+416
+00:37:01,900 --> 00:37:02,500
+All right.
+
+417
+00:37:02,500 --> 00:37:07,100
+Okay, we have got some, a lot of AIDS which is great some fives and fours.
+
+418
+00:37:07,100 --> 00:37:10,300
+Well, we're going to take this poll again at the end of this event.
+
+419
+00:37:10,300 --> 00:37:15,900
+So we hope to see some of that, adjust Marta, take it away for us.
+
+420
+00:37:22,600 --> 00:37:23,300
+Thanks, Gina.
+
+421
+00:37:23,300 --> 00:37:24,500
+And hello everyone.
+
+422
+00:37:24,900 --> 00:37:26,300
+My name is Marta Kagan.
+
+423
+00:37:26,300 --> 00:37:28,800
+I am the co-founder of marvelous.
+
+424
+00:37:29,200 --> 00:37:32,400
+And if you have never heard of marvelous, you're going to get to know us right now.
+
+425
+00:37:32,400 --> 00:37:38,600
+We are on a mission to help humans flourish through mental, emotional Fitness.
+
+426
+00:37:39,500 --> 00:37:41,300
+Now, what is mental, emotional Fitness?
+
+427
+00:37:41,300 --> 00:37:42,800
+Some of you may be familiar with that.
+
+428
+00:37:42,800 --> 00:38:02,500
+You may already have your own practice, but if you're not the best way to think of it is the analogy of physical fitness, you know, you Physical fitness to get stronger to build stamina, endurance, resilience to be more flexible and to perform at our physical best.
+
+429
+00:38:03,000 --> 00:38:07,200
+We could do the same thing for our mental emotional, state for our inner world.
+
+430
+00:38:07,200 --> 00:38:22,600
+And if we can Master our inner world, if we can become more self-aware that are able to self-regulate that are able to bounce back from setbacks and failures, then we can show up and feel marvelous and be Arboles every day.
+
+431
+00:38:23,000 --> 00:38:39,600
+And so what we offer, our inner workouts, back to the fitness analogy, like the one you're going to experience today coaching support Community accountability, all kinds of ways to support you on your journey, to flourishing to showing up and being your best every single day.
+
+432
+00:38:41,000 --> 00:38:48,600
+The important thing I want to point out here is we have this philosophy at marvelous, that it doesn't matter what the Day brings to you, right?
+
+433
+00:38:48,600 --> 00:38:51,500
+It doesn't matter if you had a great onboarding experience.
+
+434
+00:38:51,600 --> 00:38:52,100
+Answer not.
+
+435
+00:38:52,100 --> 00:38:58,200
+I mean it does matter, no offense Jason and Rob but what really matters is what you bring to the day, right?
+
+436
+00:38:58,200 --> 00:38:58,800
+It matters.
+
+437
+00:38:58,800 --> 00:39:02,000
+How you respond to situations that may not be ideal.
+
+438
+00:39:02,100 --> 00:39:02,500
+It matters.
+
+439
+00:39:02,500 --> 00:39:05,700
+How you respond to feedback, you get that isn't desired.
+
+440
+00:39:06,000 --> 00:39:12,000
+So we are about helping you bring your very best to the day, no matter what that day, May throw at you.
+
+441
+00:39:13,100 --> 00:39:15,600
+All right to begin.
+
+442
+00:39:15,600 --> 00:39:21,400
+I am going to take you today through one of my favorite mini mental, emotional workouts.
+
+443
+00:39:22,000 --> 00:39:23,800
+It's called the three, two one.
+
+444
+00:39:23,900 --> 00:39:27,900
+And it is something I do literally almost daily.
+
+445
+00:39:27,900 --> 00:39:29,400
+So I am going to take you through it.
+
+446
+00:39:29,400 --> 00:39:34,200
+I am going to teach you what, you can experience it and something that you can do not just right now.
+
+447
+00:39:34,500 --> 00:39:42,500
+But tomorrow, the next day, anytime you need, the equivalent of the control, alt delete button on your mental emotional state.
+
+448
+00:39:42,600 --> 00:39:45,400
+It's a beautiful way to reset relatively quickly.
+
+449
+00:39:46,200 --> 00:39:49,100
+You can even take pieces of it apart and use them as needed.
+
+450
+00:39:49,100 --> 00:39:51,400
+But we're going to do three, two, one, and what that involves.
+
+451
+00:39:51,700 --> 00:40:05,400
+Is three rounds of breath work to moments of gratitude and one moment of power, and I am going to explain what each of those are before I start, I am just going to ask you this mental.
+
+452
+00:40:05,400 --> 00:40:11,900
+Emotional Fitness is not a spectator sport just like you wouldn't go to the gym and watch people, you know workout and go.
+
+453
+00:40:12,300 --> 00:40:13,000
+Yeah, I am good.
+
+454
+00:40:13,000 --> 00:40:13,800
+I feel fit.
+
+455
+00:40:14,500 --> 00:40:15,700
+You gotta do the work.
+
+456
+00:40:15,700 --> 00:40:18,400
+The same is true for mental, emotional Fitness.
+
+457
+00:40:18,400 --> 00:40:20,100
+So please join me.
+
+458
+00:40:20,100 --> 00:40:21,400
+Do this stuff with me.
+
+459
+00:40:21,500 --> 00:40:22,300
+Going to count you out.
+
+460
+00:40:22,300 --> 00:40:28,500
+I am going to coach him and explain everything but Let us make this a participation not observation moment.
+
+461
+00:40:28,500 --> 00:40:30,800
+All right, the three, two one.
+
+462
+00:40:31,300 --> 00:40:34,500
+We're going to begin with three rounds of breath work.
+
+463
+00:40:34,800 --> 00:40:40,100
+Now, why breathwork we take roughly 22,000?
+
+464
+00:40:40,100 --> 00:40:43,700
+Breaths a day, something along those lines and most of them, we don't pay attention to.
+
+465
+00:40:43,900 --> 00:40:45,200
+We take it for granted.
+
+466
+00:40:45,200 --> 00:40:51,200
+They just happen if we can tune into just a few, just a few minutes of our breathing.
+
+467
+00:40:51,400 --> 00:40:54,400
+It's an opportunity for us to shut off.
+
+468
+00:40:54,700 --> 00:41:11,700
+Autopilot the program that's running in our head to step away from worries, thoughts, judgments to-do, lists to tune, into our bodies, to tune into how we feel internally and to tune into just the present moment.
+
+469
+00:41:11,900 --> 00:41:15,300
+It gives us that control-alt-delete starting point.
+
+470
+00:41:15,500 --> 00:41:20,000
+So we're going to do some intentional breathing and to get started.
+
+471
+00:41:20,000 --> 00:41:22,400
+I want you to put your hands on your belly.
+
+472
+00:41:23,000 --> 00:41:24,500
+First of all, make sure you're seated.
+
+473
+00:41:24,600 --> 00:41:29,800
+It sometimes when people do breath work for the first time, or they do, you know, type, they haven't done before.
+
+474
+00:41:29,900 --> 00:41:31,500
+You can get a little bit lightheaded.
+
+475
+00:41:31,500 --> 00:41:34,100
+And, so I want to make sure you're safe and seated.
+
+476
+00:41:34,300 --> 00:41:35,200
+So, take a seat.
+
+477
+00:41:35,200 --> 00:41:42,500
+If you're not sitting in the, put your hands on your belly and then go ahead and take a big deep breath in at your own pace.
+
+478
+00:41:42,800 --> 00:41:45,100
+And notice what happens with your hand?
+
+479
+00:41:45,100 --> 00:41:54,000
+See if you can feel your belly, Rising, as you inhale and then falling as you exhale, or does your belly sort of stay still and most of that breathing happen up here.
+
+480
+00:41:55,200 --> 00:41:59,100
+Now, if you're a belly breather, good, that's what I want you to do.
+
+481
+00:41:59,100 --> 00:42:04,900
+If you're not, if you took a deep inhale, and then on the exhale, you didn't feel anything happen.
+
+482
+00:42:04,900 --> 00:42:07,100
+You're probably breathing, more up in your chest.
+
+483
+00:42:07,100 --> 00:42:07,800
+And that's okay.
+
+484
+00:42:07,800 --> 00:42:09,000
+A lot of us do that.
+
+485
+00:42:09,800 --> 00:42:17,900
+We're going to try to focus on belly breathing because that's going to give us a chance to really use our diaphragm to fully engage our full lung capacity.
+
+486
+00:42:17,900 --> 00:42:19,400
+Get more oxygenation.
+
+487
+00:42:19,500 --> 00:42:20,500
+We're going to feel it more.
+
+488
+00:42:20,500 --> 00:42:21,400
+We're going to enjoy it more.
+
+489
+00:42:21,400 --> 00:42:22,600
+It's going to benefit us more.
+
+490
+00:42:23,300 --> 00:42:24,500
+You're going to put your hands on your belly.
+
+491
+00:42:25,500 --> 00:42:31,000
+And we're going to start off with simple inhales and exhales for about 30 seconds.
+
+492
+00:42:31,700 --> 00:42:33,100
+So simple inhales and exhales.
+
+493
+00:42:33,100 --> 00:42:34,000
+I am going to count you out.
+
+494
+00:42:34,000 --> 00:42:36,300
+We're going to inhale, exhale, inhale.
+
+495
+00:42:36,300 --> 00:42:38,900
+Exhale, keep your hands on your belly as accuse.
+
+496
+00:42:38,900 --> 00:42:41,400
+You can kind of notice on the inhale belly goes out.
+
+497
+00:42:41,400 --> 00:42:42,600
+Exhale it goes in.
+
+498
+00:42:43,100 --> 00:42:46,400
+This is going to be relatively not too fast, not too slow.
+
+499
+00:42:46,400 --> 00:42:52,200
+But again, if you start to feel light-headed or uncomfortable, you can stop at any point in this process from there.
+
+500
+00:42:52,200 --> 00:42:55,700
+We're going to switch to a couple other movements, and we're to do three cycles.
+
+501
+00:42:55,700 --> 00:42:58,800
+So you're gonna have a Q on the screen, and I am going to talk you through it.
+
+502
+00:42:58,800 --> 00:43:01,200
+All you need to do is listen and breathe.
+
+503
+00:43:02,100 --> 00:43:02,700
+Are you ready?
+
+504
+00:43:03,800 --> 00:43:07,700
+All right, hands on the belly and begin again with just one.
+
+505
+00:43:07,700 --> 00:43:09,700
+Nice deep inhale through the nose.
+
+506
+00:43:11,700 --> 00:43:13,200
+And exhale through the mouth.
+
+507
+00:43:14,600 --> 00:43:15,800
+And here we go.
+
+508
+00:43:16,600 --> 00:43:33,000
+Inhale one, exhale, one, inhale to Exhale to inhale, three, exhale, three, inhale four exhale for inhale.
+
+509
+00:43:33,000 --> 00:43:33,800
+Five.
+
+510
+00:43:34,300 --> 00:43:35,700
+Exhale, five.
+
+511
+00:43:36,000 --> 00:43:39,500
+Inhale 6, exhale 6.
+
+512
+00:43:40,900 --> 00:43:41,500
+Seven.
+
+513
+00:43:43,800 --> 00:43:45,300
+Inhale 8.
+
+514
+00:43:46,500 --> 00:43:48,700
+Exhale, inhale nine.
+
+515
+00:43:49,900 --> 00:43:59,900
+Exhale, inhale, 10, exhale, inhale 11 exhale, inhale 12.
+
+516
+00:44:00,900 --> 00:44:03,400
+Exhale through the nose 13.
+
+517
+00:44:04,200 --> 00:44:06,600
+Exhale, inhale, 14.
+
+518
+00:44:06,600 --> 00:44:10,400
+Don't forget the belly, exhale, 15.
+
+519
+00:44:11,500 --> 00:44:16,000
+Exhale, inhaling through the nose, exhale, 16.
+
+520
+00:44:16,400 --> 00:44:25,700
+Inhale, belly gets big 17, inhale, 18, exhale, 19.
+
+521
+00:44:26,700 --> 00:44:41,800
+Exhale, inhale, 20, Exhale, 21, exhale, 22! Exhale, 23 x, an l.
+
+522
+00:44:42,100 --> 00:44:44,700
+24, getting close to the end.
+
+523
+00:44:44,700 --> 00:44:47,400
+Still, through the nose, 25.
+
+524
+00:44:47,600 --> 00:44:49,500
+Exhale, belly goes in.
+
+525
+00:44:49,500 --> 00:44:51,500
+Inhale belly gets big.
+
+526
+00:44:52,500 --> 00:44:53,800
+Exhale.
+
+527
+00:44:54,000 --> 00:44:54,400
+Inhale.
+
+528
+00:44:54,400 --> 00:44:59,100
+27, exhale, 28.
+
+529
+00:45:00,000 --> 00:45:06,300
+Exhale 29, exhale and 30.
+
+530
+00:45:06,300 --> 00:45:09,000
+And don't exhale, just yet.
+
+531
+00:45:09,000 --> 00:45:09,600
+Exhale.
+
+532
+00:45:09,600 --> 00:45:12,200
+Now and keep those lungs empty.
+
+533
+00:45:12,200 --> 00:45:13,700
+We're going to fir count of 30.
+
+534
+00:45:13,700 --> 00:45:16,000
+Just holding the lungs, empty.
+
+535
+00:45:17,300 --> 00:45:18,800
+We're at about five now.
+
+536
+00:45:18,800 --> 00:45:19,900
+Just holding them.
+
+537
+00:45:19,900 --> 00:45:22,500
+Empty just in the present moment.
+
+538
+00:45:22,900 --> 00:45:25,900
+Lips are closed hands resting on your belly.
+
+539
+00:45:27,500 --> 00:45:28,400
+12.
+
+540
+00:45:29,600 --> 00:45:32,600
+If you can't hold it, the First full 30 seconds, that's okay.
+
+541
+00:45:32,600 --> 00:45:35,400
+Try and take little sips of are as you need to.
+
+542
+00:45:35,600 --> 00:45:38,300
+If you can't try and just hold the lungs empty.
+
+543
+00:45:39,100 --> 00:45:40,000
+Just keep them empty.
+
+544
+00:45:40,000 --> 00:45:41,600
+You're going to get a nice, big, beautiful.
+
+545
+00:45:41,600 --> 00:45:45,800
+Inhale, at the end of this, we have got less than 10 seconds to go.
+
+546
+00:45:47,200 --> 00:45:48,800
+Just feeling that oxygen.
+
+547
+00:45:48,800 --> 00:45:58,400
+You just took in circulate through your body and 321, exhale! Beautiful.
+
+548
+00:46:00,200 --> 00:46:09,600
+Now, inhale for a count of five through the nose, so, And then hold that breath for 10.
+
+549
+00:46:09,600 --> 00:46:11,900
+We're holding the lungs full the belly.
+
+550
+00:46:11,900 --> 00:46:14,700
+Full for another four.
+
+551
+00:46:15,500 --> 00:46:19,100
+Three, two, one.
+
+552
+00:46:19,200 --> 00:46:21,600
+Exhale for five through the nose.
+
+553
+00:46:22,300 --> 00:46:26,400
+Three, two, one.
+
+554
+00:46:27,400 --> 00:46:29,000
+Inhale for five.
+
+555
+00:46:30,300 --> 00:46:35,300
+321 holding for 10.
+
+556
+00:46:38,500 --> 00:46:39,200
+76.
+
+557
+00:46:41,700 --> 00:46:48,700
+42 and exhale for a count of 5 3.
+
+558
+00:46:49,800 --> 00:46:50,300
+Two.
+
+559
+00:46:51,600 --> 00:46:54,900
+One, beautiful and just close your eyes.
+
+560
+00:46:54,900 --> 00:46:55,500
+For a moment.
+
+561
+00:46:55,500 --> 00:46:58,700
+We're going to repeat that round for a moment.
+
+562
+00:46:58,700 --> 00:47:00,900
+Just feel what you feel.
+
+563
+00:47:03,400 --> 00:47:12,800
+Let your body settle, let your breath go back to its natural state and take this moment just to observe whatever sensation may be there.
+
+564
+00:47:21,300 --> 00:47:24,900
+Maybe you feel some tingling in your fingers or your face.
+
+565
+00:47:25,600 --> 00:47:27,800
+Maybe feel a little Renewed Energy.
+
+566
+00:47:32,800 --> 00:47:34,500
+And whatever it is that you're noticing.
+
+567
+00:47:34,500 --> 00:47:38,600
+Go ahead and open your eyes, and we're going to go through that same sequence, one more time.
+
+568
+00:47:39,800 --> 00:47:43,500
+So sitting up comfortably in your seat, hands are on your belly.
+
+569
+00:47:45,100 --> 00:47:46,300
+And we're going to do that.
+
+570
+00:47:46,500 --> 00:47:49,000
+30 inhales and exhales ready.
+
+571
+00:47:50,000 --> 00:47:52,100
+Inhale and exhale.
+
+572
+00:47:53,300 --> 00:47:55,900
+Two and exhale.
+
+573
+00:47:56,000 --> 00:48:03,900
+Inhale three bellies gets big, exhale, inhale for exhale, inhale.
+
+574
+00:48:03,900 --> 00:48:04,600
+Five.
+
+575
+00:48:05,400 --> 00:48:16,800
+Exhale belly gets big on each, inhale and then it gets flatter on the exhale, seven on the inhale and exhale 8.
+
+576
+00:48:17,900 --> 00:48:20,600
+Exhale nine.
+
+577
+00:48:21,300 --> 00:48:24,600
+Exhale, we're doing this through the nose and out through the nose.
+
+578
+00:48:24,600 --> 00:48:35,100
+Exhale, 11, exhale, 12, inhale, using the diaphragm 13 on the inhale.
+
+579
+00:48:35,300 --> 00:48:36,100
+Exhale.
+
+580
+00:48:37,400 --> 00:48:40,000
+14 and exhale.
+
+581
+00:48:41,100 --> 00:48:43,500
+15, exhale.
+
+582
+00:48:44,900 --> 00:48:49,800
+16 exhale try and make it as full as you can on each count.
+
+583
+00:48:49,800 --> 00:48:51,000
+It's short.
+
+584
+00:48:51,000 --> 00:48:54,600
+But you're trying to get maximum are maximum use.
+
+585
+00:48:54,600 --> 00:48:56,800
+We're on 18 now.
+
+586
+00:48:57,100 --> 00:49:00,200
+Exhale, 19.
+
+587
+00:49:00,800 --> 00:49:09,100
+Exhale 2010 more to go inhale using that diaphragm, exhale.
+
+588
+00:49:09,700 --> 00:49:10,700
+21.
+
+589
+00:49:11,600 --> 00:49:16,300
+Exhale 22, you're doing great.
+
+590
+00:49:16,300 --> 00:49:21,800
+Keep it up 23! Exhale 24.
+
+591
+00:49:21,800 --> 00:49:23,800
+Just focusing on the breath.
+
+592
+00:49:23,800 --> 00:49:28,000
+The belly 25, just kidding.
+
+593
+00:49:29,000 --> 00:49:29,800
+26.
+
+594
+00:49:29,800 --> 00:49:41,200
+No, laughing just breathing 27 and exhale, 28, exhale, 29, exhale.
+
+595
+00:49:42,400 --> 00:49:46,400
+And 30, exhale, beautiful.
+
+596
+00:49:47,000 --> 00:49:54,700
+Now, inhale once more for me and exhale, then hold the lungs, empty for count of 30.
+
+597
+00:49:54,700 --> 00:49:55,500
+Here we go.
+
+598
+00:49:58,300 --> 00:50:01,100
+Just holding the breath nose closed.
+
+599
+00:50:01,100 --> 00:50:04,800
+We have got about 25, 20 seconds to go.
+
+600
+00:50:05,200 --> 00:50:07,200
+Try and hold it in the whole time.
+
+601
+00:50:07,800 --> 00:50:08,200
+They're guessed.
+
+602
+00:50:08,200 --> 00:50:11,200
+Hold it out, because we exhaled not letting air in.
+
+603
+00:50:11,300 --> 00:50:13,200
+In just sitting with it.
+
+604
+00:50:13,200 --> 00:50:17,800
+Just feeling what you feel about, 10 more seconds to go.
+
+605
+00:50:17,800 --> 00:50:28,500
+You're almost there and five, four, three, two, and one.
+
+606
+00:50:28,500 --> 00:50:37,600
+Take a nice big, inhale to a count of 5 3 2 1 and then hold the lungs full for 10.
+
+607
+00:50:39,500 --> 00:50:40,200
+Eight.
+
+608
+00:50:41,600 --> 00:50:42,300
+Six.
+
+609
+00:50:43,800 --> 00:50:50,400
+42 and exhale for a count of five.
+
+610
+00:50:51,200 --> 00:50:54,800
+Three, One release.
+
+611
+00:50:54,800 --> 00:50:55,500
+One more time.
+
+612
+00:50:55,500 --> 00:50:58,400
+Inhale for a count of five.
+
+613
+00:51:00,700 --> 00:51:20,500
+And one and at the top holds the are in for a count of 10, you're doing great almost done here, 3 2 1, and then exhale for a count of five 31, beautiful.
+
+614
+00:51:22,400 --> 00:51:24,800
+I am just take whatever kind of breath feels good.
+
+615
+00:51:24,800 --> 00:51:29,800
+Now, at the end of this, I sometimes like to just take a big inhale and just sigh it out, right?
+
+616
+00:51:33,600 --> 00:51:36,700
+Just letting everything go and then, close your eyes with me for a moment.
+
+617
+00:51:36,700 --> 00:51:43,900
+And again, settle into sensation, settle into, whatever you're noticing in your body.
+
+618
+00:51:44,600 --> 00:51:49,100
+I often get tingling in my fingertips or get a little heated around my chest.
+
+619
+00:51:50,100 --> 00:51:52,000
+Take a moment just to observe.
+
+620
+00:51:54,200 --> 00:51:58,000
+To let your breathing go back to whatever its natural state is.
+
+621
+00:51:59,700 --> 00:52:08,100
+Feel what you feel without judgment without wondering if you did it right or wrong without thinking you could have done, it better.
+
+622
+00:52:10,400 --> 00:52:11,100
+Just noticing.
+
+623
+00:52:11,100 --> 00:52:15,500
+What is total radical acceptance of the year now?
+
+624
+00:52:22,500 --> 00:52:28,900
+And then in this sort of blissful post conscious mindful breathing moment.
+
+625
+00:52:29,200 --> 00:52:35,500
+I want to slip right into our two moments of gratitude and it's up to you can keep your eyes closed if you'd like or you can keep them open.
+
+626
+00:52:38,300 --> 00:52:43,200
+And what I want you to do is I want you to put one hand on your chest and one in back on your belly.
+
+627
+00:52:44,400 --> 00:52:52,900
+A nice can be closed if you wish and in this Blissful present State, this refreshed oxygenated plays we are together.
+
+628
+00:52:53,100 --> 00:53:03,700
+I want you to take a moment to say thank you to express some gratitude to appreciate someone or something in your life.
+
+629
+00:53:11,300 --> 00:53:12,400
+Don't overthink it.
+
+630
+00:53:13,600 --> 00:53:17,900
+It might be the person that gave you the parking spot today.
+
+631
+00:53:21,200 --> 00:53:22,700
+You might be grateful for the weather.
+
+632
+00:53:24,900 --> 00:53:30,000
+You might be grateful for yourself that you showed up here to do this.
+
+633
+00:53:32,800 --> 00:53:34,500
+Whatever it is big or small.
+
+634
+00:53:35,700 --> 00:53:37,700
+Take a moment to recognize.
+
+635
+00:53:39,400 --> 00:53:48,800
+Two things people or situations for which you feel gratitude, and feel that gratitude as you acknowledge that.
+
+636
+00:53:51,300 --> 00:53:53,200
+Thank you for this beautiful day.
+
+637
+00:53:53,500 --> 00:53:56,500
+Thank you for the air in my lungs.
+
+638
+00:53:56,500 --> 00:53:57,400
+Thank you.
+
+639
+00:53:59,100 --> 00:54:08,000
+For this moment, whatever it is, you can say it out loud, or you can say it in your head but say it and feel it.
+
+640
+00:54:18,700 --> 00:54:22,800
+And when you're ready, if your eyes are closed, you can go ahead and open them.
+
+641
+00:54:23,100 --> 00:54:31,400
+And if you have pen and paper, handy, go ahead and write down the two people or things for which you just express your gratitude.
+
+642
+00:54:31,900 --> 00:54:34,000
+Take a moment and write down what it is.
+
+643
+00:54:34,000 --> 00:54:35,100
+You're grateful for.
+
+644
+00:54:36,200 --> 00:54:38,400
+Why you are grateful?
+
+645
+00:54:40,100 --> 00:54:50,400
+And after we're done here today, you might even think about telling that person that you're thankful or taking a moment to express your gratitude in a more.
+
+646
+00:54:52,300 --> 00:54:56,600
+Public or direct kind of way optional bonus points.
+
+647
+00:54:57,600 --> 00:55:04,100
+And the final thing we're going to do is of the three, two, one R1 is Our Moment of power.
+
+648
+00:55:04,600 --> 00:55:08,100
+So a lot of us starter days off with the to-do list, right?
+
+649
+00:55:08,100 --> 00:55:09,700
+How, what do we got to do today?
+
+650
+00:55:10,200 --> 00:55:16,100
+I want to shift that and I want to focus on how we want to be how we want to feel.
+
+651
+00:55:16,100 --> 00:55:18,800
+I personally want to be in feel marvelous.
+
+652
+00:55:20,600 --> 00:55:22,500
+You may want to be or feel something different.
+
+653
+00:55:22,500 --> 00:55:24,000
+You might want to feel motivated.
+
+654
+00:55:24,000 --> 00:55:26,600
+You might want to feel peaceful.
+
+655
+00:55:26,900 --> 00:55:31,200
+You might want to feel capable focused, patient.
+
+656
+00:55:31,200 --> 00:55:32,000
+Whatever it is.
+
+657
+00:55:32,000 --> 00:55:44,600
+There's a beautiful truth Around The Power of Words and language and our ability to express how we feel and how we wish to feel or be, we don't spend enough time on that the average person.
+
+658
+00:55:44,600 --> 00:55:47,600
+If you ask them, how they are fine, right?
+
+659
+00:55:47,800 --> 00:55:50,600
+Or best case scenario of sad, happy angry.
+
+660
+00:55:50,600 --> 00:55:51,400
+That's it.
+
+661
+00:55:51,500 --> 00:55:52,300
+We can do better than that.
+
+662
+00:55:52,300 --> 00:55:53,600
+We can choose.
+
+663
+00:55:54,400 --> 00:56:02,400
+Not only how we want to feel and how we want to be, but we can choose the language that empowers us to actually embody that desired state.
+
+664
+00:56:02,500 --> 00:56:03,800
+So that's what this is about.
+
+665
+00:56:03,800 --> 00:56:05,300
+So I want you to take a moment.
+
+666
+00:56:05,500 --> 00:56:10,100
+Again, eyes closed or open and decide how you want.
+
+667
+00:56:10,200 --> 00:56:16,600
+It to feel for the rest of the state, how you want to feel At this moment and going forward for this day.
+
+668
+00:56:17,400 --> 00:56:20,800
+If you have pen and paper handy, go ahead and write that down.
+
+669
+00:56:23,200 --> 00:56:24,100
+You can also frame.
+
+670
+00:56:24,100 --> 00:56:27,100
+It could be either part 2 or different way to frame it.
+
+671
+00:56:27,900 --> 00:56:29,100
+Who do you want to be?
+
+672
+00:56:29,200 --> 00:56:30,700
+How do you want to show up?
+
+673
+00:56:36,800 --> 00:56:41,200
+And then between those two answers and might be the same answer, might be two different words.
+
+674
+00:56:41,400 --> 00:56:49,300
+I want you to choose the most specific encouraging, like the most magnetic word.
+
+675
+00:56:49,300 --> 00:56:53,900
+You can think of to describe that thinking power words, right?
+
+676
+00:56:53,900 --> 00:56:57,300
+So if you're if you want to feel sad today, which I hope no one's rain down.
+
+677
+00:56:57,300 --> 00:56:58,100
+You want to feel sad.
+
+678
+00:56:58,100 --> 00:57:00,000
+I don't want you to say, I want to feel sad today.
+
+679
+00:57:00,200 --> 00:57:02,100
+I want to feel devastated.
+
+680
+00:57:02,100 --> 00:57:04,400
+I want few props are known why it takes that.
+
+681
+00:57:04,400 --> 00:57:09,700
+Sorry, if you want to feel Today, I want to feel vibrant.
+
+682
+00:57:09,800 --> 00:57:11,700
+I want to feel joyful.
+
+683
+00:57:11,800 --> 00:57:14,000
+I want to feel euphoric, right?
+
+684
+00:57:14,000 --> 00:57:15,200
+Pick the best word.
+
+685
+00:57:15,200 --> 00:57:25,700
+You can think of and write that down and say it to yourself because that's going to be your keyword, your Mantra, your like pavlovian symbol.
+
+686
+00:57:25,900 --> 00:57:35,600
+When you catch yourself out of that state, when you catch yourself feeling mat, if your desired state is, euphoric, you're going to do some of what we just did.
+
+687
+00:57:35,600 --> 00:57:38,600
+You're going to do a little a bit of breathing going to remind yourself of that word.
+
+688
+00:57:38,600 --> 00:57:41,800
+You're going to choose how you want to show up.
+
+689
+00:57:41,800 --> 00:57:44,300
+It's not what the Day brings that you bring to the day.
+
+690
+00:57:45,100 --> 00:57:45,700
+Okay.
+
+691
+00:57:45,800 --> 00:57:49,000
+So write down your power word, choose that word.
+
+692
+00:57:52,100 --> 00:57:53,300
+Burn it into your brain.
+
+693
+00:57:53,300 --> 00:57:55,100
+Keep it on your paper and your back pocket.
+
+694
+00:57:55,100 --> 00:57:55,900
+If you need to.
+
+695
+00:57:56,500 --> 00:58:04,200
+And the last thing we're going to do together is we're going close this three, two, one three rounds of breath work, few moments of gratitude.
+
+696
+00:58:04,300 --> 00:58:08,900
+One moment of Power with the marvelous closing Mantra.
+
+697
+00:58:08,900 --> 00:58:11,800
+We do this at the end of every marvelous, in her workouts.
+
+698
+00:58:12,900 --> 00:58:16,200
+If you're not standing, I encourage you to stand if not see it as.
+
+699
+00:58:16,200 --> 00:58:16,600
+Okay.
+
+700
+00:58:16,600 --> 00:58:19,300
+Put your hands together your palms together at your heart.
+
+701
+00:58:20,900 --> 00:58:23,300
+And say these words out loud with me.
+
+702
+00:58:23,300 --> 00:58:35,500
+Again, the power of language and intention the emotion we put behind our words, really changes our brains operating system and allows us to become the things we say.
+
+703
+00:58:35,700 --> 00:58:37,600
+So say these words with me now.
+
+704
+00:58:39,000 --> 00:58:42,400
+I am the master of my inner world.
+
+705
+00:58:44,400 --> 00:58:47,700
+I am the champion of my outer world.
+
+706
+00:58:49,300 --> 00:58:51,100
+I am strength.
+
+707
+00:58:51,900 --> 00:58:52,900
+I am Grace.
+
+708
+00:58:53,800 --> 00:58:55,100
+I am Joy.
+
+709
+00:58:56,700 --> 00:59:01,300
+I am marvelous and you are marvelous to my friends.
+
+710
+00:59:01,300 --> 00:59:05,800
+Thank you so much for joining me for this moment of 321.
+
+711
+00:59:05,800 --> 00:59:06,700
+Marvelousness.
+
+712
+00:59:06,700 --> 00:59:07,100
+I am Marta.
+
+713
+00:59:07,100 --> 00:59:07,700
+Kagan.
+
+714
+00:59:07,900 --> 00:59:09,500
+I hope I will see you all again soon.
+
+715
+00:59:09,500 --> 00:59:11,000
+Have a marvelous day.
+
+716
+00:59:15,300 --> 00:59:17,500
+That was amazing Marta.
+
+717
+00:59:17,700 --> 00:59:18,700
+Thank you so much.
+
+718
+00:59:18,700 --> 00:59:21,200
+In fact, I have my word.
+
+719
+00:59:21,200 --> 00:59:22,100
+Well, we're it's here.
+
+720
+00:59:22,100 --> 00:59:23,300
+It's well-nourished.
+
+721
+00:59:23,300 --> 00:59:25,500
+This is my power word that I am going to.
+
+722
+00:59:25,900 --> 00:59:27,700
+I should probably just stick this to my forehead.
+
+723
+00:59:27,700 --> 00:59:28,800
+So every Zoom call.
+
+724
+00:59:28,800 --> 00:59:29,500
+I am on.
+
+725
+00:59:29,500 --> 00:59:32,500
+I am just reminded me to be well nourished.
+
+726
+00:59:32,900 --> 00:59:34,700
+But thank you again so much.
+
+727
+00:59:35,500 --> 00:59:36,200
+All right.
+
+728
+00:59:36,200 --> 00:59:42,700
+Well, I hope all of you are feeling just as refreshed, and we centered as I am right now.
+
+729
+00:59:42,900 --> 00:59:44,300
+Let us do a quick little poll.
+
+730
+00:59:44,300 --> 00:59:45,000
+A pulse check.
+
+731
+00:59:46,100 --> 00:59:51,500
+Once you drop in where you are, rating yourself on a scale of 1 to 10.
+
+732
+00:59:51,700 --> 00:59:52,900
+Ooh, I love it.
+
+733
+00:59:53,200 --> 00:59:56,100
+Already seeing a difference from the previous poll.
+
+734
+00:59:57,000 --> 00:59:57,800
+Okay.
+
+735
+00:59:58,900 --> 00:59:59,900
+Awesome.
+
+736
+01:00:00,000 --> 01:00:00,500
+Awesome.
+
+737
+01:00:00,500 --> 01:00:09,800
+Well, I hope that you will be able to take some of these practices that Marta just walked us through and even the insights that were gleaned with Jason and Roberto and bring them.
+
+738
+01:00:09,800 --> 01:00:14,100
+Pull them into your day today and apply them to your own teams.
+
+739
+01:00:14,100 --> 01:00:15,300
+Your personal lives.
+
+740
+01:00:15,500 --> 01:00:16,600
+Whatever that may be.
+
+741
+01:00:16,700 --> 01:00:16,900
+Now.
+
+742
+01:00:16,900 --> 01:00:19,000
+There's a couple of tabs at the top.
+
+743
+01:00:19,000 --> 01:00:24,600
+We do have our next event on April 26th, and speaking of wellness and balance.
+
+744
+01:00:24,600 --> 01:00:33,600
+The topic is going to be around burnout and being able to You address the signs of burnout within yourself and also within your teams.
+
+745
+01:00:33,600 --> 01:00:39,800
+So we're going to have this asks me anything style panel, and we got a great lineup of speakers for that.
+
+746
+01:00:40,000 --> 01:00:41,300
+So please sign up.
+
+747
+01:00:41,300 --> 01:00:42,900
+We hope to see you there.
+
+748
+01:00:43,300 --> 01:00:48,800
+And also just to know you're on this amazing platform.
+
+749
+01:00:48,800 --> 01:00:57,300
+It is welcome is an employee event platform that powers the key Milestones across the entire employee experience, like Roberto had shared.
+
+750
+01:00:57,400 --> 01:01:04,200
+So if you have any questions, Jean how you can leverage, welcome for your own town halls, or do these type of team.
+
+751
+01:01:04,200 --> 01:01:05,800
+Building sessions.
+
+752
+01:01:05,800 --> 01:01:11,300
+Feel free to ask us and there's a tab up there to talk to some of our Specialists.
+
+753
+01:01:11,800 --> 01:01:12,200
+All right.
+
+754
+01:01:12,200 --> 01:01:24,100
+So with that, I send all of those, Matt marvelous blessings of Joy Grace and the centeredness that we received together today.
+
+755
+01:01:24,400 --> 01:01:31,100
+So grateful for you, all being part of this event, and I hope to see you Again, have a wonderful rest of your day.

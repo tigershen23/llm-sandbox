@@ -1,0 +1,197 @@
+<h1>Marketo Integration Documentation</h1>
+<h1 id="01GR6X061098A0W8G6WB3HKT36" class="p1">Overview</h1>
+<p class="p2">Welcome’s Marketo integration enables our customers to use the actions a Lead takes in Welcome to inform the next step of that Lead's buyer’s journey.<br><br>The integration is streamlined to require minimal configuration. It makes it so your Marketo Program Members need only click a link to get into an event, without going through registration. It sends back clear, easy-to-interpret signals of attendee sentiment, in real-time, for follow-up action.</p>
+<p class="p2">Some examples of things you can do with the Welcome integration are:</p>
+<p>Signal the Sales Owner in real-time when their prospect engages with a “Do you want to talk to a Salesperson?” Poll<span class="Apple-converted-space"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12895352138260" alt="Signal_sales_owner_zoomed.png"> <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12895467706388" alt="send_alert_zoomed.png"></span></p>
+<p>Increase Lead score for any lead who has spent more than 10 minutes at a specific Webinar.<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12895310790932" alt="Lead_score_marketo.png"></p>
+<p>Create new Leads and Program Members for people who attend your webinars with their custom registration fields <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12895612929044" alt="custom_reg_fields_for_new_leads_and_program_members_ZOOMED.png"></p>
+<p class="p3"> </p>
+<h1 id="01GR6X06108XAJVYR42FRA3NKG" class="p1">Setup – Connecting Welcome to your Marketo Instance<span class="Apple-converted-space"> </span>
+</h1>
+<ol class="ol1">
+<li class="li2">Log in to your Welcome Producer Account at <a href="app.experiencewelcome.com" target="_blank" rel="noopener noreferrer">app.experiencewelcome.com</a>
+</li>
+<li class="li2">Navigate to Integrations at the left side of the screen<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12895639116948" alt="mceclip0.png">
+</li>
+<li class="li2">Click configure and click New Authentication in the popup that comes up <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12895757746196" alt="autheticate_prompt_zoomed.png">
+</li>
+<li class="li2">Log in to your Hubspot Instance in the window that pops up.<span class="Apple-converted-space"> </span>
+<ol class="ol2">
+<li class="li2">Enter any name for your authentication. <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12896197537300" alt="Fill_auth_form_zoomed.png">
+</li>
+<li class="li2">
+<p>In the API endpoint domain field, provide your Marketo REST API endpoint identified in the image below.</p>
+<ol class="ol2">
+<li class="li2">
+<p>This can be found by navigating to the Admin tab in Marketo</p>
+</li>
+<li class="li2">
+<p>Opening the "Integration" drop-down menu on the left-hand side</p>
+</li>
+<li class="li2">
+<p>clicking "Web Services". <em><strong>Be sure to delete the "/rest" from the end of the endpoint url when you paste it into Welcome.</strong></em></p>
+<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12856552980244" alt="mceclip3.png">
+</li>
+</ol>
+</li>
+<li class="li2">Get the values for the Client ID and Client Secret Fields
+<ol class="ol2">
+<li class="li2">Open the Launchpoint dropdown menu in Marketo</li>
+<li class="li2">Select View Details on an Installed Service you have running<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12896991054740" alt="Client_ID_and_Secret_fields_Zoomed.png">
+</li>
+<li class="li2">You will see the Client ID and Client Secret fields <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12857041314964" alt="mceclip5.png">
+</li>
+</ol>
+</li>
+<li class="li2">When you have the right values pasted in, click Create <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12857179754004" alt="mceclip6.png">
+</li>
+<li class="li2">Click Finish</li>
+</ol>
+</li>
+<li class="li2">
+<h4 id="h_01GRA53TW87GZ0ZV3Z7Q96A0DK">Map Welcome Fields to Marketo Fields <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12864469170708" alt="mceclip7.png">
+</h4>
+<ol class="ol1">
+<li class="li2">First, you must set a Marketo Template Program Id. <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12865348484372" alt="mceclip8.png">
+<ol class="ol1">
+<li class="li2">To get this ID, navigate in Marketo to the program you want to set as a template. This integration duplicates your template program for every Welcome event you create so that each Welcome Event is associated with a Marketo Program.</li>
+<li class="li2">A Marketo Program's ID can be found at the end of its URL, after the ME and before the A. <strong>See the portion of the URL in the red box below for an example</strong> <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12865465439508" alt="mceclip10.png">
+</li>
+</ol>
+</li>
+<li class="li2">After setting a Template Program Id, you need to map Welcome fields to Marketo Lead and Program Fields. See the <a href="#01GR6X0610FK3TNE8FGT6NC412" target="_self"><em><strong>Mapping Welcome Fields to Marketo Fields</strong></em></a> Section Below for more information.</li>
+</ol>
+</li>
+</ol>
+<h2>Editing Settings</h2>
+<p>You can always update your Marketo Authentication or Field Mapping by clicking Edit and selecting which settings you want to update from the dropdown.<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12865634624916" alt="mceclip11.png"></p>
+<h2>Resetting Connection</h2>
+<p>You can remove the connection to Marketo and your field mapping configuration by clicking Reset. This will not delete any data. You can always connect to Marketo and set a new field mapping configuration again.<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12865579355796" alt="mceclip12.png"></p>
+<p class="p5"><span class="Apple-converted-space"> </span></p>
+<h1 id="01GR6X0611ZGZZMGKEZFJWWTVJ" class="p18">Summary of data sent from Welcome to Marketo</h1>
+<h2 class="p3">Welcome Events -&gt; Marketo Programs</h2>
+<p class="p3">This Integration Syncs Welcome Events and Welcome Event Registration interactions to Marketo.</p>
+<p class="p3">After you configure this integration, whenever you create a Welcome event, a corresponding Marketo Program for the Event will be cloned from your template program and deposited into the same folder as the template. (For more information about your Template Program see <strong>Step 5</strong> in the section above called: "<a href="#h_01GRA53TW87GZ0ZV3Z7Q96A0DK" target="_self" rel="undefined">Setup – Connecting Welcome to your Marketo Instance</a>")</p>
+<p class="p3">By navigating to the Integrations tab for a specific Welcome Event, you can see the ID of the target Marketo program your Welcome Event is associated with. </p>
+<p class="p3"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12896746786068" alt="Marketo_program_ID_zoomed.png"></p>
+<p class="p3">You can update the ID of this target program if you want Welcome data to be sent to a different program you have set up. You can also turn off the "Sync from Welcome to external platforms" toggle if you don't want data from this event to be sent to Marketo.</p>
+<h2 class="p3">Welcome Event Attendee Interactions -&gt; Marketo Lead / Program Member Fields</h2>
+<p>See below for a summary table of what attendee interactions are sent and when. In the next section, you can see all the specific Welcome data points that can be mapped to Marketo Lead and Program Member Fields. </p>
+<table class="t1" style="height: 53px; width: 676px;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 22px;">
+<td class="td1" style="height: 22px; width: 268.117px;" valign="top">
+<p class="p2"><strong><em>Event Registration Interaction</em></strong></p>
+</td>
+<td class="td1" style="height: 22px; width: 384.883px;" valign="top">
+<p class="p2"><strong><em>When is the interaction sent to Marketo</em></strong></p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td class="td2" style="height: 22px; width: 268.117px;" valign="top">
+<p class="p2">Attendee Registered for the Webinar</p>
+</td>
+<td class="td2" style="height: 22px; width: 384.883px;" valign="top">
+<p class="p2">Real Time</p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td class="td1" style="height: 22px; width: 268.117px;" valign="top">
+<p class="p2">Attendee Responded to a Poll</p>
+</td>
+<td class="td1" style="height: 22px; width: 384.883px;" valign="top">
+<p class="p2">Real Time</p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td class="td1" style="height: 22px; width: 268.117px;" valign="top">
+<p class="p2">Attendee Asked Question</p>
+</td>
+<td class="td1" style="height: 22px; width: 384.883px;" valign="top">
+<p class="p2">Real Time</p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td class="td2" style="height: 22px; width: 268.117px;" valign="top">
+<p class="p2">Attendee Clicked CTA on Stage</p>
+</td>
+<td class="td2" style="height: 22px; width: 384.883px;" valign="top">
+<p class="p2">Real Time</p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td class="td1" style="height: 22px; width: 268.117px;" valign="top">
+<p class="p2">Attendee Attended Webinar Live</p>
+</td>
+<td class="td1" style="height: 22px; width: 384.883px;" valign="top">
+<p class="p2">Program member status is sent in real-time. Event Attendance Analytics are sent 90 mins after the event ends</p>
+</td>
+</tr>
+<tr style="height: 22px;">
+<td class="td3" style="height: 22px; width: 268.117px;" valign="top">
+<p class="p2">Attendee Viewed Webinar On Demand</p>
+</td>
+<td class="td3" style="height: 22px; width: 384.883px;" valign="top">
+<p class="p2">90 mins after the duration of the content they viewed*</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p1"> </p>
+<p class="p1">You can view Welcome data in Marketo by navigating to the Marketo program associated with a Welcome Event and clicking the Members tab. Make sure that you add Welcome program member fields to the View you are using. </p>
+<p class="p1"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12915821568916" alt="mceclip0.png"></p>
+<h1 id="01GR6X0610FK3TNE8FGT6NC412" class="p1">Setup – Mapping Welcome Fields to Marketo Fields</h1>
+<p class="p2"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12884649700884" alt="mceclip0.png"></p>
+<ol class="ol1">
+<li class="li2">First, make sure you set a Marketo Template Program ID. See <a href="#h_01GRA53TW87GZ0ZV3Z7Q96A0DK" target="_self"><strong>step 5</strong></a> in the previous section for more information on the Template Program Id.</li>
+<li class="li2">You can scroll down the Field Mapping dialog to view more fields to map. <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12885992220692" alt="mceclip1.png">
+</li>
+<li class="li2">All Welcome fields that will map to Marketo Leads and Program Members are visible in the Field Mapping dialog. Data that is not mapped in this dialog will not be persisted to Marketo.</li>
+<li class="li2">Not all Field mappings are configurable by you. The destination of those mappings that you cannot update are in black boxes. The destination of those mappings that you can update are in grey boxes.<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12886427878420" alt="mceclip2.png">
+</li>
+<li class="li2">When you click a mappable field to update you will be taken to a page to search for the field in Marketo that you can map to.
+<ol class="ol1">
+<li class="li2">
+<span class="Apple-converted-space" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">If you need to create a new field in Marketo, </span>
+<ol class="ol1">
+<li class="li2"><span class="Apple-converted-space" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Create the Field in Marketo First</span></li>
+<li class="li2"><span class="Apple-converted-space" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Then click “Select Mapping” in the Welcome Field Mapping Table<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12886478304788" alt="mceclip3.png"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12890396530324" alt="mceclip4.png"></span></li>
+</ol>
+</li>
+</ol>
+</li>
+<li class="li2">You must also select the Update Policy for a field. You can choose from: “Overwrite”, “Update If Missing”, and “Don’t Update”. After setting a field, if you leave the update policy as "Don't Update" that data won't be sent to Marketo. <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12890410572820" alt="mceclip5.png">
+</li>
+<li class="li2">Event Registrant Fields<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12891279550740" alt="mceclip6.png">
+<ol class="ol1">
+<li>The Event Registrant fields are populated in the target Marketo Program whenever someone new completes their registration on Welcome. (Registrations are completed when someone navigates through the Welcome Event Landing page, when they click their unique or quick registration link.)</li>
+<li class="li2">Email, First Name, Last Name are not mappable fields and will always be updated by the integration</li>
+<li class="li2">Role, Company, and Unique link are mappable fields. You can provide attendees their Unique Link in your pre-event communications from Marketo to allow them to bypass registration on Welcome.</li>
+</ol>
+</li>
+<li class="li2">Custom Fields<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12891282536212" alt="mceclip7.png">
+<ol class="ol2">
+<li class="li2">Custom Registration Fields are populated in the target Marketo Program whenever someone new completes their registration on Welcome.</li>
+<li class="li2">You can map up to 5 attendee custom field inputs on an event registration page.</li>
+<li class="li2">For example, if the custom field is "City", the integration will sync the attendee's answer: "New York"</li>
+<li class="li2">The custom fields are mapped in order</li>
+<li class="li2">Mapping custom fields is optional.<span class="Apple-converted-space"> </span>
+</li>
+<li class="li7">You should come back to the field mapping page to update the mapping configuration for different events which have different custom fields</li>
+</ol>
+</li>
+<li class="li7">Event Registration Analytics<img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12891305372180" alt="mceclip8.png">
+<ol class="ol1">
+<li class="li7">Event Registration Analytics Fields are populated in the target Marketo Program 90 minutes after your event is over or 90 mins after someone views your event On Demand (to leave time for the system to properly aggregate all the data)</li>
+<li class="li7">These fields can be mapped to Custom Program Member Fields in your Target Marketo Program so you can act on attendee analytics data.</li>
+</ol>
+</li>
+<li class="li7">Attendee interactions with on-stage CTAs, Attendees Questions in the Q&amp;A tab, and Attendee Poll Responses are also mapped back to your Target Marketo Program. These interactions are sent to your target Marketo program in real time so you can take action on them.</li>
+</ol>
+<p><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12891823099924" alt="mceclip9.png"></p>
+<h1 class="p16"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/12891805387668" alt="mceclip10.png"></h1>
+<h1 id="01GR6X0611N26HEE14N7TEEJ87" class="p1">How do I send registrants into Welcome from Marketo</h1>
+<p><em><strong>To send Program Members into Welcome such that they don’t need to register again, we recommend using our <a href="https://experiencewelcome.zendesk.com/hc/en-us/articles/4415386814996-Quick-Registration-Guide"><span class="s2">Quick Registration link functionality</span></a>.<span class="Apple-converted-space"> </span></strong></em></p>
+<p>Alternatively, you can create a Marketo Flow to send registrants into Welcome (after they sign up on a Marketo Registration form for instance), populate a Unique Link Property on each registrant’s Contact Object, and use that property your pre-event communications. This more complex workflow is made obsolete by Welcome's Quick Registration Functionality linked above, but you may reach out to Welcome Support if you are looking to implement it.</p>
+<h1 id="01GR6X0612TCVX3669AC6EXQSS" class="p1">Contact us</h1>
+<p class="p2">If you need any assistance or you have any questions regarding your Welcome &lt;&gt; Hubspot integration, please email support@experiencewelcome.com</p>

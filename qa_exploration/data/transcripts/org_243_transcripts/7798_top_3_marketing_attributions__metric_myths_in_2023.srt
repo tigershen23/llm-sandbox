@@ -1,0 +1,2844 @@
+
+1
+00:01:26,100 --> 00:01:30,400
+Still, enough time to figure out how to Chase my Blues Away.
+
+2
+00:03:26,300 --> 00:03:27,500
+Somebody who loves me.
+
+3
+00:04:40,000 --> 00:04:41,600
+Hello, everyone.
+
+4
+00:04:42,200 --> 00:04:50,100
+Welcome to our interview Spotlight today with Julia Hartwig VP of marketing at cap.
+
+5
+00:04:50,100 --> 00:04:54,600
+Chase and we are super excited to be able to have her here.
+
+6
+00:04:54,800 --> 00:05:03,300
+As she is going to crack the code for us on these myths around marketing attribution and metrics.
+
+7
+00:05:03,300 --> 00:05:07,900
+I mean, there's a lot of things that you see on LinkedIn and different influencers.
+
+8
+00:05:08,300 --> 00:05:14,800
+In out different things we were just talking about this in the green room and majority of it is probably pretty fluffy.
+
+9
+00:05:15,700 --> 00:05:20,300
+So I am excited to bring up Julia, join me here on stage.
+
+10
+00:05:22,300 --> 00:05:23,400
+Alright.
+
+11
+00:05:25,100 --> 00:05:25,100
+Hello.
+
+12
+00:05:25,700 --> 00:05:26,400
+Hi.
+
+13
+00:05:27,100 --> 00:05:27,900
+How's it going?
+
+14
+00:05:27,900 --> 00:05:28,700
+How are you?
+
+15
+00:05:29,800 --> 00:05:30,200
+Good.
+
+16
+00:05:30,200 --> 00:05:31,300
+I am so excited to be here.
+
+17
+00:05:31,300 --> 00:05:32,900
+Thank you for having me.
+
+18
+00:05:33,500 --> 00:05:39,200
+Oh, I am excited because you have got a lot to say about marketing metrics.
+
+19
+00:05:39,200 --> 00:05:46,300
+Attributions, you're probably one of the savviest markers, experienced marketers, and, and you can go really deep.
+
+20
+00:05:46,300 --> 00:05:54,200
+I have found with attribution metrics, and so before we jump in the key, tell us a little bit just about you and cap.
+
+21
+00:05:54,200 --> 00:05:54,800
+Chase.
+
+22
+00:05:56,100 --> 00:05:58,300
+Yeah, so I am Julia.
+
+23
+00:05:58,300 --> 00:06:00,000
+I am the VP of marketing at cap.
+
+24
+00:06:00,000 --> 00:06:06,200
+Chase I live in New York and Brooklyn which is almost Manhattan.
+
+25
+00:06:06,600 --> 00:06:14,600
+She's getting some really I spent my time prior to being intact really traveling the world and spending a lot of time living in a lot of countries.
+
+26
+00:06:14,600 --> 00:06:33,600
+I lived in Madrid Vancouver, even Las Vegas at one point and that's primarily because my husband was a professional poker player before he pivoted into Tech and I Yeah, I am I live I ran a link Farm originally, I was like deep and a CR at one point in my career, a link Farm.
+
+27
+00:06:33,600 --> 00:06:45,900
+I had a disgusting link Farm, but one point you could hack anything, it was like, Hey, like, we want to rank and it was like, scrape, your content blink, an s*** out of it and have the right domain name and remain power.
+
+28
+00:06:45,900 --> 00:06:47,000
+It's hard to imagine this.
+
+29
+00:06:47,000 --> 00:06:56,500
+Now, I feel like saying this makes me sound really old, but I was like, if you wanted to appear for, let us say Vancouver, if you bought the keyword, like travel Hoover or the domain.
+
+30
+00:06:56,500 --> 00:06:59,700
+Sorry Travel Vancouver or like go Vancouver you would be number one.
+
+31
+00:06:59,700 --> 00:07:17,000
+Like it was just that easy obviously with like all that shifted but I think that taught me a thing or two about like not looking at everything as if there's like some Trend that's going to solve your problems and probably why I go so deep on everything because like I did do that and it was cool while it lasted.
+
+32
+00:07:17,000 --> 00:07:22,900
+I made some money off it but That doesn't mean it's sad when it dies, let me tell you.
+
+33
+00:07:23,200 --> 00:07:31,500
+So a little bit about cap Chase and, you know, I am probably the most excited about this company at any company, I have been at purely off of the traction.
+
+34
+00:07:31,500 --> 00:07:37,300
+They have had in two years and how different and disruptive they really are in the industry.
+
+35
+00:07:37,300 --> 00:07:45,300
+And so when I started looking for my next job and like where I wanted to land, it was really important to me that they were a B2B company for supervisors.
+
+36
+00:07:45,300 --> 00:07:47,800
+I don't do b2c marketing, I don't even want to talk about it.
+
+37
+00:07:47,800 --> 00:07:48,600
+I don't get it.
+
+38
+00:07:49,100 --> 00:07:55,200
+I just told a girl my team that's social is the thing that like I just don't understand and like great job, and she was like, okay?
+
+39
+00:07:55,200 --> 00:08:01,100
+And then I really researched a lot and I have been at a lot of startups.
+
+40
+00:08:01,100 --> 00:08:03,800
+I have been at SAS companies, I have done the, you know, I lived in San Francisco.
+
+41
+00:08:03,800 --> 00:08:07,800
+I did the Silicon Valley, like quintessential thing.
+
+42
+00:08:07,800 --> 00:08:15,400
+And what I have seen is I could there're big raises, followed, big layoffs, followed by, you know, success or non-success.
+
+43
+00:08:15,400 --> 00:08:25,600
+And a lot of times the internals of the company don't actually match the Any of what the valuations say or like, raising is also telling a story.
+
+44
+00:08:25,600 --> 00:08:33,200
+And, so I was looking for someone who was doing something really different, that was kind of taking away from that, could provide value to people without giving up equity.
+
+45
+00:08:33,200 --> 00:08:40,900
+And I kind of came across cap, Chase organically, and actually applied for the job, without a recruiter, which kind of rare in my position, I think.
+
+46
+00:08:42,700 --> 00:08:49,000
+Anyway, so if you haven't heard of capture a Serafin tech company that helps a Saunders get money and essentially how they do.
+
+47
+00:08:49,100 --> 00:09:02,200
+That are they look at your recurring Revenue, we have really Advanced Integrations with pretty much every major way that you would record Banking, and then they're able to assess and unlock funds almost instantly.
+
+48
+00:09:02,200 --> 00:09:06,000
+And so unlike in a traditional baked word takes months, we can do it in.
+
+49
+00:09:07,600 --> 00:09:11,300
+I mean, depends on the client but like two three days.
+
+50
+00:09:12,200 --> 00:09:15,200
+I am and like Max a week so really fast.
+
+51
+00:09:16,000 --> 00:09:20,600
+And it was incredibly important for me to be at a company that I felt had product Market fit.
+
+52
+00:09:20,600 --> 00:09:22,100
+You know, a lot of people say they have it.
+
+53
+00:09:22,100 --> 00:09:30,500
+That's I can talk about this but like the number one myth is like if you don't have a product you can't really Market anything everything dies.
+
+54
+00:09:31,800 --> 00:09:37,200
+So I was really excited, they have raised over 900 million dollars and worked with over 3,000.
+
+55
+00:09:37,400 --> 00:09:41,100
+Where's at this point, and they're only two years old, and they're in your lap Mark already.
+
+56
+00:09:41,100 --> 00:09:46,200
+So really exciting company, really disrupting a really fun place to be.
+
+57
+00:09:46,200 --> 00:09:48,900
+And yeah, that was kind of what I was looking for.
+
+58
+00:09:48,900 --> 00:09:52,500
+But anyway, let us jump into Market ngratulations marketing.
+
+59
+00:09:53,100 --> 00:09:54,000
+Know, it's really cool.
+
+60
+00:09:54,000 --> 00:09:55,100
+It's a very cool company.
+
+61
+00:09:55,100 --> 00:10:02,200
+I am thrilled to be part of the team and to have been, you know, to have gotten through their interview process and be where I am.
+
+62
+00:10:02,200 --> 00:10:05,500
+I have learned so much already, and I am really excited about it.
+
+63
+00:10:06,100 --> 00:10:07,000
+That's awesome.
+
+64
+00:10:07,300 --> 00:10:16,000
+Well, we're so excited to unpack some of these myths and attribution metric myths.
+
+65
+00:10:16,000 --> 00:10:27,600
+So before we jump into that, though we do have a pole, let us pull up the pole and see how many marketing attribution software tools.
+
+66
+00:10:28,100 --> 00:10:30,600
+Are you currently using at your company?
+
+67
+00:10:30,600 --> 00:10:34,800
+So, feel free to place your votes in there.
+
+68
+00:10:35,900 --> 00:10:39,900
+I have got up to 10 options here.
+
+69
+00:10:42,100 --> 00:10:44,800
+I mean, I feel like people use a lot.
+
+70
+00:10:47,000 --> 00:10:50,600
+I am always getting out of yeah, 426, I am always getting sent them.
+
+71
+00:10:50,800 --> 00:10:53,200
+My people in the company are like, hey, we need to buy this.
+
+72
+00:10:53,200 --> 00:10:54,000
+I am like, do we?
+
+73
+00:10:55,400 --> 00:10:59,300
+This is going to be a big topic that you're going to help us unpack.
+
+74
+00:10:59,300 --> 00:11:01,300
+All right, well, that's good to know it.
+
+75
+00:11:01,300 --> 00:11:02,800
+So most.
+
+76
+00:11:02,800 --> 00:11:03,600
+Whoa, here we go.
+
+77
+00:11:03,600 --> 00:11:05,100
+Okay, four to six.
+
+78
+00:11:06,100 --> 00:11:09,400
+Is the common doesn't surprise me schools.
+
+79
+00:11:09,900 --> 00:11:10,500
+All right.
+
+80
+00:11:10,500 --> 00:11:11,000
+Okay.
+
+81
+00:11:11,400 --> 00:11:34,200
+Well that gives us a good sense of how many folks are using tools and I guess the question really is like relying on as we're jumping into this topic here you know, you think about B2B marketing there, it's a complex buying process and even harder going into 2023 with layoffs less resources.
+
+82
+00:11:34,500 --> 00:11:46,400
+You gotta Sokak LTV profitability across everything, everyone's tighter more than ever, the board of directors investors everybody is like on you more than ever.
+
+83
+00:11:47,300 --> 00:11:58,000
+And so this is where Julia like you are the expert here with all the experience you had and I love the transparency, you had transparency.
+
+84
+00:11:58,000 --> 00:12:04,200
+You had with me when we spoke earlier of just like the numbers of failures that have helped.
+
+85
+00:12:04,200 --> 00:12:06,000
+You get to this point of Learning.
+
+86
+00:12:06,400 --> 00:12:14,300
+And so, I mean, I would love to just hear your thoughts of just like going in and 2023.
+
+87
+00:12:15,300 --> 00:12:22,800
+What are you saying with some of the big shifts and changes and with marketing attribution and metrics?
+
+88
+00:12:22,800 --> 00:12:28,900
+You know, is there anything that you're seeing in particular that's really changing or different?
+
+89
+00:12:29,800 --> 00:12:41,200
+Yeah, I mean, I think a lot has shifted in marketing first of all like I think like the era of doing nothing, I am not doing nothing like the pray and spray, it's like coming to an ear and you just can't afford to do it, right?
+
+90
+00:12:41,200 --> 00:12:51,600
+Like it's just too expensive and so that kind of like has brought I would say the emergence of line of thinking that you see everywhere, you know.
+
+91
+00:12:51,600 --> 00:13:00,100
+Like I think B2B it goes through like four years, like originally was the demand generation experts like, that was like Thing you needed to do.
+
+92
+00:13:00,100 --> 00:13:05,600
+You need to do DG and like that solves your problems and then it was like, you need to do a BM that solves your problems.
+
+93
+00:13:05,900 --> 00:13:11,100
+And now I kind of think we're moving into like this like oh it's a I was like AI is going to solve all your problems.
+
+94
+00:13:11,100 --> 00:13:21,400
+Like we're going to run an i and like AI has gotten really good on some things and like I still, you know, I am using tools like I don't use chat GTA, but I use Jasper, which is a competitor of theirs.
+
+95
+00:13:21,400 --> 00:13:27,000
+And I had to write a lot of stuff and I think that it's an amazing.
+
+96
+00:13:27,000 --> 00:13:30,100
+What you can do with II and attack.
+
+97
+00:13:30,100 --> 00:13:46,000
+And but I also think that if you are unable to understand what you're trying to get out of something, if you are unable to connect, you know, everything to the core and the foundation's like, it doesn't really matter because I chat GPT can't tell you what it's going to say.
+
+98
+00:13:46,000 --> 00:13:48,200
+Like you still have to tell it what you want it to say.
+
+99
+00:13:48,200 --> 00:14:09,900
+It just writes the content without you having to go through like the first iteration of you know I don't even know what you want to say like the first iteration of R draft or you have like think through how you're going to intro like it kind of does that work for you but like you still need to know the story or telling you still need to know that the data points and like your narrative around it or it's that's right.
+
+100
+00:14:09,900 --> 00:14:11,500
+It's generic fluff.
+
+101
+00:14:13,300 --> 00:14:28,400
+So yeah and I think like one of the things I have seen is like when I came in to be like I started in growth, and I was running a free product and I think like also by the way, like Worlds, Collide in Silicon Valley, like that company is very much come back into my life, like in a million ways.
+
+102
+00:14:28,400 --> 00:14:35,900
+And I was like, really But anyways, that product I worked on a free product building, a free product.
+
+103
+00:14:35,900 --> 00:14:38,700
+And like, just like all tech companies, I kind of like threw a sketch.
+
+104
+00:14:38,700 --> 00:14:41,700
+Violet me, that was like pre figma, and they were like, hey here you build it?
+
+105
+00:14:41,700 --> 00:14:43,700
+I was like, I don't, I don't.
+
+106
+00:14:43,800 --> 00:14:44,200
+Yeah.
+
+107
+00:14:44,300 --> 00:14:45,500
+And I like deleted stuff.
+
+108
+00:14:45,500 --> 00:14:50,000
+I was like, all right, here's your free product and that was like the era of the growth marketer.
+
+109
+00:14:50,000 --> 00:14:58,900
+And I was like, all right, we're going to make a free product and it's to drive referrals, and we're going to be viral, and we're going to be just like Dropbox and like that's the goal and I think we did do a lot of that.
+
+110
+00:14:59,100 --> 00:15:04,600
+At and it did become the demand generation machine for the company, and I am really proud of that.
+
+111
+00:15:04,600 --> 00:15:24,500
+But what I saw in like what has enlightened, I think the way I approach marketing forever, as first of all, I had a really hard CEO in that he was like a very, not hard as a person, but he was a very He needed like in a good way like I think he pushed people that I probably wouldn't have pushed myself.
+
+112
+00:15:24,500 --> 00:15:32,000
+And, so I was forced to make models and do things that was like, way outside of my comfort zone is like an early entry was basically growth marketer.
+
+113
+00:15:32,000 --> 00:15:34,600
+I was just like, what, what do you mean a growth model?
+
+114
+00:15:34,600 --> 00:15:35,600
+What the hell is that?
+
+115
+00:15:36,500 --> 00:15:49,800
+And I did all that with his help and that really paves the way for me, I think in my career, and he also really he gave us again like these errors are gone but now you have run Cards and a different credit card system.
+
+116
+00:15:49,800 --> 00:15:53,000
+But back then there were like these Embers cards and was like almost like a gift card.
+
+117
+00:15:53,000 --> 00:15:55,400
+And every day, I would have to be like, hey we're out of her LinkedIn.
+
+118
+00:15:55,400 --> 00:15:57,200
+Budget, can I like have some money please?
+
+119
+00:15:58,400 --> 00:15:59,100
+And I am both cars.
+
+120
+00:15:59,100 --> 00:16:10,300
+Will get like shut down and so, you know, my mentality walking into tooling and anything is like, will the first place of financial department is going to go or CEOs going to go with the marketing team.
+
+121
+00:16:10,300 --> 00:16:15,700
+Like they don't attack Engineers on their toolset, they don't attack product teams on all the tools, they're using.
+
+122
+00:16:15,700 --> 00:16:17,200
+But they're going to come after the marketing.
+
+123
+00:16:17,300 --> 00:16:17,400
+Team.
+
+124
+00:16:17,400 --> 00:16:22,600
+They really don't even go up to the sales team, they're going to come after the marketing team and be like, hey the f*** are you spending money on?
+
+125
+00:16:22,900 --> 00:16:28,500
+And so, I am very Roi focus and I think like the new world is like Revenue.
+
+126
+00:16:28,500 --> 00:16:32,800
+I have heard that I have seen this all over the internet but like, I really believe in Revenue based marketing.
+
+127
+00:16:32,800 --> 00:16:35,400
+And to me, that's like you just drive all the way through the funnel.
+
+128
+00:16:35,400 --> 00:16:37,400
+Like, you're not really just a lead generation machine.
+
+129
+00:16:37,400 --> 00:16:46,500
+You're focused on like finding the right people doing it, efficiently and yeah, that's kind of like my Spiel and B2B but beauty is hard.
+
+130
+00:16:46,500 --> 00:16:58,300
+I wasn't into Like it's a Playbook but it's not a Playbook and I called a bread or earlier Revenue based marketing.
+
+131
+00:16:58,900 --> 00:17:03,600
+Can you like give us a little definition of that?
+
+132
+00:17:03,600 --> 00:17:05,599
+I mean, I kind of made it up but I see it everywhere.
+
+133
+00:17:05,599 --> 00:17:12,599
+So I am sure there's like a real definition and like one of the things that drives me nuts is when people use a word that's like actually has a meaning and like you make up your own meaning to it.
+
+134
+00:17:12,599 --> 00:17:15,700
+So like I might be doing that right now so just like all good.
+
+135
+00:17:15,800 --> 00:17:17,099
+Eric what's your showed you?
+
+136
+00:17:18,200 --> 00:17:25,300
+Yeah, to me, Revenue base marketing is basically if you look and I think this is what's so interesting is you see this everywhere.
+
+137
+00:17:25,300 --> 00:17:41,300
+It's like the type of algorithm you see, on LinkedIn words like go all the way to revenue and your Roi should be 3x, whatever your cost is and like all of these like really crazy budgetary, like, considerations for how you should do your CAC and all of that sort of stuff.
+
+138
+00:17:41,300 --> 00:17:42,100
+But I don't think about it.
+
+139
+00:17:42,100 --> 00:17:42,500
+Like that.
+
+140
+00:17:42,600 --> 00:17:46,200
+I would say, like, when I think of Revenue based marketing, it's like, literally my team.
+
+141
+00:17:46,300 --> 00:17:50,200
+When we look at our dashboard, Words, we don't actually look at cost and mql.
+
+142
+00:17:50,200 --> 00:17:51,900
+We look all the way across to revenue.
+
+143
+00:17:51,900 --> 00:17:53,100
+It's in the dash.
+
+144
+00:17:53,500 --> 00:17:59,700
+It's how I guide my agency, and I am not telling them drive me mql like I don't actually care.
+
+145
+00:17:59,700 --> 00:18:11,000
+I barely look at that number and like I am sure everyone is appalled by that but I look at you know what you would consider like a qualified sales qualified lead is usually where I stop.
+
+146
+00:18:11,600 --> 00:18:26,400
+I mean I will look all the way through but obviously B2B sales Cycles tend to be a little longer so you need like a more don't feedback loop and so like I am judging on Revenue at that point in then I use like the prehistoric like conversion rates from sales to figure out exactly what a reasonable rate for that is.
+
+147
+00:18:26,600 --> 00:18:39,700
+And then I Hold Steady on that and that can mean a lot of things, it means if that goes up at a point where I am uncomfortable, I am going to cut spend, like I am not going to keep spending which is I think very different from what most people do at least from what I have seen.
+
+148
+00:18:39,700 --> 00:18:44,400
+Most people just keep spending and I like it will come back down but it's a math problem, right?
+
+149
+00:18:44,400 --> 00:18:47,100
+Like if your denominator just keeps going up, like you're f*****.
+
+150
+00:18:49,200 --> 00:18:50,100
+I cut spend it.
+
+151
+00:18:50,100 --> 00:18:53,000
+I make them every one re-optimize within the campaign's you have.
+
+152
+00:18:53,000 --> 00:19:04,800
+And that means that like you can grow really efficiently at that point because I very optimized and you're not like bloated with a lot of add keywords, or whatever if you're doing vlad's or whatever particular tool you're in.
+
+153
+00:19:04,800 --> 00:19:07,500
+And so I think about that with everything though.
+
+154
+00:19:07,500 --> 00:19:17,000
+So I look at you know I ran an outbound team and an inbound team and to me like all that mattered was your Roi on each of those humans because basically there are tool, right?
+
+155
+00:19:17,000 --> 00:19:18,200
+Like You're paying for them.
+
+156
+00:19:18,200 --> 00:19:21,900
+And, so I think about all marketing channels, like that organic same thing.
+
+157
+00:19:21,900 --> 00:19:23,300
+Like, how much does it cost to create content?
+
+158
+00:19:23,300 --> 00:19:32,000
+Well, okay, there's like your costume to organic and I break it out like that and then I try very hard to like focus on the.
+
+159
+00:19:32,300 --> 00:19:33,400
+I mean, it sounds so obvious.
+
+160
+00:19:33,400 --> 00:19:44,700
+Everyone says this, but like I literally do this like just focus on the one thing that's working and to try to add their instead of like trying to do everything at once and that means slower growth in a lot of ways.
+
+161
+00:19:44,700 --> 00:19:52,700
+But like I do think right now in the current environment You're not going to triple like you're going to double, like it's going to be really hard.
+
+162
+00:19:52,700 --> 00:20:03,500
+And I think with boards breathing down people's necks like you don't want to be spending making those assumptions until you're really secure with that level of spend.
+
+163
+00:20:04,200 --> 00:20:05,900
+Because at the end of the day it's my job on the line, right?
+
+164
+00:20:05,900 --> 00:20:07,000
+Like whom are they going to yell at?
+
+165
+00:20:07,000 --> 00:20:08,400
+It's me, right?
+
+166
+00:20:08,500 --> 00:20:09,300
+Right?
+
+167
+00:20:09,400 --> 00:20:11,400
+What are they trying to be really conservative?
+
+168
+00:20:12,200 --> 00:20:17,100
+What are the current channels going into 2023 that you guys are focused on?
+
+169
+00:20:17,200 --> 00:20:18,700
+On and then doubling down on.
+
+170
+00:20:19,200 --> 00:20:30,300
+I mean, people would probably, like, judge me, this is another thing like, you know, we're talking about the myths and attribution and modeling like the belief that there is somehow some magic be to be like sauce.
+
+171
+00:20:30,300 --> 00:20:32,200
+And Instagram is kind of lost on me.
+
+172
+00:20:32,200 --> 00:20:36,200
+Like, I just, I don't think that Facebook is going to.
+
+173
+00:20:36,200 --> 00:20:38,800
+I know you can do really good look-alikes, and you can do all sorts of things.
+
+174
+00:20:38,800 --> 00:20:54,100
+But like unless you're targeting a person who is on Instagram all day, like I guess more tech people, like, I am on Instagram a lot but like I am going after Different Persona and like, I don't think they're sitting there all day, and so I don't think it's an efficient use of capital.
+
+175
+00:20:55,500 --> 00:20:58,100
+I still think Google will reign supreme.
+
+176
+00:20:58,500 --> 00:21:02,000
+I think that it's the best, like, it's the highest intent traffic.
+
+177
+00:21:02,000 --> 00:21:06,500
+You can pull in, and I think you can inform a lot off of what Google keywords are performing.
+
+178
+00:21:06,500 --> 00:21:08,900
+Like you can build SEO programs, you can build a million things.
+
+179
+00:21:10,000 --> 00:21:20,200
+And I think that LinkedIn, you know, for a B2B for not everyone, you know, I have done this for different personas, like it doesn't always work but If LinkedIn is performing for you, it's very expensive, but it tends.
+
+180
+00:21:20,500 --> 00:21:21,600
+It has some really good targeting.
+
+181
+00:21:21,600 --> 00:21:29,400
+And in some ways I think LinkedIn, you know, I have an agency now that runs this, but they said this to me and I thought this was like, I trust them.
+
+182
+00:21:29,700 --> 00:21:47,000
+That the LinkedIn is almost at a point where you can do true, ABM on it like you don't really need to buy an additional software to do that and that's what I mean about like be careful about your marriage sex doc you know the era of like just by everything by an intent based software right before you get into that.
+
+183
+00:21:47,200 --> 00:21:48,900
+Let us jump into myth number one.
+
+184
+00:21:48,900 --> 00:21:50,500
+Let us go to the first one.
+
+185
+00:21:50,500 --> 00:21:52,900
+What is your first myth?
+
+186
+00:21:54,100 --> 00:21:55,800
+You need more Tech tools.
+
+187
+00:21:56,500 --> 00:21:57,600
+I don't think so.
+
+188
+00:21:59,400 --> 00:22:01,100
+I mean, I guess you didn't pack them.
+
+189
+00:22:02,400 --> 00:22:04,100
+You need some more Tech tools.
+
+190
+00:22:04,100 --> 00:22:06,700
+Do you need something to send emails?
+
+191
+00:22:06,900 --> 00:22:08,200
+That's a good system.
+
+192
+00:22:08,200 --> 00:22:09,400
+That campaign stamps.
+
+193
+00:22:09,700 --> 00:22:10,100
+Yes.
+
+194
+00:22:10,200 --> 00:22:12,400
+So you need like Marketo or HubSpot.
+
+195
+00:22:12,400 --> 00:22:12,600
+Thank you.
+
+196
+00:22:12,600 --> 00:22:15,400
+Not going to live without that marketing automation is core.
+
+197
+00:22:15,400 --> 00:22:16,500
+You need to do lead scoring.
+
+198
+00:22:18,200 --> 00:22:20,200
+Do you need much else?
+
+199
+00:22:21,400 --> 00:22:22,800
+I don't know, maybe segment.
+
+200
+00:22:22,800 --> 00:22:25,700
+Even if your product team isn't running out, like that's something you need.
+
+201
+00:22:25,700 --> 00:22:33,100
+You need to see a mess, otherwise you're slow and clunky and by the way, talk about Lessons Learned, you know, I am notorious, I will never forget this.
+
+202
+00:22:33,100 --> 00:22:39,000
+I have told to companies that if you didn't code your own f****** website, you are in a tech company, not true.
+
+203
+00:22:42,800 --> 00:22:43,200
+Oops.
+
+204
+00:22:44,300 --> 00:22:51,100
+But the that you need to CMS and I think that's really the core of what you need to do your job.
+
+205
+00:22:51,200 --> 00:22:51,600
+Job.
+
+206
+00:22:51,600 --> 00:23:01,100
+And then you need to be able to take that data at from segments and you need an analyst who can build you some sort of bi tool which the company probably needs anyway.
+
+207
+00:23:01,100 --> 00:23:17,700
+So it's not really a marketing purchase but I think with those things you can do just about anything you need some data tools, if you're going to pull list and things like that and you need, you know, the B2B toolset of like some sort of CMS but I see it's ERM sorry.
+
+208
+00:23:17,700 --> 00:23:39,800
+But other than that, like Think you can do a lot and, you know if you're starting out like I think it depends on the era of the company to like, I have gotten some tools, I love an example of show pad, that was really expensive and spent a lot of money on it, but it depends on the needs of the business and I think that made sense for us.
+
+209
+00:23:39,800 --> 00:23:42,700
+But like I am not I can't buy show ped today at the company.
+
+210
+00:23:42,700 --> 00:23:44,300
+I am at they don't need and it's expensive.
+
+211
+00:23:44,300 --> 00:23:54,400
+So that's not a marketing attribution tool, but I think just that's one thing I think just if you look at even the Our Tech stack is like you need visible and you need this thing and you need that thing.
+
+212
+00:23:54,400 --> 00:24:06,300
+And you know, you know, some sort of Demands software, you need something to send gifts, you need like Lord, only knows like there's just a million tools and I don't think you do.
+
+213
+00:24:06,300 --> 00:24:09,700
+And I actually think like, if your foundations aren't, if your house isn't built, right?
+
+214
+00:24:09,700 --> 00:24:15,100
+Like the more you add the worse, it gets because that's why your attribution is f*****.
+
+215
+00:24:15,200 --> 00:24:16,500
+Like just bottom-line.
+
+216
+00:24:16,500 --> 00:24:24,200
+Like you cannot, you cannot look it attribution and think like, oh, hey like Our inputs equals better like that's not actually true.
+
+217
+00:24:24,200 --> 00:24:31,500
+If you can't understand the simple stuff, like adding more to it just makes it like data soup and soup, you end up.
+
+218
+00:24:32,000 --> 00:24:32,800
+It is Data soup.
+
+219
+00:24:32,800 --> 00:24:34,100
+And then it's like the UTM.
+
+220
+00:24:34,100 --> 00:24:34,800
+Have you ever seen?
+
+221
+00:24:34,800 --> 00:24:36,600
+Like the, I have done this so many times.
+
+222
+00:24:36,600 --> 00:24:56,100
+Now that like, it almost, it's almost comical to me, like, I have yet to join a company that could do utm's properly like the UTM Mass is like, I don't know what that is, but like I think I actually think I do know I think like there is a human aspect to all of this, you cannot take the human out of it and like, you know, you don't want a doctor who's been on for 20 hours a week.
+
+223
+00:24:56,100 --> 00:25:00,100
+You don't really want a marketer being responsible for adding tagging codes like that.
+
+224
+00:25:00,100 --> 00:25:00,900
+Do you want to pull a?
+
+225
+00:25:00,900 --> 00:25:03,600
+You want to automate as much of that as possible and remove that?
+
+226
+00:25:03,700 --> 00:25:13,800
+And so, with more Tech tools, you're getting into, like, we need to do multi-touch attribution, and we need to do all these things because we touch them so many times, and we need to like the world is so complicated and often.
+
+227
+00:25:13,800 --> 00:25:25,900
+If you believe that You just swim in your data and I have talked to many CEOs and I have talked to many people where they're unable to tie their conversions to like a source really tie the conversions to a source.
+
+228
+00:25:25,900 --> 00:25:34,600
+So it's like, oh well like you teams are being stripped on the, like, Google oauth page, or like, we don't really know where all these people came from, but like, they're converting.
+
+229
+00:25:34,600 --> 00:25:36,200
+So like how do we decode that?
+
+230
+00:25:36,200 --> 00:25:38,700
+And I am like, well, I just don't trust my marketing team.
+
+231
+00:25:38,700 --> 00:25:55,500
+I hear that a lot, and I am like, well, If that's the case, like, why are you letting them by more s*** like stop buying s*** like and start over a little bit, like, revisit the core of, like, what, you know, how these things are built.
+
+232
+00:25:55,500 --> 00:26:00,200
+And I think, like, if you can build and I almost, it's I it's funny.
+
+233
+00:26:00,200 --> 00:26:03,300
+I hope none of the people that have worked for me.
+
+234
+00:26:03,300 --> 00:26:05,700
+You're going to hear this, but I hated marketing Ops.
+
+235
+00:26:05,700 --> 00:26:06,700
+I have inherited it a lot.
+
+236
+00:26:06,700 --> 00:26:10,400
+It's like very complicated and important actually.
+
+237
+00:26:10,400 --> 00:26:17,400
+And they I actually think like don't buy tools like get your marketing Ops in order, like Get the Lead scoring working.
+
+238
+00:26:17,900 --> 00:26:23,400
+Spend the time, making sure your status is makes sense, that you can pull the reports you need.
+
+239
+00:26:23,700 --> 00:26:35,800
+And I think, like, often, you know what, you see on LinkedIn is like, you need to do like 50 touch attribution and you need to this tool changed my life.
+
+240
+00:26:35,800 --> 00:26:44,800
+And I don't think that anybody talk about, it is really doing it because if you're really doing it, then you wouldn't need to talk about it.
+
+241
+00:26:45,000 --> 00:26:51,400
+Like companies this masked ball might drop and I mean, it's kind of true, isn't it?
+
+242
+00:26:51,400 --> 00:26:55,100
+Like they're looking Its social media.
+
+243
+00:26:55,100 --> 00:27:09,500
+Like it's like the era of YouTube is kind of ending to write and like, how many people bought makeup because they were told to buy it by someone who is paid by a makeup company to do it, you know, like I don't, I don't think that you can that wasn't true reviews.
+
+244
+00:27:09,500 --> 00:27:16,800
+Like mmm, that was marketing and like I think as a marketer you guys people should be a little more Savvy.
+
+245
+00:27:16,800 --> 00:27:20,500
+Like, you know, you read about how Uber did it or how this company did it.
+
+246
+00:27:20,500 --> 00:27:24,400
+But if you actually talk to people work at these companies and I do try To do that a lot.
+
+247
+00:27:24,400 --> 00:27:25,900
+They're just like, oh yeah, it was really messy.
+
+248
+00:27:26,100 --> 00:27:33,000
+It was bad like, okay, makes I think that like, Yeah, The Illusion that someone has it together.
+
+249
+00:27:35,200 --> 00:27:46,200
+I don't know, I think it's always a challenge and if you're dependent on tools, you're actually in a worse position than if you're at least dependent on yourself with the economy being where it is.
+
+250
+00:27:46,200 --> 00:27:50,400
+Like, you don't want to be hyper dependent on a tool set.
+
+251
+00:27:50,400 --> 00:27:53,400
+It also means like you're managing tools, right?
+
+252
+00:27:53,400 --> 00:28:01,500
+Like, that's, that's a lot of work versus Andre, I think with, you know, the actual working on doing marketing, like I bought drift.
+
+253
+00:28:01,500 --> 00:28:04,200
+I will tell you, I tell everyone that I bought, I was really early to drift.
+
+254
+00:28:04,200 --> 00:28:05,200
+They came to our Office.
+
+255
+00:28:05,200 --> 00:28:05,800
+They like built.
+
+256
+00:28:05,800 --> 00:28:11,900
+It was so early that I remember the amazing guy who like literally like, wrote all the coffee for me and like installed it on our website.
+
+257
+00:28:11,900 --> 00:28:13,100
+I am sure they don't do that anymore.
+
+258
+00:28:14,200 --> 00:28:16,000
+And I was so excited.
+
+259
+00:28:16,000 --> 00:28:17,300
+I literally did the math put them?
+
+260
+00:28:17,300 --> 00:28:20,500
+I was like, we get this many visitors a month at this conversion rate.
+
+261
+00:28:20,500 --> 00:28:21,900
+You're going to give me a 2% uptick.
+
+262
+00:28:21,900 --> 00:28:27,600
+That means that I am going to have this much money more and on my lead funnel every month.
+
+263
+00:28:27,600 --> 00:28:30,100
+And they were like, yo, it's like magic.
+
+264
+00:28:30,900 --> 00:28:31,300
+And you know what?
+
+265
+00:28:31,300 --> 00:28:32,600
+It actually turned into.
+
+266
+00:28:32,600 --> 00:28:33,600
+It was a nightmare.
+
+267
+00:28:33,600 --> 00:28:34,800
+I didn't know how to turn it off.
+
+268
+00:28:34,900 --> 00:28:35,200
+Off.
+
+269
+00:28:35,400 --> 00:28:39,700
+It was always on the SDR team disappeared to Burning Man.
+
+270
+00:28:39,700 --> 00:28:43,500
+And I spent the whole week trying to figure out how to turn drift off because no one could man.
+
+271
+00:28:43,500 --> 00:28:45,500
+It did nothing.
+
+272
+00:28:46,000 --> 00:28:49,300
+And like, I was like, oh lesson learned.
+
+273
+00:28:49,300 --> 00:28:52,300
+Like if your you made me believe I needed this.
+
+274
+00:28:52,300 --> 00:29:00,500
+And you did some really good marketing, but like I don't think this does much like I summons, highly motivated to buy your product, do they really need to chat pop up to make them buy it?
+
+275
+00:29:00,500 --> 00:29:03,600
+Like probably not support.
+
+276
+00:29:03,600 --> 00:29:04,800
+That makes a lot more sense.
+
+277
+00:29:05,200 --> 00:29:11,100
+But I don't know about for marketing, like, and like to make matters even more interesting like we had intercom.
+
+278
+00:29:11,100 --> 00:29:12,800
+And I bought drift on top of that.
+
+279
+00:29:14,100 --> 00:29:17,900
+Wow, cool.
+
+280
+00:29:18,600 --> 00:29:22,300
+You had real-life experience lesson learned right there.
+
+281
+00:29:23,100 --> 00:29:23,400
+Yeah.
+
+282
+00:29:23,400 --> 00:29:27,600
+I mean, and but that's not an attribution tool but it's the same thing and that adds complexity, right?
+
+283
+00:29:27,600 --> 00:29:39,300
+Because now you're like, if you're looking at attribution and you're looking at the world of where things are coming from, you, suddenly have another chance Well, that isn't capturing your utm's like suddenly they're in a chair pot you're like f***.
+
+284
+00:29:39,400 --> 00:29:40,900
+Where the hell did these people come from?
+
+285
+00:29:41,000 --> 00:29:47,700
+I don't know and I think like you really want to streamline that and you want to make it easy for the buyer.
+
+286
+00:29:47,700 --> 00:30:00,800
+Like you know what do I think is like the most important thing actually for a B2B marketer to buy, it's a calendar booking tool for the most part nobody wants to like when would want to take a break, which one's your favorite?
+
+287
+00:30:00,800 --> 00:30:04,900
+No, I am going to give props to Chile Piper but I will say that it has its problems.
+
+288
+00:30:05,000 --> 00:30:07,800
+Mm, I like chili Piper.
+
+289
+00:30:07,900 --> 00:30:09,200
+I think on a big sales team.
+
+290
+00:30:09,200 --> 00:30:16,400
+They do like really smart routing and but do I think for most teams you could probably get away with like the built-in HubSpot one?
+
+291
+00:30:16,400 --> 00:30:16,800
+Yeah.
+
+292
+00:30:17,300 --> 00:30:24,700
+Or you know whatever, I don't think you need an, if you don't have a big sales team you don't need to worry about routing in the way that you do with.
+
+293
+00:30:24,800 --> 00:30:32,500
+You know many people It's just not an issue you're dealing with so that's the other thing.
+
+294
+00:30:32,600 --> 00:30:34,000
+I think that's like a thing.
+
+295
+00:30:34,000 --> 00:30:35,500
+I would say Tech has cool.
+
+296
+00:30:35,600 --> 00:30:45,600
+The martic is really cool but like some of those only are opportunities at scale and so like if you have a one-person marketing team and a one-person sales team, like do you really need this?
+
+297
+00:30:46,200 --> 00:30:46,800
+It's good.
+
+298
+00:30:48,000 --> 00:30:49,000
+No, that's good.
+
+299
+00:30:49,000 --> 00:30:49,300
+All right.
+
+300
+00:30:49,300 --> 00:30:50,300
+Well, let us go in and myth.
+
+301
+00:30:50,300 --> 00:30:55,500
+Number 20, can't chat GPT run.
+
+302
+00:30:55,500 --> 00:30:57,500
+My marketing team question mark.
+
+303
+00:30:59,200 --> 00:31:01,200
+No question.
+
+304
+00:31:03,200 --> 00:31:04,200
+I don't think so.
+
+305
+00:31:04,900 --> 00:31:17,100
+I know and if you look at like I can't, I mean I got a slack from somebody that said like, hey here's some marketing strategy AI tool, and I was like, And they were like, well, would you use this?
+
+306
+00:31:17,100 --> 00:31:19,000
+And I was like, no, I write my own strategy.
+
+307
+00:31:19,000 --> 00:31:29,300
+Like, I, isn't that what you pay me for like no, I wouldn't use that but like you can't AI your way out of a problem yet.
+
+308
+00:31:29,300 --> 00:31:30,800
+Like the AI, isn't there?
+
+309
+00:31:31,200 --> 00:31:45,300
+You know, like a I was really good at doing like a really a, to be line thing like with living within a box and I think that you need to understand more than anything what you're putting into something if you're going.
+
+310
+00:31:45,500 --> 00:31:46,900
+Anything else out of it?
+
+311
+00:31:46,900 --> 00:31:48,300
+Like I said I use Jasper.
+
+312
+00:31:48,300 --> 00:31:49,900
+But like if you can't tell Jasper.
+
+313
+00:31:49,900 --> 00:31:50,700
+Hey Jasper.
+
+314
+00:31:52,200 --> 00:31:58,800
+I need you to write me exactly this post with this as a message line and this is like the kicker and the audience and everything I want.
+
+315
+00:31:58,800 --> 00:32:07,200
+Like it's really just doing the writing, it's not doing the ideas, and so I don't know like I am really ants I think.
+
+316
+00:32:07,300 --> 00:32:07,700
+Yeah.
+
+317
+00:32:10,300 --> 00:32:16,100
+By the idea that there's like if there's a I run, it's somehow like a good tool and I see so many of them, you know, we get sent all the time.
+
+318
+00:32:16,100 --> 00:32:21,200
+It's like we're going to do AI routing, and we go to do it everything lead scoring.
+
+319
+00:32:21,200 --> 00:32:26,500
+We're going to do AI this, and we have machine learning on this and a proprietary algorithm.
+
+320
+00:32:26,500 --> 00:32:29,400
+I have heard that term a lot its patented.
+
+321
+00:32:29,400 --> 00:32:37,700
+I am like okay I worked in an IP patent for him is like one of my first jobs and I can tell you right now, you can get a patent for anything as long as like the words don't exist in the world.
+
+322
+00:32:37,700 --> 00:32:42,800
+That doesn't mean it's like groundbreaking Tech and so, I don't know.
+
+323
+00:32:42,800 --> 00:32:46,000
+Like, I think that's just a, it's a sad state for marketing that.
+
+324
+00:32:46,000 --> 00:32:52,400
+Like, that's what we're marketers are selling to the world, which means, like as a marketer, you're going to come in, and they're going to be like, well, why do I need you?
+
+325
+00:32:52,400 --> 00:32:56,400
+Like I run on LinkedIn that you could, you don't.
+
+326
+00:32:56,400 --> 00:32:59,400
+I mean, I just got a flag, I read on LinkedIn.
+
+327
+00:32:59,400 --> 00:33:00,800
+You don't need an outbound team anymore.
+
+328
+00:33:00,800 --> 00:33:03,900
+The marketing team should just send sequences and that's more efficient.
+
+329
+00:33:03,900 --> 00:33:06,200
+I was like Okay.
+
+330
+00:33:06,200 --> 00:33:12,700
+I mean I sure but also like at what cost, what's the conversion rate versus a personalized?
+
+331
+00:33:12,700 --> 00:33:13,200
+Email?
+
+332
+00:33:13,400 --> 00:33:23,000
+If you were able to give a targeted list to a bdr team or an SDR team and personalize all those emails from the get go and do multi-touch, do you get more bang for your buck?
+
+333
+00:33:23,000 --> 00:33:26,100
+Like that's you should test that.
+
+334
+00:33:26,200 --> 00:33:30,900
+Like, I don't know the answer, but I think that those are the questions that people aren't asking.
+
+335
+00:33:30,900 --> 00:33:34,500
+They're just like, oh, I read it on LinkedIn and I can give you like crazy.
+
+336
+00:33:34,500 --> 00:33:40,100
+I mean, I ran a scr team and like the LinkedIn Str world is quite Big.
+
+337
+00:33:40,200 --> 00:33:42,000
+And I feel like marketing is kind of like that too.
+
+338
+00:33:42,000 --> 00:33:46,900
+And, you know, yeah, 20 there was like this, this thing like you should send a break up email.
+
+339
+00:33:49,200 --> 00:33:56,400
+No, you shouldn't send a breakup email like if they have a responded to you and you're just like I feel like I am not getting the message.
+
+340
+00:33:56,400 --> 00:33:59,100
+Yeah you're not getting the message, they're not going to respond to that email.
+
+341
+00:33:59,100 --> 00:34:01,200
+Like that's its a numbers game.
+
+342
+00:34:01,200 --> 00:34:02,900
+It's not a lake or.
+
+343
+00:34:02,900 --> 00:34:07,200
+And they also said like oh if you put in typos people will think it's a human.
+
+344
+00:34:08,100 --> 00:34:08,699
+No.
+
+345
+00:34:09,000 --> 00:34:09,600
+It turns out.
+
+346
+00:34:09,600 --> 00:34:11,600
+Google will just Spam block you.
+
+347
+00:34:11,699 --> 00:34:13,300
+So like just don't do that.
+
+348
+00:34:13,300 --> 00:34:18,699
+Like it's simple and you know like that's the examples of like people read.
+
+349
+00:34:19,000 --> 00:34:19,400
+Finally.
+
+350
+00:34:21,000 --> 00:34:24,800
+Also, once it's working for him, it's already not working by the time, he posts about that.
+
+351
+00:34:24,800 --> 00:34:30,199
+So you probably shouldn't listen to No One's Gonna Give You their, like, Masters stop.
+
+352
+00:34:30,199 --> 00:34:32,699
+Like I just wouldn't, that's just not how it works.
+
+353
+00:34:33,500 --> 00:34:33,900
+But anyway.
+
+354
+00:34:33,900 --> 00:34:35,600
+Yeah, I mean, my husband is, it's funny.
+
+355
+00:34:35,600 --> 00:34:45,100
+My husband is big in crypto, and he often talks about like, oh, I am gonna get this AI to do my marketing strategy, and I am like good luck with that.
+
+356
+00:34:46,699 --> 00:34:51,400
+You let me know how that pans out, and he's like, he's like I tried it and it was Isn't very good.
+
+357
+00:34:51,500 --> 00:34:52,800
+No, yeah.
+
+358
+00:34:52,800 --> 00:34:56,000
+So basically you're seeing anything pretty much.
+
+359
+00:34:56,000 --> 00:35:04,400
+It needs to be led driven strategically by humans and yeah, and I think the same thing with nortec.
+
+360
+00:35:04,400 --> 00:35:10,900
+Like, if you don't know why you're buying a tool, you're never going to get value out of it like, you know, be strategic.
+
+361
+00:35:10,900 --> 00:35:15,300
+I think I can't buy 70 tools and like I think that's something that's like a big difference in.
+
+362
+00:35:15,300 --> 00:35:17,300
+Like it took me years to get here, right?
+
+363
+00:35:17,300 --> 00:35:18,700
+Like it's not like I did that.
+
+364
+00:35:18,700 --> 00:35:19,600
+I did the same s***.
+
+365
+00:35:19,600 --> 00:35:21,400
+Like I just need everything to My life better.
+
+366
+00:35:21,400 --> 00:35:23,200
+Like I am going to be the best of my job.
+
+367
+00:35:23,200 --> 00:35:25,600
+If I buy drift, I am going to be the best of my job if I said do.
+
+368
+00:35:25,600 --> 00:35:27,900
+So I am going to be the best of my job if I buy whatever.
+
+369
+00:35:28,300 --> 00:35:41,700
+But like if you start to look at it long term and you actually see the budgets and the way that this is done at the top and the way people are reporting to boards and the way that through actually accountable to this marketing is accountable, for cost of acquisition, usually across marketing.
+
+370
+00:35:41,800 --> 00:35:44,400
+So that includes software, spend what that means is.
+
+371
+00:35:44,400 --> 00:35:47,700
+If you have a big software spend, you can't spend as much money on ads.
+
+372
+00:35:47,700 --> 00:35:48,800
+You can't do the fun stuff.
+
+373
+00:35:48,800 --> 00:35:50,500
+You can't run branded campaigns you.
+
+374
+00:35:50,600 --> 00:35:52,800
+Can't do Billboards, you can't do cool stuff.
+
+375
+00:35:54,500 --> 00:36:00,100
+You know, there's something to be said for out-of-home media and like that is expensive.
+
+376
+00:36:00,300 --> 00:36:04,800
+And it's not a play for Legion, but it's you can't do that.
+
+377
+00:36:04,800 --> 00:36:09,800
+If you spend all your money on Mark Tech like and why I would rather do that.
+
+378
+00:36:09,900 --> 00:36:14,000
+So well anyway, Julie you have such Rich experience.
+
+379
+00:36:14,000 --> 00:36:20,400
+I just want to hear one of your experiences coming into a marketing team.
+
+380
+00:36:20,700 --> 00:36:28,000
+For the first time you're the head of the marketing and what's the first thing you do?
+
+381
+00:36:29,100 --> 00:36:30,600
+Yeah, I do the same thing everywhere.
+
+382
+00:36:30,600 --> 00:36:40,700
+So I think I am hired for like, you know, I say I am a revenue base marketer if they're looking for like a brand person, or they're looking for a product marketer, they're probably not going to hire me.
+
+383
+00:36:40,700 --> 00:36:45,300
+So usually when I come in there's a reason and it's like DG is the problem.
+
+384
+00:36:46,600 --> 00:36:50,500
+And so, first thing I do is I assess the agency and I run.
+
+385
+00:36:50,600 --> 00:36:52,600
+My own attribution model.
+
+386
+00:36:52,600 --> 00:36:55,500
+I tell everyone and I have this is the thing about attribution.
+
+387
+00:36:55,500 --> 00:36:56,000
+That kills me.
+
+388
+00:36:56,600 --> 00:37:00,300
+I think it's there is no, there is no perfect world.
+
+389
+00:37:00,300 --> 00:37:13,200
+There is no perfect attribution and you need to just be consistent across the board, like just pick something and go with it and like if you don't have 16 analysts and you're not You don't know everything.
+
+390
+00:37:13,600 --> 00:37:28,400
+The best way to go is first touch because I mean that specifically because you want to give as much especially when you're looking at budgets you want to power up your paid advertisements as much as possible because often a most of the conversions are going to happen whether they heard about you organically first or not.
+
+391
+00:37:29,700 --> 00:37:38,300
+You want to make sure that you're capturing as much of your paid advertisement into conversion as possible in an early stage company, or mid-stage, even, or even sometimes later stage.
+
+392
+00:37:39,300 --> 00:37:44,200
+And I think that, like, that's the first thing I do is Like we're running first hunch, I wanted across-the-board.
+
+393
+00:37:44,200 --> 00:37:48,300
+I go to a data team if they have it, if not, I am like scampering around trying to find it.
+
+394
+00:37:48,400 --> 00:37:49,900
+I say I want a model built this way.
+
+395
+00:37:49,900 --> 00:37:54,300
+I want my cost per conversion on each point I had like an actual spreadsheet.
+
+396
+00:37:54,300 --> 00:37:57,900
+I give them and then I tell them like I need the state at like ASAP.
+
+397
+00:37:57,900 --> 00:38:04,000
+And I am going to build a model to at least goal where we should be on all of these to hit our goals as a company.
+
+398
+00:38:04,900 --> 00:38:06,300
+And that's, I begin there every time.
+
+399
+00:38:06,300 --> 00:38:18,000
+So it's usually the agency or the in-house paid crew is like getting a big Dragon eye on them or whatever you call it, like a dagger where I come in and a bull's-eye, and I am like, what are you doing?
+
+400
+00:38:20,200 --> 00:38:25,900
+And I think the easiest way to solve that problem is often just to throw out the agency and start over with a new one.
+
+401
+00:38:27,500 --> 00:38:48,800
+And just like and if painful like those people aren't bad people, you know, like I have had to let go of people who were great but like I need a clean slate to start over and That you can't often do with an in-house or with the people who have done it the way, they have done it because they were unwilling to kind of like revisit.
+
+402
+00:38:48,800 --> 00:38:53,900
+And the second thing I do is I make sure if they have segment running, I usually don't join a company that doesn't have segmented.
+
+403
+00:38:53,900 --> 00:38:57,300
+I do like some research on that beforehand just because it makes my life so much better.
+
+404
+00:38:58,900 --> 00:39:09,100
+I use segment, I take as much of the I am working on this, you know, in currently and I will probably always be working on this, but I am taking as much of the data as possible out of our marketing attribution.
+
+405
+00:39:09,400 --> 00:39:12,100
+Our marketing, it's not attribution you.
+
+406
+00:39:12,100 --> 00:39:16,500
+Use that word and I will suppose my head, I am marketing, what they called automation?
+
+407
+00:39:17,400 --> 00:39:27,500
+I take as much of that out of reporting out of Marketing automation as possible and get a dash boarded on a bi tool like Tableau or look or something like that, if possible.
+
+408
+00:39:28,100 --> 00:39:31,200
+So you can use the segment data and then use first touch their.
+
+409
+00:39:31,700 --> 00:39:33,000
+I think that's cleaner.
+
+410
+00:39:33,400 --> 00:39:34,500
+It's a place to start.
+
+411
+00:39:34,600 --> 00:39:39,200
+I mean, I would love to be in a world where we were running, you know, a w attribution.
+
+412
+00:39:39,300 --> 00:39:47,700
+It will but for now like at least I have a number to go off of and then I can go back and say like, all right, you're costing me this much per lead.
+
+413
+00:39:47,800 --> 00:40:12,800
+This much per sales qualified lead, this punch for close lost or close one and then I can Baseline and I can improve and I can then look at like the niche within each area and say like all right your landing page conversion is horrific let us like fix that or you know the leads are bad like it's The sales team is complaining their bad.
+
+414
+00:40:13,800 --> 00:40:25,100
+I don't fight that fight at the sales, team tells me, they don't like believes, I am just like yeah okay they're probably got and I start there and like ice cream done the due diligence to actually see the data.
+
+415
+00:40:26,300 --> 00:40:27,300
+Exactly and it's easy.
+
+416
+00:40:27,300 --> 00:40:41,100
+If they are like if you look and it's like wow we're spending two hundred thousand dollars on every close one we have and the sales team is like I just work, s*** leads all day and 90% of their revenue is or there are Advertising is a Facebook you're like huh?
+
+417
+00:40:41,900 --> 00:40:53,800
+Yeah, okay, well let us turn that off and then you can take that money and like, you know, you can steal from Peter to pay Paul but you don't, you can hire people.
+
+418
+00:40:54,100 --> 00:41:02,600
+People are really helpful, you can invest in, you know, I think the, this is why I like a, I can't do your marketing without great content.
+
+419
+00:41:02,600 --> 00:41:06,500
+Like your kind of f***** anyway, because what are they going to do?
+
+420
+00:41:06,500 --> 00:41:07,100
+They hit your website.
+
+421
+00:41:07,100 --> 00:41:07,800
+They don't know what you do.
+
+422
+00:41:07,800 --> 00:41:08,500
+They hate your website.
+
+423
+00:41:08,500 --> 00:41:09,100
+You have no social.
+
+424
+00:41:09,300 --> 00:41:18,800
+Proof, you know, you want like to build that resource center and so you can hire content writers, you can, there's a lot of stuff you can do with the money.
+
+425
+00:41:18,800 --> 00:41:22,500
+That's being spent on more Tech in my opinion and like I came into one company.
+
+426
+00:41:22,500 --> 00:41:24,100
+I save them almost a million dollars.
+
+427
+00:41:24,500 --> 00:41:25,100
+Whoo.
+
+428
+00:41:25,300 --> 00:41:30,500
+In March Tech buys and you know, events and you name it.
+
+429
+00:41:30,500 --> 00:41:31,300
+And events are cool.
+
+430
+00:41:31,300 --> 00:41:36,700
+And I Big Brand play but like, unless you can directly see a correlation to revenue, like there.
+
+431
+00:41:38,900 --> 00:41:41,300
+I don't think it worth do it.
+
+432
+00:41:41,300 --> 00:41:41,800
+You want it?
+
+433
+00:41:41,800 --> 00:41:43,200
+You got to keep it real with you.
+
+434
+00:41:43,200 --> 00:41:50,200
+We do see a correlation with that's I mean that and I some people do like in and I think well you're I mean that makes sense.
+
+435
+00:41:50,200 --> 00:42:11,200
+Like first of all you're a vent platform and say like people are like oh this is cool like and that makes sense to me and but like most companies aren't seeing that, you know, they're spending three hundred four hundred thousand dollars on an event, and then they assume like, There are companies that have done an amazing job as an events.
+
+436
+00:42:11,200 --> 00:42:16,700
+Like, I worked with a marketing operations person from Anna plan and like, they were an event machine.
+
+437
+00:42:16,800 --> 00:42:20,500
+Like, they got all their leads from events, they knew how to work them.
+
+438
+00:42:20,500 --> 00:42:25,700
+They knew what they were doing, but she was always like when you to do events, and I was like, well, we have done them a lot.
+
+439
+00:42:25,700 --> 00:42:30,300
+Like, for us, it has really done that.
+
+440
+00:42:30,900 --> 00:42:38,300
+And I think like, you can get a sense, you know if there's like a right and it depends on your buying cycle to like if you can get somebody.
+
+441
+00:42:38,600 --> 00:42:46,400
+To see you in a booth and like they're willing to buy pretty fast and yeah of course Double Down, triple down, go everywhere.
+
+442
+00:42:46,500 --> 00:42:47,400
+Do it all good.
+
+443
+00:42:49,200 --> 00:42:55,700
+How long does it take like to do that whole evaluation process until you're at the point where like, okay all the boxes are checked.
+
+444
+00:42:55,800 --> 00:42:59,300
+I have got my dashboards and place got the right team.
+
+445
+00:42:59,700 --> 00:43:01,000
+I have got all the things in place.
+
+446
+00:43:01,000 --> 00:43:02,200
+How long does that take?
+
+447
+00:43:05,900 --> 00:43:18,900
+You know, I am really lucky in that I have like a core team that comes with me, but it takes me about a month to on board into a company and learn where everything is.
+
+448
+00:43:18,900 --> 00:43:20,000
+That's like the hardest part.
+
+449
+00:43:20,000 --> 00:43:20,400
+Like what?
+
+450
+00:43:20,800 --> 00:43:21,600
+Where is it?
+
+451
+00:43:23,000 --> 00:43:25,900
+And then it takes me about a month to ramp my team.
+
+452
+00:43:26,000 --> 00:43:27,200
+I do that kind of in tandem.
+
+453
+00:43:27,200 --> 00:43:33,300
+So like a month and a half year at, usually, they're 22 months, I am fully ramped, usually around 3 months.
+
+454
+00:43:33,400 --> 00:43:34,500
+Like I am ready to go.
+
+455
+00:43:36,700 --> 00:43:41,300
+I always want to cut it down but it takes me about that long to end.
+
+456
+00:43:41,300 --> 00:43:44,500
+And usually I mean depends on how bad things are, right?
+
+457
+00:43:44,500 --> 00:43:52,500
+Like it at one of the companies I was at and like I don't want to go into names but I definitely had a win within two weeks that like transform my life.
+
+458
+00:43:52,900 --> 00:43:53,200
+You know.
+
+459
+00:43:53,200 --> 00:43:57,500
+I took their cost of a sales qualified lead from 20K to the eight hundred dollars in two weeks.
+
+460
+00:43:57,500 --> 00:43:59,300
+And like, how did you do that?
+
+461
+00:43:59,300 --> 00:44:00,400
+It's just reporting.
+
+462
+00:44:00,600 --> 00:44:05,300
+Well, I said, well, let us do first touch and I they were driving everything to a website to free.
+
+463
+00:44:06,500 --> 00:44:09,900
+To a free product to the homepage, and I was like, huh?
+
+464
+00:44:11,100 --> 00:44:11,800
+That doesn't make a lot of sense.
+
+465
+00:44:11,800 --> 00:44:26,300
+And then within the free product like it wasn't set up to convert like the product wasn't built as a sales tool right like it'd be kind of got lost in there, and so I took all the traffic and I moved it to gated landing pages which is like super old school.
+
+466
+00:44:26,300 --> 00:44:28,400
+By the way this is like be to be 101.
+
+467
+00:44:30,800 --> 00:44:33,000
+I took all the data we had and lucky for me.
+
+468
+00:44:33,000 --> 00:44:41,400
+They have been doing this long time, so I had a lot of data and I went through on a keyword level through like you can just tie it all in on segment all the way to revenue.
+
+469
+00:44:41,400 --> 00:44:47,200
+Like, and I was just like anything that has not closed one on a keyword in x amount of time we kill.
+
+470
+00:44:47,600 --> 00:44:51,700
+And so it was their entire keyword list went away overnight.
+
+471
+00:44:51,700 --> 00:45:06,400
+We got it down to like, you know, 40 keywords, and then it grew because I mean obviously I didn't keep it at $900 but that's like I reduce spends quite a bit too but like, I kept it at a very reasonable rate for a very long time.
+
+472
+00:45:08,100 --> 00:45:25,400
+You know, something that's market conditions but I do think like, I can see, correlations between like when I was out or when somebody else Managed IT, and I can see the psych urge in marketers, particularly paid marketers to spend more and, and I see this all the time, actually, in Tech this urge to change things.
+
+473
+00:45:25,400 --> 00:45:36,400
+I change it, change it, make it better, make it better but like actually if you think through your strategy from the get-go and you hold course in like the times of uncertainty you make.
+
+474
+00:45:36,500 --> 00:45:46,900
+Better decisions and like you do pivot your strategy but like if you hold longer your normalizing the data better and that is like the thing that a I can't do right?
+
+475
+00:45:46,900 --> 00:45:50,800
+Because it's going to Pivot all the time and that's not a good strategy.
+
+476
+00:45:50,800 --> 00:45:58,700
+Like Adding keywords all the time and adding more negative keywords and taking away things and like, doing that constantly is like very unproductive.
+
+477
+00:45:58,700 --> 00:46:06,800
+And like, yes, you want to do that in your agency's, doing that on some level, but like, you don't want to be a bipolar marketer.
+
+478
+00:46:07,800 --> 00:46:18,800
+I don't know about you, but I definitely manage paid when I go in every day and be like, oh, we go And then I say that everything and I read you the ads like and I got so paranoid.
+
+479
+00:46:18,800 --> 00:46:20,500
+I had this SDR team helping me.
+
+480
+00:46:20,500 --> 00:46:22,300
+I was like what do you think, will convert?
+
+481
+00:46:22,500 --> 00:46:22,700
+You know?
+
+482
+00:46:22,700 --> 00:46:23,700
+And like that's not great.
+
+483
+00:46:23,700 --> 00:46:26,300
+That's not a great situation Gone With the Wind what they're doing.
+
+484
+00:46:27,200 --> 00:46:27,600
+Yeah.
+
+485
+00:46:27,600 --> 00:46:40,000
+And then it's and then you don't know like you don't have any data about what's working, and so I like really learned from that experience of asking this por Ser to help me make banners.
+
+486
+00:46:40,900 --> 00:46:44,100
+And from that point forward, I have kind of Never done that.
+
+487
+00:46:44,100 --> 00:46:48,600
+I just hold like I am like okay I believe in this, and I am going to give it like before I launch.
+
+488
+00:46:48,600 --> 00:46:55,300
+I am like I am going to give it this amount of time this is the right amount of time and I just sit and then I like and then I learned to manage up, right?
+
+489
+00:46:55,300 --> 00:46:56,800
+Like I am just like, don't worry about it.
+
+490
+00:46:57,800 --> 00:47:01,600
+I got my Wong is a good amount of time to let it sit.
+
+491
+00:47:01,600 --> 00:47:04,600
+I think it depends on, you know, again, you're buying cycle.
+
+492
+00:47:04,600 --> 00:47:06,700
+Like, I think it takes a month.
+
+493
+00:47:06,900 --> 00:47:13,100
+It really takes a month in most B2B companies to get a really good feel on what quality is.
+
+494
+00:47:13,200 --> 00:47:17,400
+Is coming in because you have got generally, like, these are huge generalization.
+
+495
+00:47:17,400 --> 00:47:20,700
+Some people are much more efficient and this is where tooling becomes an important, right?
+
+496
+00:47:20,700 --> 00:47:28,000
+Like if you have a big sales team and you can shorten your Cycles like yeah, that's like holy s***.
+
+497
+00:47:29,400 --> 00:47:35,200
+That's when you buy tools because like every day you can shorten that sales cycle, it's more money in the door, it's better for everybody.
+
+498
+00:47:35,200 --> 00:47:37,200
+But like until you're at that point.
+
+499
+00:47:38,500 --> 00:47:39,300
+Don't do that.
+
+500
+00:47:39,900 --> 00:47:46,300
+But basically I think it takes like a lead comes in takes about a month.
+
+501
+00:47:46,400 --> 00:47:50,400
+Usually between scheduling and like getting them on a phone to get them like qualified.
+
+502
+00:47:52,000 --> 00:48:00,900
+Sometimes two weeks, I am trying to get it down to two weeks like but I try to give it a month at least at first and then shorten as needed and that's slow.
+
+503
+00:48:01,500 --> 00:48:07,100
+But I think you know instinct is everything and Everyone's probably read blank.
+
+504
+00:48:07,100 --> 00:48:13,500
+It's like going to date me so badly but Malcolm Gladwell was like, oh if you just like train for 10,000 hours, you can be a violinist or whatever.
+
+505
+00:48:13,500 --> 00:48:19,800
+But like and then his whole Spiel was like that ultimately what your training is intuition.
+
+506
+00:48:19,900 --> 00:48:23,300
+And so it's like in every gut, check the gut check is right?
+
+507
+00:48:23,400 --> 00:48:40,400
+And that's where you need to go as a marketer and like, I have done this a lot, so I have a pretty good Instinct on it, but like, I think that like there's yeah, I will go to my myth number three, like, which is like you, you need to spend money to make money, like not true, it's not true.
+
+508
+00:48:41,400 --> 00:48:42,700
+You need to spend some money.
+
+509
+00:48:42,700 --> 00:48:50,700
+Like you can't run a company without spending money, but I would spend that money on people, like humans are worth more, like they're more valuable.
+
+510
+00:48:51,100 --> 00:49:03,800
+And there's this misnomer that like oh hey if I just have all the data if I just get more data, like I get this all the time, they like we want like more quiet like more For more fun and like, what are you going to do with it?
+
+511
+00:49:03,800 --> 00:49:05,600
+You can't even manage like the 6 inputs.
+
+512
+00:49:05,600 --> 00:49:24,300
+We have right now like what we're going to add more to this like you're just in a bad situation and so yeah, I really focus on that is like, and I think that you, if you run a really streamline marketing team, the things that actually matter in the things that can make the difference or like how you're doing the research into all of that and your product marketing team.
+
+513
+00:49:24,300 --> 00:49:31,500
+So like if you have a nice tight Loop or you're talking to your customers and you're getting feedback from them, you know what, ads to run You know what?
+
+514
+00:49:31,500 --> 00:49:32,100
+Two platforms.
+
+515
+00:49:32,100 --> 00:49:32,500
+They're on.
+
+516
+00:49:32,500 --> 00:49:45,100
+You're getting a lot of information and then if you're tracking it rights and you have like a good attribution system setup that's like kind of can't break, which means there's its your own system, you're pretty safe.
+
+517
+00:49:45,100 --> 00:49:49,800
+Like you can be a conservative marketer for a while until you're ready to make big bets.
+
+518
+00:49:49,800 --> 00:50:00,800
+And like, there are times that I made huge, huge bets that are paid off in some Heaven, you know, like that's kind of the name of the game in marketing but like I have run big competitor.
+
+519
+00:50:00,900 --> 00:50:02,700
+Ads for spent a fortune on them.
+
+520
+00:50:03,400 --> 00:50:04,200
+Sometimes that works.
+
+521
+00:50:04,200 --> 00:50:05,100
+Sometimes it doesn't.
+
+522
+00:50:05,100 --> 00:50:10,600
+I have done huge conferences again like I don't know.
+
+523
+00:50:11,800 --> 00:50:14,800
+Anyway that's like--that's what I would say.
+
+524
+00:50:14,900 --> 00:50:17,600
+Yeah, okay, I am like all over the place, so I am going to, I love it.
+
+525
+00:50:17,600 --> 00:50:19,400
+Nope, we're tracking.
+
+526
+00:50:19,600 --> 00:50:22,200
+And we have got a couple of great questions.
+
+527
+00:50:22,700 --> 00:50:25,000
+Let us pull up this first question here.
+
+528
+00:50:26,800 --> 00:50:33,800
+How important is marketing Ops when it comes to building your marketing house?
+
+529
+00:50:35,100 --> 00:50:39,200
+I think that marketing Ops is the most important thing you can do is actually, I spend the most time now.
+
+530
+00:50:40,200 --> 00:50:47,100
+I start there because if your track like again this comes down to like how do you ingest the data?
+
+531
+00:50:47,100 --> 00:50:51,700
+And like there's a lot of talk around vanity metrics and like what is a vanity metric?
+
+532
+00:50:51,700 --> 00:50:59,500
+And like well if you go to, if you're tracking everything, you don't know what's important.
+
+533
+00:50:59,500 --> 00:51:02,200
+Like all data is not information.
+
+534
+00:51:02,300 --> 00:51:14,000
+Like it's like if you don't know what the important thing is I go back to this all the time, the Heap is like a tool that I have used in the past and one of the things that really irks me about It is like Jose tiger, everything like just take it all like the colors.
+
+535
+00:51:14,000 --> 00:51:17,400
+It is like everything's tag and then nobody knows what to look at.
+
+536
+00:51:17,400 --> 00:51:25,800
+And they're like, well, you know, like they hovered on the page for 20 minutes, and I am like, So like what are you trying to do on this page?
+
+537
+00:51:25,800 --> 00:51:27,100
+Like what is your goal?
+
+538
+00:51:27,100 --> 00:51:39,100
+And if you can't tell me that and data makes that hard like the world of data makes that really hard we have this like a human instinct to be like weirdos better and that's how you manage upright like you strip out the math, the metrics.
+
+539
+00:51:39,100 --> 00:51:41,500
+You give them the core of what they're looking for.
+
+540
+00:51:41,800 --> 00:51:45,500
+It's like hey your business is growing like stop looking at the MTL number.
+
+541
+00:51:46,100 --> 00:51:50,400
+Stop looking at like all of this you're going to get a feedback loop from sales like stop stressing out.
+
+542
+00:51:50,500 --> 00:51:51,800
+Like it's going to be okay.
+
+543
+00:51:53,300 --> 00:52:08,600
+But yeah, that's kind of like my like mentality, I don't know, like, I have been like a kind of polarizing picture figurehead here because like, I think, Everyone has a different Vision on this, and but I think marketing office is like, the single most important thing you can do.
+
+544
+00:52:08,600 --> 00:52:10,300
+If you don't have a good mql system.
+
+545
+00:52:10,500 --> 00:52:16,700
+If you can't, like if you don't have an mql process and a standardized mql process, then your data is all over the place, right?
+
+546
+00:52:16,700 --> 00:52:22,000
+Like and your reactive and reactivity is never wins ever.
+
+547
+00:52:22,600 --> 00:52:33,400
+It's all about being thoughtful and I think Marketing in particular is the most important team to do that because like we are the team that is caught.
+
+548
+00:52:33,500 --> 00:52:40,900
+But first, we are the team that is seen as I have never worked in a job that someone hasn't overtly told me I am sure I could do that.
+
+549
+00:52:40,900 --> 00:52:50,000
+I am like, could you, you know, it's like everyone thinks they can just do it because it's all over the Internet and Linkedin is telling them they can.
+
+550
+00:52:50,000 --> 00:52:51,700
+And Facebook's telling them they can.
+
+551
+00:52:51,700 --> 00:53:01,400
+Everyone is there's a book about it but like again I think that actually the patients and the like having a really strong foundation in marketing Ops is like where you win.
+
+552
+00:53:02,000 --> 00:53:03,400
+Its I would lead score.
+
+553
+00:53:03,600 --> 00:53:06,600
+The thing that I have done consistently that has been a game-changer.
+
+554
+00:53:06,900 --> 00:53:18,800
+It's like, dude, I don't know how many people in the room or that I am talking to you, or, like, the cro has, like a magic tool book like a cro comes in, and does this like pricing magic where Revenue grows?
+
+555
+00:53:18,800 --> 00:53:23,800
+And it's like everyone's happy, and they just like increased prices, but they did it right?
+
+556
+00:53:23,800 --> 00:53:27,500
+And they deserve a lot of credit for that because they figured out what the exact number is, right.
+
+557
+00:53:27,600 --> 00:53:33,300
+But like, I think that lead scoring is like that marketer Magic Moment where it's just like poof, we have the information.
+
+558
+00:53:33,500 --> 00:53:35,900
+We need we can run nurtures, we can push people.
+
+559
+00:53:35,900 --> 00:53:53,600
+We can open up leads when we need to, we can do a lot of things and like that's super old school and I think it's the thing that when you buy all this tool set you're not spending the time doing that foundational piece and like you know, I think that's like where you choose your marketing operations person wisely have.
+
+560
+00:53:53,600 --> 00:53:58,000
+A lot of power, is that one of your fashion Community mouth Talent?
+
+561
+00:53:58,000 --> 00:53:59,400
+That's the most important higher.
+
+562
+00:54:00,100 --> 00:54:00,900
+I hire.
+
+563
+00:54:02,100 --> 00:54:19,100
+I know I also think about like one thing I will say is like teen is really important to like people are only people and I think if you is there's a disruptive element to a team or there are people that don't make people feel comfortable and build trust like you're totally screwed.
+
+564
+00:54:19,100 --> 00:54:35,800
+So I spend a lot of energy on like who is going to add value to the team and less about the roles sometimes which is weird but it's more data is How important is we're going to the same question but cool.
+
+565
+00:54:35,800 --> 00:54:38,400
+Then finish your thought, I think like yeah.
+
+566
+00:54:38,400 --> 00:54:48,000
+I think like your team and your relationship with your team is so important because if you're afraid to fail in front of the people in that room and the Mark, I always tell I come in, and I start a marketing team.
+
+567
+00:54:48,000 --> 00:54:49,100
+The same no matter where I am.
+
+568
+00:54:49,100 --> 00:54:53,900
+Like this is a circle of trust now, like, you can say anything in this room, this room is safe.
+
+569
+00:54:53,900 --> 00:54:55,000
+This is a safe space.
+
+570
+00:54:56,300 --> 00:54:59,000
+We fail all the time and marketing, like, that's the thing.
+
+571
+00:54:59,000 --> 00:55:01,000
+People don't realize, like half the.
+
+572
+00:55:01,000 --> 00:55:01,700
+I am sure.
+
+573
+00:55:01,800 --> 00:55:04,800
+Every marketer can tell you a story about something really f****** dumb.
+
+574
+00:55:04,800 --> 00:55:06,300
+They did and I have my own way.
+
+575
+00:55:06,300 --> 00:55:15,100
+Believe me like Iran a million like hundreds of thousands of dollars without putting the tags on them, and I was just like oops you know, like we all make mistakes.
+
+576
+00:55:15,100 --> 00:55:23,100
+But if you lie about it and you cover it up and you're not able to come to the people that can help you like that's when you get into trouble.
+
+577
+00:55:23,100 --> 00:55:48,900
+And also if you're not, if you're not a little afraid, I would like feel comfortable feeling, you don't try anything and like you're not willing to take those big bats and So that's actually probably where I spend more energy, and so I probably higher product marketing, and like content DG first, but the third I have hired, you know, I have done a host of things where, like, I have outsourcers I was lucky in this job.
+
+578
+00:55:48,900 --> 00:55:57,000
+It was like something I looked at is I strong as the parking off steam before I joined because I didn't want to rebuild that again.
+
+579
+00:55:57,000 --> 00:55:58,500
+But it is something.
+
+580
+00:55:58,500 --> 00:56:01,300
+I spend a lot of time on and it's something I care about a lot, I think.
+
+581
+00:56:01,400 --> 00:56:04,400
+A lot about the sales status has to, in a way, that's weird for a marketer.
+
+582
+00:56:05,900 --> 00:56:09,400
+I think that the campaign stamping is like so important.
+
+583
+00:56:09,400 --> 00:56:14,000
+And then another thing that people are really f****** bad at naming conventions, like taking it back too.
+
+584
+00:56:15,100 --> 00:56:17,000
+Yeah, like just be consistent.
+
+585
+00:56:17,100 --> 00:56:19,800
+I think that's the it's like tooling can't do that for you.
+
+586
+00:56:20,100 --> 00:56:20,600
+So good.
+
+587
+00:56:20,600 --> 00:56:28,400
+You need to do that process consistency, process, process and like that's probably like I do that.
+
+588
+00:56:28,400 --> 00:56:34,900
+And the other thing I do when I build a team that I think is like, core is I give everyone in the floor for a long time.
+
+589
+00:56:35,000 --> 00:56:40,400
+Like I don't level the team really at first.
+
+590
+00:56:41,300 --> 00:56:47,400
+I put everyone in a room, and I am like, all right, we're all going to have this like lead meeting together.
+
+591
+00:56:47,500 --> 00:57:00,700
+Until I feel that like the teens are functional in a way that like, I can just talk to the directors or whoever is leading the function because I think visibility is like also Really huge portent.
+
+592
+00:57:00,800 --> 00:57:04,300
+Yeah, and I am not a siloed work is a problem.
+
+593
+00:57:06,000 --> 00:57:07,400
+That's a whole nother topic.
+
+594
+00:57:08,200 --> 00:57:13,400
+We have got two more questions here, so I wanted to tackle these before.
+
+595
+00:57:14,000 --> 00:57:22,400
+Our time is up, if more data isn't better, is there a general data point that you found to be really useful across any company?
+
+596
+00:57:23,600 --> 00:57:24,000
+Yeah.
+
+597
+00:57:24,600 --> 00:57:28,300
+So Three things I guess.
+
+598
+00:57:28,300 --> 00:57:40,100
+Like when you're looking at advertising, it's I guess it's like there's like if you look at your big ecosystem you want to know the conversion rate from lead to mql by your core channels, inbound outbound whatever.
+
+599
+00:57:40,600 --> 00:57:41,800
+The mix has infinite.
+
+600
+00:57:42,600 --> 00:57:54,300
+You want to know, then a standardized mql to sales qualified or some version of that marketing qualified to sales qualified and you want to know sales qualified to close one, you need those to do your job, right?
+
+601
+00:57:54,300 --> 00:58:07,000
+Like that's where you begin and then you Ali want to know by Channel like the time because usually the channels differentiate quite a bit and their conversion rates times like a LinkedIn lead doesn't usually convert as fast as a Google leaved.
+
+602
+00:58:07,500 --> 00:58:30,500
+You want to be very cognizant of that because what happens is that part that people don't see is like often with a big raise comes a big model where it's like we need to grow a hundred thousand million dollars tomorrow and you're like oh okay and there's a model there's always a model and how that model is structured is like how you Able to figure out what to do and like what you need to do and how many people you need to hire?
+
+603
+00:58:30,500 --> 00:58:42,500
+And like you know, that's the core of that problem set and so you need to know the times and you need to know the cost and then from there I think but really my like my most important number is always the cost.
+
+604
+00:58:42,500 --> 00:58:46,700
+Usually I like I said about sales qualified lead or an Excel is accepted lead or something.
+
+605
+00:58:46,800 --> 00:58:53,400
+Some version of that state it's an easy one to get usually everyone can understand it.
+
+606
+00:58:53,500 --> 00:58:57,200
+And then I think I tried very much to.
+
+607
+00:58:57,200 --> 00:59:00,700
+Then when I present above, it's like marketing leads.
+
+608
+00:59:00,700 --> 00:59:12,000
+I don't try, I don't like tell them the differentiations that much because I don't want anybody digging into the house until it's ready to like be presented and I think you want to give people autonomy.
+
+609
+00:59:12,000 --> 00:59:22,500
+So generally you're like, I don't know what his bill you do but like generally, you know, best like what your number should be and if you don't like, you need to ask the question, like, what is the goal of my job?
+
+610
+00:59:22,500 --> 00:59:24,200
+Okay, that's my f****** number.
+
+611
+00:59:24,800 --> 00:59:27,500
+Like how do I drive that and then focus on the top?
+
+612
+00:59:27,600 --> 00:59:31,500
+Like, you know I it's funny we run SEO in a really weird way.
+
+613
+00:59:32,700 --> 00:59:39,900
+I do look at visits to the website and Trends over time but like I am looking for consistency not like do we get 200,000 visits today?
+
+614
+00:59:39,900 --> 00:59:46,200
+Like okay cool like Jeff you know, like I think that's where you get in trouble and so like we want to find consistent patterns.
+
+615
+00:59:47,300 --> 00:59:49,100
+So yeah, I don't be more data better.
+
+616
+00:59:49,100 --> 00:59:51,500
+No, I don't think so, but so good.
+
+617
+00:59:51,500 --> 00:59:53,100
+You know, people would argue with me.
+
+618
+00:59:54,300 --> 00:59:55,300
+They do all Time.
+
+619
+00:59:56,000 --> 01:00:01,000
+I think you're getting a lot of nodding heads and our crowd here so you can take a look at chat and cool.
+
+620
+01:00:01,500 --> 01:00:03,000
+One more question.
+
+621
+01:00:04,400 --> 01:00:14,400
+When you say that you prefer to look at marketing data in a bi tool, like Tableau alongside your other data, what's the best way that you found to get data out of HubSpot?
+
+622
+01:00:15,500 --> 01:00:16,700
+That's such a great question.
+
+623
+01:00:16,900 --> 01:00:18,200
+We use HubSpot by the way.
+
+624
+01:00:18,200 --> 01:00:21,100
+I am not the biggest HubSpot ban, so I like Marketo better.
+
+625
+01:00:21,100 --> 01:00:23,600
+So that's like bit of a thing.
+
+626
+01:00:23,600 --> 01:00:24,900
+A spy last.
+
+627
+01:00:26,100 --> 01:00:29,900
+Yeah, I mean the UI is much better and HubSpot like, let us just be real.
+
+628
+01:00:29,900 --> 01:00:33,300
+Like it's a beautiful Much Better Built tool like Marketo.
+
+629
+01:00:33,300 --> 01:00:36,600
+I am just like 1990 called like when are you going to update the s***?
+
+630
+01:00:36,600 --> 01:00:42,800
+And also, like, in Marketo the, it's like, you can't get out of a tab like you can literally open a tab and can't get back.
+
+631
+01:00:42,800 --> 01:00:44,200
+Like you gotta like, click out Mike.
+
+632
+01:00:44,200 --> 01:00:46,500
+Its horrific product.
+
+633
+01:00:47,400 --> 01:01:05,400
+The like 121 sync with Salesforce is really valuable and you can do a lot more advanced routings in my Experienced in Marketo because if you're using Salesforce like the complexity of the Salesforce ecosystem and the amount of tools sitting on Salesforce.
+
+634
+01:01:05,400 --> 01:01:13,400
+If you have a big sales team, I think that Marketo is just a superior tool because it has a better eye frame for the sales team to like go in.
+
+635
+01:01:13,400 --> 01:01:16,400
+And like if you can do the interesting moments and you can do all sorts of stuff.
+
+636
+01:01:16,400 --> 01:01:20,800
+We're like HubSpot I don't think is as good as out yet.
+
+637
+01:01:20,800 --> 01:01:22,900
+I know they claim they are but like, in my opinion.
+
+638
+01:01:23,600 --> 01:01:26,500
+Also, like, I don't know, I mean Market in Marketo my whole life.
+
+639
+01:01:26,500 --> 01:01:27,500
+I have used Marketo my whole life.
+
+640
+01:01:27,500 --> 01:01:35,100
+It's hard to like, doesn't anybody ever feel like you have been sold something and you don't believe you were, like, good at your job unless you use a certain tool.
+
+641
+01:01:35,100 --> 01:01:42,000
+I feel like Marketo did a pretty good job with me, their sales force to on it, like, I don't know.
+
+642
+01:01:42,100 --> 01:01:43,500
+But yeah, I did that.
+
+643
+01:01:43,500 --> 01:01:44,600
+Try to get the data out.
+
+644
+01:01:47,000 --> 01:01:55,500
+Okay, so I think this is really complicated, so we do build a lot of attribution and HubSpot and a lot of the like, Like core reporting is and HubSpot right now.
+
+645
+01:01:55,500 --> 01:01:59,200
+I am having it all transferred back into a bi tool.
+
+646
+01:02:00,400 --> 01:02:02,000
+I don't know how they're doing that though.
+
+647
+01:02:02,300 --> 01:02:02,900
+To be honest.
+
+648
+01:02:02,900 --> 01:02:04,400
+They're doing like an API.
+
+649
+01:02:04,400 --> 01:02:07,300
+Think they're running into segments with all of the events.
+
+650
+01:02:07,700 --> 01:02:10,300
+I also don't use anymore.
+
+651
+01:02:10,300 --> 01:02:12,800
+I don't use Marketo or HubSpot for landing pages.
+
+652
+01:02:12,800 --> 01:02:19,700
+I am a big fan of webflow right now and I build, you know all of my landing pages in one tool.
+
+653
+01:02:19,700 --> 01:02:23,100
+I didn't use to do that but like, I really think that's the future.
+
+654
+01:02:23,300 --> 01:02:24,800
+And like, why would you have another?
+
+655
+01:02:24,800 --> 01:02:44,100
+I Used to Love instapage by the way, loves it but like they're ugly and web flow is beautiful and your designers like you get you look like a designer and I think that just makes your life easier and then with a good CMS like you can just drop a form code anywhere and so like I don't know.
+
+656
+01:02:44,200 --> 01:03:00,300
+So that's how I am getting the data out and like that's why I like Salesforce so much because like basically you can push everything you need into Salesforce and then run that directly into Aunt, if I could direct call or pipe, whatever you want to call it and I don't know how well HubSpot does that.
+
+657
+01:03:00,300 --> 01:03:03,700
+I think it doesn't pretty well though, so I am just not as versed on it.
+
+658
+01:03:06,400 --> 01:03:07,300
+That's how I do it.
+
+659
+01:03:09,200 --> 01:03:10,200
+Amazing.
+
+660
+01:03:10,500 --> 01:03:13,200
+Wow, we're even over time, 3 minutes here.
+
+661
+01:03:13,600 --> 01:03:14,300
+Oh s***.
+
+662
+01:03:15,000 --> 01:03:18,300
+This is really, this is been so rich.
+
+663
+01:03:18,600 --> 01:03:19,100
+Thank you.
+
+664
+01:03:19,200 --> 01:03:20,000
+Okay, I am sorry.
+
+665
+01:03:20,000 --> 01:03:28,300
+I could talk in a while like it's like, oh yeah, we could probably do another session with you and we should but this is beautiful software by the way.
+
+666
+01:03:28,300 --> 01:03:32,600
+I am so impressed with your I am going to talk to my team.
+
+667
+01:03:32,600 --> 01:03:35,200
+I don't know what it cost but I don't buy software.
+
+668
+01:03:35,700 --> 01:03:36,400
+It, is it?
+
+669
+01:03:36,400 --> 01:03:38,700
+I love how easy this is to use.
+
+670
+01:03:40,000 --> 01:03:45,300
+So yeah, okay, well we will get you in touch with our head of sales.
+
+671
+01:03:46,700 --> 01:03:47,600
+Her name's Danielle.
+
+672
+01:03:47,700 --> 01:03:50,200
+No, you should, we touch, but Danielle reach out to me.
+
+673
+01:03:50,200 --> 01:03:52,800
+I would, I would love to talk.
+
+674
+01:03:52,800 --> 01:04:00,100
+It's a really cool software and I like how, I don't know how you're powering all this, but it's pretty instant, I will show you right after this.
+
+675
+01:04:01,100 --> 01:04:02,200
+All right, cool.
+
+676
+01:04:02,700 --> 01:04:03,300
+Yeah.
+
+677
+01:04:03,600 --> 01:04:05,000
+Well, thank you, Julia.
+
+678
+01:04:05,000 --> 01:04:06,300
+We appreciate you.
+
+679
+01:04:06,400 --> 01:04:09,600
+Stay in the green room while I wrap this up.
+
+680
+01:04:10,500 --> 01:04:13,800
+Thank you, everyone for being part of today's interview.
+
+681
+01:04:13,800 --> 01:04:18,400
+If you have got any questions to Julia, feel free to hit her up on LinkedIn, connect with her.
+
+682
+01:04:18,900 --> 01:04:24,600
+In the meantime, we have got an event next week Wednesday.
+
+683
+01:04:25,000 --> 01:04:30,100
+It is called ABM and SEO campaigns at maximize spend and close deals.
+
+684
+01:04:30,300 --> 01:04:35,700
+This is going to be what CMO of demand-based, the CEO, profound strategy, and the CMO blueprint.
+
+685
+01:04:35,700 --> 01:04:38,000
+I, it's going to be a great event.
+
+686
+01:04:38,000 --> 01:04:44,500
+And if you'd like to register, feel free to click on screen right here.
+
+687
+01:04:44,500 --> 01:04:56,500
+Go ahead, click try, clicking on that button, and it should take you right out to our registration page, until then have an amazing rest of your day and your week stay positive.
+
+688
+01:04:56,500 --> 01:04:58,900
+Yes, that is fancy to you like that, huh?
+
+689
+01:04:58,900 --> 01:05:02,800
+I like being able to point at this button and y'all can like click on it real Time.
+
+690
+01:05:02,800 --> 01:05:03,700
+That's pretty dope.
+
+691
+01:05:03,800 --> 01:05:04,600
+Okay.
+
+692
+01:05:05,000 --> 01:05:05,500
+Thank you.
+
+693
+01:05:05,500 --> 01:05:09,800
+Billy have a great one will chat with you soon?
+
+694
+01:05:10,100 --> 01:05:10,600
+Take care.
+
+695
+01:05:31,200 --> 01:05:31,700
+Pain.
+
+696
+01:05:31,700 --> 01:05:32,500
+Can wait.
+
+697
+01:05:32,500 --> 01:05:38,400
+We're only watching the skies hoping for the best but expecting the worst.
+
+698
+01:05:38,400 --> 01:05:40,300
+Are you gonna drop the bomb?
+
+699
+01:05:40,300 --> 01:05:46,200
+Now let us die young or let us live forever.
+
+700
+01:05:46,300 --> 01:05:48,300
+We don't have power for me.
+
+701
+01:05:48,300 --> 01:05:49,700
+Never seen it.
+
+702
+01:05:50,200 --> 01:05:52,100
+Sitting in a sandpit.
+
+703
+01:05:52,200 --> 01:05:54,000
+Life is a short trip.
+
+704
+01:05:54,000 --> 01:05:55,900
+The musics for the sad man.
+
+705
+01:05:57,900 --> 01:06:00,800
+Can you imagine this one?
+
+706
+01:06:01,700 --> 01:06:06,100
+Can I go now faces into the sun prison?
+
+707
+01:06:06,100 --> 01:06:07,200
+Our leaders.
+
+708
+01:06:07,200 --> 01:06:12,300
+We get into music played by the mud man.
+
+709
+01:06:58,800 --> 01:07:09,700
+Someone like what is someone like the he some of the many in some other be sooner or later they all will be gone.
+
+710
+01:07:10,100 --> 01:07:19,400
+Why don't they stay it's so hard to get on without it cause I don't want to perish.
+
+711
+01:07:19,400 --> 01:07:27,600
+Like a fading us cues like diamonds in the Sun and diamonds are forever.

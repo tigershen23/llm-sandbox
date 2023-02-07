@@ -1,0 +1,93 @@
+<h1>Integrations - Splash - Implementation</h1>
+<p><span class="wysiwyg-font-size-large"><strong>Splash / Welcome Integration Overview</strong></span></p>
+<p><span style="font-weight: 400;">Welcome offers an integration that connects a Splash Event to a Welcome Event, syncing registrant data between the platforms. </span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">The integration makes it easier for registrants who sign up on a Splash Registration page to navigate and check in to a Welcome virtual event, with the intent to maximize attendance at your Welcome event.</span></p>
+<p><span style="font-weight: 400;">The following steps will allow a Splash administrator to send Event registrants into the Welcome platform. After a Splash guest is sent to Welcome, the guest’s information in Splash is updated with a unique event link for them to access the event seamlessly. This unique link can be used as a personalization token in event reminder emails.</span></p>
+<p><span style="font-weight: 400;">The integration will create new Splash Guests if there are people who checked in to the Welcome Event but were not in Splash.</span></p>
+<p><span style="font-weight: 400;">Lastly, the integration will check for updated attendee information on a daily basis. It will update all splash guests with their most up-to-date registration status at that time.</span></p>
+<p> </p>
+<p><strong>Before We Begin</strong></p>
+<p>* Enabling this integration requires the "Producer" role in Welcome</p>
+<p>* Enabling this integration requires the "Admin" role in Splash. A Pro or Enterprise level Splash account is required to implement the full functionality of the integration, as described above. </p>
+<p> </p>
+<p><strong>Steps 1-8 explain how to configure Splash so that the integration can populate a Splash Event with a Welcome Unique Link for each guest.</strong></p>
+<p> </p>
+<p>1. Contact your representative at Splash and request the following:</p>
+<ul>
+<li>API Client ID</li>
+<li>API Client Secret</li>
+</ul>
+<p>2. Provide the above information to your Customer Success Manager or Solutions Engineer at Welcome, as well as login credentials for your Splash environment.</p>
+<p>3. Within <strong>Splash</strong>, click on the event you want to integrate with Welcome and navigate to the "Settings" page.</p>
+<p> </p>
+<p class="wysiwyg-text-align-center"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4402684538004/Screen_Shot_2021-06-24_at_3.52.10_PM.png" alt="Screen_Shot_2021-06-24_at_3.52.10_PM.png"></p>
+<p>4. In <strong>Splash</strong>, in the "Event Information" tab, scroll down to find the "Tags" field.</p>
+<p>5. In the "Tags" field, please input the event "ID" for the event in Welcome you would like to associate the Splash event with. You can find the event "ID" in the <strong>Welcome platform</strong> by navigating to the Event Dashboard in Welcome. The event "ID" is a string of 6 characters that immediately follows "https://app.experiencewelcome.com/events/" in the event URL. <strong>This is how the Welcome platform will recognize which event in Splash it will need to send registrant data back to.</strong></p>
+<p>In the example screenshot below, the event "ID" is "nyuW1Z".</p>
+<p> </p>
+<p class="wysiwyg-text-align-center"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4402684588948/Screen_Shot_2021-06-24_at_3.59.58_PM.png" alt="Screen_Shot_2021-06-24_at_3.59.58_PM.png"></p>
+<p>Within <strong>Splash</strong>, It is important to note that you must hit the ENTER key on your keyboard as well as click the "save" button on the top right-hand corner of the Splash page in order for the tag to be saved properly.</p>
+<p class="wysiwyg-text-align-center"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4402684836628/Screen_Shot_2021-06-24_at_4.20.07_PM.png" alt="Screen_Shot_2021-06-24_at_4.20.07_PM.png"></p>
+<p class="wysiwyg-text-align-center"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4402684865684/Screen_Shot_2021-06-24_at_4.21.07_PM.png" alt="Screen_Shot_2021-06-24_at_4.21.07_PM.png"></p>
+<p> </p>
+<p>We now need to create a custom field in the event registration that aggregates the custom, unique URL for each attendee. This will ultimately go out in an email so that the attendee can seamlessly be navigated to the event occurring in Welcome with one click of the mouse. Steps 6-9 below describe one method to create this field, but there are other methods. Please engage with a Solutions Engineer or Customer Success Manager to further discuss.</p>
+<p>6. Navigate back to the "Event" and click on the "Registration Form" tile on the center screen in <strong>Splash.</strong></p>
+<p><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4402685664660/Screen_Shot_2021-06-24_at_5.07.58_PM.png" alt="Screen_Shot_2021-06-24_at_5.07.58_PM.png"></p>
+<p>7. On the right-hand side of the screen, click the "Add Question" button at the bottom of the "Content" tab. Click the "Create New" tab and select the "Text (single line) option and click "Add to Form".</p>
+<p class="wysiwyg-text-align-center"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4402686849812/Screen_Shot_2021-06-24_at_8.49.31_PM.png" alt="Screen_Shot_2021-06-24_at_8.49.31_PM.png" width="213" height="518">                              <img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4402686854548/Screen_Shot_2021-06-24_at_8.51.18_PM.png" alt="Screen_Shot_2021-06-24_at_8.51.18_PM.png" width="364" height="337"></p>
+<p> </p>
+<p>8. Please type in <strong>"Unique Link For Welcome Event"</strong> in the Label field exactly. <strong>It is important to emphasize that we must use this exact, case sensitive syntax.</strong> You will notice that the "Field Name" field will auto-populate as well.</p>
+<p class="wysiwyg-text-align-center"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4403292383892/Screen_Shot_2021-07-07_at_12.45.32_PM.png" alt="Screen_Shot_2021-07-07_at_12.45.32_PM.png" width="319" height="363"></p>
+<p>9.  Click the "Edit Logic" button on the bottom right-hand corner. Click "Add Condition" in the new window. The logic should be as follow: Unique Link for Welcome Event will be hidden unless &lt;First Name&gt; equals "Hide Always". Click Done.</p>
+<p> </p>
+<p class="wysiwyg-text-align-center"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4402686935572/Screen_Shot_2021-06-24_at_9.02.52_PM.png" alt="Screen_Shot_2021-06-24_at_9.02.52_PM.png" width="496" height="439"></p>
+<p> </p>
+<p> </p>
+<p><strong>Steps 10-13 are required to properly send registrant data from the Splash event to the Welcome event so that the guest does not need to re-enter any information when they check into Welcome.</strong></p>
+<p>10. Navigate back to the "Settings" page for the event. Click the "Integrations" tab. Click the "New Integration" button. A few tiles will pop-up, scroll down and select "HTTP".</p>
+<p> </p>
+<p class="wysiwyg-text-align-center"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4402687338644/Screen_Shot_2021-06-24_at_9.16.50_PM.png" alt="Screen_Shot_2021-06-24_at_9.16.50_PM.png" width="288" height="339"></p>
+<p>11. In the Authentication tab, confirm that "Authentication Type" is set to "No Authentication". Then, Click Request Settings. In the Endpoint section, choose "POST" as the "Method". <strong>A Welcome Solutions Engineer and/or Customer Success Manager will provide a URL to fill in the "Postback URL" field at this point.</strong> Choose "Content-Type"  as "application/JSON".</p>
+<p> </p>
+<p class="wysiwyg-text-align-center"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4402687431572/Screen_Shot_2021-06-24_at_9.35.29_PM.png" alt="Screen_Shot_2021-06-24_at_9.35.29_PM.png" width="920" height="117"></p>
+<p> </p>
+<p>12. In the "Triggers" section, please select "Attendee" as the trigger, and check the "RSVP Yes" box. This is what will allow Splash to send the updated statuses of each invitee to Welcome in real-time.</p>
+<p class="wysiwyg-text-align-center"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4402899928852/Screen_Shot_2021-06-29_at_12.26.23_PM.png" alt="Screen_Shot_2021-06-29_at_12.26.23_PM.png" width="546" height="280"></p>
+<p> </p>
+<p>13. In order to properly deliver attendee data to the Welcome platform, we must map the attendee's contact information in Splash to the proper fields within Welcome. <strong>It is important to be aware that First Name, Last Name, and Email Address must be mapped at a minimum.</strong> It is also important that while "Splash Field" names can be different we must use the exact field names under the "Remote Field" column, as below:</p>
+<table style="border-collapse: collapse; width: 100%; height: 132px;" border="1">
+<tbody>
+<tr style="height: 22px;">
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;"><strong>Splash Field</strong></td>
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;"><strong>Remote Field</strong></td>
+</tr>
+<tr style="height: 22px;">
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">First Name</td>
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">first_name</td>
+</tr>
+<tr style="height: 22px;">
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">Last Name</td>
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">last_name</td>
+</tr>
+<tr style="height: 22px;">
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">Email</td>
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">email</td>
+</tr>
+<tr style="height: 22px;">
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">Job Title</td>
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">company_role</td>
+</tr>
+<tr style="height: 22px;">
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">Contact Company, [contact.company]</td>
+<td class="wysiwyg-text-align-center" style="width: 50%; height: 22px;">company</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Example Screenshot:</p>
+<p class="wysiwyg-text-align-center"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4402703835540/Screen_Shot_2021-06-24_at_11.31.40_PM.png" alt="Screen_Shot_2021-06-24_at_11.31.40_PM.png"></p>
+<p>Once all the fields are properly mapped, please click the "Save" button.</p>
+<p> </p>
+<p>14. Let's go back to the Event Dashboard in Welcome. Please click on the "Integrations" tab on the left-hand side and click "Trigger Integration". Once this is clicked, the integration is complete! Every day, the integration will automatically find all registrants in the Welcome Event and update the Guests of the associated Splash Event with their most up to date registration status and their unique link. the integration will create new Splash Guests for email addresses it cannot find as existing Guests of the Splash Event. We recommend manually triggering the integration around three hours before the event so that we can ensure the highest probability of all attendees receiving their unique link.</p>
+<p> </p>
+<p class="wysiwyg-text-align-center"><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4403291909012/Screen_Shot_2021-07-07_at_12.25.27_PM.png" alt="Screen_Shot_2021-07-07_at_12.25.27_PM.png"></p>
+<p> </p>

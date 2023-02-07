@@ -1,0 +1,2028 @@
+
+1
+00:06:12,100 --> 00:06:13,300
+Hi everyone.
+
+2
+00:06:13,900 --> 00:06:16,000
+Welcome to today's event.
+
+3
+00:06:16,000 --> 00:06:22,800
+My name is Gina, I am head of marketing with welcome, and we are so excited about today's panel.
+
+4
+00:06:23,700 --> 00:06:38,700
+We are talking today about onboarding and especially with remote teams there is this magic window that either makes or breaks an employee experience as well as their commitment and loyalty to a company.
+
+5
+00:06:39,000 --> 00:06:41,700
+And so we have got Laura from Sora.
+
+6
+00:06:41,900 --> 00:06:47,700
+And Craig from my Avant who's gonna help us dissect and dive deep into some of these insights.
+
+7
+00:06:47,700 --> 00:06:48,500
+Thank you so much.
+
+8
+00:06:48,500 --> 00:06:56,800
+For those of you have submitted, your questions in advance, we're going to address each of those questions, but also note that there is a Q&A tab.
+
+9
+00:06:56,800 --> 00:07:00,400
+So at any given time, feel free to drop your questions.
+
+10
+00:07:00,400 --> 00:07:09,100
+I will be watching the chat as we're going through our panel discussion, and we will pull those in as they're fit.
+
+11
+00:07:09,400 --> 00:07:10,200
+All right?
+
+12
+00:07:10,200 --> 00:07:14,600
+So, a couple of housekeeping, Keeping things note that there is a help tab.
+
+13
+00:07:14,600 --> 00:07:28,600
+So if any of you have questions or technical difficulties, feel free to jump into there and say hello to one of our support folks, and we have also got the volume knobs and closed captioning knobs at the very bottom of the stage.
+
+14
+00:07:28,700 --> 00:07:31,300
+So if any of you need access that it's right there.
+
+15
+00:07:31,600 --> 00:07:32,200
+All right.
+
+16
+00:07:32,200 --> 00:07:34,200
+We're going to kick it off this morning.
+
+17
+00:07:34,300 --> 00:07:34,800
+Well for me.
+
+18
+00:07:34,800 --> 00:07:36,700
+I am in Oahu Hawaii.
+
+19
+00:07:36,700 --> 00:07:38,400
+I am seeing some of you tuning in.
+
+20
+00:07:38,400 --> 00:07:41,700
+We got you sip from Turkey, Canada.
+
+21
+00:07:42,100 --> 00:07:43,700
+All right, we're all over La.
+
+22
+00:07:43,700 --> 00:07:44,800
+This is great.
+
+23
+00:07:45,700 --> 00:07:49,500
+So we're going to kick it off this morning with a pole.
+
+24
+00:07:50,100 --> 00:07:53,600
+What is your biggest onboarding challenge?
+
+25
+00:07:54,400 --> 00:07:56,100
+Feel free to drop your boats.
+
+26
+00:07:56,200 --> 00:08:07,100
+Is it frustrating manual processes, a lack of Engagement scaling as the company grows onboarding remotely or stakeholder accountability?
+
+27
+00:08:07,100 --> 00:08:09,500
+Go ahead and drop in your votes.
+
+28
+00:08:10,400 --> 00:08:12,800
+All right, we're starting to see them come through.
+
+29
+00:08:13,500 --> 00:08:17,000
+Lack of Engagement, onboarding remotely, stakeholder accountability.
+
+30
+00:08:17,000 --> 00:08:18,200
+That's coming up a lot.
+
+31
+00:08:18,200 --> 00:08:19,200
+Then next is.
+
+32
+00:08:19,600 --> 00:08:20,400
+Okay.
+
+33
+00:08:21,100 --> 00:08:25,400
+Leveling out onboarding, remotely and stakeholder accountability.
+
+34
+00:08:26,300 --> 00:08:27,300
+All right.
+
+35
+00:08:27,900 --> 00:08:28,100
+Okay.
+
+36
+00:08:28,100 --> 00:08:29,300
+That's very insightful.
+
+37
+00:08:29,300 --> 00:08:30,000
+Thank you.
+
+38
+00:08:30,000 --> 00:08:33,200
+We're going to pick our panelists.
+
+39
+00:08:33,200 --> 00:08:36,600
+And so with that, I would love to introduce to our stage.
+
+40
+00:08:36,600 --> 00:08:45,400
+Laura co-founder and CEO of skoura And Craig Executive Director people operations and analytics of my Avant.
+
+41
+00:08:45,400 --> 00:08:47,900
+Hello, hello.
+
+42
+00:08:47,900 --> 00:08:49,800
+Hello to see you both.
+
+43
+00:08:49,800 --> 00:08:51,400
+Where are you tuning in from?
+
+44
+00:08:53,000 --> 00:08:55,400
+I am in LA and seasoning.
+
+45
+00:08:56,300 --> 00:08:57,600
+Great! Tiny red.
+
+46
+00:08:57,600 --> 00:09:01,700
+How about you Netherlands?
+
+47
+00:09:03,900 --> 00:09:03,900
+Netherlands.
+
+48
+00:09:04,100 --> 00:09:06,900
+Wow, we are truly across the globe.
+
+49
+00:09:06,900 --> 00:09:07,800
+I am in Hawaii.
+
+50
+00:09:08,000 --> 00:09:16,800
+So It's great to have you here on our stage, and I am very excited about this topic.
+
+51
+00:09:17,400 --> 00:09:23,000
+Some of the poll results that we just saw were identifying some challenges.
+
+52
+00:09:23,000 --> 00:09:26,300
+Are those some common challenges that you normally see?
+
+53
+00:09:26,300 --> 00:09:27,600
+What are your thoughts to that?
+
+54
+00:09:29,400 --> 00:09:32,800
+Yeah, it's not gonna be able to talk this whole time.
+
+55
+00:09:33,800 --> 00:09:34,700
+Yeah, honestly.
+
+56
+00:09:34,700 --> 00:09:35,800
+Very, very common.
+
+57
+00:09:36,100 --> 00:09:37,600
+Everything from manual processes.
+
+58
+00:09:37,600 --> 00:09:41,600
+We here to engaging stakeholders especially hiring managers.
+
+59
+00:09:41,600 --> 00:09:43,100
+We hear that a lot, a lot.
+
+60
+00:09:44,300 --> 00:09:45,300
+And what was the other one?
+
+61
+00:09:45,300 --> 00:09:46,100
+That one?
+
+62
+00:09:47,100 --> 00:09:49,200
+Remind me, I am boarding.
+
+63
+00:09:49,200 --> 00:09:51,500
+Remotely engagement remotely.
+
+64
+00:09:51,500 --> 00:09:51,900
+Yes.
+
+65
+00:09:51,900 --> 00:09:52,800
+Yes, of course.
+
+66
+00:09:52,800 --> 00:09:58,900
+You know that all the time will always will continue to be a question, a very A common question.
+
+67
+00:09:59,400 --> 00:10:02,800
+But especially obviously with covid has been very topical.
+
+68
+00:10:04,800 --> 00:10:06,300
+Yeah, I would, I would agree.
+
+69
+00:10:06,300 --> 00:10:16,800
+I sometimes think were in our own world and doing with their own challenges and then when you pull up and you have discussions like this, we're all dealing with the same things and I do think in some ways.
+
+70
+00:10:16,800 --> 00:10:31,600
+Stakeholder accountability has spiked a little bit more in recent years just because we're working a little bit more virtually and I know we will get into this a little bit later but things like the Buddy program that you set up new hires with.
+
+71
+00:10:31,600 --> 00:10:40,500
+Those are things that are been always Balance with trying to Tinker with to make sure that individual is creating the best experience for new hires.
+
+72
+00:10:41,900 --> 00:10:42,500
+That's good.
+
+73
+00:10:42,600 --> 00:10:43,800
+Oh, I am excited.
+
+74
+00:10:43,800 --> 00:10:53,500
+I have been to some of this but before we do jump into the questions can you tell us a little bit about each of your organization's and what kind of problems you all are solving?
+
+75
+00:10:54,900 --> 00:10:58,400
+Yeah, sure, yeah.
+
+76
+00:10:58,400 --> 00:11:04,400
+So as of three weeks ago, I was with my event Sciences, but I am now a free agent.
+
+77
+00:11:05,200 --> 00:11:15,400
+And in fact, this trip that I am on in Europe, it was one reason I actually left, and I am thinking about extending my trip in Europe for a couple months.
+
+78
+00:11:16,700 --> 00:11:22,100
+But when I was with my event, I was head of people operations and analytics.
+
+79
+00:11:22,800 --> 00:11:25,700
+So we did a lot of the onboarding The off-boarding.
+
+80
+00:11:25,700 --> 00:11:39,100
+We also had responsibility for the full technology stack as well as benefits and then since we were small we would also get involved in the programs like, you know, return to site or the employee survey or Performance Management.
+
+81
+00:11:41,600 --> 00:11:45,300
+And I am Laura, co-founder and CEO of Sora.
+
+82
+00:11:45,800 --> 00:11:59,900
+We are an employee onboarding platform that helps you create really powerful employee experiences, but do so at scale automating a lot of the tedious pieces and doing it with a human touch.
+
+83
+00:12:00,300 --> 00:12:09,200
+So seeing a lot, a lot of companies, onboarding processes, and trying to sort of optimize them and have lots of thoughts on the topic.
+
+84
+00:12:09,600 --> 00:12:10,300
+That's great.
+
+85
+00:12:11,000 --> 00:12:22,500
+All right, so we're going to dive into some of these questions that were submitted in advance, but also questions that we sort of came up with as we were in discussions together as a group prior to this event.
+
+86
+00:12:23,100 --> 00:12:29,200
+You know, we when we think about that magic window that we're just taught, what I was mentioning, there's actually a stat from sure.
+
+87
+00:12:29,200 --> 00:12:35,300
+I am that says, like, you know if you do onboarding well then 69% of your employees will actually stay.
+
+88
+00:12:35,900 --> 00:12:43,600
+So from day one, what are some really great Ways that we can engage our new hire.
+
+89
+00:12:45,400 --> 00:12:59,200
+Yeah, so I think that you sent this even ahead of time and one of the emails promoting this event but I think it's a really big question to sort of unpack.
+
+90
+00:12:59,200 --> 00:13:09,900
+So I like to take the word engage new hire and break it down a little bit and I think there's four main goals in engaging a new hire.
+
+91
+00:13:10,500 --> 00:13:12,700
+One is just getting them excited.
+
+92
+00:13:12,900 --> 00:13:21,200
+Of course like a good first impression is the first thing that happens and it's most important one is introduction.
+
+93
+00:13:22,400 --> 00:13:35,300
+Helping them understand the team and their contributions, and their goals, like introducing them to what work at your company, will be integration where they're actually meeting people.
+
+94
+00:13:35,300 --> 00:13:44,200
+And I always refer to this stat, where referred employees are much more successful on average than non referred employees.
+
+95
+00:13:44,200 --> 00:13:49,400
+And it's not because, you know, of course, it's not that rich people who are referred happened to be smarter than others.
+
+96
+00:13:49,700 --> 00:13:57,900
+It's because they have someone they can go to ask silly questions to ask where they should be finding information.
+
+97
+00:13:57,900 --> 00:14:05,200
+And so our goal should be to shorten that Gap and eliminate the Gap entirely so that everyone feels integrated enough.
+
+98
+00:14:05,200 --> 00:14:09,300
+Where they know where to go for questions with a know where to go for information.
+
+99
+00:14:09,900 --> 00:14:13,400
+So that integration goal I think is very important as well.
+
+100
+00:14:14,000 --> 00:14:20,100
+And finally fourth way I think of Engagement is ramp like actually getting them.
+
+101
+00:14:23,000 --> 00:14:26,800
+Up to speed and set up for success for their actual role.
+
+102
+00:14:26,800 --> 00:14:42,100
+And the skills that they need to develop etcetera, oftentimes that's dependent on teams and all kinds of other things, but excitement, introduction and integration are all things that as people team we can be doing to.
+
+103
+00:14:43,800 --> 00:14:46,400
+We can be influencing in our onboarding processes.
+
+104
+00:14:47,500 --> 00:14:48,300
+That's great.
+
+105
+00:14:48,400 --> 00:14:50,200
+So I will go ahead, Craig.
+
+106
+00:14:51,500 --> 00:14:52,100
+Oh no.
+
+107
+00:14:52,100 --> 00:14:59,100
+I was only going to say we often find new hires have that excitement when they first join.
+
+108
+00:14:59,900 --> 00:15:10,800
+So we really try to focus on what Laura described as the end of introduction integration in a ramp and doing that very well, and we can get into some of those details here in the moment.
+
+109
+00:15:11,500 --> 00:15:19,300
+So just to summarize those four points again it's excitement, introduction integration and ramp.
+
+110
+00:15:20,600 --> 00:15:24,700
+Those are the Is, I think it's easiest to break down and honestly there are 50 more.
+
+111
+00:15:24,700 --> 00:15:32,700
+There are so many goals we could have during onboarding, but I think they mostly can be broken down into those themes.
+
+112
+00:15:33,400 --> 00:15:41,200
+And then, what I typically do when I am helping someone with an onboarding process is for every single one of those goals.
+
+113
+00:15:41,200 --> 00:15:48,200
+Think about what you are doing before they start when they start and a few weeks months after they start.
+
+114
+00:15:48,300 --> 00:15:51,100
+And it just makes it a little easier to break down your process and see.
+
+115
+00:15:51,200 --> 00:16:01,700
+Where you have gaps and where you can fill in, you know, as managers we traditionally here that onboarding window is around 30 60 90, would you sit days?
+
+116
+00:16:02,400 --> 00:16:04,200
+Would you agree to that?
+
+117
+00:16:04,200 --> 00:16:08,200
+Or does it continue before or less than that?
+
+118
+00:16:08,200 --> 00:16:09,200
+Like, what is that?
+
+119
+00:16:09,200 --> 00:16:13,400
+Sweet spot of truly engaging an employee.
+
+120
+00:16:14,900 --> 00:16:24,900
+I do think a little bit before is important to acknowledge having a point of contact having someone on our marketing team, actually published a couple days ago.
+
+121
+00:16:25,800 --> 00:16:30,200
+30 questions that your new hire is probably too scared to ask you.
+
+122
+00:16:30,200 --> 00:16:44,100
+There are a lot of questions that need answering some that we aren't anticipating like a lot of our employees asked what they should wear even though we're a fully distributed company and I never would have thought of that like I am wearing a sweater.
+
+123
+00:16:44,600 --> 00:16:45,500
+Zoom right now.
+
+124
+00:16:46,800 --> 00:16:48,000
+We're on welcome, excuse me.
+
+125
+00:16:48,000 --> 00:16:52,400
+But yeah, I think there are a lot of things.
+
+126
+00:16:52,700 --> 00:16:58,800
+There's a lot of Engagement that needs to happen before the start date to get ready for that.
+
+127
+00:16:58,800 --> 00:17:01,400
+Excitement to get ready for that ramp Etc.
+
+128
+00:17:03,200 --> 00:17:03,900
+What do you think?
+
+129
+00:17:03,900 --> 00:17:07,099
+I know I think that's actually a really good example.
+
+130
+00:17:07,099 --> 00:17:21,000
+We often find that many of our new hires overdressed, the first couple days and to your point, I think they're really trying to understand the Norms of the organization and often.
+
+131
+00:17:21,200 --> 00:17:28,000
+You don't really pick up on a lot of those Norms until you start sort of working with people seeing how other people work.
+
+132
+00:17:28,300 --> 00:17:43,100
+And so, sometimes we take these things for granted, but I do think there's a lot of value in having that resource, perhaps even the recruiter helping with some of those questions, may even prompt some of those questions in advance, just so that the new hire doesn't feel like they're dumb questions.
+
+133
+00:17:44,500 --> 00:17:45,700
+That's a really good one.
+
+134
+00:17:46,000 --> 00:17:47,000
+What should I wear?
+
+135
+00:17:49,300 --> 00:17:56,800
+Great answer to provide a new hire before day one, and they're honestly dozens more like that.
+
+136
+00:17:56,900 --> 00:17:58,100
+You can't see your calendar.
+
+137
+00:17:58,100 --> 00:18:00,100
+Yet what does my first week look like?
+
+138
+00:18:00,100 --> 00:18:03,600
+I have no idea what I am walking into there's a lot.
+
+139
+00:18:03,600 --> 00:18:10,000
+A lot of things you can be doing to prep but then to the other half of your question how long does onboarding extend afterwards?
+
+140
+00:18:10,200 --> 00:18:21,700
+I do think 90 days is a good best practice but honestly The onboarding team, the HR team should be kind of constantly in touch with employees and onboarding.
+
+141
+00:18:21,700 --> 00:18:28,700
+Buddy doesn't have to stop talking to this person after 90 days, you know, ideally, they have actually formed a connection, and they continue to meet.
+
+142
+00:18:30,100 --> 00:18:50,600
+So when Should you evaluate those four goals of onboarding and how you can integrate that into your process 90 days is probably a good boundary to set their but the thoughtfulness should absolutely continue for pretty much the entire tenure of the employee.
+
+143
+00:18:51,900 --> 00:18:57,500
+Well, then are our onboarding process has certainly evolved over the years.
+
+144
+00:18:58,600 --> 00:19:04,100
+One thing we did last year, and I am sure many are familiar on this call or this webinar.
+
+145
+00:19:04,500 --> 00:19:17,200
+We actually ran an organizational network analysis, which essentially is a map of all the connections and who people are connected to it's like really doing an x-ray of your organization.
+
+146
+00:19:17,500 --> 00:19:18,200
+That's cool.
+
+147
+00:19:18,200 --> 00:19:21,000
+What we found was as you.
+
+148
+00:19:21,300 --> 00:19:26,800
+Imagine new hires don't have nearly the number of connections as more tenured employees.
+
+149
+00:19:26,800 --> 00:19:27,800
+That's very normal.
+
+150
+00:19:28,200 --> 00:19:30,700
+But we actually lagged the benchmarks.
+
+151
+00:19:31,200 --> 00:19:36,800
+So prior to that we actually would focus more on working with the manager on.
+
+152
+00:19:36,800 --> 00:19:38,600
+What are the projects, how do you get them?
+
+153
+00:19:38,600 --> 00:19:53,200
+Ramped up very quickly and what we pivoted to was trying to actually get the new hire focus more on the relationship building and it's hard because I think the new hire Comes in, and they want to prove themselves.
+
+154
+00:19:53,500 --> 00:20:00,100
+We really try to say it's not about that at this stage, you're here, and we have hired you for a reason.
+
+155
+00:20:00,700 --> 00:20:21,000
+So we started to do a lot more meet and greets, some of our new hires will facilitate up to 60 plus meet and greets and that may sound overwhelming, but we often get really good feedback because when you get individuals talking one-on-one with individuals that's when you're really going to pick up on.
+
+156
+00:20:21,300 --> 00:20:23,000
+Code, what does that person do?
+
+157
+00:20:23,100 --> 00:20:24,500
+What are some of those Norms?
+
+158
+00:20:25,800 --> 00:20:37,500
+So we try to get the new hire to slow down in the beginning, and really focus on just take a be, you know, focus on some of this new hire paperwork at your benefit sorted out.
+
+159
+00:20:37,600 --> 00:20:42,900
+Yes, you're probably going to have one or two projects from your manager, you can begin working on those.
+
+160
+00:20:43,300 --> 00:20:46,900
+But let us really invest them in getting to know people.
+
+161
+00:20:47,400 --> 00:21:06,200
+And the other thing we got a lot of traction with is even some of the ongoing meetings that happen, weekly, and monthly just involving new hires in those and even though they have no role when they start to observe the other more tenured employees that really I think integrates them very, very quickly.
+
+162
+00:21:08,100 --> 00:21:09,000
+That's interesting.
+
+163
+00:21:09,100 --> 00:21:10,200
+I wanted to touch again.
+
+164
+00:21:10,200 --> 00:21:12,900
+The visual x-ray of the organization.
+
+165
+00:21:13,900 --> 00:21:15,300
+Can you what is that?
+
+166
+00:21:15,300 --> 00:21:19,200
+Like how do you even pull a visual x-ray of?
+
+167
+00:21:19,200 --> 00:21:21,000
+Is it like relationship Network?
+
+168
+00:21:21,800 --> 00:21:23,500
+What exactly is that x-ray?
+
+169
+00:21:25,300 --> 00:21:54,400
+So the primary set of connections, we mapped is through what we call, stakeholder feedback, which we run on an annual basis and what that process looks like, is each employee can nominate up to five individuals to get feedback from and then their manager can review those add maybe delete connections, and then we also later in the reporting hierarchy and from that you can really build out this entire map of whose connected?
+
+170
+00:21:54,600 --> 00:21:59,200
+Who's not, who's far away from each other future State?
+
+171
+00:21:59,200 --> 00:22:09,800
+We want to layer in more of the passive data such as like email, such as like chat messages, not in a big brother way.
+
+172
+00:22:09,800 --> 00:22:12,400
+We have no interest in the content of that.
+
+173
+00:22:12,700 --> 00:22:16,500
+We're just trying to understand how the organization is working.
+
+174
+00:22:16,500 --> 00:22:20,300
+Like whom are your influencers, who are your hubs, who are your Brokers?
+
+175
+00:22:21,000 --> 00:22:24,300
+And it's all with this focus on really getting new hires.
+
+176
+00:22:24,500 --> 00:22:29,200
+Ingrained very quickly and having a healthy Network so that communication is working.
+
+177
+00:22:29,200 --> 00:22:30,600
+Very seamlessly.
+
+178
+00:22:32,700 --> 00:22:33,500
+It's fascinating.
+
+179
+00:22:33,500 --> 00:22:40,200
+If I wanted to do an x-ray of my org like what tool or how do you go back to do that?
+
+180
+00:22:41,800 --> 00:22:52,300
+Oh gosh, I couldn't speak more highly of a tool called poly node, which they're based in Australia, the CEO is so Hands-On.
+
+181
+00:22:52,300 --> 00:22:53,400
+Amazing.
+
+182
+00:22:53,500 --> 00:23:01,700
+And we also use lattice for our Performance Management, and they recently built out an API that seamlessly connects with that.
+
+183
+00:23:01,700 --> 00:23:05,500
+So it's all just plug and play very quickly and it's very cost.
+
+184
+00:23:05,500 --> 00:23:09,700
+Efficient to, these are not heavy resource type projects.
+
+185
+00:23:10,900 --> 00:23:11,600
+Get to know.
+
+186
+00:23:12,600 --> 00:23:13,300
+Awesome.
+
+187
+00:23:14,000 --> 00:23:22,600
+All right, so another question that we have is scaling onboarding depending on company size.
+
+188
+00:23:23,000 --> 00:23:31,300
+So obviously, when you're a smaller company, there's a lot of personal touch that you can offer at that point.
+
+189
+00:23:31,300 --> 00:23:43,800
+But as a company grows from 50 to 100 to 200 to 500, I am sure the thresholds, you know, you have Completely different sets of challenges at scale.
+
+190
+00:23:44,100 --> 00:23:47,400
+So could you both speak to a little bit about that?
+
+191
+00:23:47,800 --> 00:23:48,500
+You know what?
+
+192
+00:23:48,500 --> 00:23:54,100
+What are those thresholds and what are some of the things that need to adjust?
+
+193
+00:23:54,100 --> 00:24:01,700
+So that you could still maintain that human touch, the personalization throughout the employee experience?
+
+194
+00:24:03,200 --> 00:24:04,500
+Yeah, it's a really good question.
+
+195
+00:24:04,500 --> 00:24:05,800
+So I joined my event.
+
+196
+00:24:05,800 --> 00:24:10,000
+When we had 200 employees, and now we are just over 600.
+
+197
+00:24:11,400 --> 00:24:23,400
+I think, when I had first joined, the operations team was immensely responsive in a very personal way to new hires and there's such a beauty in that.
+
+198
+00:24:23,600 --> 00:24:27,700
+But in a lot of ways, I don't think it was creating a consistent experience.
+
+199
+00:24:28,200 --> 00:24:32,800
+And in other ways, I don't think the team that I had was focusing on.
+
+200
+00:24:33,000 --> 00:24:34,100
+Right type of work.
+
+201
+00:24:34,100 --> 00:24:35,700
+It was more manual work.
+
+202
+00:24:36,400 --> 00:24:46,200
+So this is when we actually brought in Surah to help us automate a lot of those tasks and it's a fine line in a lot of ways you don't want to automate it.
+
+203
+00:24:46,200 --> 00:24:53,900
+So that it feels like a machine and you lose the personal touch but in a lot of ways and I think sore is done an amazing job of this.
+
+204
+00:24:54,200 --> 00:25:02,500
+It's actually helped us make the onboarding process very consistent and it's allowed us not to have anything fall through the cracks.
+
+205
+00:25:03,000 --> 00:25:14,300
+We had this issue, where we would have all staff meetings, you on a quarterly basis and the new hires, were not included in that, and we would find out after the fact and that's the hugeness on our part.
+
+206
+00:25:15,300 --> 00:25:28,500
+So that allowed our team to focus more on the curation of the benefits or the day one, orientation or really taking more of the bespoke approach, but just in a different way.
+
+207
+00:25:28,500 --> 00:25:32,200
+So it's focusing on the right work and not so much the manual work.
+
+208
+00:25:34,300 --> 00:25:35,000
+Totally.
+
+209
+00:25:36,300 --> 00:25:48,700
+Yeah, I think a lot of what we see as companies meet hit these sort of inflection points of whatever they were doing, is clearly no longer working, sometimes it's compliance-related.
+
+210
+00:25:48,700 --> 00:25:53,300
+Like, when you're 10 people, you're not really thinking about this large-scale compliance.
+
+211
+00:25:54,100 --> 00:25:57,800
+When you're a thousand people, you better not drop a single person's.
+
+212
+00:25:57,900 --> 00:26:03,400
+I mean, I usually handle drop it a single person's I9 but there's a lot more consequences as you.
+
+213
+00:26:03,500 --> 00:26:04,000
+Larger.
+
+214
+00:26:06,000 --> 00:26:07,800
+There are a lot I guess.
+
+215
+00:26:07,800 --> 00:26:08,100
+Yeah.
+
+216
+00:26:08,100 --> 00:26:09,900
+To sum it up Craig, put it.
+
+217
+00:26:09,900 --> 00:26:18,500
+Well, it's just easy to let more and more things fall through the cracks, as you have more people going through because it's just too much to remember.
+
+218
+00:26:18,500 --> 00:26:28,300
+But also, as you have more things that need to happen in onboarding, you need to schedule a bunch of meat and grades, you need to skip, add them to calendar invites.
+
+219
+00:26:28,300 --> 00:26:30,800
+You need to add them to all the relevant tools.
+
+220
+00:26:30,800 --> 00:26:34,100
+You there's just like more that needs to happen.
+
+221
+00:26:34,100 --> 00:26:42,100
+The more complex, your organization becomes and usually that's living in some kind of spreadsheet or in a combination of a few people's heads.
+
+222
+00:26:43,900 --> 00:26:47,900
+And there's just human error likely to be introduced.
+
+223
+00:26:49,800 --> 00:26:54,700
+Also, to Craig's point, The.
+
+224
+00:26:56,200 --> 00:27:03,600
+Work required to do the sort of bare minimum of just meeting compliance, adding them to the right meetings and getting them set up.
+
+225
+00:27:04,600 --> 00:27:14,600
+Means that a lot of the more human pieces are dropped by default because there's just not enough time in the day to have your ideal onboarding process.
+
+226
+00:27:14,600 --> 00:27:18,500
+So you might have 15 ideas for things, you want to do.
+
+227
+00:27:18,500 --> 00:27:24,000
+But you're never going to get to them because the list of tasks that you must do is only growing.
+
+228
+00:27:24,000 --> 00:27:27,200
+And the number of people you must do them for is only growing.
+
+229
+00:27:30,400 --> 00:27:35,000
+I mean that's brings up a question for me about.
+
+230
+00:27:35,000 --> 00:27:53,100
+Just how do you balance the robotic what could feel like robotic tasks with the human touch Craig you talk a lot about earlier how really getting people into relationship and the one-on-ones is so critical the 60 plus meet and greets, right?
+
+231
+00:27:53,200 --> 00:27:54,800
+I mean how do you balance that?
+
+232
+00:27:54,800 --> 00:27:55,800
+How do you hold?
+
+233
+00:27:56,600 --> 00:27:57,600
+Hold your manager.
+
+234
+00:27:58,000 --> 00:28:26,400
+And also even your team members accountable to making sure that balance is maintained Well, so what's interesting is, we're now getting to this place where the Departments are starting to build their own onboarding process, and we have found, you know, recently that their onboarding process I think was very separate from what we were doing and very misaligned.
+
+235
+00:28:26,400 --> 00:28:34,200
+And so often new hires were being thrown a lot of information in the beginning that they just can't retain.
+
+236
+00:28:35,100 --> 00:28:42,000
+So, Really it's allowed us to just take a step back and actually focus more on the curation and really think through.
+
+237
+00:28:42,000 --> 00:28:43,600
+OK, what do they need to know on day?
+
+238
+00:28:43,600 --> 00:28:55,400
+One day, two weeks, one month one, and then we are starting to also reach out to those departments with larger groups that are having their own onboarding and really figure out.
+
+239
+00:28:55,400 --> 00:28:56,700
+Where is this handshake?
+
+240
+00:28:56,700 --> 00:28:57,800
+That's supposed to happen.
+
+241
+00:28:57,800 --> 00:29:04,400
+So it doesn't feel like we're doing something that's in conflict with what they're doing to do that type of work though.
+
+242
+00:29:04,400 --> 00:29:20,000
+The only way you could, Focus on it is if you automate all these other things that as Laura put, it just consumes your day unless you forgot smarter ways to handle it and you can make even the automated stuff you can make it.
+
+243
+00:29:20,800 --> 00:29:31,300
+There is an upfront cost of like planning, all of that out, making it thoughtful and just kind of mat, you know, it's a simple as like, imagine you're going through onboarding.
+
+244
+00:29:31,400 --> 00:29:33,000
+What communication would you want to know?
+
+245
+00:29:33,000 --> 00:29:35,200
+What questions would you want answered to our points earlier?
+
+246
+00:29:36,900 --> 00:29:38,600
+How should I craft this email?
+
+247
+00:29:39,500 --> 00:29:46,600
+How would I craft this email, if they were employee number 15 with a few logistical changes?
+
+248
+00:29:46,600 --> 00:29:52,800
+That's how you should be speaking to employ number 500 and in sore, at least.
+
+249
+00:29:52,800 --> 00:29:58,300
+But there are other tools that do this as well, you can send an email that's actually coming from a human email address.
+
+250
+00:29:58,600 --> 00:30:05,200
+And when the new hire replies, you that person gets it in their inbox as if they really had sent.
+
+251
+00:30:05,300 --> 00:30:06,100
+That email.
+
+252
+00:30:06,200 --> 00:30:10,400
+So it is actually the human email it's just happening for you.
+
+253
+00:30:10,700 --> 00:30:26,100
+So an automated human email as much as that sounds like an oxymoron and when you are Bringing other stakeholders and I think that was the other part of the question.
+
+254
+00:30:28,000 --> 00:30:30,300
+How can you actually engage managers?
+
+255
+00:30:32,000 --> 00:30:41,100
+Make it very easy for them and make it fun for them and show them the impact of what a great looks like.
+
+256
+00:30:42,400 --> 00:30:47,100
+So, sometimes we have seen customer show, like, this is what good onboarding means for your report.
+
+257
+00:30:47,100 --> 00:30:51,000
+This is what bad onboarding means for your report, and it's really motivating for managers.
+
+258
+00:30:52,400 --> 00:31:14,400
+If you just like, give them a list of 20 things to do, they're never going to look at this email, but if you're leasing it out a little bit and it's like this is the first thing to do the second thing to do, we actually did for you, we're going to send this email from you, you don't need to do anything about it, but if you get a reply FYI, you know, these are some things you can say.
+
+259
+00:31:14,400 --> 00:31:26,200
+So just like make it easy and fun and a little more digestible and again, requires that sort of upfront, planning and thoughtfulness, but pays a lot of dividends in the end.
+
+260
+00:31:27,900 --> 00:31:28,900
+That makes sense.
+
+261
+00:31:29,100 --> 00:31:36,800
+You know, I see a question here from Elise in our Q&A Tab and it's kind of goes along with what we were just talking about.
+
+262
+00:31:36,900 --> 00:31:40,500
+What do your 30-60-90 day touchpoints?
+
+263
+00:31:40,800 --> 00:31:56,900
+Look like, We have a, yeah, we have a template that we candidly, we need to improve upon this as I am sure many, many companies do.
+
+264
+00:31:56,900 --> 00:32:00,800
+But right now, what we do is we have a template for managers.
+
+265
+00:32:01,800 --> 00:32:13,000
+We have Surah tasks that have them schedule at 30, 60, and 90 days meetings that are outside of their typical one-on-ones, and we have our HR team reach out.
+
+266
+00:32:13,500 --> 00:32:16,100
+We Survey at 30 60 and 90 days.
+
+267
+00:32:17,700 --> 00:32:19,300
+What do they look like?
+
+268
+00:32:19,300 --> 00:32:23,600
+They're ideally as goal focused as possible.
+
+269
+00:32:24,100 --> 00:32:25,300
+This is what we said.
+
+270
+00:32:25,300 --> 00:32:29,900
+We wanted to have both on my end as a manager and on your end as an employee.
+
+271
+00:32:30,600 --> 00:32:31,700
+How did we do?
+
+272
+00:32:32,900 --> 00:32:36,200
+Was there anything that you learned in the past 30 day?
+
+273
+00:32:36,200 --> 00:32:38,100
+Let us say you're at 60 days.
+
+274
+00:32:38,400 --> 00:32:40,600
+Was there anything that you learned in the past 30 days?
+
+275
+00:32:40,600 --> 00:32:43,600
+That would have been really helpful to know in your first week?
+
+276
+00:32:43,800 --> 00:32:51,300
+That will help inform future onboarding iterations, just a few thoughtful look back and look forward questions.
+
+277
+00:32:51,300 --> 00:33:07,500
+They don't have to be, you know, 90-minute conversations by any means, but they should be genuine and thoughtful and actually trying to pull out information that you will use in future iterations, or with that employee to improve their experience.
+
+278
+00:33:07,800 --> 00:33:12,000
+Rather than, like, did you have a good time?
+
+279
+00:33:12,000 --> 00:33:13,700
+Like, that's not really actionable.
+
+280
+00:33:13,900 --> 00:33:16,000
+On anyone's end.
+
+281
+00:33:18,300 --> 00:33:30,000
+Yeah, and we think about the first 30 days is sort of the hygienic period of how do we make sure that they're enrolled in benefits and the I9 they have gone through sexual harassment training.
+
+282
+00:33:30,500 --> 00:33:40,100
+We're also in a highly regulatory type environment, so there's many compliance things and Sops that they have to read.
+
+283
+00:33:40,900 --> 00:33:44,500
+I wish we could do a better job of tearing those out.
+
+284
+00:33:44,500 --> 00:33:46,600
+But for various reasons, it's hard.
+
+285
+00:33:47,600 --> 00:33:49,700
+But we So, and Laura spoke about this.
+
+286
+00:33:49,700 --> 00:33:56,300
+We also try to introduce some of the fun things so you get to order your swag in the first week.
+
+287
+00:33:56,300 --> 00:34:09,400
+We also when we were all working from home during covid, we would have them record a welcome video, which we would show at an all staff meeting so that's yeah that's more or less the first 30 days.
+
+288
+00:34:09,400 --> 00:34:16,199
+The first 60 days, we start to get them into more of the Performance Management type stuff.
+
+289
+00:34:17,900 --> 00:34:23,300
+We Use a tool as I mentioned called lattice and it's been a game changer for us in that.
+
+290
+00:34:23,500 --> 00:34:33,500
+The user experience is very strong, but it also has this functionality called one-on-ones which really allows a manager and employee to throughout the week.
+
+291
+00:34:33,699 --> 00:34:36,500
+Put on, you know, this one on one tool.
+
+292
+00:34:36,600 --> 00:34:46,500
+What they want to talk about when they actually discuss and it allows the manager to have a little bit of a preview of what's on the new hires mind and vice versa.
+
+293
+00:34:46,800 --> 00:34:54,100
+And if they don't get to a top, Like it just carries over to the next week so it really allows them to get in sync and very, very quickly.
+
+294
+00:34:54,800 --> 00:35:01,700
+We also introduced them to a recognition program and making sure that they know they can recognize employees.
+
+295
+00:35:02,200 --> 00:35:06,100
+And then when we get to the 90-day Mark, that's more of the check-in for us.
+
+296
+00:35:06,500 --> 00:35:07,400
+How are you doing?
+
+297
+00:35:07,400 --> 00:35:08,800
+How are things going?
+
+298
+00:35:09,500 --> 00:35:12,600
+We haven't got to this stage, or we have some work to do on that.
+
+299
+00:35:14,000 --> 00:35:20,100
+We're not as proactive as I wish, we were just because we're all busy, but that's where we're headed in the future.
+
+300
+00:35:21,300 --> 00:35:21,900
+I love that.
+
+301
+00:35:21,900 --> 00:35:33,200
+So just to recap that you said the first 30 days is like the check the boxes hygiene and then the next that 60-day Mark, you're thinking about Performance Management.
+
+302
+00:35:33,400 --> 00:35:37,100
+And then at the 90-day Mark, it's more of a check-in.
+
+303
+00:35:38,500 --> 00:35:39,400
+Exactly right.
+
+304
+00:35:40,500 --> 00:35:52,400
+That's great, love that and I love the idea on the welcome video that a new hire can do or just order swag within the first few weeks of their onboarding.
+
+305
+00:35:52,500 --> 00:36:08,600
+Are there any other ideas like that you all are seeing for yourselves or your customers where they are figuring out these little things that just boost engagement, you know, by 50 points when you do these things?
+
+306
+00:36:09,700 --> 00:36:10,100
+Yeah.
+
+307
+00:36:10,300 --> 00:36:19,100
+Waited to the excitement goal that we talked about the excitement part of Engagement sending swag as early as possible.
+
+308
+00:36:19,100 --> 00:36:24,300
+Sending plants, if you're distributed sending, like some kind of thing that will help them set up.
+
+309
+00:36:24,300 --> 00:36:29,400
+Their workspace, send emails from leaders.
+
+310
+00:36:30,000 --> 00:36:31,400
+Make sure you have people.
+
+311
+00:36:31,400 --> 00:36:34,700
+They have already met reach out to them and congratulate them on their offer.
+
+312
+00:36:34,700 --> 00:36:39,100
+A few best practices there, one.
+
+313
+00:36:40,000 --> 00:36:44,400
+Really big thing that a previous company I worked at did that?
+
+314
+00:36:44,400 --> 00:36:51,800
+I feel like most companies Miss. is that there are so many logistical things that need to happen to Craig's point.
+
+315
+00:36:51,800 --> 00:36:55,100
+And his industry, there are even more logistical things than average.
+
+316
+00:36:56,600 --> 00:37:02,100
+The very first session on the very first day doesn't have to be sexual harassment training though.
+
+317
+00:37:02,300 --> 00:37:05,400
+It can be a really exciting demo of your product.
+
+318
+00:37:05,500 --> 00:37:09,500
+It can be the cultural session with the CEO.
+
+319
+00:37:10,200 --> 00:37:20,000
+The very first thing should be like, Exciting and calming the new hire a little bit like, okay, I made the right decision really in some ways.
+
+320
+00:37:20,000 --> 00:37:28,800
+I think of the first two to four weeks of onboarding as your entire job is like give the new hire confirmation that they made the right decision.
+
+321
+00:37:29,000 --> 00:37:35,100
+Keep them at that Peak excitement, as long as possible before it just like naturally Wayne's a little bit.
+
+322
+00:37:36,400 --> 00:37:51,000
+So as much as you can squeeze into Craig's Point, some of the fun things, ideally first thing on the first day, but also another Fun lunch on the first day, some other meet and greets in their first week, whatever.
+
+323
+00:37:51,000 --> 00:37:54,700
+You can think of That's Unique to your culture.
+
+324
+00:37:54,700 --> 00:37:59,400
+And Company is really important to Splash in right at the beginning.
+
+325
+00:38:00,300 --> 00:38:01,600
+Such a good point.
+
+326
+00:38:03,300 --> 00:38:38,700
+We also, we had this thing called the social six and so every month we would randomly put six employees together and Nate someone to facilitate out of the six and it was just a 30-minute get together you know meet some new people No Agenda so things like that II know it well and you know for some I think it's like I need to start contributing but I think there's so much value and really understanding who your other colleagues are is a broader human being.
+
+327
+00:38:39,700 --> 00:38:42,400
+We also have you know many companies have slack.
+
+328
+00:38:42,400 --> 00:38:53,600
+We have Microsoft These, and we have things to it, like cooking channels pet channels and it's just a way I think to understand, you know, again, someone outside of the work.
+
+329
+00:38:54,200 --> 00:38:54,800
+One thing.
+
+330
+00:38:54,800 --> 00:39:06,900
+We're still trying to figure out when we were smaller, our CEO would actually have a monthly luncheon with all the new hires and it was asked me anything, you know, there's nothing off limits.
+
+331
+00:39:07,400 --> 00:39:09,900
+We can't do that now given our size.
+
+332
+00:39:10,000 --> 00:39:13,300
+So we're trying to push some of that to the functional executive team.
+
+333
+00:39:13,500 --> 00:39:16,900
+Ember as opposed to it always needs to be the CEO.
+
+334
+00:39:18,300 --> 00:39:33,300
+That is tricky that scaling the meet and greet with the executives and with the CEO you know like you mentioned it's easier to do when you're 50 or maybe even 100 but how you know how do you bring in the CEO?
+
+335
+00:39:33,300 --> 00:39:42,800
+Touchpoint aside from your all-hands meetings and other corporate Gatherings are there other ways to bring your executive leadership in more clothes.
+
+336
+00:39:44,900 --> 00:39:48,900
+The six group or how do you do that scale?
+
+337
+00:39:52,800 --> 00:40:06,400
+I think the format needs to change but the CEO should ideally still talk to new hires so it can't necessarily be ama if it's 50, people 21c CEO.
+
+338
+00:40:06,400 --> 00:40:09,000
+That's a lot of new hires to be enough.
+
+339
+00:40:09,000 --> 00:40:15,000
+Everyone is going to get their questions answered but there could be a format kind of similar to this, where you get some questions ahead of time.
+
+340
+00:40:15,000 --> 00:40:22,400
+Maybe the CEO goes through those but also just goes through as sort of normal Spiel of culture, and whatever else.
+
+341
+00:40:22,500 --> 00:40:25,700
+Want to engage with new hires on.
+
+342
+00:40:25,700 --> 00:40:41,500
+So it's I think it's a format thing but it shouldn't be cut which is a mistake that we see a lot of companies do is like once something becomes unscalable, they cut it rather than just changing it.
+
+343
+00:40:41,500 --> 00:40:43,000
+Such that it's scalable from now.
+
+344
+00:40:43,000 --> 00:40:54,900
+And that's when you advised not to cut the CEO, touch point is really critical, I think so and to Craig's point it can also Oh, be a functional executive.
+
+345
+00:40:54,900 --> 00:41:00,700
+The CEO has a different format but the you're on the marketing team and your marketing executive does, your am a.
+
+346
+00:41:01,200 --> 00:41:05,000
+So you still are getting some of these pieces is just slightly different.
+
+347
+00:41:05,000 --> 00:41:15,000
+And at my events size, the marketing and AMA is actually probably more relevant to this marketing new higher than a super generalized.
+
+348
+00:41:15,000 --> 00:41:19,300
+Am a so can still add a lot of value makes sense.
+
+349
+00:41:19,700 --> 00:41:25,300
+So I will go ahead, Craig, Oh no, the was just going to piggyback on what Laura said.
+
+350
+00:41:25,300 --> 00:41:39,000
+We're also trying to get away from sometimes these events you know where you're invited to meet the CEO, which in some ways I think puts pressure on some that they need to show up a certain way.
+
+351
+00:41:39,500 --> 00:41:47,300
+And so, one thing our CEOs really good about is he just wants to join everyday meetings and understand what's going on.
+
+352
+00:41:47,700 --> 00:41:54,500
+And I what I really like about that, is it, just breaks down the layers, the highwomen, Our keys and really speaks to.
+
+353
+00:41:55,100 --> 00:41:59,900
+We're all working to the same goals, and we're all, you know, side-by-side working on these things.
+
+354
+00:42:00,300 --> 00:42:06,700
+And that's where I really think you develop the relationships as opposed to this like Q&A format all the time.
+
+355
+00:42:06,800 --> 00:42:11,100
+There's a place for that but also just integrated into the everyday work.
+
+356
+00:42:12,200 --> 00:42:14,200
+I might need to copy your CEO.
+
+357
+00:42:14,600 --> 00:42:35,000
+Also, related to something you said earlier and made me think about when you said, removing some of that pressure, the six, the social six things that you go nominating, a facilitator I wanted to underline because otherwise when it's just six people in a zoom it's so hard to know.
+
+358
+00:42:35,600 --> 00:42:40,600
+I often find myself like wanting to carry the conversation forward, not really having prompts.
+
+359
+00:42:42,100 --> 00:42:44,600
+We actually have a blog post about that to like questions.
+
+360
+00:42:44,600 --> 00:42:52,000
+You can prompt in a welcome lunch because sometimes there's just this like painful Zoom silence that's really hard to get through.
+
+361
+00:42:53,300 --> 00:42:57,300
+And yeah I think the facilitation idea is super smart.
+
+362
+00:42:58,600 --> 00:42:59,600
+I agree with that.
+
+363
+00:42:59,800 --> 00:43:00,900
+S Plus 1.
+
+364
+00:43:03,800 --> 00:43:11,900
+So we were touching it a little bit earlier about some of the challenges and you know, I would love to hear what are some I like the do.
+
+365
+00:43:12,000 --> 00:43:20,200
+Not dues in onboarding like clearly don't miss the CEO meet-and-greet, don't miss these things.
+
+366
+00:43:20,500 --> 00:43:29,200
+What are some of the things you're seeing maybe across companies that you work with, even what you learned for yourselves, where you're like, okay, we really learned a good lesson.
+
+367
+00:43:29,500 --> 00:43:32,500
+We got to make sure that we don't do this.
+
+368
+00:43:34,300 --> 00:43:40,700
+The first one that comes to mind is schedule every minute of people's days for the first day or first week.
+
+369
+00:43:41,000 --> 00:43:46,900
+It's so common and it's not helpful, it's extremely overwhelming, their super tired.
+
+370
+00:43:47,000 --> 00:43:52,400
+And they have, I think, people think like, they will have nothing to do but there's plenty to do.
+
+371
+00:43:52,400 --> 00:43:54,500
+They are trying to absorb as much as possible.
+
+372
+00:43:54,500 --> 00:43:58,100
+There are things to read if you don't feel comfortable.
+
+373
+00:43:58,700 --> 00:44:02,200
+We actually give we send people an email on their second day.
+
+374
+00:44:02,200 --> 00:44:10,800
+Like, You know, you have plenty to do, do not feel pressure to do these things, but if you find yourself, wanting extra things to read, here's an HR blog post.
+
+375
+00:44:10,800 --> 00:44:13,800
+Here's a newsletter.
+
+376
+00:44:13,800 --> 00:44:25,400
+You can follow here are some like interesting pieces in our with interesting reads in our Wiki related, to culture related to your team Etc that you can look at.
+
+377
+00:44:26,400 --> 00:44:31,300
+But yeah, scheduling every minute of every day is a big No-No in my book.
+
+378
+00:44:33,200 --> 00:44:33,600
+Thank you.
+
+379
+00:44:33,600 --> 00:44:35,000
+That was going to be mine.
+
+380
+00:44:37,300 --> 00:44:39,200
+I am trying to think of a couple others.
+
+381
+00:44:39,200 --> 00:44:42,200
+Well, I had mentioned the new hire, buddy program.
+
+382
+00:44:42,200 --> 00:45:00,900
+This is something that's good on our radar for some time and I think for me to answer your question, sometimes I think if that individual is not committed it just creates a lot of damage and leaves a really bad taste in their mouth.
+
+383
+00:45:01,200 --> 00:45:06,400
+And so we're really Trying to figure out how to craft that program in a better way.
+
+384
+00:45:06,800 --> 00:45:17,800
+So for example we had this rule where you can only be a new hire buddy if you had been with the organization more than a year, I actually think a new hire buddy that's recently gone through.
+
+385
+00:45:17,800 --> 00:45:23,800
+The onboarding is actually in a better position for some of the things that the new hires may be asking about.
+
+386
+00:45:24,100 --> 00:45:40,100
+So kind of pressure testing some of these like maybe historic ideas we have the other thing too is often I think we always hate when we find out later that someone was struggling, and we just didn't know.
+
+387
+00:45:40,700 --> 00:45:44,700
+And so how to make new hires really comfortable.
+
+388
+00:45:44,700 --> 00:45:53,800
+In maybe, raising a little bit of a flag at a certain point that hey, something doesn't feel quite right when we can catch it earlier.
+
+389
+00:45:53,900 --> 00:46:00,600
+I know nine times out of 10, we could fix it, it's just when it percolates a little bit.
+
+390
+00:46:00,600 --> 00:46:02,400
+That's when we run into some problems.
+
+391
+00:46:03,700 --> 00:46:08,500
+So how do you encourage and get the feedback from a new hire?
+
+392
+00:46:08,500 --> 00:46:10,700
+So you can get it a little bit more real time.
+
+393
+00:46:13,500 --> 00:46:19,400
+So one of the things, so I come from the survey world, so I am like Pro surveys and so many ways.
+
+394
+00:46:20,000 --> 00:46:26,600
+But often I think it's just a matter of picking up the phone and saying like, hey how's it going often?
+
+395
+00:46:26,600 --> 00:46:35,400
+I think you just piggy or you, you jump so many of the process type things and you just cut right to the bone of what you need to get to.
+
+396
+00:46:36,200 --> 00:46:42,300
+It's just a matter of like making sure you do those things, and we'd certainly been guilty that some of those things.
+
+397
+00:46:42,500 --> 00:46:50,800
+Oh by the wayside with everything else we're doing, so we're still trying to figure out smarter ways where we can have some of those organic touch points.
+
+398
+00:46:51,700 --> 00:46:54,200
+That's not done, quote unquote through like a system.
+
+399
+00:46:55,000 --> 00:47:04,700
+I think this is maybe the theme of this chat is that it requires a combination of the automated and the human and it's too easy to forget.
+
+400
+00:47:04,700 --> 00:47:08,700
+One of those pieces with communication people.
+
+401
+00:47:08,700 --> 00:47:11,600
+Often forget that, you can automate that, with surveys people.
+
+402
+00:47:11,600 --> 00:47:12,300
+Often forget that.
+
+403
+00:47:12,400 --> 00:47:21,600
+You should also ask in inhuman ways and having the qualitative and quantitative data is the only way to get an actual picture.
+
+404
+00:47:23,300 --> 00:47:23,800
+That's good.
+
+405
+00:47:23,800 --> 00:47:26,900
+Well, that leads to my next question here.
+
+406
+00:47:27,700 --> 00:47:33,100
+When it comes to technology and platforms, what are some recommendations?
+
+407
+00:47:33,100 --> 00:47:54,400
+We spoke about a few earlier, but what could make the onboarding more efficient and personalized overall So I am a huge fan of Sora, like, I could not recommend sore enough and I perhaps a little biased, but it's just, it's really bent.
+
+408
+00:47:54,900 --> 00:48:01,300
+It's been a complete Game Changer and I can't imagine going back to a world where we don't have Surah.
+
+409
+00:48:02,500 --> 00:48:08,900
+I mentioned Paulino for Ona org network analysis, lattice is also an incredible tool for us.
+
+410
+00:48:09,800 --> 00:48:14,700
+One tool that we Were made aware of that, we're learning a little bit more about is called amplifier.
+
+411
+00:48:14,700 --> 00:48:29,600
+And essentially, what their solution is, it's sort of like Zoom, but at certain stages in the webinar, you can actually choose who you want to have a breakout with and behind the scenes when everyone's doing that.
+
+412
+00:48:29,600 --> 00:48:35,400
+It then when you do the breakout sessions, it will match people up according to their designations.
+
+413
+00:48:35,400 --> 00:48:42,400
+So that's also a really great way as Laura talked about marrying the technology with the Human Side of Things.
+
+414
+00:48:43,900 --> 00:48:51,300
+And then, I think the other piece that we're exploring is welcome and how to do those, synchronous pieces, better.
+
+415
+00:48:51,900 --> 00:48:59,600
+And Gina, you will probably have a much better sort of overview of that, then we, yeah, thanks for bringing it up.
+
+416
+00:48:59,600 --> 00:49:00,700
+I mean, with welcome.
+
+417
+00:49:00,700 --> 00:49:07,500
+What's cool is where intentionally focused on the employee experience and overall life cycle.
+
+418
+00:49:07,800 --> 00:49:13,500
+So part of our mission is to be able to empower belonging through our platform.
+
+419
+00:49:13,700 --> 00:49:16,800
+And create those human touch points.
+
+420
+00:49:16,800 --> 00:49:22,900
+So, if we have got platforms, like, Sora and some of the other ones that are handling, the automated tasks.
+
+421
+00:49:23,300 --> 00:49:27,900
+We're trying to create what you could call almost like your hybrid virtual Auditorium.
+
+422
+00:49:28,100 --> 00:49:39,500
+That enables your team members, whether it's a group of six, they're jumping in to do a little quick photo booth snapshot together with a facilitator that's leading that or it's an all hands Gathering.
+
+423
+00:49:39,800 --> 00:49:43,300
+We're thinking about all of those touch points and Gatherings across the life cycle.
+
+424
+00:49:43,300 --> 00:50:02,100
+So I do see how each of these Technologies even with the lattice and others, they all complement one another, but to the point of I think in the theme that we're all talking about, we still need that intentionality from leadership and from the planning and management side to make sure all these tools orchestrate.
+
+425
+00:50:02,100 --> 00:50:03,500
+Well together.
+
+426
+00:50:04,900 --> 00:50:12,700
+And I think this last question in the Q&A is like the perfect combination of how all this is impacting employees as well.
+
+427
+00:50:13,700 --> 00:50:14,900
+I just jump into it.
+
+428
+00:50:14,900 --> 00:50:15,700
+Should I use?
+
+429
+00:50:16,100 --> 00:50:20,600
+So the question is, how does the onboarding experience affect the rest of the employee Journey?
+
+430
+00:50:22,200 --> 00:50:31,900
+There are so many studies on the importance of onboarding and employee retention Employee Engagement, basically off of the most important metrics and metrics that not just people team care about.
+
+431
+00:50:31,900 --> 00:50:39,000
+But CEOs CFOs care about if you're not retaining employees, then you are not going to be a company.
+
+432
+00:50:39,000 --> 00:50:43,200
+At some point, if you're not ramping employees, then you're not going to hit your sales goals.
+
+433
+00:50:43,200 --> 00:50:44,900
+You're not To hit your hiring goals.
+
+434
+00:50:44,900 --> 00:51:02,900
+So, all of these things really are kind of foundational to the entire business and I think two more directly answer the question affect the rest of the employee Journey, some of the themes.
+
+435
+00:51:03,500 --> 00:51:13,300
+So we talked about, you know, excitement introduction, integration ramp, if you break down a lot of the Tactical things you want to do for each of those goals.
+
+436
+00:51:13,700 --> 00:51:20,600
+Connect employees to their goals, to their colleagues, to the mission and vision, vision and culture of your company.
+
+437
+00:51:21,200 --> 00:51:24,200
+Prepare them from a logistical perspective.
+
+438
+00:51:26,400 --> 00:51:40,900
+From a skills perspective from just expectations in general connection and preparedness all lead to retention productivity and engagement.
+
+439
+00:51:40,900 --> 00:51:46,000
+Which again are basically like the most important things, I think people team care about at this point.
+
+440
+00:51:47,200 --> 00:51:49,200
+So, might sound like a cop-out answer.
+
+441
+00:51:49,200 --> 00:51:56,100
+But I think the answer to the question is like onboarding effects literally everything and setting them up.
+
+442
+00:51:56,200 --> 00:51:58,600
+Success is one of the most important things you can do.
+
+443
+00:52:01,100 --> 00:52:10,800
+One of the things we're also trying to push the frontier a little bit on is, so we have been talking about, you know, how we automate our own processes.
+
+444
+00:52:11,300 --> 00:52:17,700
+But we're also working on sort of this starter pack for new hires on how they can automate their own life.
+
+445
+00:52:18,300 --> 00:52:23,500
+So that they could spend the quality time on whether it's work or their family.
+
+446
+00:52:23,500 --> 00:52:24,200
+That's good.
+
+447
+00:52:24,200 --> 00:52:32,800
+So we're trying to compile a list of things like, you know, when they sign up for benefits, are you Are of these at home delivery services.
+
+448
+00:52:32,800 --> 00:52:35,100
+That may save you a trip to the pharmacy.
+
+449
+00:52:36,300 --> 00:52:44,500
+I know some companies, actually have, you know, things like booster fuels, that you know, Circle the parking lots, and we will fill up your gas tank.
+
+450
+00:52:45,900 --> 00:53:10,300
+Some of our employees, also, our little bit, like they just don't know, they can order a second screen and making sure that they know that and the efficiency with some of having those tools and resources, we're starting to see that, you know, in the best case, we're saving some new hires five hours per week and that really adds up when, you know, start to project that out through the year.
+
+451
+00:53:10,900 --> 00:53:21,800
+So as part of the new hire packet, like how can they get smarter about what they're doing, not to focus more on work but just to save them time and do the things that they want to do and more of the quality way.
+
+452
+00:53:22,700 --> 00:53:36,100
+I love that, I think with remote distribu teams boundaries between work and life is really Challenging and as we all know, and burnout is probably at its all-time high.
+
+453
+00:53:36,300 --> 00:53:42,400
+So, to even as an employer to care about that, take the powers that be.
+
+454
+00:53:42,900 --> 00:53:43,600
+Yeah.
+
+455
+00:53:43,600 --> 00:53:52,500
+And to be able to have processes advice, you know, even strategy offered and how you can manage your personal work life balance.
+
+456
+00:53:52,500 --> 00:53:54,900
+I think there's something really powerful.
+
+457
+00:53:55,100 --> 00:54:00,200
+That's communicated to a new hire that of how much this company really cares.
+
+458
+00:54:00,400 --> 00:54:01,100
+So yeah.
+
+459
+00:54:01,100 --> 00:54:07,000
+So that's a powerful to be able to I think bring that into the first few weeks as well.
+
+460
+00:54:08,100 --> 00:54:09,000
+That's great.
+
+461
+00:54:09,100 --> 00:54:09,600
+All right.
+
+462
+00:54:09,600 --> 00:54:13,700
+Well we have got about five minutes or so until we wrap up.
+
+463
+00:54:13,700 --> 00:54:19,800
+Does, if anyone has any questions, feel free to drop them in the Q&A tab chat.
+
+464
+00:54:20,000 --> 00:54:24,800
+Otherwise, are there any final points of advice?
+
+465
+00:54:26,200 --> 00:54:33,700
+Laura Craig, that you would offer out to each of us here managing leading distributed teams?
+
+466
+00:54:34,000 --> 00:54:41,800
+We have shared some amazing insights and very tactical applicable things we can run and do today.
+
+467
+00:54:42,400 --> 00:54:46,100
+But is there anything else that you would advise to us?
+
+468
+00:54:49,200 --> 00:54:58,800
+The thing that comes to mind for me, the thing, I am actually working on this at Surah internally is expectation setting.
+
+469
+00:55:00,300 --> 00:55:10,500
+Both again, toward that sort of preparedness theme expectation setting on, like, here's what to expect in your first week, excuse me.
+
+470
+00:55:11,000 --> 00:55:48,500
+But also here is what it means to succeed in your first 30 days, here is what we expect of you, when you're fully ramped, I think The more clear you can be, the more motivated people are ambiguity is very scary and there's a lot of it when you're a new hire, the more you can take that away, the more anxiety goes away and the more your you are genuinely setting them up to hit the goals that you want them to hit.
+
+471
+00:55:48,500 --> 00:55:51,500
+Because you're telling them very clearly what they are.
+
+472
+00:55:52,200 --> 00:56:01,600
+So I think I was going to say if you take one thing away, but if you would take two things away from this session, it's like create the human moments.
+
+473
+00:56:01,600 --> 00:56:04,300
+And if you need to automate things to do that, then do that.
+
+474
+00:56:04,400 --> 00:56:07,700
+And the second thing would be set, the expectations and be really, really clear.
+
+475
+00:56:10,200 --> 00:56:10,700
+That's great.
+
+476
+00:56:10,700 --> 00:56:11,300
+Thank you.
+
+477
+00:56:12,700 --> 00:56:16,800
+Gosh, I always icicle first floor because you just started.
+
+478
+00:56:18,000 --> 00:56:20,800
+So what's really interesting?
+
+479
+00:56:20,800 --> 00:56:31,600
+I think about, you know, we're most of these individuals on the collar and the HR space and in a lot of ways, I think with the world changing, so drastically over the last two years.
+
+480
+00:56:32,200 --> 00:56:54,700
+I sometimes think the field has not been keeping up with really putting employees at the center and I know a lot of Police say that we have certainly been guilty that when you try to design these processes with the employee at the center, it quickly gets to be about the process as opposed to the employee.
+
+481
+00:56:55,100 --> 00:57:02,300
+So always coming back to that and in a lot of ways, I think we need to kind of be a little bit more experimental.
+
+482
+00:57:02,300 --> 00:57:04,700
+We need to push the frontier a little bit more.
+
+483
+00:57:05,700 --> 00:57:11,800
+I don't know how many folks on the call are familiar with dowels or decentralized, autonomous organizations.
+
+484
+00:57:12,500 --> 00:57:18,000
+Essentially they're leaderless organizations and there's a lot of really neat stuff.
+
+485
+00:57:18,000 --> 00:57:33,200
+I think some of those groups are pushing but I would go back to what Laura said, around expectation, setting and just intentionality, sometimes even like, on the retention side, I think it's unrealistic.
+
+486
+00:57:33,200 --> 00:57:42,400
+Just to say, we want to retain employees forever and instead, maybe we want this employee to come here and have a great experience for one and two years based on there.
+
+487
+00:57:42,500 --> 00:57:48,400
+All's and really give them a great experience, and not always get stuck in this.
+
+488
+00:57:48,400 --> 00:57:50,200
+Like, they just need to be here forever.
+
+489
+00:57:52,500 --> 00:57:56,000
+Wow, powerful insights and advice.
+
+490
+00:57:56,700 --> 00:57:59,700
+I am like simmering in all the goods right now.
+
+491
+00:57:59,700 --> 00:58:01,100
+Thank you so much.
+
+492
+00:58:01,100 --> 00:58:04,800
+Laura Craig, this was very insightful helpful.
+
+493
+00:58:05,100 --> 00:58:11,800
+I hope that everyone in the audience today was able to take something away that you can apply to your own companies.
+
+494
+00:58:11,800 --> 00:58:13,200
+Your own circumstance.
+
+495
+00:58:14,200 --> 00:58:15,600
+Laura Craig.
+
+496
+00:58:16,300 --> 00:58:16,800
+Thank you.
+
+497
+00:58:16,800 --> 00:58:23,900
+We have a post email that will also include I believe links to A and the recording.
+
+498
+00:58:24,200 --> 00:58:28,600
+So if any of you wanted to rewind back to the insights, feel free to jump back.
+
+499
+00:58:28,900 --> 00:58:33,200
+Alright, so with that, we're going to wrap up our time here.
+
+500
+00:58:33,600 --> 00:58:38,100
+Thank you everybody for being part of this note that you are on, welcome.
+
+501
+00:58:38,200 --> 00:58:51,700
+And if you have any questions or want to learn more about how we can power your synchronous Gatherings, feel free to click on the tab above, and then note that we have got a really awesome event coming up, June 28th.
+
+502
+00:58:51,700 --> 00:58:58,100
+I Leave with Arianna Huffington and the CEO of loom and our CEO Roberto.
+
+503
+00:58:58,100 --> 00:59:05,800
+And we will be talking about the transforming way in which were working, new rituals Tech practices to create a more human workplace.
+
+504
+00:59:05,800 --> 00:59:12,000
+So a lot of what we were just touching right now on our panel, and we're going to focus a lot on that.
+
+505
+00:59:12,000 --> 00:59:15,500
+Human touch in the remote distributed Workforce.
+
+506
+00:59:15,900 --> 00:59:23,500
+Okay well with that have a wonderful rest of your day Aloha and I look forward to Seeing you at our next event.
+
+507
+00:59:24,400 --> 00:59:25,000
+Bye-bye.

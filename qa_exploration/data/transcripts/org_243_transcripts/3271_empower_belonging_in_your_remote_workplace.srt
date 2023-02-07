@@ -1,0 +1,2132 @@
+
+1
+00:07:21,100 --> 00:07:22,400
+Hey friends, welcome.
+
+2
+00:07:22,400 --> 00:07:22,800
+Welcome.
+
+3
+00:07:22,800 --> 00:07:23,600
+Welcome.
+
+4
+00:07:23,800 --> 00:07:25,500
+Thank you for being here.
+
+5
+00:07:25,500 --> 00:07:29,400
+We're gonna have a phenomenal conversation and a conversation.
+
+6
+00:07:29,400 --> 00:07:31,800
+That's super relevant.
+
+7
+00:07:32,400 --> 00:07:33,100
+Before we kick off.
+
+8
+00:07:33,100 --> 00:07:36,900
+My name is Roberto Ortiz, co-founder and CEO of welcome.
+
+9
+00:07:36,900 --> 00:07:38,800
+The platform that we're on here today.
+
+10
+00:07:39,300 --> 00:07:48,700
+Thanks for joining us, you know, there's a lot of things you can be doing, but you're showing up here to learn about driving employee experiences and engagement in a hybrid and remote work.
+
+11
+00:07:48,800 --> 00:07:57,200
+Ace, you know, we're all to figuring it out as we go including ourselves, but we're fortunate enough to have somebody who spends a lot of time thinking about this.
+
+12
+00:07:57,200 --> 00:08:00,800
+And Dave car is going to be joining us here on stage in a moment.
+
+13
+00:08:00,900 --> 00:08:04,000
+VP of people at lattice before we do that.
+
+14
+00:08:04,000 --> 00:08:07,700
+Just a couple housekeeping rules and just notes on the right-hand side.
+
+15
+00:08:07,700 --> 00:08:11,900
+You have chat looks like you guys know how to use it knows there're an emojis in there.
+
+16
+00:08:11,900 --> 00:08:23,000
+There're gifts into engaged throughout this experience, but also ask questions go ahead and type By the Q&A panel on the right-hand side, and drop a question as it comes up.
+
+17
+00:08:23,100 --> 00:08:28,000
+We're going to dive into a lot of these questions towards the end of our time for today.
+
+18
+00:08:28,400 --> 00:08:33,500
+Now, I saw a poll that we threw up here in a moment.
+
+19
+00:08:33,500 --> 00:08:38,299
+And before we bring up that pole, let me introduce Dave because I need to find out from Dave.
+
+20
+00:08:38,299 --> 00:08:40,299
+What is his favorite holiday drink?
+
+21
+00:08:40,400 --> 00:08:44,500
+Because I have my favorite and I didn't see it when and I will tell you guys here in a minute.
+
+22
+00:08:44,500 --> 00:08:47,400
+But before we do that, help me welcome.
+
+23
+00:08:47,400 --> 00:08:58,600
+Dave car to the He's vice president people at lattice is a people management platform that helps companies, develop and engage High performing teams prior to his current role.
+
+24
+00:08:58,800 --> 00:09:02,400
+He's LED people team at Branch metrics and mule soft.
+
+25
+00:09:02,800 --> 00:09:05,000
+And we joined a to the stage, Dave, get up here.
+
+26
+00:09:07,200 --> 00:09:07,700
+Hey, thanks.
+
+27
+00:09:07,700 --> 00:09:08,100
+Roberto.
+
+28
+00:09:08,100 --> 00:09:09,400
+Excited to be here.
+
+29
+00:09:10,900 --> 00:09:12,300
+Excited to chat with you.
+
+30
+00:09:14,000 --> 00:09:15,300
+Great, great to have you here.
+
+31
+00:09:16,000 --> 00:09:17,100
+We're bringing all the stuff.
+
+32
+00:09:18,300 --> 00:09:29,400
+It's such a timely topic, is what I have been spending so much my own time thinking about both internally at lattice and then you're also working with our customers and folks, in the industry.
+
+33
+00:09:30,800 --> 00:09:31,300
+Yeah.
+
+34
+00:09:31,300 --> 00:09:31,600
+Yeah.
+
+35
+00:09:31,600 --> 00:09:32,600
+Well, thank you for making time.
+
+36
+00:09:32,600 --> 00:09:39,000
+I know that we linked up a couple weeks ago about this event and you were like, right on, let us get after it.
+
+37
+00:09:39,000 --> 00:09:40,900
+And we were just riffing.
+
+38
+00:09:40,900 --> 00:09:43,600
+And so this is going to be a lot of that, that conversation.
+
+39
+00:09:45,100 --> 00:09:47,600
+We're going to be pulling out like, what are we learning?
+
+40
+00:09:47,700 --> 00:09:53,500
+You know, in the space and you guys being on the front lines of driving Employee Engagement as a company.
+
+41
+00:09:53,700 --> 00:09:55,900
+I know that you guys are investing a lot of work.
+
+42
+00:09:55,900 --> 00:10:03,300
+Not just to enable and equipped the industry and leaders, but also internally, right for your organization.
+
+43
+00:10:03,300 --> 00:10:06,200
+And so would love to cover both of those sides.
+
+44
+00:10:06,700 --> 00:10:07,800
+I will before we do that though.
+
+45
+00:10:07,800 --> 00:10:14,400
+Let us go ahead and bring that pole on stage about the favorite holiday, drink looks like hot.
+
+46
+00:10:14,400 --> 00:10:17,400
+Chocolate is the winner here.
+
+47
+00:10:17,400 --> 00:10:18,000
+Dave.
+
+48
+00:10:18,000 --> 00:10:19,400
+What would you have voted here?
+
+49
+00:10:20,000 --> 00:10:21,300
+I voted for eggnog.
+
+50
+00:10:21,300 --> 00:10:23,400
+I am for me.
+
+51
+00:10:23,400 --> 00:10:24,000
+It's like not.
+
+52
+00:10:24,000 --> 00:10:25,300
+I feel like I can get hot chocolate.
+
+53
+00:10:25,300 --> 00:10:27,700
+Any time of the year, but eggnog.
+
+54
+00:10:27,700 --> 00:10:28,300
+That's right.
+
+55
+00:10:30,800 --> 00:10:32,100
+This is true.
+
+56
+00:10:32,100 --> 00:10:34,400
+This is true is funny because I have my warm drink here.
+
+57
+00:10:34,400 --> 00:10:35,700
+It looks like Starbucks.
+
+58
+00:10:35,900 --> 00:10:41,800
+Skip Thanksgiving and went straight to Christmas, but my vote here and it looks like it's starting to Trend up go.
+
+59
+00:10:41,800 --> 00:10:44,500
+Keitel is coming right behind egg.
+
+60
+00:10:44,500 --> 00:10:46,400
+Not I am in Puerto Rico right now.
+
+61
+00:10:46,400 --> 00:10:49,700
+Uncle Keitel is a Puerto Rican, coconut.
+
+62
+00:10:49,700 --> 00:10:54,900
+Nog, and it's fantastic and it has a little bit of spice in it.
+
+63
+00:10:54,900 --> 00:10:57,900
+That gets you sort of ready for the holiday conversations as well.
+
+64
+00:10:58,100 --> 00:11:00,300
+So if you haven't tried that, go ahead and give that a shot.
+
+65
+00:11:01,000 --> 00:11:05,800
+My team was laughing at me because I have never had hot toddy.
+
+66
+00:11:06,400 --> 00:11:09,400
+Now is s in my alone in that Dave.
+
+67
+00:11:09,400 --> 00:11:11,100
+Do you know what hot toddy is?
+
+68
+00:11:11,900 --> 00:11:13,500
+I feel like I have had it.
+
+69
+00:11:13,500 --> 00:11:15,500
+I can't remember.
+
+70
+00:11:16,300 --> 00:11:20,600
+Where is it sort of like a mulled wine or like a mule or something?
+
+71
+00:11:20,600 --> 00:11:27,000
+I have, I have no idea, but folks would have to educate Us in chat at some point, but it's not.
+
+72
+00:11:27,100 --> 00:11:28,000
+I am gonna have to try it.
+
+73
+00:11:28,000 --> 00:11:28,500
+I am at the try.
+
+74
+00:11:28,500 --> 00:11:30,000
+So, I will try hot toddy.
+
+75
+00:11:30,400 --> 00:11:34,500
+You guys try coquito this holiday season, and I think we will be good to go.
+
+76
+00:11:35,900 --> 00:11:38,800
+Alright, alright, so now, pull number two.
+
+77
+00:11:38,800 --> 00:11:40,500
+Let us bring phone number two on stage.
+
+78
+00:11:40,600 --> 00:11:43,200
+This one's actually going to help us drive conversation here.
+
+79
+00:11:43,200 --> 00:11:44,900
+So what is for the audience?
+
+80
+00:11:44,900 --> 00:11:51,300
+What is your biggest priority right now, when it comes to employees and there's a lot of different things here, right?
+
+81
+00:11:51,300 --> 00:11:53,200
+Employee Engagement is a retention.
+
+82
+00:11:53,200 --> 00:11:54,700
+Is it Talent acquisition?
+
+83
+00:11:54,900 --> 00:11:55,500
+Is it d?
+
+84
+00:11:55,500 --> 00:11:57,000
+E and I am belonging.
+
+85
+00:11:57,200 --> 00:12:04,800
+Is it Learning and Development go ahead and place your vote by clicking directly on the stage because this is going to help guide the conversation, right?
+
+86
+00:12:05,100 --> 00:12:14,300
+Dave you and I can go into a lot of these different Pockets, but it's important that we actually speak to what people are looking for here as well.
+
+87
+00:12:15,500 --> 00:12:16,100
+Okay.
+
+88
+00:12:16,700 --> 00:12:17,300
+All right.
+
+89
+00:12:17,300 --> 00:12:21,600
+Looks like Employee Engagement is the front-runner here?
+
+90
+00:12:21,900 --> 00:12:24,700
+And, you know, under Employee Engagement like Dave.
+
+91
+00:12:24,700 --> 00:12:26,100
+Okay, you help us understand that, right?
+
+92
+00:12:26,100 --> 00:12:34,600
+From a lattice perspective, Employee Engagement seems to have its, there's a lot of things that go underneath that.
+
+93
+00:12:34,600 --> 00:12:39,700
+How would you, how do you define Employee Engagement from a lattice perspective just to level set the conversation?
+
+94
+00:12:40,300 --> 00:12:40,600
+Yeah.
+
+95
+00:12:40,600 --> 00:12:54,100
+I mean, I think fundamentally I think about engagement as Being defined our, how much are people committed to staying at the company and really willing to give everything.
+
+96
+00:12:54,100 --> 00:12:56,700
+They have to the group effort.
+
+97
+00:12:56,800 --> 00:13:01,200
+But how does that created through a whole range of things?
+
+98
+00:13:01,200 --> 00:13:06,400
+I think belonging is at the center of it, and we have seen that in the data over time.
+
+99
+00:13:06,400 --> 00:13:13,500
+I have seen it both at the companies that I have worked at, and we look at customers and work with them.
+
+100
+00:13:13,700 --> 00:13:24,000
+Someone's, like, Just fundamental understanding of hey, is this a place where I am part of the team where I have a future is just core driver of that.
+
+101
+00:13:25,700 --> 00:13:26,300
+Yeah.
+
+102
+00:13:26,500 --> 00:13:31,900
+Yeah, you know, I resonate with so much of that, you know, leading the charge here.
+
+103
+00:13:31,900 --> 00:13:44,700
+Welcome top of mind for me is, you know, our people, we treat our people, good to help us, hit the milestones, we need as an organization, but it's a hard thing to do to really know the heartbeat of your people.
+
+104
+00:13:44,800 --> 00:13:44,900
+Whoa.
+
+105
+00:13:47,200 --> 00:13:53,900
+Quarter by quarter week by week, especially in this, in this current sort of situation that were in today.
+
+106
+00:13:53,900 --> 00:13:58,500
+Where, you know, like we're all like from a society perspective.
+
+107
+00:13:58,500 --> 00:14:03,800
+We have been hit hard over the last two years, and we're learning new ways of working.
+
+108
+00:14:03,800 --> 00:14:06,700
+We're trying to navigate, you know, all these different things.
+
+109
+00:14:07,000 --> 00:14:16,700
+And, so I would imagine even lattice as a company is supporting companies in very tangible Ways by the tools and such that you offer.
+
+110
+00:14:17,000 --> 00:14:23,600
+You know, not, I don't want to make this infomercial, but I do know the power behind the platform because it's amazing.
+
+111
+00:14:23,600 --> 00:14:26,600
+So, yeah, thank you for leading the charge there, on that front.
+
+112
+00:14:26,600 --> 00:14:35,000
+But yeah, what's your when you think about the conditions of Employee Engagement given to certain landscape that were in today?
+
+113
+00:14:35,000 --> 00:14:46,500
+However, you saw the shift and leaders before covet and now during and going to post, covid-19 been the shift there on the investment, on employee engagement.
+
+114
+00:14:47,000 --> 00:14:47,800
+Ain't ya.
+
+115
+00:14:47,800 --> 00:14:54,900
+So it's I think definitely really top of mind and I think we have seen it in our own recent surveys.
+
+116
+00:14:54,900 --> 00:15:03,200
+How much it shot up the priority, you know stack ranking of for HR leaders.
+
+117
+00:15:03,500 --> 00:15:06,800
+I think you know, you go back obviously to a year ago.
+
+118
+00:15:06,800 --> 00:15:16,900
+Everyone was thinking about just even job stability and how do I how to whether through this downturn and recession and it's obviously changed.
+
+119
+00:15:17,000 --> 00:15:18,100
+Changed huge amount.
+
+120
+00:15:18,100 --> 00:15:26,000
+I think we have seen things shift from pre covid environment, which is also really pretty hot labor market.
+
+121
+00:15:26,000 --> 00:15:42,600
+One is that everyone is figuring out their hybrid model and as much as we're to all talking about attrition right now and the risk of it, like there's a lot of companies that when they have their final actual.
+
+122
+00:15:42,600 --> 00:15:43,100
+Okay.
+
+123
+00:15:43,100 --> 00:15:50,800
+Now you're supposed to return to the office date whether that's At the end of this year or, you know, various companies have kept pushing it out.
+
+124
+00:15:51,300 --> 00:16:01,000
+It's La, I think a real Reckoning as some of those approaches that are lower on the flexibility Spectrum.
+
+125
+00:16:01,000 --> 00:16:02,500
+We're going to are going to run into reality.
+
+126
+00:16:02,500 --> 00:16:11,600
+And so there's going to be also a whole I think wave of attrition that comes out of that for companies to yeah, no doubt.
+
+127
+00:16:11,600 --> 00:16:15,100
+No doubt, you know, this was interesting and it's just a fascinating time.
+
+128
+00:16:15,100 --> 00:16:17,400
+We're in, we're from Work.
+
+129
+00:16:17,400 --> 00:16:24,800
+It's been normalized over the last 18 months because we have seen the world continue and still give people the flexibility.
+
+130
+00:16:24,800 --> 00:16:30,400
+They were looking for to live where they love and love where they live and vice versa and still get the job done.
+
+131
+00:16:30,700 --> 00:16:39,100
+And, so I agree is going to be really interesting to see, you know, the next couple of years as companies are grappling with the right policy, the right flexibility.
+
+132
+00:16:39,100 --> 00:16:51,400
+And we're going to get into that because I know that you guys have are going through that yourself, and we have our own perspective as well, and we will Dive In Before we do that, let us go ahead and talk about the state of people report.
+
+133
+00:16:51,400 --> 00:16:57,900
+You know, you guys put together a survey and you serve it over 700 HR professionals, right?
+
+134
+00:16:57,900 --> 00:17:03,900
+Click at 2021 Rapport and it offers a lot of different insights what?
+
+135
+00:17:03,900 --> 00:17:08,900
+We're going to be pulling some of those insights on to the stage to help anchor and inform Us in the conversation.
+
+136
+00:17:08,900 --> 00:17:09,700
+Me included.
+
+137
+00:17:09,700 --> 00:17:12,700
+I selfishly in love these conversations guy.
+
+138
+00:17:12,700 --> 00:17:15,400
+Get to learn from some of the best people, right?
+
+139
+00:17:15,400 --> 00:17:16,800
+And the findings that they have.
+
+140
+00:17:17,000 --> 00:17:20,300
+So let us go ahead and bring one of those stats on stage.
+
+141
+00:17:20,300 --> 00:17:20,900
+It's shows.
+
+142
+00:17:20,900 --> 00:17:21,500
+Absolutely.
+
+143
+00:17:22,700 --> 00:17:31,000
+Yeah, one of the biggest perks of becoming a lattice employee for me was getting early access to the results coming out of these surveys.
+
+144
+00:17:31,000 --> 00:17:36,000
+It's been so helpful communion and doing my own 2020 planning, 2022 planning.
+
+145
+00:17:36,100 --> 00:17:36,900
+Yeah, no doubt.
+
+146
+00:17:36,900 --> 00:17:42,100
+So let us bring some of those insights to the stage, so we can actually have a conversation around it.
+
+147
+00:17:42,200 --> 00:17:52,400
+You know, it seems like more than half of respondents saw an it's in the poori departures over the last few months and it's tea and up a little bit of what you're saying.
+
+148
+00:17:52,400 --> 00:17:53,100
+Right.
+
+149
+00:17:53,100 --> 00:17:56,000
+Which is policies are starting to be rolled out.
+
+150
+00:17:56,000 --> 00:18:01,100
+People have changed human behavior change the way they do things.
+
+151
+00:18:01,100 --> 00:18:01,800
+Like for me personally.
+
+152
+00:18:01,800 --> 00:18:03,800
+I have a little girl.
+
+153
+00:18:03,800 --> 00:18:05,600
+She's she just turned to.
+
+154
+00:18:05,600 --> 00:18:08,200
+I saw her grow up throughout this pandemic.
+
+155
+00:18:08,200 --> 00:18:11,700
+Like I am here in the office and then I can go and see her first step.
+
+156
+00:18:11,700 --> 00:18:12,700
+Those things.
+
+157
+00:18:12,700 --> 00:18:16,800
+You can't put a value on and it's going to be interesting to see how these things continue to.
+
+158
+00:18:16,900 --> 00:18:18,700
+You to drive forward now.
+
+159
+00:18:20,100 --> 00:18:28,000
+What do you think is the main cause for folksy and his level of quote-unquote?
+
+160
+00:18:28,000 --> 00:18:33,300
+Greg's resignation now as opposed, to when the formal policies come out?
+
+161
+00:18:33,300 --> 00:18:38,000
+Do you feel like some of these policies are starting to hit some of these companies now, and people are reacting to that?
+
+162
+00:18:39,000 --> 00:18:42,000
+I think that's one aspect of it for sure.
+
+163
+00:18:42,000 --> 00:18:50,400
+I think that there's an interesting mix, both of some like, real enduring factors.
+
+164
+00:18:50,500 --> 00:18:58,200
+Like we look at it and a lot of the drivers come back down to things that we know are really important.
+
+165
+00:18:58,200 --> 00:18:59,400
+What's my career development?
+
+166
+00:18:59,400 --> 00:19:01,100
+Like whose my manager?
+
+167
+00:19:01,400 --> 00:19:04,700
+What sort of connections do I have with, with my co-workers?
+
+168
+00:19:04,700 --> 00:19:08,700
+So there's a whole range of things that are actually.
+
+169
+00:19:08,800 --> 00:19:17,400
+We really consistent from what we would have seen 12 or call, you know, 24 months ago.
+
+170
+00:19:17,800 --> 00:19:22,600
+I think what's new is and I think you spoke to it there.
+
+171
+00:19:22,600 --> 00:19:22,900
+Right?
+
+172
+00:19:22,900 --> 00:19:32,800
+Like you have had this like really personal experience with your family and how that's affected you.
+
+173
+00:19:33,300 --> 00:19:35,500
+I have gone through some things like that.
+
+174
+00:19:35,500 --> 00:19:43,900
+Myself just being able to spend some time with a couple of parents who are getting older that you know, maybe pre covid.
+
+175
+00:19:43,900 --> 00:19:51,300
+I wouldn't have been able to spend so much time with people are we considering a lot of Life priorities?
+
+176
+00:19:51,300 --> 00:20:01,900
+And so that's shifting how much Focus people are putting on sort of holistic wellness, and how am I feeling supported and how companies that respond that?
+
+177
+00:20:03,600 --> 00:20:06,100
+No doubt, no doubt and just being remote.
+
+178
+00:20:06,300 --> 00:20:10,400
+It makes things a little bit more complicated, right?
+
+179
+00:20:10,400 --> 00:20:11,300
+As a leader.
+
+180
+00:20:11,300 --> 00:20:22,200
+You're not really getting the face of face, the walk around the office, and kind of see that this person that was always eating in this area is no longer there.
+
+181
+00:20:22,200 --> 00:20:24,500
+So you want to just check up on that individual.
+
+182
+00:20:24,700 --> 00:20:30,700
+A lot of that goes unseen, which means that we have to be even more intentional, right?
+
+183
+00:20:30,700 --> 00:20:31,300
+As leaders.
+
+184
+00:20:31,300 --> 00:20:36,100
+And as companies to Car people write the perks of, you know what?
+
+185
+00:20:36,100 --> 00:20:36,900
+I was back at Google.
+
+186
+00:20:36,900 --> 00:20:43,700
+The Perks of like the massage table or the snacks and the micro kitchen, or the scooters to like, get around.
+
+187
+00:20:43,700 --> 00:20:50,600
+The campus are no longer going to be the things that keep your people hooked into the company.
+
+188
+00:20:50,900 --> 00:20:59,900
+What are you seeing, like, even in the early stages of companies and what they're trying to do to invest and their culture remotely.
+
+189
+00:21:00,700 --> 00:21:01,000
+Yeah.
+
+190
+00:21:01,000 --> 00:21:05,100
+It's been something that we have fermented with a lot.
+
+191
+00:21:05,100 --> 00:21:13,600
+I think that it's impossible to go into this and just know exactly how it's supposed to be done and how it will work best in your own company.
+
+192
+00:21:13,900 --> 00:21:24,700
+I think the thing is that I am seeing one is just getting away from just really generic virtual happy hour, big, big group and figuring out.
+
+193
+00:21:24,700 --> 00:21:27,400
+How do you get participation?
+
+194
+00:21:27,800 --> 00:21:32,100
+Either it in that larger setting internally.
+
+195
+00:21:32,100 --> 00:21:37,100
+We are all about the chat and being really Lively and active.
+
+196
+00:21:37,100 --> 00:21:43,600
+They're breaking out in small groups, mixing, different ways of engaging and then how do you break it down?
+
+197
+00:21:43,600 --> 00:21:57,600
+So at one point you just said, I look, we are done with virtual happy hours, just basically like ban them and let us to take all of that energy and invest it in creating.
+
+198
+00:21:57,800 --> 00:22:00,900
+Small group events for teams and cross-functional partners.
+
+199
+00:22:00,900 --> 00:22:08,000
+And let us get 5 or 10 people together and do a really cool event for them, where they can, they can engage with, with each other.
+
+200
+00:22:08,000 --> 00:22:08,400
+Mmm.
+
+201
+00:22:08,400 --> 00:22:16,300
+So, I think those are the, those are the things that we have had great reaction on and get people dancing.
+
+202
+00:22:16,700 --> 00:22:16,800
+Yeah.
+
+203
+00:22:16,800 --> 00:22:19,700
+That she has to, like, actually build a connection with each other.
+
+204
+00:22:20,900 --> 00:22:22,600
+Yeah, now, I love that.
+
+205
+00:22:22,600 --> 00:22:23,500
+I love that and date.
+
+206
+00:22:23,500 --> 00:22:24,400
+I promise, guys.
+
+207
+00:22:24,400 --> 00:22:36,400
+I did not pay Dave to say that we are, you know, for us, that's what we drive, you know, welcome drives these different type of experiences vary, whether its high production like this or small groups who are wood and what have you.
+
+208
+00:22:36,800 --> 00:22:49,900
+And what we're seeing just to speak on, like the patterns that we're seeing on our side, we're seeing exactly that right companies are saying that, you know, the things that we're first, first of all, we have taken this approach.
+
+209
+00:22:50,000 --> 00:22:54,200
+Where will use to do in the room like, in office in person environment?
+
+210
+00:22:54,200 --> 00:22:57,300
+We're trying to replicate that in the virtual environment.
+
+211
+00:22:57,300 --> 00:23:06,200
+And that's where we get in trouble versus saying, you know what, we're going to take a remote first approach and say what is really an engaging experience.
+
+212
+00:23:06,200 --> 00:23:13,100
+Is it really just bringing people into a gallery of all of our faces from meeting to meeting immediately meeting?
+
+213
+00:23:13,100 --> 00:23:19,700
+And then we're going to try to inject an experience or do we take a remote first approach and say You know what?
+
+214
+00:23:19,700 --> 00:23:33,100
+We're going to actually change it up quite a bit and do things that were not even possible to do in the real world because now we're in the, in the remote world, and we can do things that were not possible.
+
+215
+00:23:34,500 --> 00:23:39,800
+Easy for some companies to get you, get caught on the wrong side of this, to where it was getting me.
+
+216
+00:23:39,800 --> 00:23:49,000
+A lot of companies who are trying to add in a little bit of flexibility and one or two days a week from home or a couple of remote people and our understanding.
+
+217
+00:23:49,100 --> 00:24:15,500
+Are estimating, still what that means when you put it all together, when you have 10% remote and a bunch of other people that you will still need to be operating with much at different norms, and communication Styles and ways of engaging because you will come into the office, even though you think that you're mostly in office and you're going to have half the people dialing in.
+
+218
+00:24:15,700 --> 00:24:18,800
+And so it's just going to drive a lot of different engagement there.
+
+219
+00:24:19,900 --> 00:24:27,400
+No doubt and that's sort of like drives a good segue into like a remote and hybrid work challenges, right?
+
+220
+00:24:27,400 --> 00:24:28,400
+I think that.
+
+221
+00:24:28,400 --> 00:24:29,900
+I mean, you're starting to peel back.
+
+222
+00:24:29,900 --> 00:24:36,900
+What could be like an entire for our conversations, and we can make turned it into a conference to talk about the learnings.
+
+223
+00:24:36,900 --> 00:24:45,900
+But really, that's what it is, is really learning and iterating, you know, in our conversation before we came on stage.
+
+224
+00:24:45,900 --> 00:24:54,600
+We're talking about how lattice had a plan and say, you know what, After certain amount of months, we're going to bring people back to the office and then this and then Delta came.
+
+225
+00:24:54,600 --> 00:24:57,700
+And then what were some of those learnings for you?
+
+226
+00:24:57,700 --> 00:25:02,900
+I mean, you're sitting, you're sitting with leaders at ladders, you're saying, okay, like let us figure this out.
+
+227
+00:25:03,100 --> 00:25:04,500
+Let us roll it out.
+
+228
+00:25:04,600 --> 00:25:07,600
+But what's the power of iteration and learning in that?
+
+229
+00:25:07,600 --> 00:25:08,500
+Oh, yeah.
+
+230
+00:25:09,100 --> 00:25:10,500
+We had the perfect plan.
+
+231
+00:25:10,600 --> 00:25:24,500
+It was, it was all, it was all baked out, and we had the, we had the five-page FAQ Dock, and it was all very Like well organized, it was all going to be our people come in on these days.
+
+232
+00:25:24,500 --> 00:25:26,900
+And this is what it's going to look like.
+
+233
+00:25:28,100 --> 00:25:32,600
+We rolled it out before any of us actually set foot in the office again.
+
+234
+00:25:33,600 --> 00:25:39,200
+And as soon as we did, I mean, even all of us who debated it and written it up.
+
+235
+00:25:39,200 --> 00:25:40,200
+Like, I don't know.
+
+236
+00:25:40,200 --> 00:25:42,500
+I feel different about some of this stuff than I thought.
+
+237
+00:25:42,500 --> 00:25:42,900
+I would.
+
+238
+00:25:42,900 --> 00:25:49,400
+Like, I thought I was a really want this person and actually turns out I want more flexibility or these challenges.
+
+239
+00:25:49,500 --> 00:26:00,700
+We thought that the one that always comes to mind is we have no meeting Wednesdays and yeah, so we And this out and Wednesday, we're going to do two days at home.
+
+240
+00:26:00,900 --> 00:26:02,500
+Wednesday was going to be one of those days.
+
+241
+00:26:02,500 --> 00:26:04,600
+So everyone could do the focus work.
+
+242
+00:26:04,800 --> 00:26:05,600
+It turned out.
+
+243
+00:26:05,600 --> 00:26:18,500
+It was the complete opposite as soon as we opened up the office, optimally, everyone came in Wednesday's because they didn't have meetings, and they wanted to actually be able to engage with each other and that made total sense expensive.
+
+244
+00:26:19,200 --> 00:26:28,300
+But It was the come on, what we thought and then Delta came and the combination of those things.
+
+245
+00:26:28,500 --> 00:26:38,400
+I think we have been doing a lot of real-time surveying like rolling pulse engagement surveys and Delta hit the next week on.
+
+246
+00:26:38,500 --> 00:26:42,400
+We had a question around like I agree with my company's approach.
+
+247
+00:26:42,900 --> 00:26:45,400
+On, on some hybrid related things.
+
+248
+00:26:45,400 --> 00:26:55,300
+We saw it felt fall 30 points in a week after Delta really, really took shape there and wow.
+
+249
+00:26:55,300 --> 00:26:56,700
+It was the dinner for us to say.
+
+250
+00:26:57,300 --> 00:27:00,800
+All right, we gotta do this over.
+
+251
+00:27:00,800 --> 00:27:04,100
+We came our and said, hey, we did this too early.
+
+252
+00:27:04,300 --> 00:27:10,000
+So we're going to put everything back on the table, and we're gonna, we're going to bring you along on the journey with us.
+
+253
+00:27:10,700 --> 00:27:14,400
+We're not going to, we won't have the 10-page, FAQ doc, ready.
+
+254
+00:27:15,400 --> 00:27:20,000
+And so know that there's going to be uncertainty but it's not.
+
+255
+00:27:20,200 --> 00:27:23,600
+Is right now hiding it like there're just things we don't know yet.
+
+256
+00:27:23,600 --> 00:27:31,200
+And here's how we're going to go through this Wireless together and that really, I think you built those with people and helped us help.
+
+257
+00:27:31,200 --> 00:27:34,100
+Just kind of bring people Along on that on the journey with us.
+
+258
+00:27:35,400 --> 00:27:42,400
+Now Dave what do you think like lattice folks in general?
+
+259
+00:27:42,400 --> 00:27:44,300
+Are you guys going to see folks?
+
+260
+00:27:44,300 --> 00:27:50,300
+I stay remote or you guys always going to require two days or where's the current thinking that way right now?
+
+261
+00:27:51,000 --> 00:28:04,900
+Yeah, and I think everyone says they're you know, doing or so many people say they're doing hybrid and the no never defines what that is and you really do have to break it down to in the what's hybrid.
+
+262
+00:28:05,100 --> 00:28:15,500
+Of your in commuting distance of the office and you're coming in sometimes and not coming in sometimes and then what's remote.
+
+263
+00:28:15,600 --> 00:28:20,500
+And you know, and your part of a bigger organization that isn't necessarily all remote.
+
+264
+00:28:20,600 --> 00:28:34,800
+The way we are approaching it now is really trying to get often down more to the team by team level and allowing for a fair amount of flexibility in individual.
+
+265
+00:28:35,000 --> 00:28:46,300
+Um, so take like our engineering organization and our Tech teams, they will have a pod that is focused on this part of the product that will be default.
+
+266
+00:28:46,300 --> 00:29:02,800
+Remote, people know if the joining that pod that team operates with total like remote first, mindset and norms, and they will be another pod that, hey, it's people, that actually like that, that office collaboration, and they will come in one or two days a week and be within commuting distance.
+
+267
+00:29:03,000 --> 00:29:04,900
+The thing that we were figuring out now.
+
+268
+00:29:05,100 --> 00:29:15,100
+Next is when and how do we do the virtual events in a way that's engaging for a hybrid team?
+
+269
+00:29:15,500 --> 00:29:18,000
+And when and how do we bring people together in person?
+
+270
+00:29:18,400 --> 00:29:28,700
+We're talking about both a like january/february big virtual kickoff and then also possibly bring all of the company together.
+
+271
+00:29:28,800 --> 00:29:34,900
+Like once in person later in the yeah really, you know, some of the in-person connection.
+
+272
+00:29:35,000 --> 00:29:57,300
+It's, you know, was mind-boggling day is that, who would have thought 24 months ago that every company across the world is thinking about these things and that remote is normalized and that people can work from home and companies are like, yeah, maybe you can just come to the office once a week.
+
+273
+00:29:57,400 --> 00:30:00,100
+Like, it's a complete s***, 24 months later.
+
+274
+00:30:00,100 --> 00:30:04,900
+We're living in a place where we're putting employees first, and we're saying that.
+
+275
+00:30:05,300 --> 00:30:09,500
+You know what, we can still get the job done, and we want to have flexibility.
+
+276
+00:30:09,500 --> 00:30:11,900
+But we also want these kind of things.
+
+277
+00:30:11,900 --> 00:30:16,400
+Now, these kind of things are the things that feel that are still evolving.
+
+278
+00:30:16,400 --> 00:30:22,300
+And we're learning from a business perspective, what they are and the example that you had, which was fantastic.
+
+279
+00:30:22,400 --> 00:30:29,400
+People came into to actually build connection with other peers on that Wednesday as opposed to a no meeting.
+
+280
+00:30:29,700 --> 00:30:34,800
+And it seems like that's a pattern that companies are taking where when folks do come together.
+
+281
+00:30:35,900 --> 00:30:40,900
+We want them to connect in ways that you can't do over screen.
+
+282
+00:30:41,000 --> 00:30:49,300
+And so for us, for instance, we gathered our entire company in person, and we focused on doing no screen time.
+
+283
+00:30:49,300 --> 00:30:51,500
+It was a couple days, and we said no screen time.
+
+284
+00:30:52,000 --> 00:30:57,900
+We're actually going to do things that are almost impossible to do remotely and build that relational Equity.
+
+285
+00:30:58,100 --> 00:31:01,400
+So that when we jump back on here, I am connected to date.
+
+286
+00:31:01,500 --> 00:31:04,900
+Because Dave and I we broke bread and I got to know him his story.
+
+287
+00:31:05,100 --> 00:31:14,600
+Re and we went on a walk and talk and it felt right and I think that's a pattern that we're seeing also company sake is that resonate with what you're seeing?
+
+288
+00:31:15,600 --> 00:31:19,500
+Definitely that I think getting much more intentional around?
+
+289
+00:31:19,500 --> 00:31:22,500
+What do we want to use this time?
+
+290
+00:31:22,500 --> 00:31:25,600
+Whether that's the in-person time or the virtual time?
+
+291
+00:31:26,200 --> 00:31:27,400
+What do we want to use it for?
+
+292
+00:31:27,600 --> 00:31:31,800
+And there is actually there's really good research that backs up exactly what you're saying.
+
+293
+00:31:31,800 --> 00:31:34,900
+A virtual team actually perform.
+
+294
+00:31:35,100 --> 00:31:36,300
+Much more highly.
+
+295
+00:31:37,000 --> 00:31:47,000
+If they have been able to meet even once in person and been able to go through some of that relationship building that they might not have been able to.
+
+296
+00:31:47,000 --> 00:31:56,500
+Otherwise, the other thing we're seeing and I spawned the chat, someone mentioned across functional scavenger hunt that they set up the cross.
+
+297
+00:31:56,500 --> 00:31:59,100
+Functional piece is really interesting.
+
+298
+00:31:59,100 --> 00:32:30,000
+There was actually there was a study that Microsoft actually just did and released in nature, they analyzed all of the like Communications and meetings that were happening when people went into a remote or hybrid in environment, what they found is that the total amount of communication stayed the same but it tended towards being much more within the team with a decline of lots of cross functional connections and communication.
+
+299
+00:32:30,000 --> 00:32:36,600
+It was something that we saw internally or even myself when I joined I am boarded in June.
+
+300
+00:32:37,500 --> 00:32:55,800
+So I was onboarding remotely as we're all still figuring it out now, and I am actually surprised how easily I could connect with other execs with, with my team with folks that I had the opportunity to work with a lot and repeatedly.
+
+301
+00:32:56,600 --> 00:33:04,400
+And when I realized I was missing is like hey that person that I don't have a specific reason to talk to, but maybe I would admit it.
+
+302
+00:33:05,100 --> 00:33:06,300
+The lunch table, right?
+
+303
+00:33:06,400 --> 00:33:12,900
+And like that's our bill is sort of cross-functional empathy, you know, somewhere else in the organization.
+
+304
+00:33:13,200 --> 00:33:14,400
+That's what's breaking down.
+
+305
+00:33:15,500 --> 00:33:16,900
+Yeah, and that's it.
+
+306
+00:33:17,400 --> 00:33:18,900
+I think, I think that's right.
+
+307
+00:33:18,900 --> 00:33:38,000
+I think that's a challenge even for us right at, welcome to we're 100% remote food to distribute it and I think it's those opportunities to see a new employee that, you know, joined two weeks ago and See him her walking down the hall and you're like, hey, you know what?
+
+308
+00:33:38,000 --> 00:33:39,800
+Let us have five minutes right now.
+
+309
+00:33:39,900 --> 00:33:42,700
+Let us just catch up and I want to hear your story.
+
+310
+00:33:42,700 --> 00:33:43,800
+And how was your week going?
+
+311
+00:33:43,800 --> 00:33:46,300
+And let us go for a coffee.
+
+312
+00:33:46,500 --> 00:33:46,800
+Right?
+
+313
+00:33:46,800 --> 00:33:50,300
+I think that those are the things that we have to figure out pretty quickly.
+
+314
+00:33:50,500 --> 00:33:51,800
+To continue to build that.
+
+315
+00:33:51,800 --> 00:33:59,600
+Every lease from Equity, that drives us segueing into creating a culture of belonging, right?
+
+316
+00:33:59,600 --> 00:34:03,400
+You T that up how important that is on the retention side?
+
+317
+00:34:03,400 --> 00:34:19,400
+How people would have feel Connected to not just a company but their co-workers we have a stat here from the report that says 43% of HR professionals here at that Employee Engagement was the number one top priority over the next 12 months.
+
+318
+00:34:19,900 --> 00:34:24,800
+It's true with like the folks that we surveyed here at this event as well.
+
+319
+00:34:25,100 --> 00:34:27,100
+It's like the top priority for folks.
+
+320
+00:34:28,699 --> 00:34:33,199
+Like how are you seeing folks boost retention in the current landscape, right?
+
+321
+00:34:33,199 --> 00:34:37,400
+We have this complexity of Figuring out hybrid and strategies.
+
+322
+00:34:38,000 --> 00:34:43,199
+What are you seeing some actual things that you are actually working?
+
+323
+00:34:43,400 --> 00:34:45,500
+Are you starting to see some patterns from this report?
+
+324
+00:34:45,500 --> 00:34:47,199
+And from your peers in the space?
+
+325
+00:34:47,900 --> 00:34:48,300
+Yeah.
+
+326
+00:34:48,300 --> 00:34:55,500
+So I think one of the big patterns is happening, I think there's a, there's been a real shift.
+
+327
+00:34:55,600 --> 00:35:07,800
+Unfortunately over the last six to nine months, of a lot of companies really actually D prioritizing d&i, and that was one of the changes that we saw between or last year's survey.
+
+328
+00:35:07,800 --> 00:35:34,900
+In this year's survey was, you know, I am falling really far down the agenda, both your business and HR leaders and I think that when you dig below a lot of times a headline stats around engagement and attrition what you realize underneath people having really different experiences and you know, like this is its something that I try and keep really like Forefront in my mind.
+
+329
+00:35:35,000 --> 00:35:49,200
+A white male, like I will have a certain experience, and a certain like, way that I see myself represented in around the company, and take signals from that around where I do, or don't belong.
+
+330
+00:35:49,200 --> 00:36:00,300
+And so, if you're not thinking about these aspect, when you're approaching something like Employee Engagement, really going to be missing.
+
+331
+00:36:00,300 --> 00:36:05,400
+The reality of the, many different experiences that people are having.
+
+332
+00:36:05,500 --> 00:36:11,600
+So I think we're seeing a bit of a split where there is a subset of companies.
+
+333
+00:36:11,600 --> 00:36:22,300
+That is, he's keeping to unite as much higher on the priority list, and I think see those folks have greater success on the retention side.
+
+334
+00:36:22,300 --> 00:36:23,500
+Overall, as a result.
+
+335
+00:36:25,000 --> 00:36:27,500
+No doubt, I, you know I have to dig into that.
+
+336
+00:36:27,500 --> 00:36:33,000
+You open up a door that I am super passionate about almost to a default.
+
+337
+00:36:33,000 --> 00:36:52,400
+It's, it's, I am pretty bullish on the fact that remote work when done, well can lead to a richer culture, you know, diverse culture, but it doesn't mean that it's necessarily, just going to happen.
+
+338
+00:36:52,800 --> 00:36:54,800
+Like, it's not Just going to happen.
+
+339
+00:36:54,800 --> 00:37:10,200
+Just because now you're a remote company, you're going to reap the benefits of that and build, a very inclusive culture and a culture that within the company that builds for the world because it is diverse.
+
+340
+00:37:11,000 --> 00:37:15,100
+What do you seeing the implications of that?
+
+341
+00:37:15,100 --> 00:37:21,500
+So we're going from 0, folks are putting when, when folks don't prioritize there's there're some problems with that.
+
+342
+00:37:21,500 --> 00:37:23,600
+Obviously, but also, what are the benefits?
+
+343
+00:37:24,200 --> 00:37:33,100
+That you're starting to see and what kind of intention is needed to diversify the workforce in this new landscape that we go stepping into.
+
+344
+00:37:34,200 --> 00:37:38,300
+I mean certainly really right in that it opens up a lot of opportunities.
+
+345
+00:37:38,300 --> 00:38:08,500
+We spent a lot of time internally talking about our own location strategy and having our location and hybrid strategy, actually be an explicit part of how we plan to recruit and compete for talent and thinking about diversity as one of the specific and explicit aspects that we're considering if we're opening up a new office or recruiting in different locations and what teams were opening up to do remote first.
+
+346
+00:38:08,900 --> 00:38:11,300
+So I think it opens up a lot of opportunities.
+
+347
+00:38:11,300 --> 00:38:17,200
+I think you're totally right that the intentionality in this is critical that.
+
+348
+00:38:17,600 --> 00:38:44,400
+Yeah, I think, you know, we know that we're talking about unconscious bias that Is not something that just quickly or easily shift, you know, it's something that we have been saved our leader just companies working on in different ways for a long time and there will be ways that I think it opens up opportunities for more inclusivity.
+
+349
+00:38:45,500 --> 00:38:53,300
+I think there will be new challenges that we figure out to, you know, what happens when your hybrid.
+
+350
+00:38:53,700 --> 00:39:02,800
+And you start to get say there's a fairly large actually demographic, breakdown on, who's coming into the office or spends more time in the office or not.
+
+351
+00:39:03,400 --> 00:39:06,400
+What might that lead to and how are you thinking about that?
+
+352
+00:39:06,400 --> 00:39:11,800
+Yeah, now yeah, it's a build the culture around that.
+
+353
+00:39:13,100 --> 00:39:16,900
+This is, I mean, this is a right on Deva.
+
+354
+00:39:16,900 --> 00:39:24,500
+I love that you're speaking on this because, you know, we talked about leveling the playing field, and we talked about providing Equitable experience.
+
+355
+00:39:26,200 --> 00:39:27,500
+What does that actually mean?
+
+356
+00:39:27,600 --> 00:39:27,900
+Right?
+
+357
+00:39:27,900 --> 00:39:32,200
+Like these are hot terms and it's like, yes, I am gonna do this and yes, we're going to do this.
+
+358
+00:39:32,700 --> 00:39:42,700
+What does that look like as we're stepping into remote first, you know, one of the things that, that I have been having some conversations about with other leaders around this way.
+
+359
+00:39:42,900 --> 00:39:44,800
+Thing to say that.
+
+360
+00:39:46,200 --> 00:39:49,600
+Exactly what your tea and up to say that, okay, we're going to level the playing field.
+
+361
+00:39:49,600 --> 00:39:53,800
+We're going to do remote, it gives us access, and we can provide more opportunity.
+
+362
+00:39:54,000 --> 00:40:06,100
+That means if you want to live in Puerto Rico and you want to work from Puerto Rico and like have a yard with your roosters and your chickens and your family's there, but you can still work for a fast-growing, Silicon Valley company, then you should be able to go do that.
+
+363
+00:40:06,200 --> 00:40:18,800
+Now that person shouldn't feel like there's an unfair Advantage between where they're sitting and the people that are in the office rubbing elbows with people and grabbing the Fee, with that leader, that's walking down the hall.
+
+364
+00:40:19,700 --> 00:40:20,600
+What?
+
+365
+00:40:21,300 --> 00:40:23,300
+What, goes through your mind and that challenge?
+
+366
+00:40:23,500 --> 00:40:30,500
+And I know I am not, and I am not asking for the right answer because I know we're all learning in this fast-changing environment.
+
+367
+00:40:30,600 --> 00:40:37,700
+But what goes through your mind in that from an equitable experience, for employees that are going to be remote, like, we're going to be hiring remote employees, right?
+
+368
+00:40:37,700 --> 00:40:43,500
+If you want to live in Alabama, or in Iowa or importer Rico, go ahead and do that.
+
+369
+00:40:43,600 --> 00:40:45,800
+But how do I work as a leader to make you feel?
+
+370
+00:40:46,000 --> 00:40:50,700
+Feel included and feel like the Plainfield, like your voice.
+
+371
+00:40:52,100 --> 00:40:57,300
+Is as loud as the loudest extrovert that sitting in the town hall?
+
+372
+00:40:58,400 --> 00:40:59,500
+In front of the executive.
+
+373
+00:41:00,100 --> 00:41:01,000
+What does that look like?
+
+374
+00:41:01,500 --> 00:41:02,000
+Yeah.
+
+375
+00:41:02,000 --> 00:41:12,500
+I think the two big things that we're trying to do one is that we're really explicitly treating remote as an office.
+
+376
+00:41:12,800 --> 00:41:19,600
+And so we got Seth is an office York is an office blending, his office and remote as an office and got it.
+
+377
+00:41:19,600 --> 00:41:20,600
+We have a site leader.
+
+378
+00:41:20,700 --> 00:41:28,000
+We're setting up a site leadership team in the same way that we think about annually, what's our benefit strategy.
+
+379
+00:41:28,200 --> 00:41:37,600
+For the UK versus the us, we're talking about what is our benefit strategy for remote and bring it in as a layer.
+
+380
+00:41:37,600 --> 00:41:38,100
+Anytime.
+
+381
+00:41:38,100 --> 00:41:41,300
+We're thinking about our employee value prop, our employee experience.
+
+382
+00:41:41,700 --> 00:41:57,800
+I think that creating the platform then have some of those leadership voices, will be really important and also being able to cut our engagement survey data and all of these other data points that we have.
+
+383
+00:41:58,100 --> 00:42:08,700
+And looking at that, that cut of it, the other OB this investing in person and being able, whether it's all at once?
+
+384
+00:42:08,800 --> 00:42:20,400
+Or basically, we take a lot of the money that we're saving potentially on off a space over the years really intentionally, bring that back into combination of employee travel.
+
+385
+00:42:20,700 --> 00:42:26,600
+Like and like the actual events and different ways of enabling that hybrid experience.
+
+386
+00:42:28,600 --> 00:42:30,900
+Fantastic, you know, I love it.
+
+387
+00:42:30,900 --> 00:42:35,500
+Looks like folks are resonating as well with remote as an office, right?
+
+388
+00:42:35,500 --> 00:42:38,900
+That's a simple framing, but it's important.
+
+389
+00:42:38,900 --> 00:42:43,500
+Like, if remote weren't office, who runs that office, who's driving the culture within that office.
+
+390
+00:42:43,500 --> 00:42:50,700
+How are we handling spaces for people to connect and engage with, in that office is super helpful?
+
+391
+00:42:52,700 --> 00:42:57,000
+Let us go ahead and segue into some Q&A and guys go ahead and start flooding.
+
+392
+00:42:57,000 --> 00:42:57,800
+The Q&A tab.
+
+393
+00:42:57,800 --> 00:43:01,400
+We want to hear your voice, and your questions won't bring that.
+
+394
+00:43:01,400 --> 00:43:03,600
+First question up on stage from Robin.
+
+395
+00:43:03,600 --> 00:43:07,200
+What are you most excited about in 2022?
+
+396
+00:43:08,300 --> 00:43:11,000
+Dave, who most excited about?
+
+397
+00:43:13,200 --> 00:43:16,100
+I mean, so there's so much.
+
+398
+00:43:16,100 --> 00:43:19,400
+I make, I am excited, but I will say, actually, the very biggest thing.
+
+399
+00:43:19,400 --> 00:43:29,900
+I mean I am excited about is Possibility of bringing the whole company together in, in person will be at like six or seven hundred people.
+
+400
+00:43:30,000 --> 00:43:37,700
+And as interesting window of time before we're too big to do it, but after a lot of, you know, we're still covid Z, /.
+
+401
+00:43:38,100 --> 00:43:39,100
+So I would say that.
+
+402
+00:43:39,100 --> 00:43:39,300
+Yeah.
+
+403
+00:43:40,800 --> 00:43:40,800
+Okay.
+
+404
+00:43:41,000 --> 00:43:52,300
+The other thing I would say is, we're coming out with a comp product and I have always been a comp geek and so just getting a chance to work with the teams.
+
+405
+00:43:52,400 --> 00:43:57,900
+Internally on like product division around that has been much fun.
+
+406
+00:43:59,000 --> 00:43:59,800
+Fantastic.
+
+407
+00:43:59,900 --> 00:44:01,200
+Okay, I will be looking out for that.
+
+408
+00:44:01,200 --> 00:44:03,900
+I think we all need more tools as people leaders.
+
+409
+00:44:05,600 --> 00:44:18,700
+You know, the Gathering of folks is pretty magical in person, when we had our people come together, like it felt like we have been together the entire time, like people connected.
+
+410
+00:44:18,700 --> 00:44:20,000
+I mean, they were tears.
+
+411
+00:44:20,000 --> 00:44:27,300
+It was like, there's a like, what is happening right now, but it was so much richer when we came back to be a remote.
+
+412
+00:44:27,300 --> 00:44:30,200
+So Yeah, you know, that struck me too.
+
+413
+00:44:30,200 --> 00:44:42,400
+I had actually a similar experience, it surprised me because I have been in the office a couple of you number of times before, but we had a, we had like a Halloween party.
+
+414
+00:44:42,900 --> 00:44:55,600
+Like I literally almost broke down in tears because there were all these people, I felt like I had worked with but was getting a chance to connect with on a deeper level and I realized how much I had.
+
+415
+00:44:56,800 --> 00:45:00,400
+I have been missing that like it's been Yeah, really, really long 1820.
+
+416
+00:45:00,400 --> 00:45:02,200
+So like we need those connections.
+
+417
+00:45:03,200 --> 00:45:04,600
+Now that no doubt.
+
+418
+00:45:04,600 --> 00:45:05,100
+Okay, cool.
+
+419
+00:45:05,100 --> 00:45:10,900
+So I am looking forward to that for you as well, and we will get our people together in year two at welcome.
+
+420
+00:45:11,400 --> 00:45:14,900
+Let us go ahead and bring up a question from Emily.
+
+421
+00:45:15,300 --> 00:45:21,700
+What if employees don't engage show up or the same people show up for the event?
+
+422
+00:45:21,700 --> 00:45:22,000
+Okay.
+
+423
+00:45:22,000 --> 00:45:35,600
+So I think the additional framing here is like right now, you know, we  thrown internal town halls or a prg event and like how Like, how are you seeing folks, engaging?
+
+424
+00:45:35,600 --> 00:45:38,100
+And what are you guys doing to bring that up?
+
+425
+00:45:38,800 --> 00:45:50,100
+Yeah, so I think, and I remember having this challenge actually before covid as well, you throw the, you know, the office happy hour and often the same 20 people would show up.
+
+426
+00:45:50,500 --> 00:46:06,900
+I think you really understand the diversity of your employee base and what people are interested in and what's going to get them excited and the thing that's going to get, you know, the account, exactly excited actually problem.
+
+427
+00:46:06,900 --> 00:46:10,600
+May be really different from what's going to get some of the engineers excited.
+
+428
+00:46:11,200 --> 00:46:21,400
+So just I have really tried to embrace like a wide range of different types of events and then also empowering groups and teams.
+
+429
+00:46:21,400 --> 00:46:32,600
+So we have really upped our ERG budgets and empowerment of leadership since their able to do more events giving budgets and an environment to department leaders, all of that.
+
+430
+00:46:33,100 --> 00:46:33,900
+Bring more folks in.
+
+431
+00:46:35,400 --> 00:46:45,800
+No doubt, no doubt, you know it's interesting as I am getting more and more into the space because I am you know, we're obviously part of the space and tooling the space.
+
+432
+00:46:46,000 --> 00:46:51,700
+What we're finding is that urg groups not just is not just the right thing to do.
+
+433
+00:46:52,200 --> 00:47:00,000
+In terms of representation making people feel like they belong, but is actually a big culture driver and people, feel empowered to say.
+
+434
+00:47:00,400 --> 00:47:01,500
+Yes, you have a budget.
+
+435
+00:47:01,500 --> 00:47:01,900
+Yes.
+
+436
+00:47:01,900 --> 00:47:02,700
+You have space.
+
+437
+00:47:02,700 --> 00:47:03,900
+Yes, please go do.
+
+438
+00:47:03,900 --> 00:47:05,000
+And you have executive support.
+
+439
+00:47:05,200 --> 00:47:07,700
+To go do that matters tremendously.
+
+440
+00:47:07,900 --> 00:47:11,100
+I am glad that you brought that up going to the second.
+
+441
+00:47:11,100 --> 00:47:14,600
+The third question here from Casey.
+
+442
+00:47:14,800 --> 00:47:27,100
+What do you recommend for folks who are feeling unhappy with their current work set up, you know, she's 100% remote right now, but don't know what our tentative solution would make them happier.
+
+443
+00:47:28,600 --> 00:47:30,200
+Yeah, I think.
+
+444
+00:47:31,400 --> 00:47:33,100
+It's going to depend on by individual.
+
+445
+00:47:33,100 --> 00:47:36,800
+I think it is probably getting to the root of it.
+
+446
+00:47:36,800 --> 00:47:42,800
+Like, is it, is it a company that is just not remote friendly, right?
+
+447
+00:47:42,800 --> 00:47:54,000
+Or is it hey that actually want to be, but they're struggling on how to build certain types of connections and operate in this new world.
+
+448
+00:47:54,800 --> 00:48:08,400
+I do think that there're some folks like I know a fair number of people that just Personally, our office folks, and they really prefer to work in an office.
+
+449
+00:48:08,400 --> 00:48:11,000
+And that's okay too.
+
+450
+00:48:11,000 --> 00:48:18,800
+And I think so mix of really understanding the company and knowing your own desires to figure out.
+
+451
+00:48:18,800 --> 00:48:20,500
+Hey, is this, is this a match long-term?
+
+452
+00:48:20,500 --> 00:48:23,400
+I mean, this goes back to what we were two talking about earlier.
+
+453
+00:48:24,100 --> 00:48:29,400
+There's gonna be a whole reshuffling of folks as each company moves into their model.
+
+454
+00:48:30,100 --> 00:48:33,500
+Opting in or opting out of that, that company based on it.
+
+455
+00:48:34,600 --> 00:48:37,500
+Yeah, you know, it's just a tough one as well.
+
+456
+00:48:37,500 --> 00:48:41,400
+I Casey I think that it's for some folks.
+
+457
+00:48:41,600 --> 00:48:43,900
+They're loving the remote for others.
+
+458
+00:48:43,900 --> 00:48:58,900
+It's like I love it, but I don't at times like it's like this love-hate relationship where like the I love the flexibility but I hate this actual room setup because it's super echoey and I don't have the nice coffee shop right down the street because I am in The Burbs.
+
+459
+00:48:58,900 --> 00:49:03,700
+And every time I used to go into SF, it was not only good.
+
+460
+00:49:03,800 --> 00:49:10,400
+For me to listen to my podcast decompressed but also engage with people and I think that's super important.
+
+461
+00:49:10,400 --> 00:49:14,800
+I have some team members, and we're going to be working in 2022.
+
+462
+00:49:15,000 --> 00:49:34,400
+The idea of PODS and saying that for cities in which we have a larger concentration of people, we're going to have like, these co-working spaces where people can drop in and go connect and even looking at like stipends to say, you know what, like, if you want to actually go to co-working, Space.
+
+463
+00:49:34,400 --> 00:49:39,900
+So you can get your fix with people and all of that we're going to be looking at ways to make that available.
+
+464
+00:49:39,900 --> 00:49:44,600
+And I think Dave, I think that companies would love to hear your thoughts on that companies.
+
+465
+00:49:44,600 --> 00:49:49,600
+Need to be thinking in that kind of way, for the cases of the world where it's like, hey, I am here.
+
+466
+00:49:49,600 --> 00:49:52,800
+I like it, but it's not optimal.
+
+467
+00:49:52,800 --> 00:49:53,800
+Something's not right.
+
+468
+00:49:54,300 --> 00:49:55,600
+Like what's your, what's your take on that?
+
+469
+00:49:55,600 --> 00:49:56,000
+Our people?
+
+470
+00:49:57,500 --> 00:50:03,800
+What you're hitting on there is something we hadn't thought of it internally, but I have been hearing it pop up, isn't it?
+
+471
+00:49:57,500 --> 00:49:57,500
+What?
+
+472
+00:50:03,800 --> 00:50:06,100
+Idea, and I love it of.
+
+473
+00:50:06,600 --> 00:50:06,900
+All right.
+
+474
+00:50:06,900 --> 00:50:07,900
+Look, what do we do?
+
+475
+00:50:07,900 --> 00:50:16,600
+We didn't open up an office in Atlanta, but it turns out now that we have 20 remote workers all in Atlanta.
+
+476
+00:50:16,600 --> 00:50:19,600
+Like, why are we missing that as an opportunity?
+
+477
+00:50:20,300 --> 00:50:28,100
+And, so I think, you know, yeah, or even our idea of whether or not, there's an office in a certain city will evolve.
+
+478
+00:50:28,100 --> 00:50:31,300
+Is it going to be more of a, more of a spectrum?
+
+479
+00:50:31,300 --> 00:50:33,600
+I think there are a lot of people who are looking at that.
+
+480
+00:50:35,100 --> 00:50:36,400
+Yeah, no doubt.
+
+481
+00:50:36,600 --> 00:50:36,700
+Are.
+
+482
+00:50:36,700 --> 00:50:43,000
+We got a last question here as we're coming in for a landing from Spencer was the most engaging employee experience.
+
+483
+00:50:43,000 --> 00:50:48,200
+You have been able to execute in a remote world or in your case, the remote office.
+
+484
+00:50:48,500 --> 00:50:50,600
+And how, how are you measuring impact of that?
+
+485
+00:50:51,500 --> 00:50:52,900
+Someone one we did.
+
+486
+00:50:53,000 --> 00:50:54,700
+This was it was so much fun.
+
+487
+00:50:55,600 --> 00:51:05,300
+So we set aside three hours and I think we have been doing some different more like social events.
+
+488
+00:51:06,000 --> 00:51:08,900
+And so we wanted to do something a bit different.
+
+489
+00:51:08,900 --> 00:51:17,100
+We'd also been talking about like ideas of conflict and decision-making and communication with, with the company.
+
+490
+00:51:17,700 --> 00:51:40,100
+So actually, we brought in a group and it was it Like a business case study that they turned actually into like a gamified climbing of Mount Everest with like a software that ran it and you went through a number of stages and you had to get to decide in each stage.
+
+491
+00:51:40,100 --> 00:51:45,400
+Like there were, you know, there were some quite problems to figure out there really judgment calls and ethics.
+
+492
+00:51:45,400 --> 00:51:52,200
+It was like this mix of things that You went through for about two hours and then, and we it was intense.
+
+493
+00:51:52,200 --> 00:51:58,800
+It was really surprisingly intense and like people really got into, we did this with and it was kind of in this idea.
+
+494
+00:51:58,800 --> 00:52:05,200
+We were talking about before we did this with cross-functional teams people that wouldn't normally be working together.
+
+495
+00:52:05,300 --> 00:52:17,700
+There's a way and people actually, like kept up some of the connections afterwards and it I think helped us have a broader conversation about then some really meaningful.
+
+496
+00:52:18,200 --> 00:52:23,800
+Ideas of conflict and collaboration that we were talking about while still being like really fun.
+
+497
+00:52:24,000 --> 00:52:29,500
+There's like both a lot of fun and engaging but had some real content people.
+
+498
+00:52:31,100 --> 00:52:31,600
+Amazing.
+
+499
+00:52:31,800 --> 00:52:38,600
+Yeah, you know, it's interesting you mention content and content is really important in driving these experiences.
+
+500
+00:52:38,600 --> 00:52:39,100
+Right?
+
+501
+00:52:39,100 --> 00:53:08,800
+If you're delivering, your content is not relevant to what people are feeling sensing Desiring, then it's like you go get crickets pretty much regardless of what you do whatever magic show you put together, you know for us we have been able I remember one all hands where I did a poll survey and it was I was I was feeling like, you know, our people To connect because it feels like we're a lot of folks are sort of struggling with this like burnout and sort of the remote on screens meetings to meetings and meetings.
+
+502
+00:53:09,900 --> 00:53:10,800
+And we had an all hands.
+
+503
+00:53:10,800 --> 00:53:12,400
+It was already booked on calendar.
+
+504
+00:53:12,400 --> 00:53:14,400
+So that means that everybody's are coming.
+
+505
+00:53:14,800 --> 00:53:21,600
+So instead of like giving you a big company updating going through metrics and all these, if the things we say, you know what?
+
+506
+00:53:21,600 --> 00:53:33,900
+We're going to do an all-hands focus on self care, and we're gonna do it right now and this is what we're going to talk about, and we're going to go in groups and just have a conversation and Check in and do a heart check with each other as well.
+
+507
+00:53:33,900 --> 00:53:47,500
+And it was I think one of those riches and riches experiences, but it was drawn from a need and saying our employees need this and so therefore it's going to be relevant and relevance means right now, which means that we're going to skip this planned.
+
+508
+00:53:47,800 --> 00:53:55,200
+He that we're going to push that out a week, so that we inject something for employees Dave.
+
+509
+00:53:55,400 --> 00:53:56,300
+Thank you for being here.
+
+510
+00:53:57,000 --> 00:53:57,400
+Definitely.
+
+511
+00:53:57,400 --> 00:53:58,500
+Thanks for having me.
+
+512
+00:53:59,000 --> 00:54:00,400
+I have learned a lot.
+
+513
+00:54:00,600 --> 00:54:07,000
+SLI in the discussions that we have had together, and I am excited to go build this hybrid world together.
+
+514
+00:54:08,100 --> 00:54:09,200
+Amazing.
+
+515
+00:54:09,200 --> 00:54:16,700
+Yeah, Dave, I think you know, I would love to continue the conversation and have you added Empower belonging event again, we're going to be running these events.
+
+516
+00:54:16,700 --> 00:54:20,900
+And, you know, I think it's important that we just learn.
+
+517
+00:54:20,900 --> 00:54:22,000
+Learn, what's happening.
+
+518
+00:54:22,000 --> 00:54:22,200
+Learn.
+
+519
+00:54:22,200 --> 00:54:23,100
+What's working, learn?
+
+520
+00:54:23,100 --> 00:54:27,800
+What's not and report back as often as possible, but they thank for joining me on stage.
+
+521
+00:54:27,900 --> 00:54:29,300
+We're going to go ahead and wrap up.
+
+522
+00:54:29,300 --> 00:54:30,600
+I will see you in the Green Room.
+
+523
+00:54:30,900 --> 00:54:31,500
+Hey team.
+
+524
+00:54:31,500 --> 00:54:32,600
+Thanks for being here.
+
+525
+00:54:32,600 --> 00:54:33,000
+Everyone.
+
+526
+00:54:33,000 --> 00:54:34,200
+Thanks for attending.
+
+527
+00:54:34,700 --> 00:54:35,800
+My name is Roberto Ortiz.
+
+528
+00:54:35,800 --> 00:54:37,700
+I am the co-founder and CEO of welcome.
+
+529
+00:54:37,900 --> 00:54:45,800
+We here to enable employee experiences from overwhelm promote perspective and I hope that your you continue to keep your chin up.
+
+530
+00:54:45,800 --> 00:54:54,200
+And as you go into the holiday enjoy that family time, enjoy the front times and enjoy a hot toddy because I never had it and that's going to be on my list.
+
+531
+00:54:54,200 --> 00:54:56,900
+Now have a phenomenal, we can't thank you for being here.
+
+532
+00:54:57,100 --> 00:54:57,500
+See ya.
+
+533
+00:55:10,500 --> 00:55:21,500
+But you can still stay down, just be thankful.

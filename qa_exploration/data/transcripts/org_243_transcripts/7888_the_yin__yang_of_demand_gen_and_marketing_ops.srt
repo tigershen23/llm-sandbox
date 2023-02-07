@@ -1,0 +1,1672 @@
+
+1
+00:00:32,700 --> 00:00:36,600
+Still, enough time to figure out how to Chase.
+
+2
+00:01:21,300 --> 00:01:21,700
+When?
+
+3
+00:02:33,500 --> 00:02:34,800
+Who loves me?
+
+4
+00:03:47,000 --> 00:03:48,200
+Aloha.
+
+5
+00:03:48,600 --> 00:03:49,900
+How's everyone doing?
+
+6
+00:03:49,900 --> 00:03:52,100
+It's so great to be here with you all.
+
+7
+00:03:52,100 --> 00:03:57,100
+I see that some of you are tuning in from places that are super cold.
+
+8
+00:03:57,100 --> 00:04:01,000
+So make sure you're bundling up, sorry to say I am in Hawaii over here.
+
+9
+00:04:01,000 --> 00:04:08,100
+So I complain too much about the weather today, but I am really excited about the conversation.
+
+10
+00:04:08,300 --> 00:04:10,300
+We have a special guest.
+
+11
+00:04:10,300 --> 00:04:11,600
+Her name is Julie.
+
+12
+00:04:11,600 --> 00:04:17,899
+Ginchy is the VP of demand gen at lob, and she's going to be joining very shortly.
+
+13
+00:04:17,899 --> 00:04:24,800
+But we're going to be talking about the yin-yang relationship of demand gen and marketing.
+
+14
+00:04:24,800 --> 00:04:30,700
+Ops believe it or not, that there are such synergies when you can bring them together.
+
+15
+00:04:30,700 --> 00:04:38,300
+Because so often we are all running, you know, millions of miles per hour with all the things going on these days.
+
+16
+00:04:38,300 --> 00:04:41,300
+So it's like, okay, well I am gonna do my thing here.
+
+17
+00:04:41,300 --> 00:04:44,900
+You're gonna do your thing here and it's so often that we operate inside.
+
+18
+00:04:45,000 --> 00:04:45,500
+Lows.
+
+19
+00:04:45,500 --> 00:04:56,200
+And so today, we're going to dive deep into the synergies of bringing demand gen and marketing Ops together along with the significance of getting the data, right?
+
+20
+00:04:56,200 --> 00:05:02,400
+Connecting the demand channels, adding data intelligence getting the mark Tech Integrations, right?
+
+21
+00:05:02,400 --> 00:05:04,500
+And then delivering the campaign in sight.
+
+22
+00:05:04,500 --> 00:05:08,200
+So with that Julie, come join me on stage.
+
+23
+00:05:08,500 --> 00:05:10,800
+Hello, hello there.
+
+24
+00:05:10,800 --> 00:05:11,900
+Thank you for having me.
+
+25
+00:05:12,500 --> 00:05:13,900
+How are you?
+
+26
+00:05:14,500 --> 00:05:15,300
+I am good.
+
+27
+00:05:15,300 --> 00:05:16,500
+I am very cold.
+
+28
+00:05:17,200 --> 00:05:17,700
+I am freezing.
+
+29
+00:05:17,700 --> 00:05:21,600
+My, my tush off outside of Portland Oregon, but other than that I am doing great.
+
+30
+00:05:23,100 --> 00:05:27,300
+Well stay warm get a lot of lattes bundle up.
+
+31
+00:05:27,400 --> 00:05:28,100
+It is beautiful.
+
+32
+00:05:28,100 --> 00:05:29,600
+I like your plant behind you.
+
+33
+00:05:31,700 --> 00:05:34,100
+So you're tuning in from Portland.
+
+34
+00:05:34,700 --> 00:05:40,000
+I have got this fun little map here that kind of shows like where were at time zone wise.
+
+35
+00:05:40,500 --> 00:05:43,300
+If Sal, you don't mind pulling that up there.
+
+36
+00:05:46,000 --> 00:05:54,300
+So I have got this here where we're just, you know, ocean and ocean apart, Julie.
+
+37
+00:05:55,800 --> 00:05:56,500
+I am so jealous.
+
+38
+00:05:56,500 --> 00:05:57,700
+I wish I was closer to you.
+
+39
+00:05:59,800 --> 00:06:10,000
+You're welcome, anytime, and another fun fact that you recently shared with me, is that you're quite tall.
+
+40
+00:06:11,400 --> 00:06:11,800
+Yeah.
+
+41
+00:06:11,800 --> 00:06:13,900
+So that's another way we're opposites, right?
+
+42
+00:06:13,900 --> 00:06:26,700
+You know, I think Now that I meet most people over Zoom, they have no idea that I am actually 6 feet tall which makes me taller than you know 99% of the women on the planet but yeah, it's funny.
+
+43
+00:06:26,700 --> 00:06:27,200
+Nobody knows.
+
+44
+00:06:27,200 --> 00:06:29,000
+I think it's some point I could start telling people.
+
+45
+00:06:29,000 --> 00:06:37,000
+I am actually a centaur and that the bottom half of me is a mythical creature, and they went no, and I am like 5 feet tall.
+
+46
+00:06:37,000 --> 00:06:44,500
+So like you said Polar Opposites opposite sides of the you know spectrum and location and height.
+
+47
+00:06:44,500 --> 00:06:48,800
+So that's so awesome.
+
+48
+00:06:48,800 --> 00:06:49,400
+Okay.
+
+49
+00:06:49,700 --> 00:07:02,600
+Well Julie, I would love to hear a little bit about your story and how you got into, first of all, B2B marketing and demand gen of all things.
+
+50
+00:07:03,600 --> 00:07:04,700
+Yeah, true.
+
+51
+00:07:05,500 --> 00:07:05,900
+Yeah.
+
+52
+00:07:05,900 --> 00:07:06,900
+So okay.
+
+53
+00:07:06,900 --> 00:07:09,000
+So origin story in a nutshell.
+
+54
+00:07:09,600 --> 00:07:12,700
+I got into B2B marketing by way of graphic design.
+
+55
+00:07:12,700 --> 00:07:17,000
+So I actually started my career with working with a lot of really wonderful B2B.
+
+56
+00:07:17,000 --> 00:07:27,500
+Marketing leaders who became very good friends and I work with them to launch campaigns and it didn't take me very long to realize, I want to do more than just the visual communication style.
+
+57
+00:07:27,500 --> 00:07:32,500
+So I wanted to work on targeting channel strategy analytics in the content.
+
+58
+00:07:33,200 --> 00:07:36,200
+So, for the first few years of my career, I took this kind of yes.
+
+59
+00:07:36,200 --> 00:07:46,500
+And approach like yes, I will design your brochure and I want to have some say in how we go to market with this product and that was over 20 years ago, right?
+
+60
+00:07:46,500 --> 00:07:56,200
+And that led me to transition from corporate marketing role to eventually went to an agency role and then I got two Dimensions specifically and once I was in demand, and I was pretty much hooked.
+
+61
+00:07:56,200 --> 00:08:08,900
+I mean, it was that magical combination of data and creativity which is my sweet spot and I haven't looked back And we're going to dive into the data and creativity with some of the insights going to share with us.
+
+62
+00:08:10,000 --> 00:08:10,600
+That's great.
+
+63
+00:08:10,600 --> 00:08:12,300
+And can you share with us today?
+
+64
+00:08:12,300 --> 00:08:14,200
+What do you do at lob?
+
+65
+00:08:14,200 --> 00:08:15,600
+What Is Love?
+
+66
+00:08:16,500 --> 00:08:17,500
+Who do you want sir?
+
+67
+00:08:18,100 --> 00:08:22,400
+Yeah so a lob is Direct Mail automation platform.
+
+68
+00:08:22,800 --> 00:08:32,500
+I joined about a year and a half ago as you mentioned, the VP of demand gen, and I am responsible for everything from net, new name acquisition to the handoff of qualified sales.
+
+69
+00:08:32,700 --> 00:08:33,200
+Opportunities.
+
+70
+00:08:34,700 --> 00:08:37,100
+Gotcha, awesome.
+
+71
+00:08:37,200 --> 00:08:41,600
+All right, well I would love to jump right into our topic for today.
+
+72
+00:08:41,799 --> 00:08:48,900
+And we're going to be talking about the yin-yang relationship of demand, gen and marketing Ops.
+
+73
+00:08:48,900 --> 00:09:03,700
+And, you know, one of the first questions that comes to mind is, what is it that creates the misalignment between demand gen and marketing Ops, What a great question.
+
+74
+00:09:03,900 --> 00:09:19,900
+So you know, first I have to start here and tell you that I have had the honor of working with amazing marketing operations people throughout my career and I have learned so much from them and I credit them for helping me move her forward in my career but I have seen this a lot of right?
+
+75
+00:09:19,900 --> 00:09:25,100
+The two teams think very differently so the mop steam often.
+
+76
+00:09:25,100 --> 00:09:27,800
+Lee thinks often thinks orchestration right?
+
+77
+00:09:27,800 --> 00:09:30,800
+And the demand gen team is thinking by your experience.
+
+78
+00:09:31,400 --> 00:09:35,800
+So, I will share a story from a colleague from a while ago, which I think really illustrates this.
+
+79
+00:09:36,100 --> 00:09:47,600
+She was really upset because her Ops team had decided to add two additional forms to our website because it was necessary for lead routing, and they were focused on how to operate operationalize.
+
+80
+00:09:47,600 --> 00:10:05,100
+This asked about the leads, so they were thinking of data from her point of view, that was a horrible, customer experience that she was worried, it would torpedo her conversion rates, she was thinking of the customer experience first and the funnel and that I think in a nutshell is Can cause friction success.
+
+81
+00:10:05,100 --> 00:10:08,300
+Such a good way to describe it.
+
+82
+00:10:09,300 --> 00:10:24,000
+So, like, even when you go into organizations and, you know, first marketing leader that's coming in to fix things, for example, what's, what's the first thing that you do to start Bridging?
+
+83
+00:10:24,400 --> 00:10:30,200
+The two Well, the first thing is, I always ask to people that presumption of good intent, right?
+
+84
+00:10:30,300 --> 00:10:32,400
+We're all trying to solve the problem.
+
+85
+00:10:33,500 --> 00:10:42,100
+And then, I have actually done this exercise where I tell people visualize the problem, and then realize it is not between the demand gen people and the marketing Ops people.
+
+86
+00:10:42,100 --> 00:10:47,700
+It's not, it's not between you, it's over here and you guys have to both turn and look at that and solve it together.
+
+87
+00:10:49,600 --> 00:10:50,500
+It's really good.
+
+88
+00:10:50,600 --> 00:10:51,100
+Okay.
+
+89
+00:10:51,300 --> 00:10:52,800
+And what's the response?
+
+90
+00:10:53,000 --> 00:10:54,900
+Because they're wired differently.
+
+91
+00:10:54,900 --> 00:10:57,400
+So how do you get them to work together?
+
+92
+00:10:58,700 --> 00:11:00,600
+Part of it is its very similar.
+
+93
+00:11:00,600 --> 00:11:05,300
+Actually I have seen a similar friction point between demand Jed and like the web development team.
+
+94
+00:11:05,300 --> 00:11:07,600
+They speak different languages, right?
+
+95
+00:11:08,000 --> 00:11:15,800
+So to the best of your ability, if you can be that language translator between demand and marketing hops, right?
+
+96
+00:11:15,800 --> 00:11:19,300
+And help them understand what their goals are not how to get their vote there.
+
+97
+00:11:19,500 --> 00:11:21,000
+Or what you're trying to achieve?
+
+98
+00:11:21,000 --> 00:11:23,400
+That goes a long way too, kind of healing that friction.
+
+99
+00:11:24,100 --> 00:11:25,700
+Mmm, that's good.
+
+100
+00:11:25,800 --> 00:11:39,700
+And then from a, just a team structure perspective, what does that usually look like is there, is it one person responsible for all of demand gen one person responsible for marketing Ops, or could there be multiple people on each team and what are their roles?
+
+101
+00:11:40,700 --> 00:11:44,700
+So that depends very heavily on the size of your team, the team maturity, right?
+
+102
+00:11:44,700 --> 00:11:49,300
+Your growth and all of that, you know, but I think what is works really well.
+
+103
+00:11:49,400 --> 00:12:01,500
+Well, if you can get to the place where you can have one person, who is the head of operations, and has an analytics person, and also like a campaign operation person reporting into her, then that works very well.
+
+104
+00:12:01,900 --> 00:12:10,700
+And then you have a person who is the head of demand gen and also has maybe a BM person, underneath them, growth marketing, customer marketing, all of that reporting into them.
+
+105
+00:12:11,000 --> 00:12:18,300
+So then you have a single person who heads up both of those areas that can hopefully be in lock step towards your goals, interesting.
+
+106
+00:12:18,300 --> 00:12:23,700
+So what I am hearing Because you mentioned ABM growth and customer marketing.
+
+107
+00:12:23,700 --> 00:12:30,900
+That's pretty much the customer lifecycle, like, you see, that whole life cycle then reporting into the head of the Mansion.
+
+108
+00:12:32,000 --> 00:12:32,200
+Yeah.
+
+109
+00:12:32,200 --> 00:12:35,500
+And so, again, that goes back to what the purpose of demand gen is right.
+
+110
+00:12:35,600 --> 00:12:39,000
+So, in my current role, I am very much focused on that new logo acquisition.
+
+111
+00:12:39,500 --> 00:12:45,400
+But in other positions, I have been responsible for full pipeline creation across the entire funnel, right?
+
+112
+00:12:45,400 --> 00:12:49,200
+Including upselling cross-selling, after a customer purchase.
+
+113
+00:12:49,400 --> 00:12:49,700
+Has.
+
+114
+00:12:49,800 --> 00:12:57,600
+So in that case, I do think it makes sense for the customer marketing person to report a dimension Very interesting.
+
+115
+00:12:57,700 --> 00:13:04,800
+Okay, I got another question here and this is all about getting the data, right?
+
+116
+00:13:04,800 --> 00:13:10,300
+And I think it goes back to what you said about aligning on goals once that's done.
+
+117
+00:13:10,600 --> 00:13:16,700
+Then, you know, first of all, describe to us why it's important to get the data, right?
+
+118
+00:13:16,700 --> 00:13:23,100
+Like we all kind of know this, but if you could explain the benefits of that, then that would be very helpful.
+
+119
+00:13:23,400 --> 00:13:25,800
+Then I will, then we're going to ask some other questions I have about data.
+
+120
+00:13:26,700 --> 00:13:29,800
+So I mean data hygiene is near and dear to my heart.
+
+121
+00:13:29,800 --> 00:13:36,400
+I believe that it is everybody's responsibility who touches the data, to keep it clean to the best of their ability.
+
+122
+00:13:36,400 --> 00:13:38,700
+It's not just marketing, it's not just sales, right?
+
+123
+00:13:38,700 --> 00:13:49,400
+Think of like your customer success team and everybody else who is interacting with your CRM, you have got to get the whole company aligned that it's everyone's responsible to make sure the data is accurate.
+
+124
+00:13:49,600 --> 00:13:50,400
+And here's why, right?
+
+125
+00:13:50,500 --> 00:14:02,900
+Accurate data makes you did, we basically ensure that the B2B marketing efforts are all targeted to the Right individuals, that results in higher response rates, better Roi better customer experience again, right?
+
+126
+00:14:03,300 --> 00:14:06,500
+And if you have inaccurate data, you're just wasting resources.
+
+127
+00:14:06,900 --> 00:14:10,500
+You have got a real possible issue of decreasing.
+
+128
+00:14:10,500 --> 00:14:11,800
+Trust with your customers.
+
+129
+00:14:12,100 --> 00:14:14,600
+How awful do you feel when you get an email?
+
+130
+00:14:14,800 --> 00:14:15,700
+That says hi.
+
+131
+00:14:15,700 --> 00:14:17,300
+And the name is not yours.
+
+132
+00:14:17,300 --> 00:14:18,500
+You laugh, right?
+
+133
+00:14:19,200 --> 00:14:23,900
+And those things decrease trust and it also has a negative impact on your brand reputation.
+
+134
+00:14:25,000 --> 00:14:27,200
+So you have got the huge potential to Look really.
+
+135
+00:14:27,200 --> 00:14:36,200
+It's like or you have got the potential fall on your face or have egg on your flight face and that's a difference between having accurate and inaccurate data, that's good.
+
+136
+00:14:36,300 --> 00:14:50,600
+Okay, I have an another question just around data and where I guess just as far as dashboards like What tools do you use?
+
+137
+00:14:50,600 --> 00:14:57,700
+And what are some of the key metrics based on your goals that you're tracking with as far as data?
+
+138
+00:14:59,800 --> 00:15:02,800
+So I will tell you what's on my dashboard.
+
+139
+00:15:02,800 --> 00:15:08,200
+Typically, and again, that depends on the team's marketing, the maturity, right?
+
+140
+00:15:08,200 --> 00:15:19,000
+And not just a marketing team, but the sales level of maturity, but there's some table Stakes insights that you should have, you know, engagement, conversion, rate, and lead generation.
+
+141
+00:15:19,500 --> 00:15:21,500
+That's something that I look at constantly.
+
+142
+00:15:22,100 --> 00:15:28,400
+And then, as the team matures, I add things like, you know, Revenue total revenue generated from campaigns.
+
+143
+00:15:29,200 --> 00:15:30,600
+The cost per acquisition.
+
+144
+00:15:31,900 --> 00:15:39,700
+I also started to look at customer lifetime value is, I think that's, we tend to be a little bit short-sighted in the marketing team.
+
+145
+00:15:39,800 --> 00:15:46,500
+Like let us get the leads in, let us see if it creates five applied, and then we say yes, we success succeeded but that it's way more than that, right?
+
+146
+00:15:46,700 --> 00:15:52,400
+It's really the return on marketing investment and then I would say next the final level, right?
+
+147
+00:15:52,400 --> 00:15:55,800
+So that if that's more mature, you got to get down to channel performance.
+
+148
+00:15:56,500 --> 00:16:07,600
+That's incredibly important right now because we're all being asked to do more with less right more Pipeline with less money, in the way that you do that is you invest in the channels that are converting the best.
+
+149
+00:16:08,100 --> 00:16:10,700
+So, definitely I should be something on your dashboard right now.
+
+150
+00:16:11,900 --> 00:16:12,500
+That's good.
+
+151
+00:16:13,700 --> 00:16:22,100
+Okay, then this goes right into some of the kpis that marketers should be delivering for campaigns, which you might have answered some of those.
+
+152
+00:16:22,100 --> 00:16:29,600
+But for your team, specifically, what are some of the kpis that you're monitoring?
+
+153
+00:16:29,800 --> 00:16:31,900
+And how frequently do, you monitor them?
+
+154
+00:16:33,400 --> 00:16:37,600
+So our first kpi is Pipeline and in dollars.
+
+155
+00:16:39,000 --> 00:16:49,400
+So that's the first thing that we look at, and I would like, I know this sounds a little crazy and I don't know if I want to meet this, but how often do I monitor it every hour or two depending on whether or not?
+
+156
+00:16:49,400 --> 00:16:53,700
+It's a weekend break away.
+
+157
+00:16:54,600 --> 00:17:00,100
+So, you know, it's my version of obsessively, refreshing, a dashboard and looking at where we are.
+
+158
+00:17:01,300 --> 00:17:04,099
+So I think that's probably the number one, right?
+
+159
+00:17:04,099 --> 00:17:08,099
+Then we want to see of all of the pipeline that we created from marketing's effort.
+
+160
+00:17:08,599 --> 00:17:12,200
+What moves through the funnel and what is the conversion rate from?
+
+161
+00:17:12,200 --> 00:17:15,599
+You know, sales accepted sales qualified and then eventually bookings.
+
+162
+00:17:16,500 --> 00:17:20,599
+So that's one of the first things that we Monitor, and then we go back.
+
+163
+00:17:20,599 --> 00:17:22,800
+And we say, what did it cost to get that pipeline that bookings.
+
+164
+00:17:23,900 --> 00:17:33,600
+So you should have some Benchmark right now, for every dollar that you spend that you're going to return x amount to the business and Pipeline and or x amount in bookings.
+
+165
+00:17:34,100 --> 00:17:35,500
+So we have that, right?
+
+166
+00:17:35,500 --> 00:17:42,900
+That's a benchmark, and we try to always hit it or improve and that helps me make decisions about again where to spend money over to course, correct?
+
+167
+00:17:43,300 --> 00:17:53,900
+So for example, if we're trying to create let us say, $10 a pipeline for every dollar that we spend, if we as see a Channel or a campaign way below that we first asked, like, we do something wrong.
+
+168
+00:17:53,900 --> 00:17:54,800
+Can we course correct?
+
+169
+00:17:54,800 --> 00:17:57,800
+If not is this valuable, do we want to keep spending our time here?
+
+170
+00:17:57,800 --> 00:18:18,800
+Because it seems like we could be doing better results in another Channel or another campaign that makes sense, as far as frequency of checking the channel performance per Channel, each Channel, obviously from email to LinkedIn, you know, their SEO.
+
+171
+00:18:18,800 --> 00:18:25,000
+There's like completely different timing of when they're successful or not.
+
+172
+00:18:25,000 --> 00:18:31,900
+So do you have like a sense of how frequently you check certain channels or any advice on that?
+
+173
+00:18:33,500 --> 00:18:39,300
+Yeah so we recheck most channels for what I would call leading indicators immediately, right?
+
+174
+00:18:39,300 --> 00:18:40,600
+Like activity metrics.
+
+175
+00:18:41,400 --> 00:18:52,600
+If we're going to send an email, or we're going to send a webinar registration, for example, it's fun to actually look at like, you know, let us take a look at how many people registered but registered as an activity metric.
+
+176
+00:18:52,900 --> 00:19:02,200
+So, I think as you are in mid-flight for a campaign, you should be looking at your leading indicators in real time, right?
+
+177
+00:19:02,300 --> 00:19:04,200
+And again, that's just so you can course, correct?
+
+178
+00:19:04,200 --> 00:19:12,700
+Because if you put a lot of money and time into creating a webinar, if you're not hitting your registration and goals, you're not going to hit your attendance goals, you're not going to hit your demo request.
+
+179
+00:19:12,700 --> 00:19:16,800
+You're not going to arise, just going to keep going down and you want to keep that from happening.
+
+180
+00:19:17,000 --> 00:19:18,800
+So I think you should be looking at all the time.
+
+181
+00:19:19,400 --> 00:19:19,800
+Hmm.
+
+182
+00:19:21,200 --> 00:19:21,700
+It's good.
+
+183
+00:19:23,600 --> 00:19:28,700
+How do you differentiate then tracking those channels versus campaigns?
+
+184
+00:19:28,800 --> 00:19:36,100
+And can you define even the difference of the two and the type of kpi's that you will look at for each?
+
+185
+00:19:36,900 --> 00:19:37,400
+Oh yeah.
+
+186
+00:19:37,400 --> 00:19:37,600
+Okay.
+
+187
+00:19:37,600 --> 00:19:47,400
+So, you know, we think of a campaign as a collection of channels Pride that lasts more than, you know, I would say six months, right?
+
+188
+00:19:47,400 --> 00:19:50,900
+So let us say a campaign last six months, we're going to use multiple.
+
+189
+00:19:51,100 --> 00:19:55,900
+Almost because we have an off day Channel approach to get everybody through whatever conversion point we have defined.
+
+190
+00:19:56,500 --> 00:20:10,800
+So for example, right now, we are doing our annual state of direct mail campaign, we use email, social pushing, will, use retargeting will use in product advertising, and all of those are different channels.
+
+191
+00:20:11,400 --> 00:20:15,500
+And then what we do is all of those channels roll up to the campaign.
+
+192
+00:20:16,100 --> 00:20:22,300
+So we use, you know, UTM, basically parameters to make sure that we are tracking The performance of every channel.
+
+193
+00:20:22,400 --> 00:20:25,100
+So we can say this is the amount of money that we spent on this channel.
+
+194
+00:20:25,300 --> 00:20:27,300
+Here is what it returns on investment.
+
+195
+00:20:27,400 --> 00:20:30,800
+And then we roll up all the channels to the campaign and report on that as a whole.
+
+196
+00:20:31,600 --> 00:20:32,400
+Mmm.
+
+197
+00:20:33,400 --> 00:20:36,500
+It would you say a good amount of time for a campaign?
+
+198
+00:20:36,500 --> 00:20:38,000
+Run is about six months.
+
+199
+00:20:39,700 --> 00:20:42,700
+Yeah, so I know a lot of people differ on this.
+
+200
+00:20:42,700 --> 00:20:54,600
+I have heard anywhere from three months to a year and for us, what we do is we have different levels of like, basically tears of campaigns, We have some that we expect to run six months, maybe a little bit longer.
+
+201
+00:20:54,600 --> 00:20:59,400
+You know, they have long tails, nine months, and then we have what we have like, short run campaigns, that could be three to four months.
+
+202
+00:21:00,700 --> 00:21:03,500
+Can you give some distinguishing factors?
+
+203
+00:21:03,500 --> 00:21:09,900
+Like what would a short-term campaign sound like even messaging?
+
+204
+00:21:09,900 --> 00:21:13,400
+Why is versus a six-month campaign?
+
+205
+00:21:15,300 --> 00:21:23,300
+Yeah, so I six-month campaign to us would be like a big top of the funnel thought leadership campaign that has a lot of reach.
+
+206
+00:21:23,300 --> 00:21:26,400
+We have the potential to get a lot of people really high in the funnel.
+
+207
+00:21:27,100 --> 00:21:33,600
+Then we have shorter campaigns that are usually middle of the A funnel and are targeted towards, for example Industries.
+
+208
+00:21:33,800 --> 00:21:45,600
+So there's a smaller subset of people to talk to but higher potential of conversion rate, but we know we're not going to be going on and on about thought leadership, they know who we are, and then we just want to move them down the funnel.
+
+209
+00:21:47,200 --> 00:21:47,800
+Gotcha.
+
+210
+00:21:47,900 --> 00:21:50,300
+Okay, it's very helpful.
+
+211
+00:21:50,800 --> 00:21:51,200
+Okay.
+
+212
+00:21:51,200 --> 00:21:56,400
+So then my next section here is around connecting demand channels.
+
+213
+00:21:57,100 --> 00:22:02,500
+What are some of the things to consider when you're connecting the channels?
+
+214
+00:22:04,000 --> 00:22:05,200
+This is really good question.
+
+215
+00:22:06,000 --> 00:22:07,800
+So, you know, I let me start here.
+
+216
+00:22:07,800 --> 00:22:12,300
+I think most folks don't realize that connecting your channels takes way more than technology.
+
+217
+00:22:13,100 --> 00:22:15,700
+The goal is to create a seamless tracking, right?
+
+218
+00:22:15,700 --> 00:22:16,700
+Of customer interactions.
+
+219
+00:22:16,800 --> 00:22:20,600
+Us all the channels for all of the reasons that I talked about earlier.
+
+220
+00:22:20,600 --> 00:22:22,600
+We were talking about database Health, right?
+
+221
+00:22:22,600 --> 00:22:31,700
+You want personalization across all channels and that takes way more than technology, by the way, that takes by in, right?
+
+222
+00:22:31,700 --> 00:22:46,500
+So before you even think about integrating tools, before you get to this question about apis, you have to start by talking to your marketing and sales leadership, get them together right and get the no line on what the goals are for your technology, what?
+
+223
+00:22:46,800 --> 00:22:48,600
+Fields, you're going to use, right?
+
+224
+00:22:48,600 --> 00:22:58,200
+I mean I honestly I had a dollar for every time I have seen sales, pull a report and marketing say that's not the right field, I could have retired already.
+
+225
+00:23:01,500 --> 00:23:02,700
+Don't use that feel.
+
+226
+00:23:02,700 --> 00:23:04,600
+That's the line I hear the most.
+
+227
+00:23:04,600 --> 00:23:06,300
+We're talking about operations.
+
+228
+00:23:07,600 --> 00:23:19,200
+Then also you have to agree like when you're going to track but how you're going to report on it and most importantly, when you're going to review the data, when you're going to go back and actually, Make recommendations to improve it.
+
+229
+00:23:19,500 --> 00:23:29,900
+So that's a that is a lot of consensuses building and I think that is the part that people miss out on Who's responsible for the consensus building?
+
+230
+00:23:31,100 --> 00:23:35,600
+How does that work on the marketing side to then the other teams?
+
+231
+00:23:37,200 --> 00:23:37,300
+Yeah.
+
+232
+00:23:37,300 --> 00:23:46,500
+So if you had that magical person who is leading up the marketing operations person, they should be at a level high enough that they can negotiate that conversation, that would be ideal.
+
+233
+00:23:46,800 --> 00:23:47,100
+What?
+
+234
+00:23:47,100 --> 00:23:52,700
+I see and I think a lot of companies are moving towards is a revenue office function, right?
+
+235
+00:23:52,700 --> 00:23:55,500
+That is integrating marketing and sales Ops together.
+
+236
+00:23:55,500 --> 00:23:59,500
+And then the revenue Ops person is basically the one who holds the keys to the kingdom.
+
+237
+00:24:00,000 --> 00:24:00,600
+Hmm.
+
+238
+00:24:00,700 --> 00:24:01,600
+Mmm, gotcha.
+
+239
+00:24:01,800 --> 00:24:10,200
+So they would be responsible to provide the direction the Insight recommendations on which channels to connect and why.
+
+240
+00:24:11,200 --> 00:24:26,800
+Yeah I mean and I would say specifically they have got to get everybody who is responsible for operations, not just marketing but sales to and leaders who own targets by blind and bookings into a room together and understand what the goal is and then come up with reporting.
+
+241
+00:24:26,800 --> 00:24:27,900
+That works for both teams.
+
+242
+00:24:28,600 --> 00:24:29,400
+Hmm.
+
+243
+00:24:29,600 --> 00:24:30,100
+Okay.
+
+244
+00:24:30,700 --> 00:24:32,500
+So I want to dig into this.
+
+245
+00:24:34,300 --> 00:24:40,300
+Have you seen examples where it's not happening consensus isn't happening?
+
+246
+00:24:41,500 --> 00:24:47,800
+What are what does that look like when it's not happening and what are the outcomes versus when it is happening?
+
+247
+00:24:47,800 --> 00:24:49,700
+And I like to hear some of the attributes of that.
+
+248
+00:24:49,700 --> 00:24:52,700
+But first, it's like what are the attributes of?
+
+249
+00:24:53,300 --> 00:24:54,300
+It's not working.
+
+250
+00:24:57,100 --> 00:25:08,900
+So here's what you will hear, what it's not working marking will say, you know, we generated X percentage of the pipeline, this last quarter and you're inside sales team, and your sales people will do this.
+
+251
+00:25:09,400 --> 00:25:09,800
+No, you did.
+
+252
+00:25:14,700 --> 00:25:25,100
+That's when you know, it's not working that or, you know, we see these conversion rates, and they say, no, that's not what, that's not how it feels, right?
+
+253
+00:25:25,400 --> 00:25:31,100
+It's all those numbers that nobody Buys in, you know, across the organization.
+
+254
+00:25:31,100 --> 00:25:45,100
+That's when, you know, it's not working when it's working, is when you get a lot of head nodding, and you say, okay, we all agreed that we were going to use this logic to pull marketing's attribution.
+
+255
+00:25:45,200 --> 00:25:56,800
+Whatever it is whatever your look back model is whether it is a multi attribution multi-touch, we agreed going in and since we agreed on that, this is the number that it is turning out.
+
+256
+00:25:56,900 --> 00:25:59,100
+And now that we have all agreed that this is the right number.
+
+257
+00:25:59,300 --> 00:26:00,400
+What do we do to get better?
+
+258
+00:26:00,800 --> 00:26:02,300
+That's what it looks like when it's right.
+
+259
+00:26:03,800 --> 00:26:12,800
+Ah, I feel like not a lot of orgs, especially when you get into, you know, series a series be right?
+
+260
+00:26:12,800 --> 00:26:24,500
+You may not have time to be able to do this, you may not have resources so in a limited resource, type budget, constraint environment.
+
+261
+00:26:25,900 --> 00:26:29,000
+How do we build consensus right away?
+
+262
+00:26:30,900 --> 00:26:35,700
+Well, that is very true, right?
+
+263
+00:26:36,300 --> 00:26:41,100
+Most startups are starting their really far behind on this, right?
+
+264
+00:26:41,400 --> 00:26:46,000
+And if you can't do multi-touch attribution, at least agree on a single touch, right?
+
+265
+00:26:46,200 --> 00:26:49,700
+Let us start there, what is the most accurate?
+
+266
+00:26:49,700 --> 00:26:57,900
+Single touch that we can all pinpoint to giving some kind of credit for where the of the pipeline is created.
+
+267
+00:26:58,300 --> 00:27:07,800
+And by the way, you know, I use the word credit because that's what people understand, but the goal isn't really to give one team over another credit is if you're out what's working versus what it isn't.
+
+268
+00:27:08,700 --> 00:27:12,100
+Right, that's what we want to do, so we can do again more of what's working.
+
+269
+00:27:12,700 --> 00:27:18,400
+So, I think if you can even just get consensus on a single point of attribution, it goes a long way.
+
+270
+00:27:19,300 --> 00:27:20,700
+That's great advice.
+
+271
+00:27:21,200 --> 00:27:30,600
+All right, adding data intelligence, what are some ways you can enrich your database?
+
+272
+00:27:32,300 --> 00:27:33,400
+Oh, others.
+
+273
+00:27:33,400 --> 00:27:36,100
+So there's lots of ways, but before you reach your database, right?
+
+274
+00:27:36,100 --> 00:27:49,000
+First you, start by cleaning it because really were talking about is data intelligence and you get a lot of data intelligence just by removing duplicates, correcting errors, just analyzing data, all of that stuff.
+
+275
+00:27:50,300 --> 00:27:52,200
+So that should be step one.
+
+276
+00:27:52,900 --> 00:27:56,800
+Then you look at what systems you have that you can pull data from, right?
+
+277
+00:27:56,800 --> 00:27:59,700
+Do you have any kind of predictive intense software?
+
+278
+00:28:00,100 --> 00:28:05,600
+So we do we use he's like sixth sense to determine whether or not it.
+
+279
+00:28:05,600 --> 00:28:07,700
+We're seeing buying signals, right?
+
+280
+00:28:07,700 --> 00:28:09,500
+That's a way to enrich your database.
+
+281
+00:28:09,900 --> 00:28:19,500
+Do you have any kind of real time data streams, like, your website analytics that you can pull on to gain a more comprehensive understanding of your customer behavior?
+
+282
+00:28:20,400 --> 00:28:29,000
+And then like, basically what other systems do you have already that you can integrate your CRM or Erp, anything else that is a single source of Truth.
+
+283
+00:28:29,400 --> 00:28:31,400
+All of those should come in to enrich your data.
+
+284
+00:28:32,100 --> 00:28:45,000
+So, yeah, there's lots of things that you can pull that a lot of companies, even startups have internal processes that have in back for collecting and valuable data that just aren't pulled into fields that we can use and getting them in.
+
+285
+00:28:45,000 --> 00:28:45,900
+There is very helpful.
+
+286
+00:28:48,900 --> 00:28:49,800
+That's great.
+
+287
+00:28:50,100 --> 00:28:56,300
+If anybody has questions for Julie, feel free to drop them in the Q&A tab as or going as well.
+
+288
+00:28:57,200 --> 00:28:57,800
+Okay?
+
+289
+00:28:58,000 --> 00:29:05,100
+And when you're talking about cleansing and enriching the data, who do you generally partner with to do so?
+
+290
+00:29:07,400 --> 00:29:12,200
+So if you're asking like a vendor, there are multiple data providers that you can try, right?
+
+291
+00:29:12,500 --> 00:29:16,900
+So, you know, I think one of the more popular ones is zoom info, but I know seamless AI.
+
+292
+00:29:17,200 --> 00:29:22,300
+There's a ton that are on the market right now so the goal is to do a test right?
+
+293
+00:29:22,300 --> 00:29:30,200
+I always say do it accuracy test before you partner with any vendor and see you know ask them what their expectations is for leave quality.
+
+294
+00:29:31,100 --> 00:29:33,100
+So you know we use zoom info.
+
+295
+00:29:33,100 --> 00:29:43,100
+I was pretty happy with it but then there's all are Our inside sales, folks are always updating data in real time when they're interacting with Buyers, or they're out on LinkedIn as well.
+
+296
+00:29:44,800 --> 00:29:45,400
+Gotcha.
+
+297
+00:29:46,900 --> 00:29:47,600
+Okay.
+
+298
+00:29:49,400 --> 00:29:51,100
+Mark Tech Integrations.
+
+299
+00:29:52,200 --> 00:29:53,200
+All right.
+
+300
+00:29:54,000 --> 00:30:04,300
+In addition to your CRM and marketing automation platform, what are other integration points marketers should consider Oh boy.
+
+301
+00:30:04,300 --> 00:30:08,200
+Okay, so there is a there's a ton the depending on whether your B2B or b2c.
+
+302
+00:30:08,800 --> 00:30:14,300
+Let us say we have our analytics in our data management, platforms attached.
+
+303
+00:30:14,500 --> 00:30:19,500
+So if you have any kind of data visualization or business intelligence tools, you might want to connect those.
+
+304
+00:30:20,200 --> 00:30:23,300
+If you were B to C your Ecommerce platform, of course, right?
+
+305
+00:30:23,900 --> 00:30:37,200
+And then there's some other ones that I would say, our state table Stakes, like your social media management, let us see your advertising and paid media, you connect, those one of the ones that People don't think about is that you could Connect customer feedback and surveys.
+
+306
+00:30:37,600 --> 00:30:37,900
+All right?
+
+307
+00:30:37,900 --> 00:30:44,800
+So you could be actually, for example, measuring customer feedback and measuring customer satisfaction it.
+
+308
+00:30:44,800 --> 00:30:49,600
+Real time off your website, then, connecting that feedback back to your database.
+
+309
+00:30:50,200 --> 00:30:58,800
+And then when you realize that somebody has a positive net promoter score, those are the folks that you go after for the positive reviews on your, you know, software review sites.
+
+310
+00:30:58,900 --> 00:31:02,100
+For example, So, yeah.
+
+311
+00:31:03,000 --> 00:31:06,500
+And then, you know, the other thing, I web personalization, right?
+
+312
+00:31:07,200 --> 00:31:14,900
+If you want to have an intelligent conversation online with your key accounts, you have got to make sure that your database is what I clean that everything's connected.
+
+313
+00:31:16,500 --> 00:31:25,800
+Can I ask what tools you're currently using for web personalization, and like, certain things that are you're connecting?
+
+314
+00:31:25,800 --> 00:31:28,700
+What are tools that you're using today?
+
+315
+00:31:29,900 --> 00:31:34,800
+So we're actually the evaluation process for Mutiny HQ for our website personalization.
+
+316
+00:31:35,400 --> 00:31:36,200
+Nice?
+
+317
+00:31:36,400 --> 00:31:37,600
+Yeah, yeah.
+
+318
+00:31:37,700 --> 00:31:41,200
+And we want when we want to use it as part of basically are a b x approach.
+
+319
+00:31:42,000 --> 00:31:50,600
+So, you know, we want to make sure that when somebody from we can identify, when someone comes from one of our key accounts, and we can give them a personalized experience.
+
+320
+00:31:51,300 --> 00:31:51,700
+So, yeah.
+
+321
+00:31:51,700 --> 00:31:53,500
+So that's our next step back in maturity.
+
+322
+00:31:54,400 --> 00:32:14,300
+So, thinking about that customer life cycle again, and the different tools that you plug in play across the customer life cycle, if you're just start from that initial top of funnel experience and that could be a mutiny personalization experience with your web pages, all the way through.
+
+323
+00:32:14,300 --> 00:32:23,600
+Could you just give us very Typically, what are some of the tools that you're currently deploying and using across the customer life cycle.
+
+324
+00:32:24,900 --> 00:32:25,300
+Yeah.
+
+325
+00:32:25,700 --> 00:32:33,300
+So we use sixth sense to at the very top of the funnel to look for buying signals.
+
+326
+00:32:35,200 --> 00:32:39,300
+And we will from there, we put them in different programs, right?
+
+327
+00:32:39,300 --> 00:32:43,700
+So it could be retargeting ads, we might actually put them into email campaigns.
+
+328
+00:32:43,700 --> 00:32:55,900
+We use Marketo for email, we use Salesforce for our CRM, and we have the added bonus of being able to use Direct Mail, Right since we're a drachma automation platform.
+
+329
+00:32:56,500 --> 00:33:01,200
+So we use our own software for middle of the funnel conversion.
+
+330
+00:33:01,700 --> 00:33:04,200
+So we have an integration.
+
+331
+00:33:04,300 --> 00:33:16,000
+Even with a data provider that integrates a pixel on to our web pages to identify individuals, not just accounts and matches them with their home address.
+
+332
+00:33:16,400 --> 00:33:24,700
+So that allows us to basically trigger a postcard to any person who is an anonymous web videos that are two are high value pages.
+
+333
+00:33:25,400 --> 00:33:28,100
+So that's a really fun integration Point.
+
+334
+00:33:28,100 --> 00:33:29,200
+I have never got to do anywhere else.
+
+335
+00:33:29,200 --> 00:33:38,400
+I have worked How exciting and then how does that just continuing on that customer lifecycle with once, they're converted as a customer?
+
+336
+00:33:39,400 --> 00:33:42,700
+What kind of tools do you use their own after a?
+
+337
+00:33:42,700 --> 00:33:47,200
+So that's where it gets a little bit out of my purview in my organization here.
+
+338
+00:33:47,500 --> 00:33:58,600
+So, you know, we at that point, they actually convert to like, basic that our account management side, and then we think of them as a potential for a new business, right?
+
+339
+00:33:58,600 --> 00:34:00,400
+So then they go back to the top of our funnel.
+
+340
+00:34:00,500 --> 00:34:04,700
+Well, and we look at our large customers, and we say, where can we sell at a different business unit?
+
+341
+00:34:04,700 --> 00:34:06,800
+And we start from the very beginning again, right?
+
+342
+00:34:06,900 --> 00:34:13,600
+We say, where do we see interest, and we start the whole process to try to get another business unit down the funnel, That's great.
+
+343
+00:34:13,600 --> 00:34:15,400
+Thank you for walking us through each of those.
+
+344
+00:34:15,400 --> 00:34:22,699
+I think that's really helpful for some of us to hear and compare back to the Sixth Sense top of funnel.
+
+345
+00:34:22,900 --> 00:34:39,000
+And when you're looking at intent, what are some of the key signals that indicate low, medium, high intent, Yeah, so we look at both branded searches and unbranded searches.
+
+346
+00:34:39,699 --> 00:34:48,100
+So you know if somebody is looking, for example, lobs Direct Mail software versus film, The competitor named, that would be a high intent, right?
+
+347
+00:34:48,199 --> 00:34:53,000
+They look like they are in the part where they're looking to narrow down the vendors.
+
+348
+00:34:53,100 --> 00:34:58,000
+They try to figure out whether or not they have a problem with a solution is that's a really good indication.
+
+349
+00:34:58,000 --> 00:34:58,500
+Right?
+
+350
+00:34:59,400 --> 00:35:03,200
+Versus let us say someone who says what is direct mail or what is direct?
+
+351
+00:35:03,300 --> 00:35:13,100
+An automation there are a lot higher up, and they're going to need some of our educational thought leadership of why direct mails important, how it works as a marketing channel, but they can expect to see for the ROI.
+
+352
+00:35:13,300 --> 00:35:17,700
+So you get a lot, you can learn a lot from that from just looking at that.
+
+353
+00:35:18,000 --> 00:35:20,300
+And also you know it's very interesting.
+
+354
+00:35:20,300 --> 00:35:31,900
+One of the things that we're going to be integrating very soon on our website is a search functionality that gives us real time feedback about what people are searching on our website for the same reason, right?
+
+355
+00:35:31,900 --> 00:35:37,300
+We want to understand What people are looking for to get the solutions that they need, right?
+
+356
+00:35:37,300 --> 00:35:40,600
+And that will also help us figure out where they are in the funnel when they get to our site.
+
+357
+00:35:41,200 --> 00:35:42,200
+That's so good.
+
+358
+00:35:42,700 --> 00:35:52,100
+Have has lob thought about using a chatbot, something like drift or qualified ever and maybe you do already, we do.
+
+359
+00:35:52,100 --> 00:35:52,300
+Yeah.
+
+360
+00:35:52,300 --> 00:35:54,000
+We use intercom right now.
+
+361
+00:35:54,100 --> 00:35:54,600
+Gotcha.
+
+362
+00:35:54,900 --> 00:35:55,300
+Yeah.
+
+363
+00:35:55,300 --> 00:35:59,000
+So it is, it is a chatbot, although we kind of have a hybrid model.
+
+364
+00:35:59,000 --> 00:36:01,600
+We have our inside sales folks, moderate sometimes.
+
+365
+00:36:01,600 --> 00:36:03,300
+And then the chat pod when it's off hours, Yeah.
+
+366
+00:36:05,600 --> 00:36:06,300
+Great.
+
+367
+00:36:07,400 --> 00:36:17,500
+Wow, so rich, I love how you're taking us from high-level 30,000 feet strategy and getting right into the tactics Julie, it's really great.
+
+368
+00:36:20,100 --> 00:36:30,000
+You know, I am as we're thinking about our B2B community and just the whole Community is rocked right now.
+
+369
+00:36:30,000 --> 00:36:51,200
+And you, and I have talked about this even outside this event of like, wow, it's just such a time of like you said, being able to Each your time and your resources with, you know, you're doing a lot more with less and there's burn out right now and there's, you know, this sense of insecurity or instability.
+
+370
+00:36:51,200 --> 00:37:01,400
+And so, do you have any words of advice or even encouragement for your fellow B2B marketers today?
+
+371
+00:37:02,800 --> 00:37:04,500
+Yeah, I mean, I am I am feeling it.
+
+372
+00:37:04,600 --> 00:37:05,700
+We're all feeling it.
+
+373
+00:37:06,200 --> 00:37:07,200
+I can't even go on.
+
+374
+00:37:07,400 --> 00:37:10,500
+Until the LinkedIn anymore because it feels like Doomsday scrolling right now.
+
+375
+00:37:11,600 --> 00:37:13,000
+I understand, you know.
+
+376
+00:37:13,200 --> 00:37:18,100
+So I guess first is the first thing is this too shall pass, right?
+
+377
+00:37:18,800 --> 00:37:22,400
+I have been doing this a very long time and I know what is unique about.
+
+378
+00:37:22,400 --> 00:37:34,000
+This is that we just have come off a 10-year Bull, Run of Technology, being almost impervious to all of the issues with recession and everything, right?
+
+379
+00:37:34,200 --> 00:37:37,100
+So it's the first time I have had a lot of people in the workplace have gone.
+
+380
+00:37:37,400 --> 00:37:39,900
+This, but it isn't for me, right?
+
+381
+00:37:39,900 --> 00:37:43,100
+I remember the.com bust and lots of marketing.
+
+382
+00:37:43,100 --> 00:37:45,600
+People went through it back then and we were covered.
+
+383
+00:37:46,400 --> 00:37:59,100
+So I would say right now, here's what I am very much focused on understand your Tamil performance so you can show the value of what you're the value of Pipeline and in bookings of every dollar that you're spending.
+
+384
+00:37:59,300 --> 00:38:13,200
+That's number one, the two is, make sure you are facilitating conversations with the entire Breyer groups rather than just the Decision makers that you have identified because of layoffs and job hopping.
+
+385
+00:38:13,600 --> 00:38:15,900
+Those people move very, very quickly.
+
+386
+00:38:16,200 --> 00:38:19,300
+So make sure that you are multi threaded into opportunities.
+
+387
+00:38:20,100 --> 00:38:23,300
+You know, I am very interesting change that.
+
+388
+00:38:23,300 --> 00:38:27,500
+I see a lot of marketers make right now, is that there used to be this idea of?
+
+389
+00:38:27,500 --> 00:38:31,800
+Once you open an opportunity its hands off, right marketing, can't touch it.
+
+390
+00:38:32,000 --> 00:38:33,500
+Now, it's in the sales horn.
+
+391
+00:38:34,300 --> 00:38:40,400
+And now what we're moving towards is once the opportunity is open now we account warm, right?
+
+392
+00:38:40,400 --> 00:38:52,400
+You have to go back in and get as many different tethers you can into that buying unit because we lose people so quickly now and that's a big shift that people are making and that's probably the best word.
+
+393
+00:38:52,400 --> 00:38:54,000
+I second I can share right now.
+
+394
+00:38:56,900 --> 00:38:57,900
+So awesome.
+
+395
+00:38:58,300 --> 00:38:59,500
+Thank you, Julie.
+
+396
+00:38:59,600 --> 00:39:05,500
+Thank you so much for your time, sharing your insights, your wisdom, your experience with us today.
+
+397
+00:39:06,400 --> 00:39:13,100
+It's always great to be in your presence if there's any other questions, which I am going to look right now.
+
+398
+00:39:13,100 --> 00:39:14,800
+I don't think we have questions.
+
+399
+00:39:14,800 --> 00:39:18,600
+All right, well, we're wrapped up.
+
+400
+00:39:18,600 --> 00:39:21,200
+So, thank you, Julie, for your time.
+
+401
+00:39:21,200 --> 00:39:33,300
+And for those of you who have joined us today, Thank you for being part of this note that we do have another event coming up February 22nd.
+
+402
+00:39:33,400 --> 00:39:43,800
+We're going to be talking about Ai and how it's transforming B2B marketing, both the power and the limitations with HootSuite and Linkedin.
+
+403
+00:39:44,100 --> 00:39:47,200
+So feel free to register for that.
+
+404
+00:39:47,400 --> 00:39:48,100
+I think I have got.
+
+405
+00:39:48,100 --> 00:39:48,700
+There you go.
+
+406
+00:39:49,500 --> 00:39:52,500
+The call to action button right on the screen.
+
+407
+00:39:52,500 --> 00:39:54,900
+Go ahead and click on that and it will take you.
+
+408
+00:39:55,000 --> 00:39:57,400
+You right there to register.
+
+409
+00:39:58,400 --> 00:39:59,500
+All right, everyone.
+
+410
+00:39:59,500 --> 00:40:02,200
+Thanks so much have a wonderful rest of your day.
+
+411
+00:40:02,800 --> 00:40:03,300
+Thanks you too.
+
+412
+00:40:35,400 --> 00:40:38,700
+Hoping for the best but expecting the worst?
+
+413
+00:40:38,800 --> 00:40:40,700
+Are you gonna drop the bomb on me?
+
+414
+00:40:40,800 --> 00:40:46,500
+Now let us die young or let us live forever.
+
+415
+00:40:46,800 --> 00:40:56,300
+Don't have power pony, never seen it sitting in a sandpit life is a short trip the musics for the sad man.
+
+416
+00:40:58,200 --> 00:41:06,400
+Can you imagine this one not gonna face a prison?
+
+417
+00:41:06,400 --> 00:41:10,700
+Our leaders, we get into music, played by them.
+
+418
+00:41:11,400 --> 00:41:12,500
+The money.

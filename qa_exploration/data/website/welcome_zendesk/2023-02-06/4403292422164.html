@@ -1,0 +1,12 @@
+<h1>Integrations - Splash - Best Practices </h1>
+<p> </p>
+<p><span class="wysiwyg-font-size-large">Below are Best Practices to follow when utilizing the Splash integration with Welcome</span></p>
+<p> </p>
+<p>1. It is important to embed the unique link for each individual attendee in event reminder emails. We must invoke the data that is aggregated in the custom, hidden field that we created in <strong>Step 9</strong> from the <a href="https://experiencewelcome.zendesk.com/hc/en-us/articles/4403292480660" target="_self">Implementation Guide</a> into the body of the email. To do this, please click "View Personalization Tags" in the "Advanced Options" section within the Editing page when designing your reminder email.</p>
+<p><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4402865164820/Screen_Shot_2021-06-28_at_8.22.53_PM.png" alt="Screen_Shot_2021-06-28_at_8.22.53_PM.png"></p>
+<p>In our example below, the tag for "Unique Link For Welcome Event" is [custom_field_20] but please note that this will be different in your Splash instance.</p>
+<p><img src="https://experiencewelcome.zendesk.com/hc/article_attachments/4402865168148/Screen_Shot_2021-06-28_at_8.21.13_PM.png" alt="Screen_Shot_2021-06-28_at_8.21.13_PM.png"></p>
+<p>2. As a fail safe, it is best practice to include the link to the generic link to the Welcome event. You can retrieve the generic link in the Event Dashboard in Welcome. Add a custom text or html in the event email design page in Splash.</p>
+<p>3. Welcome's official recommendation is that you trigger the integration <strong>1 week before the event. </strong><span style="font-weight: 400;">Given the limits in the number of API calls that Splash can make in an hour, </span><strong>we recommend that you trigger the integration at least 3 hours ahead of your event</strong><span style="font-weight: 400;"> to confirm that everyone receives their magic links. If you have more than 1500 registrants, we recommend that you trigger the integration at least 5 hours ahead of your event.</span></p>
+<p>4. Please be sure to follow steps 10-13 in the <strong>specific Splash Event's settings </strong>in the <a href="https://experiencewelcome.zendesk.com/hc/en-us/articles/4403292480660" target="_self">Implementation Guide</a>, and not in the general "Integrations" tabs on your Splash home page. This avoids accidentally sending registrations from <strong>all </strong>of your Splash events into one Welcome Event.</p>
+<p> </p>

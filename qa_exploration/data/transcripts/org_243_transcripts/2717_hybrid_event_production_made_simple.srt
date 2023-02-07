@@ -1,0 +1,2872 @@
+
+1
+00:05:10,500 --> 00:05:12,300
+Welcome to welcome.
+
+2
+00:05:12,300 --> 00:05:17,200
+This is our hybrid event, and we are here in Las Vegas.
+
+3
+00:05:17,200 --> 00:05:19,500
+We're really excited to have you today.
+
+4
+00:05:19,700 --> 00:05:22,400
+I see a bunch of folks and chat right now.
+
+5
+00:05:22,600 --> 00:05:24,100
+Sonny Sonoma.
+
+6
+00:05:24,100 --> 00:05:26,500
+We have got folks and Brazil.
+
+7
+00:05:26,500 --> 00:05:29,600
+Wow, Seattle, representing NorCal.
+
+8
+00:05:29,700 --> 00:05:31,500
+Okay, here we go, Colorado.
+
+9
+00:05:31,700 --> 00:05:32,700
+Great to see you.
+
+10
+00:05:32,700 --> 00:05:36,200
+Let us drop some love, drop some love and chat.
+
+11
+00:05:36,300 --> 00:05:37,500
+So we have got a full.
+
+12
+00:05:37,500 --> 00:05:39,200
+Agenda for you today.
+
+13
+00:05:39,400 --> 00:05:43,000
+And before we jump in, let us do a quick little pool.
+
+14
+00:05:43,200 --> 00:05:43,900
+I have got Linda.
+
+15
+00:05:43,900 --> 00:05:47,300
+Of course, my amazing producer in The Green Room.
+
+16
+00:05:47,700 --> 00:05:49,000
+You put that right up.
+
+17
+00:05:49,000 --> 00:05:50,900
+All right, the big question for today.
+
+18
+00:05:50,900 --> 00:05:54,400
+How comfortable are you with hybrid events?
+
+19
+00:05:54,900 --> 00:05:56,000
+How many of you would say?
+
+20
+00:05:56,000 --> 00:05:58,000
+I got this hybrid is life.
+
+21
+00:05:58,000 --> 00:05:59,100
+It's in my bones.
+
+22
+00:05:59,100 --> 00:06:02,100
+Are you're comfortable with it or not?
+
+23
+00:06:02,100 --> 00:06:02,400
+Really?
+
+24
+00:06:02,400 --> 00:06:03,000
+Sure.
+
+25
+00:06:03,100 --> 00:06:04,900
+No way not today with hybrid.
+
+26
+00:06:04,900 --> 00:06:07,000
+Okay, and not sure sir.
+
+27
+00:06:07,600 --> 00:06:08,100
+All right.
+
+28
+00:06:08,100 --> 00:06:13,300
+Well, this is good that you're here because today we have got a packed out agenda.
+
+29
+00:06:13,400 --> 00:06:21,200
+We're going to start off with a Founders greeting, and then we're going to go into some of the key ingredients for engagement.
+
+30
+00:06:21,200 --> 00:06:29,700
+These are the elements that truly make, whether you're in person or whether your virtual, it makes it an engaging event.
+
+31
+00:06:29,700 --> 00:06:37,400
+So we're going to go through those elements and then go into the hybrid production, walkthrough with some of our very own hybrid.
+
+32
+00:06:37,600 --> 00:06:42,100
+Experts who are helping support our customers today with their hybrid events.
+
+33
+00:06:42,200 --> 00:06:45,500
+And then we're going to open up it up for interactive QA.
+
+34
+00:06:45,800 --> 00:06:49,400
+So jumping into some housekeeping notes.
+
+35
+00:06:49,400 --> 00:06:51,500
+Obviously, you see our chat.
+
+36
+00:06:51,500 --> 00:06:52,900
+It is lit.
+
+37
+00:06:52,900 --> 00:06:53,700
+Thank you.
+
+38
+00:06:53,700 --> 00:06:56,900
+Love seeing the fires and the love and the rocket ships.
+
+39
+00:06:56,900 --> 00:06:57,300
+Hello.
+
+40
+00:06:57,300 --> 00:07:00,100
+Alex charlena in the house.
+
+41
+00:07:00,200 --> 00:07:05,100
+So good to see you all and note that throughout this entire event.
+
+42
+00:07:05,200 --> 00:07:07,400
+We would love for you to drop your questions.
+
+43
+00:07:07,500 --> 00:07:10,100
+In QA, so, feel free to the.
+
+44
+00:07:10,100 --> 00:07:13,200
+You see that tab to the right next to chat.
+
+45
+00:07:13,200 --> 00:07:17,900
+Just dropping your questions there and feel free to raise your hand at any time.
+
+46
+00:07:17,900 --> 00:07:20,600
+If you have a question, and we will pull you right up.
+
+47
+00:07:20,600 --> 00:07:21,100
+Okay.
+
+48
+00:07:21,100 --> 00:07:31,300
+So with that, this is our drumroll moment before we get to the secret sauce of our hybrid events and bring you a little bit under the hood.
+
+49
+00:07:31,500 --> 00:07:34,700
+We want to invite our Founders to the state.
+
+50
+00:07:34,700 --> 00:07:37,400
+Here's a warm greeting from Roberto CEO.
+
+51
+00:07:37,600 --> 00:07:43,400
+And co-founder Jerry president and co-founder and tiger CTO and co-founder.
+
+52
+00:14:39,300 --> 00:14:39,900
+Harry went.
+
+53
+00:14:39,900 --> 00:14:41,900
+Thanks so much for being patient with us.
+
+54
+00:14:41,900 --> 00:14:44,700
+We have had a little bit of audio tweaks here.
+
+55
+00:14:44,700 --> 00:14:50,700
+And there, you know what, I have actually got our CEO Rob here.
+
+56
+00:14:50,800 --> 00:14:51,300
+Let us go.
+
+57
+00:14:52,200 --> 00:14:53,200
+We're gonna do this.
+
+58
+00:14:53,500 --> 00:14:54,200
+What's up Gina.
+
+59
+00:14:54,200 --> 00:14:56,800
+This is the amazing thing about virtualization.
+
+60
+00:14:56,800 --> 00:14:57,400
+Can't fake.
+
+61
+00:14:57,400 --> 00:14:57,700
+It.
+
+62
+00:14:57,800 --> 00:14:58,300
+It's real.
+
+63
+00:14:58,300 --> 00:14:58,800
+That's right.
+
+64
+00:14:58,800 --> 00:14:59,700
+You have to be performed.
+
+65
+00:14:59,700 --> 00:15:00,800
+We call it second cup.
+
+66
+00:15:01,200 --> 00:15:01,400
+All right.
+
+67
+00:15:01,400 --> 00:15:04,300
+The ability to say, you know what, technology will.
+
+68
+00:15:04,300 --> 00:15:09,400
+So you can kind of time you have to have an idea to enter locksmith go up and The wrong.
+
+69
+00:15:09,600 --> 00:15:10,100
+That's right.
+
+70
+00:15:10,100 --> 00:15:10,400
+Yeah.
+
+71
+00:15:10,500 --> 00:15:13,200
+So we have got a bunch of folks here.
+
+72
+00:15:13,200 --> 00:15:17,800
+Interesting, learning about hybrid and is here at a little bit more about how you're thinking about it as well.
+
+73
+00:15:17,900 --> 00:15:19,200
+And what is our students is?
+
+74
+00:15:19,200 --> 00:15:19,800
+Welcome.
+
+75
+00:15:20,000 --> 00:15:20,300
+Wait.
+
+76
+00:15:20,300 --> 00:15:20,700
+Okay.
+
+77
+00:15:20,800 --> 00:15:22,100
+So first of all hybrid, right?
+
+78
+00:15:22,100 --> 00:15:22,600
+Why are we here?
+
+79
+00:15:22,700 --> 00:15:23,700
+Why are you guys doing in?
+
+80
+00:15:23,700 --> 00:15:25,900
+Why do we have an employee here with us today?
+
+81
+00:15:26,500 --> 00:15:35,200
+I think going back to where we are today, even the pandemic, you know that it's a nice world and remote is here today.
+
+82
+00:15:35,500 --> 00:15:38,500
+The challenge is how do you connect people in a remote world?
+
+83
+00:15:38,800 --> 00:15:39,400
+How do you do that?
+
+84
+00:15:39,400 --> 00:15:42,400
+Well, and so we have remote figured out technology.
+
+85
+00:15:42,400 --> 00:15:45,400
+Enables people to show up on video and have conversations.
+
+86
+00:15:46,000 --> 00:15:48,600
+But then the challenge becomes how do you do that between two parties?
+
+87
+00:15:49,600 --> 00:15:53,300
+How do you do that with people that are in office and people that are working from home?
+
+88
+00:15:54,000 --> 00:15:54,700
+How do you do that?
+
+89
+00:15:54,700 --> 00:16:01,900
+If you're throwing an external experience and folks are tuning in from another country, but they still want to be part of that core experience.
+
+90
+00:16:02,700 --> 00:16:08,600
+You know, it's funny because I was talking to the founders even before we kick off here today and the idea was really around.
+
+91
+00:16:09,100 --> 00:16:09,600
+You know what?
+
+92
+00:16:09,600 --> 00:16:15,300
+Our customers are saying and what our customers are actually running into there's some common problems, right?
+
+93
+00:16:15,300 --> 00:16:18,400
+The biggest challenge is kind of bubbling up to the top.
+
+94
+00:16:18,800 --> 00:16:20,000
+Number one is known.
+
+95
+00:16:20,000 --> 00:16:21,500
+How is like, how do I do this?
+
+96
+00:16:21,500 --> 00:16:22,200
+How do I do this?
+
+97
+00:16:22,200 --> 00:16:36,100
+Well, right, part of it is like, how do I orchestrate this for two audiences, you know if we take a step back, and we look at hybrid and is basic form, its we have people that are in one place in person.
+
+98
+00:16:36,400 --> 00:16:37,400
+You have people that are remote.
+
+99
+00:16:38,200 --> 00:16:41,300
+And these are two parties and you can serve those two parties, really.
+
+100
+00:16:41,300 --> 00:16:43,800
+Well, right thing by like an NFL game.
+
+101
+00:16:43,900 --> 00:16:45,100
+There're folks in an arena.
+
+102
+00:16:45,100 --> 00:16:47,800
+They're having an in-person experience that's phenomenal.
+
+103
+00:16:48,500 --> 00:16:50,900
+And then you have people in living rooms around the country.
+
+104
+00:16:51,200 --> 00:16:53,300
+Also, engaging in a remote experience.
+
+105
+00:16:53,600 --> 00:16:54,500
+The challenge becomes.
+
+106
+00:16:54,500 --> 00:16:56,300
+How do you merge two universes?
+
+107
+00:16:56,300 --> 00:16:57,500
+That sounds like a challenge.
+
+108
+00:16:57,500 --> 00:16:58,400
+It does, it does.
+
+109
+00:16:58,700 --> 00:17:07,300
+And so on of the things we have been, we have been working on that welcome is building the technology that allows folks to drive real time experiences.
+
+110
+00:17:07,599 --> 00:17:10,400
+And so, Tiger who's our CTO at our company?
+
+111
+00:17:10,700 --> 00:17:13,300
+It's really about focusing on Building Technology.
+
+112
+00:17:13,800 --> 00:17:15,800
+That's built for real-time engagement.
+
+113
+00:17:16,400 --> 00:17:16,900
+Right?
+
+114
+00:17:17,000 --> 00:17:18,300
+And you look at real-time engagement.
+
+115
+00:17:18,300 --> 00:17:20,200
+That means rho time down to the second.
+
+116
+00:17:20,400 --> 00:17:30,800
+That means as folks that are sitting in the audience and focuses are at home, should be able to experience down to the second real-time content engagement, that makes sense.
+
+117
+00:17:31,200 --> 00:17:31,800
+Makes sense.
+
+118
+00:17:31,800 --> 00:17:33,100
+So it's like, so we do that.
+
+119
+00:17:33,100 --> 00:17:34,400
+Well, then what?
+
+120
+00:17:34,500 --> 00:17:36,400
+What else do we baked on top of it?
+
+121
+00:17:36,700 --> 00:17:37,800
+And that's our engagement layer?
+
+122
+00:17:38,000 --> 00:17:38,100
+R.
+
+123
+00:17:38,500 --> 00:17:43,600
+So you get video streaming right audio video, make sure that's real time.
+
+124
+00:17:44,000 --> 00:17:46,300
+Then there's the question about engagement.
+
+125
+00:17:46,500 --> 00:17:57,400
+Now folks that are sitting in audience and folks that are sitting in a person and remote what happens when they both want to engage at the same time and feed from one another.
+
+126
+00:17:57,900 --> 00:17:59,900
+This is where it gets convoluted really quickly.
+
+127
+00:18:00,200 --> 00:18:02,400
+Turns out that in our audience.
+
+128
+00:18:02,600 --> 00:18:07,900
+We have a bunch of employees right now on their mobile devices and you're able to engage in real-time.
+
+129
+00:18:08,000 --> 00:18:10,100
+I am so we can get some chat happening.
+
+130
+00:18:10,400 --> 00:18:11,900
+We're going to have some chat happening right now.
+
+131
+00:18:11,900 --> 00:18:16,700
+In real time from our employees from their phone, their listen to us in the audience.
+
+132
+00:18:17,000 --> 00:18:28,000
+But also our virtual attendees can also engage at the same time, and they can see that happening with remote attendees and in-person attendees, and that's really amazing.
+
+133
+00:18:28,000 --> 00:18:34,800
+Because if you think about just the different types of personalities and wirings, like I am thinking about introverts versus extroverts.
+
+134
+00:18:35,100 --> 00:18:47,200
+And how, you know, oftentimes, when you're in person Event and all the extroverts get to raise their hand and maybe the squeakiest wheel, but now that there's opportunity to drop those questions.
+
+135
+00:18:47,200 --> 00:18:50,100
+Even if you're not comfortable going to the Mike and ask you a question.
+
+136
+00:18:50,100 --> 00:18:58,500
+Yeah, I mean talk to us a little bit about you say a lot about Equitable experiences and how technology enables that.
+
+137
+00:18:58,500 --> 00:18:58,900
+Yeah.
+
+138
+00:18:59,500 --> 00:18:59,800
+Yeah.
+
+139
+00:18:59,800 --> 00:19:02,000
+I mean you're hitting it rights on the head, right?
+
+140
+00:19:03,100 --> 00:19:04,100
+Equitable experiences.
+
+141
+00:19:04,100 --> 00:19:05,000
+In fact that welcome.
+
+142
+00:19:05,000 --> 00:19:07,800
+We have a Core Company value that speaks to open doors.
+
+143
+00:19:08,800 --> 00:19:13,700
+And open doors is about providing access, and we can go technology that provides access.
+
+144
+00:19:15,100 --> 00:19:17,900
+The challenge though becomes going back to how people are wired.
+
+145
+00:19:18,800 --> 00:19:25,000
+Some folks never want to step foot in an office because they were ready, change their lives and their work style.
+
+146
+00:19:25,000 --> 00:19:26,100
+And said, you know what?
+
+147
+00:19:26,600 --> 00:19:27,500
+This is my new normal.
+
+148
+00:19:28,400 --> 00:19:30,900
+I actually changed the way I work and it works really well.
+
+149
+00:19:31,500 --> 00:19:32,900
+I get to see my kiddos in the morning.
+
+150
+00:19:32,900 --> 00:19:35,300
+I have flexible hours and I can do this.
+
+151
+00:19:36,300 --> 00:19:37,000
+I want to stay here.
+
+152
+00:19:37,100 --> 00:19:39,400
+This is where I am like doing my best work.
+
+153
+00:19:39,900 --> 00:19:44,900
+Now that person let us say she's living in Alabama, and she's a phenomenal engineer.
+
+154
+00:19:45,700 --> 00:19:51,900
+Sure voice to be as loud as the voice of somebody that's sitting in Palo Alto headquarter.
+
+155
+00:19:51,900 --> 00:19:52,800
+At that company.
+
+156
+00:19:53,000 --> 00:19:54,400
+She shouldn't feel disconnected.
+
+157
+00:19:55,100 --> 00:19:58,700
+She should feel like she's part of that company, part of that experience.
+
+158
+00:19:58,700 --> 00:20:04,400
+And that is, he has a question that is at the same level as the loudest person in the room.
+
+159
+00:20:04,400 --> 00:20:05,800
+So no more.
+
+160
+00:20:05,800 --> 00:20:15,700
+So me to speak about Equitable experience has no more, is the loudest person in the room because we have technology that enables the best ideas to rise up and level the playing field.
+
+161
+00:20:16,500 --> 00:20:27,500
+So that's the power of like technology, not just for connecting people, but also connecting people and their unique wirings to show up how they are and who they are, right?
+
+162
+00:20:27,500 --> 00:20:31,500
+So is great because we have a conversations with amazing customers at welcome.
+
+163
+00:20:32,300 --> 00:20:37,300
+And the reason why they're investing in welcome and partnering with us is because we enable people to do.
+
+164
+00:20:37,300 --> 00:20:43,100
+Just that to say, you know what, I am a company that is embracing remote and or hybrid.
+
+165
+00:20:43,400 --> 00:20:56,100
+And I want to make sure that my employees Alice of where there are they still feel connected to us as a company and so when somebody submit a question at all hands, That question should be considered should be uploaded.
+
+166
+00:20:56,100 --> 00:20:57,800
+It should be part of the conversation.
+
+167
+00:20:58,000 --> 00:21:03,300
+Regardless if that person is tuning in from a little island called Puerto Rico, which is where I live.
+
+168
+00:21:04,000 --> 00:21:06,100
+They are still part of that core experience.
+
+169
+00:21:06,800 --> 00:21:09,900
+And that's, that's requires technology.
+
+170
+00:21:10,700 --> 00:21:14,800
+No doubt, but it also requires the framing and thinking of how to do that.
+
+171
+00:21:14,800 --> 00:21:18,600
+Well, how do you think knowledge is to enable Echo experience?
+
+172
+00:21:18,600 --> 00:21:26,100
+How do you think technology to empower a sense of belonging and so We talked about, you know, as Founders and I want to step out of your way here soon?
+
+173
+00:21:26,200 --> 00:21:32,500
+But as Founders, as we look at building, welcome and as technologists, Tech is super important, right?
+
+174
+00:21:32,500 --> 00:21:34,400
+There's a lot of fundamental things that we need.
+
+175
+00:21:35,200 --> 00:21:37,400
+But we also need to think about it very differently.
+
+176
+00:21:37,600 --> 00:21:42,100
+We need to think about it as a service to our people.
+
+177
+00:21:42,500 --> 00:21:44,300
+We're not just doing events just to do that.
+
+178
+00:21:44,300 --> 00:21:47,500
+So we're actually Gathering people's time matter.
+
+179
+00:21:47,500 --> 00:21:49,300
+You mean folks, they are tuning in right now?
+
+180
+00:21:49,300 --> 00:21:51,600
+Thank you for hanging out with us.
+
+181
+00:21:51,600 --> 00:21:52,900
+All right, I was about to do so.
+
+182
+00:21:53,000 --> 00:21:57,800
+Awesome move to keep you entertained while the mic issues being worked out, but that's what it is.
+
+183
+00:21:57,800 --> 00:22:04,300
+It's about, you know, kind of like falling back and say you know what, we're here to connect with people to gather people.
+
+184
+00:22:04,400 --> 00:22:08,300
+We're going to make sure that their voices are heard and Technology enables at.
+
+185
+00:22:08,400 --> 00:22:09,400
+That's so powerful.
+
+186
+00:22:09,400 --> 00:22:12,900
+I think in its time such as now ever more.
+
+187
+00:22:12,900 --> 00:22:17,800
+So we need this sense of belonging like you mentioned and human connection.
+
+188
+00:22:17,800 --> 00:22:22,900
+And the fact that we have technology to leverage to actually bring that sense.
+
+189
+00:22:23,100 --> 00:22:25,200
+The belonging is super catalytic.
+
+190
+00:22:25,200 --> 00:22:26,400
+Yeah, it's very powerful.
+
+191
+00:22:26,400 --> 00:22:26,900
+So, thank you.
+
+192
+00:22:26,900 --> 00:22:28,600
+Yeah, no, thanks for having me guys.
+
+193
+00:22:28,800 --> 00:22:29,100
+Again.
+
+194
+00:22:29,100 --> 00:22:30,000
+Thanks for being here.
+
+195
+00:22:30,200 --> 00:22:39,300
+I am honored that you give us some of your time, and we had we going to pull back the curtain and show you how to do hybrid, whatever company sighs, you're at whatever, kind of budget you have.
+
+196
+00:22:39,500 --> 00:22:43,500
+There's a way for you to level the playing field at your company, and we're honored that you're here.
+
+197
+00:22:44,300 --> 00:22:44,600
+Awesome.
+
+198
+00:22:44,600 --> 00:22:45,500
+Thanks so much job.
+
+199
+00:22:45,700 --> 00:22:46,100
+Absolutely.
+
+200
+00:22:46,400 --> 00:22:47,000
+Great.
+
+201
+00:22:47,000 --> 00:22:52,900
+Okay, so we're actually going to go right into it and take you under the hood.
+
+202
+00:22:53,000 --> 00:22:58,400
+With understanding, what are the key components that make hybrid events happen?
+
+203
+00:22:58,600 --> 00:23:02,500
+So I would love to invite Dylan.
+
+204
+00:23:02,500 --> 00:23:04,200
+Is there he is.
+
+205
+00:23:04,300 --> 00:23:05,000
+Hey.
+
+206
+00:23:06,600 --> 00:23:07,500
+What's going on?
+
+207
+00:23:07,500 --> 00:23:08,200
+Dylan?
+
+208
+00:23:08,300 --> 00:23:08,700
+Straight?
+
+209
+00:23:10,900 --> 00:23:12,300
+It's going great.
+
+210
+00:23:12,500 --> 00:23:15,200
+Yeah, how are you doing?
+
+211
+00:23:15,200 --> 00:23:16,600
+Absolutely fantastic.
+
+212
+00:23:16,600 --> 00:23:19,400
+Ready to dig into all the details of hybrid with you.
+
+213
+00:23:20,200 --> 00:23:21,000
+Awesome.
+
+214
+00:23:21,100 --> 00:23:21,500
+All right.
+
+215
+00:23:21,500 --> 00:23:29,200
+Well, what where do I start, you know, can be quite overwhelming to figure out hybrid production.
+
+216
+00:23:29,200 --> 00:23:33,300
+So Where do I start Dylan, you walk me through?
+
+217
+00:23:33,400 --> 00:23:34,000
+Yes, you are.
+
+218
+00:24:00,600 --> 00:24:06,700
+People, you can use this information that we're going to talk about today to be able to run any size of hybrid event.
+
+219
+00:24:06,700 --> 00:24:11,900
+Whether that's an absolutely large-scale conference down to an internal small company.
+
+220
+00:24:11,900 --> 00:24:12,800
+All Hands meeting.
+
+221
+00:24:17,200 --> 00:24:18,200
+That's awesome.
+
+222
+00:24:19,700 --> 00:24:22,000
+So what is the goal?
+
+223
+00:24:28,000 --> 00:24:40,500
+The goal of whole hybrid is more talk to our guard where we want to make sure the exact same thing.
+
+224
+00:24:40,500 --> 00:24:45,200
+We want to be able to make that experience Equitable for everyone.
+
+225
+00:24:45,400 --> 00:24:48,800
+So, I know most of us in this room, most people watching.
+
+226
+00:24:49,500 --> 00:24:49,700
+Really?
+
+227
+00:24:49,700 --> 00:24:52,500
+We have all been remote for the past year and a half.
+
+228
+00:24:52,500 --> 00:24:56,100
+And actually if you guys want to do me a favor real quick, if you all want to hop into chat.
+
+229
+00:24:56,600 --> 00:25:01,000
+Let me know how long you guys have been remote workers, whether it's just been for the last year and a half and the pandemic.
+
+230
+00:25:01,000 --> 00:25:05,000
+If you're going on 5 years, like myself go in their drop how many years?
+
+231
+00:25:05,000 --> 00:25:08,000
+I see a 30 years remote that someone just dropped in.
+
+232
+00:25:08,000 --> 00:25:10,300
+I think that's the winner right off the bat.
+
+233
+00:25:10,600 --> 00:25:11,700
+You will keep throwing those in there.
+
+234
+00:25:11,700 --> 00:25:17,500
+I would love to see how long that you guys have been remote As we continue talking here, but all of us who have been remote.
+
+235
+00:25:17,500 --> 00:25:19,300
+We have been kind of going through the same.
+
+236
+00:25:19,400 --> 00:25:22,000
+Back and forth throughout the past year and a half.
+
+237
+00:25:22,200 --> 00:25:27,000
+We have got our Bluetooth headphones are pods USB microphones webcams.
+
+238
+00:25:27,200 --> 00:25:33,500
+Whenever we jump into our meetings, we're choosing which thing we want to be able to used to be able to speak to be out here.
+
+239
+00:25:33,500 --> 00:25:34,600
+So people can see us.
+
+240
+00:25:34,600 --> 00:25:49,300
+Well, what I am going to do today is break down everything between audio and video that exact same thing to show you that it only takes a few pieces of key equipment and get set up and be able to pull off.
+
+241
+00:25:49,500 --> 00:25:50,700
+Any type of hybrid event.
+
+242
+00:25:52,700 --> 00:25:59,700
+So, one of the key things to note, hybrid events can be customized to literally do whatever you want.
+
+243
+00:25:59,700 --> 00:26:02,800
+I mentioned earlier, you can do large.
+
+244
+00:26:02,800 --> 00:26:10,800
+Absolutely High scale Productions down to the, you know, individual internal All Hands meetings.
+
+245
+00:26:11,400 --> 00:26:12,600
+So we can be doing stuff.
+
+246
+00:26:12,600 --> 00:26:19,300
+That's just a single camera and a single mic like we were seeing with Gina, or we can do a full panel, have five people on multiple.
+
+247
+00:26:19,400 --> 00:26:33,900
+Multiple microphones different camera angles, you can jump back and forth and be able to do all of those different things, but we're going to get over all the individual pieces for this setup so that you can see how simple hybrid can be.
+
+248
+00:26:34,500 --> 00:26:37,100
+So, a high level of what we're going to be going over.
+
+249
+00:26:37,100 --> 00:26:37,400
+Today.
+
+250
+00:26:37,400 --> 00:26:38,300
+We have two sections.
+
+251
+00:26:38,300 --> 00:26:48,400
+Like I said, audio and video your main three pieces of audio equipment that you're going to need your microphones, your audio mixer / interface.
+
+252
+00:26:49,300 --> 00:26:50,700
+And you're in person speakers.
+
+253
+00:26:51,700 --> 00:26:55,400
+For video, you're going to need your cameras and a video.
+
+254
+00:26:55,400 --> 00:26:55,900
+Switcher.
+
+255
+00:26:56,900 --> 00:26:59,000
+These are some extra pieces of equipment.
+
+256
+00:26:59,000 --> 00:27:01,000
+What we are doing for our event today.
+
+257
+00:27:01,100 --> 00:27:02,800
+We have multiple people speaking.
+
+258
+00:27:02,800 --> 00:27:04,500
+We have a couple different camera angles.
+
+259
+00:27:04,800 --> 00:27:07,700
+So we're kind of going for that higher level of production.
+
+260
+00:27:07,900 --> 00:27:09,800
+There going to be a couple extra pieces in here.
+
+261
+00:27:10,100 --> 00:27:15,200
+Erics do to be able to bring this down in budget and inside, whatever is going to customize and work for you guys.
+
+262
+00:27:16,000 --> 00:27:23,300
+So, with that being said, let us jump right into our audio overview, so Step 1 microphones.
+
+263
+00:27:23,800 --> 00:27:24,700
+The Easiest step.
+
+264
+00:27:25,300 --> 00:27:26,100
+What a microphones.
+
+265
+00:27:26,100 --> 00:27:27,900
+Do they pick up your voice?
+
+266
+00:27:28,100 --> 00:27:30,800
+They make sure everybody can hear you both in-person.
+
+267
+00:27:30,800 --> 00:27:34,000
+My team here and virtually everybody who is watching right?
+
+268
+00:27:34,000 --> 00:27:34,300
+Now.
+
+269
+00:27:34,800 --> 00:27:37,800
+These are there are two major types of microphones that you guys can grab.
+
+270
+00:27:38,100 --> 00:27:39,200
+We have got the wireless ones.
+
+271
+00:27:39,200 --> 00:27:41,600
+Like I am using, you have the ones that plug right in.
+
+272
+00:27:42,000 --> 00:27:50,500
+There're tons of different options that you can choose from, but the main job of your microphone is to pick up the presenters voice so that everybody can hear you.
+
+273
+00:27:51,500 --> 00:27:56,200
+This takes us into step to your audio mixer and your interface.
+
+274
+00:27:57,100 --> 00:27:59,200
+This piece of equipment right here.
+
+275
+00:27:59,400 --> 00:28:03,700
+Is your critical piece of equipment to make sure that everything is coming together.
+
+276
+00:28:04,000 --> 00:28:08,000
+It's going to be doing two major jobs for you during a hybrid event.
+
+277
+00:28:08,500 --> 00:28:18,600
+First, the job of the mixer, each microphone is going to be plugged into an individual channel in the mixer and that way you can control your presenters volume.
+
+278
+00:28:18,600 --> 00:28:24,900
+So if you have someone who speaks very quietly are soft, they're microphone away very easy to be able to turn them up.
+
+279
+00:28:25,100 --> 00:28:28,300
+Someone whose super loud since to project their voice a lot like myself.
+
+280
+00:28:28,300 --> 00:28:30,600
+You got to watch that and be able to pull them back down.
+
+281
+00:28:31,700 --> 00:28:32,800
+So that's the first job.
+
+282
+00:28:32,800 --> 00:28:33,500
+The mixer.
+
+283
+00:28:34,100 --> 00:28:36,200
+The second is the interface.
+
+284
+00:28:36,700 --> 00:28:42,200
+This is where we get into some more of the nitty-gritty details, but I am going to break it down and make it super simple for everybody.
+
+285
+00:28:42,900 --> 00:28:46,500
+So, the interface is doing two major things here.
+
+286
+00:28:46,500 --> 00:28:56,000
+The first thing it's doing is taking all of this live audio everything that I am saying for every One who's sitting in this room, and it's bringing it into the welcome platform.
+
+287
+00:28:56,000 --> 00:28:58,400
+So that everyone who is virtual, can hear what I am saying?
+
+288
+00:28:59,200 --> 00:29:04,500
+The second job of the interface is to take everyone who is virtual just like Gina was earlier.
+
+289
+00:29:04,700 --> 00:29:07,800
+Take everybody virtual all the videos that you're playing through.
+
+290
+00:29:07,800 --> 00:29:17,300
+Welcome the music, any other virtual presenters that you have and be able to make sure that they can be heard in your in-person audience as well.
+
+291
+00:29:20,300 --> 00:29:21,700
+Why is this so critical?
+
+292
+00:29:22,300 --> 00:29:27,100
+This helps remove two of the major issues with hybrid first?
+
+293
+00:29:27,100 --> 00:29:33,200
+It's going to allow your in person and your virtual attendees for have the exact same experience when it comes to audio.
+
+294
+00:29:33,300 --> 00:29:34,500
+Everyone in person.
+
+295
+00:29:34,500 --> 00:29:38,600
+Everyone virtual is going to be able to hear and experience the exact same thing.
+
+296
+00:29:39,000 --> 00:29:39,900
+And second.
+
+297
+00:29:40,100 --> 00:29:41,400
+It's going to move feedback.
+
+298
+00:29:41,700 --> 00:29:47,200
+There's one of the biggest problems that people run into when they're trying to do hybrid of its how do you talk to someone?
+
+299
+00:29:47,400 --> 00:29:49,300
+Who's remote, how you have that back and forth?
+
+300
+00:29:49,500 --> 00:29:56,200
+Conversation without there being feedback mixer and that interface is that keep peace.
+
+301
+00:29:56,400 --> 00:30:00,700
+That completely removes the problem of feedback without that set up.
+
+302
+00:30:00,800 --> 00:30:04,700
+None of this would be possible, and we're talking from the large conference events.
+
+303
+00:30:04,700 --> 00:30:10,900
+Like I was saying earlier, you can have five panelists up here, talking someone in New York someone in San Francisco.
+
+304
+00:30:11,200 --> 00:30:12,600
+People here in Las Vegas.
+
+305
+00:30:12,700 --> 00:30:18,300
+They can all be having a conversation back and forth and that's possible because of your audio interface.
+
+306
+00:30:19,600 --> 00:30:23,600
+In step three is your speaker's, the in-person audio.
+
+307
+00:30:23,600 --> 00:30:26,600
+So the audio interface everything that's coming out of welcome.
+
+308
+00:30:27,000 --> 00:30:30,800
+You plug those right into the speakers in your room, whether they're on the side up in the ceiling.
+
+309
+00:30:30,800 --> 00:30:36,400
+If you guys are doing it in a hotel, that's going to make sure that your in-person audience hears everything that's going on.
+
+310
+00:30:38,000 --> 00:30:39,100
+So that's it for audio.
+
+311
+00:30:39,500 --> 00:30:40,700
+That was a lot of information.
+
+312
+00:30:41,000 --> 00:30:41,400
+Don't worry.
+
+313
+00:30:41,400 --> 00:30:43,500
+We're going to be sending some stuff for you guys afterwards.
+
+314
+00:30:43,500 --> 00:30:44,400
+So don't worry.
+
+315
+00:30:44,500 --> 00:30:45,300
+We got some notes.
+
+316
+00:30:46,100 --> 00:30:49,700
+We're going to jump into video, Step One is our cameras.
+
+317
+00:30:50,100 --> 00:30:53,700
+We have, you guys are all familiar with sing camera setup.
+
+318
+00:30:53,700 --> 00:30:55,800
+That's what we have been doing for the past year and a half.
+
+319
+00:30:55,800 --> 00:31:00,200
+You have your face time cameras built into your computer.
+
+320
+00:31:00,200 --> 00:31:02,500
+So you might have a USB webcam.
+
+321
+00:31:02,900 --> 00:31:04,700
+You guys use this on a daily basis.
+
+322
+00:31:04,800 --> 00:31:06,700
+It's super simple plugs right in.
+
+323
+00:31:06,800 --> 00:31:09,500
+In easy to use in hybrid events.
+
+324
+00:31:09,500 --> 00:31:15,300
+However, you're more than likely going to want to be able to show multiple camera angles and multiple views.
+
+325
+00:31:15,300 --> 00:31:18,900
+You may want to show more of a close up like after seeing right now.
+
+326
+00:31:19,200 --> 00:31:22,400
+We may want a wide shot showing the entire stage.
+
+327
+00:31:22,400 --> 00:31:29,300
+If you had a lot of panelists, you may want to get super fancy and have someone on one of the moving camera panning across your audience.
+
+328
+00:31:30,400 --> 00:31:37,100
+All that you need to be able to do that is people to man your cameras and make sure that they have an HDMI output and you're good to go.
+
+329
+00:31:38,200 --> 00:31:38,700
+Now.
+
+330
+00:31:39,400 --> 00:31:43,700
+I say that, but you guys are thinking when I plug this stuff into my computer, just one camera.
+
+331
+00:31:44,200 --> 00:31:49,100
+How do I take five or six different video feeds and put them into one?
+
+332
+00:31:50,000 --> 00:31:51,300
+That's our second piece of equipment.
+
+333
+00:31:51,300 --> 00:31:52,800
+Here are Step 2 under video.
+
+334
+00:31:53,100 --> 00:31:54,200
+The video switcher.
+
+335
+00:31:54,900 --> 00:31:55,100
+What?
+
+336
+00:31:55,100 --> 00:31:59,600
+This is going to do is take all of those video feeds from all of you're different.
+
+337
+00:31:59,700 --> 00:32:06,400
+Cameras, put them into one piece of equipment and then you are going to be able to choose what you want your audience to see.
+
+338
+00:32:07,000 --> 00:32:10,800
+So, while I am up here on stage speaking, if we had a different setup.
+
+339
+00:32:10,800 --> 00:32:14,500
+We could be panning across our audience, to see everybody watching right now.
+
+340
+00:32:14,900 --> 00:32:18,600
+It's just a click of a button and everybody's going to be able to see that exact same view.
+
+341
+00:32:18,600 --> 00:32:21,400
+So you can focus on your speaker's, your audience.
+
+342
+00:32:21,700 --> 00:32:26,300
+You can create the experience that you want to Via the video switcher.
+
+343
+00:32:26,700 --> 00:32:29,500
+So it makes it incredibly simple for you to show your in person.
+
+344
+00:32:29,700 --> 00:32:32,000
+Virtual audience, the exact same thing.
+
+345
+00:32:33,000 --> 00:32:36,100
+And one last thing to note just kind of natural piece.
+
+346
+00:32:36,100 --> 00:32:38,500
+Here is what you're in personal finances.
+
+347
+00:32:38,500 --> 00:32:40,400
+Seeing up mentioned that a couple times.
+
+348
+00:32:40,600 --> 00:32:47,400
+One of the easiest ways to do this and what we are actually doing right now, is we have one set up in our attendee view.
+
+349
+00:32:47,400 --> 00:32:53,700
+So everything that you guys are currently seeing that, our virtual attendees everybody in our room is seeing exact same thing.
+
+350
+00:32:54,100 --> 00:32:55,600
+So, everybody's talking in chat.
+
+351
+00:32:56,100 --> 00:32:58,400
+We have got QA, we have our poles.
+
+352
+00:32:58,600 --> 00:32:59,500
+We're going that back in.
+
+353
+00:32:59,600 --> 00:33:06,800
+Fourth, all you have to do is plug that into your live video feeds, so then everybody can be engaging in the exact same way.
+
+354
+00:33:07,900 --> 00:33:10,900
+Now the final step bringing it all together.
+
+355
+00:33:11,000 --> 00:33:12,400
+Bring it in for a landing.
+
+356
+00:33:13,100 --> 00:33:14,100
+How do we get it all into?
+
+357
+00:33:14,100 --> 00:33:14,600
+Welcome.
+
+358
+00:33:15,500 --> 00:33:16,100
+How do you do that?
+
+359
+00:33:16,100 --> 00:33:18,200
+We're talking all these different pieces of equipment.
+
+360
+00:33:18,200 --> 00:33:37,000
+There has to be a ton of extra work to be able to do this, and I am actually really excited to say it's the exact same process as choosing your are pods or choosing a webcam to be able to put in when you jump into the welcome platform, when you're in your producer View and you are adding feeds into the Green Room.
+
+361
+00:33:38,000 --> 00:33:39,400
+Drop down menu, pops up.
+
+362
+00:33:39,900 --> 00:33:43,000
+All you're going to choose is those specific video.
+
+363
+00:33:43,000 --> 00:33:50,900
+Switcher and your audio interface that's going to grab everything that's happening for your in-person audience and be able to put that virtual.
+
+364
+00:33:50,900 --> 00:33:53,200
+So an everyone is seeing the exact same thing.
+
+365
+00:33:54,500 --> 00:33:59,200
+So wasn't out high-level overview, and don't worry.
+
+366
+00:33:59,200 --> 00:34:01,800
+Like I said earlier, we're going to be sending this out to everybody.
+
+367
+00:34:02,000 --> 00:34:03,800
+So we got you.
+
+368
+00:34:05,400 --> 00:34:12,800
+Audio, you got your microphones that plug into your audio mixer and the interface, which plugs into welcome.
+
+369
+00:34:12,800 --> 00:34:17,300
+It's bringing all of your audio into welcome for your video.
+
+370
+00:34:17,400 --> 00:34:21,900
+You have got your camera's, plug it into your video switchers, which are going right into welcome.
+
+371
+00:34:22,400 --> 00:34:24,900
+And then, on that audio side, everything that's happening in.
+
+372
+00:34:24,900 --> 00:34:28,300
+Welcome is what's going to be coming out for your in-person audio?
+
+373
+00:34:29,100 --> 00:34:35,000
+And then same thing that video feed, everything that you guys are watching right now, is what we are going to be bringing.
+
+374
+00:34:35,199 --> 00:34:37,800
+Out for the in-person video.
+
+375
+00:34:39,600 --> 00:34:42,199
+And that's just about everything that you need to know Gina.
+
+376
+00:34:42,400 --> 00:34:44,300
+Let me toss it back over to you.
+
+377
+00:34:44,500 --> 00:34:45,600
+I want to hear your thoughts.
+
+378
+00:34:45,600 --> 00:34:47,600
+I just talked for way too long.
+
+379
+00:34:47,900 --> 00:34:48,900
+What do you get for me?
+
+380
+00:34:49,000 --> 00:34:50,400
+Does that all make sense?
+
+381
+00:34:50,500 --> 00:34:51,000
+Where are we?
+
+382
+00:34:53,699 --> 00:34:55,300
+Hey Dylan, thank you so much.
+
+383
+00:34:55,300 --> 00:35:00,900
+I am going to actually bring you back on stage with me because there's there're some questions coming in.
+
+384
+00:35:01,500 --> 00:35:10,200
+I mean you're a whiz, you have got this dialed in, and we definitely want to share out that diagram to all those who are attending.
+
+385
+00:35:10,200 --> 00:35:10,900
+Today.
+
+386
+00:35:11,100 --> 00:35:13,000
+You're already getting some questions.
+
+387
+00:35:13,000 --> 00:35:17,400
+So let us go ahead and answer Jaclyn's question here.
+
+388
+00:35:19,200 --> 00:35:23,400
+So are there particular audio interfaces that you'd recommend?
+
+389
+00:35:24,000 --> 00:35:26,100
+Yes, that is a fantastic question.
+
+390
+00:35:27,300 --> 00:35:31,300
+If you go and you just Google search, this, you're going to get tons and tons of results.
+
+391
+00:35:31,500 --> 00:35:37,500
+There are two brands that after doing live and audio events for probably about ten plus years.
+
+392
+00:35:37,500 --> 00:35:45,500
+Now, the easiest way to be able to get this set up for you, a company called Behringer and a company called Allen & Heath.
+
+393
+00:35:45,900 --> 00:35:49,500
+Both of those have your audio interfaces and the mixers.
+
+394
+00:35:49,500 --> 00:35:51,000
+They're built into one machine.
+
+395
+00:35:51,200 --> 00:35:52,500
+It's going to make it super simple.
+
+396
+00:35:52,500 --> 00:35:53,300
+It is quite literally.
+
+397
+00:35:53,400 --> 00:35:57,300
+Lee the most plug-and-play that you can get, so Google search.
+
+398
+00:35:57,300 --> 00:35:59,400
+Those going to solve all your problems?
+
+399
+00:36:01,200 --> 00:36:01,800
+Awesome.
+
+400
+00:36:01,800 --> 00:36:02,100
+Okay.
+
+401
+00:36:02,100 --> 00:36:07,300
+Here's another question that I think you can help us answer, Dylan from Jacob Castro.
+
+402
+00:36:07,800 --> 00:36:11,200
+How much does setting something like this up cost?
+
+403
+00:36:11,400 --> 00:36:16,700
+Say one that would require two cameras and two microphones with audio interfaces.
+
+404
+00:36:17,000 --> 00:36:17,800
+Yeah, Jacob.
+
+405
+00:36:17,800 --> 00:36:19,200
+That is a great question.
+
+406
+00:36:19,500 --> 00:36:24,000
+The nice thing about this is it all depends on the level of production, that you And to do.
+
+407
+00:36:24,200 --> 00:36:30,000
+So we're talking two cameras to microphones the audio interface, essentially the same setup that we have right now.
+
+408
+00:36:31,200 --> 00:36:42,700
+If your budget buying, we do this for $1,500, if you really wanted to, if you want to get super fancy with the cameras and the microphones and everything else that you're using honestly sky's the limit.
+
+409
+00:36:42,700 --> 00:36:51,900
+But to be quite Frank, probably $1,500 to five grand range, anything that probably going above and beyond what you need somewhere within that range.
+
+410
+00:36:51,900 --> 00:36:53,100
+You're gonna be able to find everything.
+
+411
+00:36:54,000 --> 00:36:56,700
+I mean, Dylan just keeping a real what's are set up.
+
+412
+00:36:56,700 --> 00:37:02,400
+Like if you were to describe what we have got here, with our Audio video.
+
+413
+00:37:02,800 --> 00:37:05,300
+And what's the guesstimation of cost?
+
+414
+00:37:05,300 --> 00:37:06,300
+For what?
+
+415
+00:37:06,300 --> 00:37:07,900
+We're how we have pulled this off?
+
+416
+00:37:08,000 --> 00:37:09,300
+Yeah, that's a great question.
+
+417
+00:37:09,300 --> 00:37:15,500
+So, we have a couple different microphones that we have set up that were using, they're all Wireless, which those tend to be a little bit pricier.
+
+418
+00:37:15,700 --> 00:37:20,500
+And we have a couple different camera angles set up that we're capturing everything from as well.
+
+419
+00:37:20,600 --> 00:37:23,800
+So I think we're doing a three or four camera setups.
+
+420
+00:37:24,300 --> 00:37:25,800
+We have got the videos watching.
+
+421
+00:37:26,300 --> 00:37:30,800
+We have our audio interface, and then we have three different microphones that were using as well.
+
+422
+00:37:30,900 --> 00:37:34,600
+Well, there's a couple other pieces, we're talking cables and stuff like that.
+
+423
+00:37:34,600 --> 00:37:40,100
+But for the most part our total cost came in just over five thousand dollars to be able to do this full set up.
+
+424
+00:37:45,700 --> 00:37:46,600
+Gotcha, that's good.
+
+425
+00:37:46,600 --> 00:37:49,600
+And then what are you seeing these days with our customers?
+
+426
+00:37:49,600 --> 00:38:04,200
+I know we have got a range of hybrid event use cases, but generally what would you recommend for, you know, a set up a 500 attendees like could what we have today work for 500 attendees.
+
+427
+00:38:04,600 --> 00:38:09,200
+5,000 attendees, you know, you have to upgrade equipment at that point.
+
+428
+00:38:10,100 --> 00:38:11,600
+It was a very good question.
+
+429
+00:38:11,700 --> 00:38:14,700
+So to be completely honest with you, these types of things.
+
+430
+00:38:14,700 --> 00:38:24,000
+I always like to take it on a case-by-case basis because it's going to depend on the level of production, do the people on your team, have any experience with audio and video.
+
+431
+00:38:24,300 --> 00:38:29,800
+Is it easier for you to just hire a production company and then welcome teaches them how to plug everything in like.
+
+432
+00:38:29,800 --> 00:38:32,600
+I just did, there's a number of different options there.
+
+433
+00:38:33,900 --> 00:38:38,700
+But to answer your question, our set up those key pieces, that video switcher.
+
+434
+00:38:38,900 --> 00:38:39,700
+And your audio interface.
+
+435
+00:38:39,900 --> 00:38:44,700
+Are you can use that for a room with 500 people or with room of 5,000 people?
+
+436
+00:38:45,000 --> 00:38:51,200
+Like I said, if you have good pieces of equipment, for those two specific things, you can make anything happen.
+
+437
+00:38:51,200 --> 00:38:52,500
+The sky is really the limit.
+
+438
+00:38:54,800 --> 00:38:55,400
+No.
+
+439
+00:38:55,400 --> 00:38:57,700
+Alright, Tyson young has a question.
+
+440
+00:38:58,100 --> 00:38:59,600
+Is there a fall back?
+
+441
+00:38:59,600 --> 00:39:01,000
+When things go wrong?
+
+442
+00:39:02,400 --> 00:39:03,000
+Yes.
+
+443
+00:39:04,300 --> 00:39:06,800
+It happened earlier, you got to get creative.
+
+444
+00:39:07,300 --> 00:39:09,800
+If you can't get creative when you're doing your events.
+
+445
+00:39:09,800 --> 00:39:11,700
+If you want everything to go, right?
+
+446
+00:39:12,300 --> 00:39:14,800
+I am sorry, you're going to be stressed out all the time.
+
+447
+00:39:14,900 --> 00:39:18,200
+That's just, it's just the way life is fall back.
+
+448
+00:39:18,500 --> 00:39:25,600
+What I always do by W amount of equipment that you need, when we're talking cables by good stuff, cables break.
+
+449
+00:39:25,600 --> 00:39:26,400
+So easily.
+
+450
+00:39:26,400 --> 00:39:33,900
+Think of your phone charger tossing that thing on the side of your bed, traveling with that, they break because they're really cheaply made get the really thick.
+
+451
+00:39:34,100 --> 00:39:36,400
+Solid ones and you're going to have that thing for five six years.
+
+452
+00:39:37,800 --> 00:39:44,700
+Hire out people, if you're not confident in a skills, if you want to learn tons of resources, we can teach you.
+
+453
+00:39:44,800 --> 00:39:46,500
+We can walk you through step-by-step.
+
+454
+00:39:46,800 --> 00:39:49,400
+If you want to alleviate the stress of everything.
+
+455
+00:39:49,400 --> 00:40:02,300
+From the production side, higher production company come to us, teach them how to put everything together, but the fallback be ready to be creative, be prepared for things to go wrong and by double the amount that you need.
+
+456
+00:40:06,000 --> 00:40:06,700
+That's great.
+
+457
+00:40:06,700 --> 00:40:08,700
+Okay, I am going to take one more question here.
+
+458
+00:40:09,700 --> 00:40:10,100
+Let us see.
+
+459
+00:40:10,100 --> 00:40:13,800
+Andrew is asking what does it look like at the venue?
+
+460
+00:40:15,200 --> 00:40:16,400
+What does what I got the venue.
+
+461
+00:40:16,400 --> 00:40:20,000
+Do we have our amazing video guy Faulkner?
+
+462
+00:40:20,000 --> 00:40:22,200
+Do we have any views of our room right now?
+
+463
+00:40:26,000 --> 00:40:27,000
+That's a no case.
+
+464
+00:40:27,000 --> 00:40:27,500
+Everyone was running.
+
+465
+00:40:27,500 --> 00:40:29,600
+There's a wall, beautiful wall.
+
+466
+00:40:31,200 --> 00:40:32,600
+Nice, wall right there.
+
+467
+00:40:32,700 --> 00:40:38,700
+Okay, we view that we have got But to answer your question, kind of what we have on our walk you here.
+
+468
+00:40:38,700 --> 00:40:40,000
+Because Gina and I are both up here.
+
+469
+00:40:40,000 --> 00:40:41,400
+I am kind of cutting a little bit.
+
+470
+00:40:41,400 --> 00:40:43,900
+We have got both of our banners on either side of me, right?
+
+471
+00:40:43,900 --> 00:40:45,300
+Outside of both of those.
+
+472
+00:40:45,500 --> 00:40:48,300
+We have our screens so that everybody in audience.
+
+473
+00:40:48,300 --> 00:40:51,500
+Can see chat queue, a, the polls, everything else that's going on.
+
+474
+00:40:52,100 --> 00:40:55,600
+We have a couple of what we call confidence monitors.
+
+475
+00:40:55,600 --> 00:40:57,700
+So as I am looking into this camera right here?
+
+476
+00:40:58,000 --> 00:41:00,500
+I have another TV screen right underneath.
+
+477
+00:41:00,500 --> 00:41:03,100
+So I See, Gina and be talking directly to her.
+
+478
+00:41:04,400 --> 00:41:08,600
+I have got a team right here on my left running all of our audio and video needs.
+
+479
+00:41:09,000 --> 00:41:15,100
+And I have got a bunch of other people walking around making sure that I am staying on time and talking about everything that I need to talk about.
+
+480
+00:41:18,700 --> 00:41:18,700
+Awesome.
+
+481
+00:41:18,700 --> 00:41:26,900
+Thank you for describing all that Dylan and just being awesome at walking us through all things hybrid event under the hood.
+
+482
+00:41:26,900 --> 00:41:29,800
+Please continue to just drop your questions.
+
+483
+00:41:29,800 --> 00:41:33,000
+We would love to maybe answer some at the end.
+
+484
+00:41:33,000 --> 00:41:41,100
+I would like to transition now into some five key ingredients of what makes an engaging event.
+
+485
+00:41:41,100 --> 00:41:43,100
+So, thank you, Dylan.
+
+486
+00:41:43,100 --> 00:41:52,900
+Dylan walked us through some of the production elements of Together a hybrid event thinking about the in person as well as the virtual.
+
+487
+00:41:53,100 --> 00:42:04,700
+And so we're going to quickly go through these five ingredients of Engagement that you can consider as your hosting both the virtual and the in-person side of your event.
+
+488
+00:42:04,800 --> 00:42:05,400
+So, I will go through that.
+
+489
+00:42:05,400 --> 00:42:07,800
+In the meantime, continue to drop your questions.
+
+490
+00:42:07,800 --> 00:42:13,400
+We can bring Dylan back up and even Roberto back up to answer any of your questions.
+
+491
+00:42:13,600 --> 00:42:14,700
+So here we go.
+
+492
+00:42:14,700 --> 00:42:17,000
+Five ingredients and of Engagement.
+
+493
+00:42:17,200 --> 00:42:18,200
+Well, they look like this.
+
+494
+00:42:18,200 --> 00:42:28,600
+It's there's set the tone engagement to be considering that strategically transitions networking and speaker experience.
+
+495
+00:42:28,900 --> 00:42:47,000
+So going through those elements, you know, when you have engagement you truly have this experience and all of these elements that were describing actually help connect your physical attendees with your virtual and attendees so that you create this one shared experience.
+
+496
+00:42:47,400 --> 00:42:51,500
+So setting the tone, let us start with that, you know, engagement.
+
+497
+00:42:51,800 --> 00:42:53,300
+It's not just a chat.
+
+498
+00:42:53,400 --> 00:42:56,500
+It's not just that networking or any of these other places.
+
+499
+00:42:56,500 --> 00:42:58,600
+It really starts at the top.
+
+500
+00:42:58,600 --> 00:42:59,900
+It starts at the beginning.
+
+501
+00:43:00,200 --> 00:43:05,100
+And so the intro we believe is one of the most important.
+
+502
+00:43:05,100 --> 00:43:06,400
+It's like no matter what.
+
+503
+00:43:06,400 --> 00:43:10,000
+Let us say, like, we had some audio glitches earlier, right?
+
+504
+00:43:10,700 --> 00:43:12,000
+These things happen.
+
+505
+00:43:12,000 --> 00:43:16,900
+So it's really important to set that positive tone of your event from the very GetGo.
+
+506
+00:43:17,100 --> 00:43:24,200
+Continue to thread line the same level of energy and excitement through your entire event because you don't know.
+
+507
+00:43:24,200 --> 00:43:27,600
+There could be some things that go wrong in Virtual and hybrid.
+
+508
+00:43:27,700 --> 00:43:34,600
+But this is part of the beauty of Live Events and part of the beauty of this is human.
+
+509
+00:43:34,800 --> 00:43:35,600
+It's real.
+
+510
+00:43:35,800 --> 00:43:37,600
+So, going into it.
+
+511
+00:43:37,600 --> 00:43:50,200
+There's some other components that help you set the tone, and we have got here, you know, at the top video countdown clocks were your countdown up until your Event actually starts height videos.
+
+512
+00:43:50,200 --> 00:43:53,600
+This is where you can use royalty free videos.
+
+513
+00:43:53,600 --> 00:44:01,900
+If you got a public audience and audio as well, or if it's a journal, then you can use, you know, music of your choice video of your choice.
+
+514
+00:44:02,300 --> 00:44:08,300
+You want to make sure you have an MC and a facilitator, that's thread, lining your entire event.
+
+515
+00:44:08,900 --> 00:44:16,400
+We have got sound effects and also housekeeping that we did at the beginning, which was also really important.
+
+516
+00:44:16,400 --> 00:44:22,000
+Now the Second ingredient is engagement, and this is what everybody's talking about today.
+
+517
+00:44:22,100 --> 00:44:24,000
+How do we solve for this problem?
+
+518
+00:44:24,000 --> 00:44:29,000
+But both for our virtual audience, our in-person audience and keep it consistent.
+
+519
+00:44:29,100 --> 00:44:34,100
+A lot of it is in intentional intentionality and thinking through your run of show.
+
+520
+00:44:34,400 --> 00:44:40,400
+But there's also some features and welcome that really support engagement in a powerful way.
+
+521
+00:44:40,600 --> 00:44:53,600
+Now, of course, we have got chat and there and then there's interactive QA where you can actually have people After questions bring him on stage and have a dynamic conversation with those who are asking their questions.
+
+522
+00:44:53,700 --> 00:44:55,700
+Pulls like we did at the top.
+
+523
+00:44:55,700 --> 00:45:00,200
+We asked your sentiment on your comfort levels around hybrid.
+
+524
+00:45:00,200 --> 00:45:08,000
+And so at any given time what's great is, we can make quick adjustments to these questions and put up any kind of pole.
+
+525
+00:45:08,200 --> 00:45:11,500
+So those elements definitely help.
+
+526
+00:45:11,600 --> 00:45:21,000
+Now, the third ingredient is transitions, It's can be magical if you're intentional about them.
+
+527
+00:45:21,000 --> 00:45:24,500
+It's often an overlooked thing to be like, okay.
+
+528
+00:45:24,500 --> 00:45:26,900
+Well, we know this is the main part of the content.
+
+529
+00:45:26,900 --> 00:45:45,000
+And here, here, but thread lightning, all of those chunks of content throughout your segment with seamless and the right transitions can really Elevate the engagement and your brand experience virtually and in person in a powerful way.
+
+530
+00:45:45,300 --> 00:45:46,400
+So how do you do that?
+
+531
+00:45:46,400 --> 00:45:54,300
+I mean, you have got Obviously your MC facilitator, that's continuing to threaten line, no matter what happens with the event and whichever direction it goes.
+
+532
+00:45:54,500 --> 00:45:55,800
+They thread line.
+
+533
+00:45:55,900 --> 00:46:08,100
+That energy the sentiment they provide direction for your audience and you they can the audience can navigate accordingly and this works obviously for in-person or virtual our media and overlays.
+
+534
+00:46:08,200 --> 00:46:15,600
+So being able to quickly put up videos audio and then put up overlays right now in The Green Room.
+
+535
+00:46:15,600 --> 00:46:16,900
+I have got our producer.
+
+536
+00:46:17,100 --> 00:46:18,600
+Linda helping me out.
+
+537
+00:46:18,600 --> 00:46:30,000
+Just putting up these overlays and this creates for a much more engaging experience and also for transitions from Dylan segment to my segment.
+
+538
+00:46:30,000 --> 00:46:31,400
+So on and so forth.
+
+539
+00:46:31,700 --> 00:46:33,800
+And of course the pools feature.
+
+540
+00:46:34,000 --> 00:46:40,500
+Those can serve as a great tool of transition when you want to go from topic to topic section to section.
+
+541
+00:46:41,200 --> 00:46:43,600
+The fourth element is networking.
+
+542
+00:46:43,700 --> 00:46:45,300
+So we hear this.
+
+543
+00:46:45,300 --> 00:46:46,900
+We see, we see this in person.
+
+544
+00:46:47,300 --> 00:46:52,100
+We see this virtually as well and you know in welcome, we have got breakouts.
+
+545
+00:46:52,100 --> 00:46:55,400
+We have also got lounges the differences breakouts.
+
+546
+00:46:55,400 --> 00:47:03,900
+There is a pull so virtually you can automatically pull people into different breakout rooms or in person.
+
+547
+00:47:03,900 --> 00:47:09,900
+You have assigned specific workshops or rooms that have topics of discussion.
+
+548
+00:47:10,100 --> 00:47:17,000
+So breakout serve as a pull, whereas lounges or exhibit Halls, have a push experience.
+
+549
+00:47:17,500 --> 00:47:26,000
+And so in the in-person experience, that would look like an exhibit hall, where you have got branded Booth space and Banners and swag.
+
+550
+00:47:26,200 --> 00:47:30,500
+You got your lead generation trackers, and you have got a point of contact, a warm face.
+
+551
+00:47:30,500 --> 00:47:35,500
+That's willing to walk the, the guests through the brand experience of that.
+
+552
+00:47:35,500 --> 00:47:36,000
+Boot.
+
+553
+00:47:36,000 --> 00:47:38,600
+Same thing can happen virtually as well.
+
+554
+00:47:38,800 --> 00:47:40,000
+In welcome.
+
+555
+00:47:40,000 --> 00:47:43,500
+We have got a branded sponsored experience.
+
+556
+00:47:43,500 --> 00:47:46,900
+Where you can have a point of personal point of contact.
+
+557
+00:47:47,100 --> 00:48:01,800
+Who is actually welcoming every single person coming in have call to action links, you know, any downloadables, any kind of prizes are gifts that, you want to do trivia, all that can be done in our breakout and Lounge experience.
+
+558
+00:48:01,800 --> 00:48:09,900
+And of course, having a facilitator, I think is really key in any of the networking experiences to be very effective.
+
+559
+00:48:09,900 --> 00:48:11,000
+You want somebody?
+
+560
+00:48:11,200 --> 00:48:18,100
+That is the representative of your brand and, you know, I think these are some of the small things That get overlooked.
+
+561
+00:48:18,100 --> 00:48:19,200
+You want to get the right energy?
+
+562
+00:48:19,200 --> 00:48:24,100
+The right personality and have your call to actions, your swag.
+
+563
+00:48:24,100 --> 00:48:25,400
+Whatever it is that you're giving away.
+
+564
+00:48:25,400 --> 00:48:28,500
+Ready in that networking experience.
+
+565
+00:48:28,500 --> 00:48:32,100
+Now, finally, it's the speaker experience.
+
+566
+00:48:32,100 --> 00:48:37,400
+I believe it can make or break a 360 experience of an event.
+
+567
+00:48:37,400 --> 00:48:41,300
+And so, you know, we have talked a lot about the attendee experience.
+
+568
+00:48:41,300 --> 00:48:46,800
+We have talked a lot about the producer side of putting a hybrid event together.
+
+569
+00:48:47,000 --> 00:48:47,200
+Either.
+
+570
+00:48:47,300 --> 00:48:58,400
+And now when you think about your speaker's, you want them to have just as much of a meaningful experience as your attendees and your producers.
+
+571
+00:48:58,700 --> 00:49:04,200
+And so, you know, in welcome, we have actually got a green room and it's right beneath the screen.
+
+572
+00:49:04,200 --> 00:49:11,200
+I can actually see my producer Linda and all the other folks that are within our Green Room.
+
+573
+00:49:11,200 --> 00:49:15,900
+Hello, and, you know, just like an in-person breeder, right?
+
+574
+00:49:16,000 --> 00:49:16,900
+As a speaker.
+
+575
+00:49:17,300 --> 00:49:19,500
+Just about to go onto stage.
+
+576
+00:49:20,000 --> 00:49:21,000
+I have got nerves.
+
+577
+00:49:21,000 --> 00:49:26,600
+And so being able to be in a green room environment where I can calm down.
+
+578
+00:49:26,600 --> 00:49:29,900
+I have got my speaker, check my mic checks right?
+
+579
+00:49:29,900 --> 00:49:35,500
+Visual checks, and I have got a warm face in the green room from the producer.
+
+580
+00:49:35,500 --> 00:49:37,600
+That's calming me down as a speaker.
+
+581
+00:49:37,800 --> 00:49:51,500
+So not only do I have that experience before I go on stage, but there's also a countdown clock that's keeping me on time because for me, I mean, am I countdown clock is giving me the ten minutes signal right now, right?
+
+582
+00:49:51,500 --> 00:50:02,900
+So it's very helpful for speakers to be able to see those that time check, especially if they have a tendency to go over and then finally, The Green Room chat.
+
+583
+00:50:03,100 --> 00:50:05,100
+This is an exclusive chat.
+
+584
+00:50:05,100 --> 00:50:09,400
+That is only between the speakers and the producers.
+
+585
+00:50:09,600 --> 00:50:10,900
+So those in public.
+
+586
+00:50:10,900 --> 00:50:13,400
+Cannot see the speaker experience.
+
+587
+00:50:13,700 --> 00:50:14,600
+So there you go.
+
+588
+00:50:14,600 --> 00:50:16,600
+Those are the five key elements.
+
+589
+00:50:16,600 --> 00:50:17,000
+We went.
+
+590
+00:50:17,100 --> 00:50:18,100
+Then pretty quickly.
+
+591
+00:50:18,200 --> 00:50:40,500
+It's setting the tone supercritical of making or breaking that event and how the pacing in the feel, the energy goes, and then the engagement transitions networking and a speaker experience, which gives you this 360 experience that you could be considering when you're putting your hybrid events together, both in-person and virtual.
+
+592
+00:50:41,000 --> 00:50:41,500
+All right.
+
+593
+00:50:41,500 --> 00:50:45,900
+So we have got about 10 minutes left, and we still have some questions.
+
+594
+00:50:45,900 --> 00:50:46,900
+Can I invite?
+
+595
+00:50:47,000 --> 00:50:53,600
+Right, Rob and Dylan to the stage to wrap this up with our final questions here?
+
+596
+00:51:01,800 --> 00:51:02,600
+All right.
+
+597
+00:51:32,800 --> 00:51:33,300
+Two, three.
+
+598
+00:51:33,700 --> 00:51:34,000
+All right.
+
+599
+00:51:34,000 --> 00:51:34,800
+That's my bad.
+
+600
+00:51:35,000 --> 00:51:35,600
+Blame it on me.
+
+601
+00:51:36,300 --> 00:51:37,500
+I am the guy with the mic.
+
+602
+00:51:37,700 --> 00:51:38,400
+I didn't the button.
+
+603
+00:51:38,700 --> 00:51:38,900
+There.
+
+604
+00:51:38,900 --> 00:51:39,500
+It is.
+
+605
+00:51:40,300 --> 00:51:44,800
+That's part of the stays at, doesn't know how to use a mic.
+
+606
+00:51:45,200 --> 00:51:49,000
+So that's as part of the challenge, as well as events.
+
+607
+00:51:49,400 --> 00:51:52,000
+But Gina, thanks so much for 14, it up.
+
+608
+00:51:53,500 --> 00:51:55,500
+Great questions from the audience already.
+
+609
+00:51:56,000 --> 00:51:59,000
+One of the things I was talking about is things will go wrong.
+
+610
+00:51:59,300 --> 00:52:01,200
+You have to be creative, be able to fit it.
+
+611
+00:52:01,300 --> 00:52:02,100
+Have this technology.
+
+612
+00:52:02,700 --> 00:52:04,000
+You need to get people on your team.
+
+613
+00:52:04,300 --> 00:52:08,300
+They're not going to freak out and shut it down.
+
+614
+00:52:08,300 --> 00:52:09,900
+The mic is not working.
+
+615
+00:52:10,200 --> 00:52:14,600
+And sometimes, it's as simple as clicking a button on the microphone to make sure that it's on.
+
+616
+00:52:15,100 --> 00:52:15,700
+So, anyway, dear.
+
+617
+00:52:15,700 --> 00:52:16,400
+What questions?
+
+618
+00:52:16,400 --> 00:52:18,500
+Do we have teed up here.
+
+619
+00:52:19,000 --> 00:52:20,800
+I will do my best here to answer.
+
+620
+00:52:21,900 --> 00:52:24,300
+All right, we have got a question from Gordon.
+
+621
+00:52:25,100 --> 00:52:29,900
+Are you going to be showing under the hood with the welcome interface itself?
+
+622
+00:52:31,200 --> 00:52:33,400
+Okay, Gordon, great question.
+
+623
+00:52:33,500 --> 00:52:34,600
+Couple things here.
+
+624
+00:52:34,600 --> 00:52:35,600
+Like, what is the go?
+
+625
+00:52:35,600 --> 00:52:37,200
+Why do we do this event to begin with?
+
+626
+00:52:37,600 --> 00:52:39,300
+We did the show you behind the scenes?
+
+627
+00:52:39,300 --> 00:52:43,600
+We are actually the team has diagrams and follow content.
+
+628
+00:52:43,600 --> 00:52:45,300
+They will be in touch with you on.
+
+629
+00:52:45,500 --> 00:52:53,100
+It's going to show you all the things on which plugs and how to do this and which cameras and what bud you have to get and hybrid event on.
+
+630
+00:52:53,600 --> 00:52:56,700
+And yeah, so we will be opening it up during this event.
+
+631
+00:52:56,700 --> 00:52:59,900
+We are not going to flip the screen over and show you the Green Room.
+
+632
+00:53:00,700 --> 00:53:04,000
+Use our website, you start to see some of that book a demo.
+
+633
+00:53:04,000 --> 00:53:12,800
+If you want to see The Green Room live and in person and see how that works, but we will be following up with more content enables you to understand all the ins and outs.
+
+634
+00:53:15,000 --> 00:53:15,300
+All right.
+
+635
+00:53:15,300 --> 00:53:17,100
+Next question from charlena.
+
+636
+00:53:17,500 --> 00:53:21,700
+How many people do you need to run a hybrid event?
+
+637
+00:53:22,000 --> 00:53:24,900
+Good question, you know, this is an interesting one.
+
+638
+00:53:24,900 --> 00:53:30,500
+I think you can get pretty creative with running a slim team.
+
+639
+00:53:31,000 --> 00:53:35,200
+And empowering them to do a little bit of things in doing really, really well.
+
+640
+00:53:35,600 --> 00:53:40,800
+I think about hybrid is connecting an in-person audience and a remote audience together.
+
+641
+00:53:42,600 --> 00:53:55,400
+I think should have on your squad at least three people as I think about using a platform driving moderation of Engagement with in chat and making sure somebody in the producer seat that can keep the show going.
+
+642
+00:53:55,700 --> 00:54:01,300
+I think one of the things Whitney's is has a ton of experience doing this as well as an Of ours.
+
+643
+00:54:01,900 --> 00:54:06,200
+She's recommending anywhere from three to five people, depending on that experience.
+
+644
+00:54:06,500 --> 00:54:07,400
+And I would agree with that.
+
+645
+00:54:07,400 --> 00:54:10,700
+I think you can get a really Stellar experience with a crew.
+
+646
+00:54:10,700 --> 00:54:18,500
+That's equipped to be creative and knows, I know how to use technology and know-how to turn on microphones as part of that.
+
+647
+00:54:22,000 --> 00:54:24,600
+All right, we have got another question here from an.
+
+648
+00:54:24,900 --> 00:54:27,900
+Is there a live audience at the location?
+
+649
+00:54:27,900 --> 00:54:30,300
+As it would be an actual hybrid event.
+
+650
+00:54:30,900 --> 00:54:32,900
+Is there a live audience right here?
+
+651
+00:54:32,900 --> 00:54:33,100
+Yes.
+
+652
+00:54:33,100 --> 00:54:33,900
+This hears it up.
+
+653
+00:54:34,800 --> 00:54:36,600
+Here is a live audience here.
+
+654
+00:54:37,300 --> 00:54:38,300
+Let us go.
+
+655
+00:54:42,500 --> 00:54:43,500
+Let us go.
+
+656
+00:54:44,800 --> 00:54:45,600
+Alright.
+
+657
+00:54:45,600 --> 00:54:49,100
+Alright guys, there is a live audience here.
+
+658
+00:54:49,300 --> 00:54:59,100
+One of the things I don't think it was here earlier was there we all equipped with a mobile companion while they're actually engaging live.
+
+659
+00:54:59,300 --> 00:55:00,700
+Now, sit with that for a second.
+
+660
+00:55:00,700 --> 00:55:02,800
+One of the things that we have been working on.
+
+661
+00:55:02,800 --> 00:55:03,100
+Welcome.
+
+662
+00:55:03,100 --> 00:55:08,000
+It's really understanding like what are the Dynamics of people gathering in person?
+
+663
+00:55:08,000 --> 00:55:12,600
+And from one of these is a small thing, but it's very important.
+
+664
+00:55:12,900 --> 00:55:21,000
+It's never somebody sitting in the Location are typically just hearing a one-way communication, hearing the person on stage with a microphone and a message.
+
+665
+00:55:21,400 --> 00:55:24,500
+And they're Translating that's a perception being received.
+
+666
+00:55:25,100 --> 00:55:27,000
+When you are in remote environment.
+
+667
+00:55:27,500 --> 00:55:28,600
+There's a two-way communication.
+
+668
+00:55:29,100 --> 00:55:35,900
+There's a person on stage but it's also the body of people having a narrative around the information that's being delivered.
+
+669
+00:55:36,500 --> 00:55:49,800
+And every attendee in that experience is actually walking away with the perception of both the speaker voice and also the Collective voice of the people and that's the perception they walk away with when you're sitting in person.
+
+670
+00:55:49,800 --> 00:55:55,000
+And you can't connect and here and engage with the other 500, people that are remote.
+
+671
+00:55:55,500 --> 00:56:00,000
+It misses that rich conversation that you can walk away with.
+
+672
+00:56:00,000 --> 00:56:01,100
+And so hybrid done.
+
+673
+00:56:01,100 --> 00:56:09,900
+Well, enables those confirmations those conversations to flow in a way that you walk away with that perspective regardless of your person of your environment.
+
+674
+00:56:09,900 --> 00:56:13,100
+So, yes, we have real people sitting in seats here in Las Vegas.
+
+675
+00:56:15,300 --> 00:56:16,400
+Do you have another question?
+
+676
+00:56:16,400 --> 00:56:17,200
+Yes, we do.
+
+677
+00:56:17,300 --> 00:56:17,800
+Okay.
+
+678
+00:56:17,800 --> 00:56:19,500
+Another question from Gordon.
+
+679
+00:56:20,000 --> 00:56:24,000
+Is there a recording of this event that is able to be shared post-event?
+
+680
+00:56:24,400 --> 00:56:24,900
+Absolutely.
+
+681
+00:56:24,900 --> 00:56:25,700
+That's a good question.
+
+682
+00:56:25,900 --> 00:56:32,000
+I think that yes, we can recordings and Snippets are gone here guys and I will talk to him about this.
+
+683
+00:56:33,100 --> 00:56:37,200
+Basically open up the hood and Empower you guys to throw hybrid experiences.
+
+684
+00:56:37,200 --> 00:56:40,800
+So we want to be as open as possible sheer documentation.
+
+685
+00:56:40,800 --> 00:56:44,400
+Share video, shared diagrams share even like Hardware.
+
+686
+00:56:45,100 --> 00:56:45,400
+Ends.
+
+687
+00:56:45,700 --> 00:56:47,500
+So you can go and do these events yourself.
+
+688
+00:56:47,700 --> 00:56:53,000
+So, yes, look for posts emails from our team that will follow up with these resources.
+
+689
+00:56:55,800 --> 00:57:00,100
+Awesome, and we have got one last question here from cell.
+
+690
+00:57:00,600 --> 00:57:03,900
+How does the live audience engaged without a laptop?
+
+691
+00:57:04,000 --> 00:57:07,500
+Since a platform requires Google Chrome on a machine for these features?
+
+692
+00:57:09,000 --> 00:57:10,000
+Well, there it is.
+
+693
+00:57:10,100 --> 00:57:10,700
+It's called.
+
+694
+00:57:10,700 --> 00:57:12,000
+Welcome, ha.
+
+695
+00:57:12,100 --> 00:57:13,300
+We are teams working.
+
+696
+00:57:13,300 --> 00:57:18,800
+Relentlessly around the clock to enable you to tune in from any device that you have.
+
+697
+00:57:19,400 --> 00:57:19,600
+Right?
+
+698
+00:57:19,600 --> 00:57:22,900
+So if you're in person and all you have is your phone, that's all you really need.
+
+699
+00:57:23,300 --> 00:57:23,700
+Typically.
+
+700
+00:57:23,700 --> 00:57:25,900
+When you host an experience people are on their phones.
+
+701
+00:57:25,900 --> 00:57:33,500
+Anyway, you might as well use that phone and bring that experience to not just a remote but improve the experience across the board.
+
+702
+00:57:33,500 --> 00:57:35,600
+So, yeah, all you need is really your phone.
+
+703
+00:57:35,900 --> 00:57:38,300
+We're working on, it's working today.
+
+704
+00:57:38,400 --> 00:57:38,700
+We will be reviewing.
+
+705
+00:57:38,900 --> 00:57:45,800
+And that here, shortly that empowers everybody in the audience, regardless of where they locate it to engage in the equal playing field.
+
+706
+00:57:45,800 --> 00:58:00,000
+Meaning that if someone has a question in there saying, Alabama, Her voice is heard just as loud as the person jumping behind this room trying to get a hold of the mic and that's the power of hybrid as power of using technology to connect people.
+
+707
+00:58:01,400 --> 00:58:02,100
+We question.
+
+708
+00:58:03,700 --> 00:58:05,000
+That's awesome, Rob.
+
+709
+00:58:05,400 --> 00:58:09,600
+Well, we're coming to our time here, where we're going to wrap up.
+
+710
+00:58:09,700 --> 00:58:13,200
+Thank you so much, Rob for answering some questions for us.
+
+711
+00:58:13,400 --> 00:58:19,600
+Thank you, Dylan for your expertise, in everything that you have given us under the hood.
+
+712
+00:58:19,900 --> 00:58:25,000
+We're going to have those diagrams and some flushed out PDFs and different things for you.
+
+713
+00:58:25,000 --> 00:58:26,800
+Also, look out for that.
+
+714
+00:58:26,800 --> 00:58:37,000
+And thank you for joining us as we're here, live, Las Vegas, and we're So excited to have done this with you all.
+
+715
+00:58:37,000 --> 00:58:41,400
+Please continue to reach out to us, through Linkedin, email us.
+
+716
+00:58:41,600 --> 00:58:47,900
+And look at our events section on the website, as there's going to be more events coming up, and we'd love to see you, there.
+
+717
+00:58:48,200 --> 00:58:49,400
+Have a wonderful day.
+
+718
+00:58:49,400 --> 00:58:50,400
+We will catch you soon.

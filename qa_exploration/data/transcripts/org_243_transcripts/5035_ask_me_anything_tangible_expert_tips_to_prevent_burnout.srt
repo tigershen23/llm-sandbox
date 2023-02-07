@@ -1,0 +1,3180 @@
+
+1
+00:04:55,300 --> 00:04:59,800
+Hi everyone, welcome to this event AMA style.
+
+2
+00:04:59,800 --> 00:05:08,400
+We are so excited to have you all here and talk about a very relevant topic on preventing burnout, very close near and dear to home.
+
+3
+00:05:08,600 --> 00:05:11,200
+And it's great to see people tuning in.
+
+4
+00:05:11,400 --> 00:05:16,300
+We have folks from Boulder, Chicago, Angelica from Fresno, California.
+
+5
+00:05:16,300 --> 00:05:18,900
+Hello, Joey from Minneapolis.
+
+6
+00:05:19,100 --> 00:05:24,300
+I see charlena from Puerto Rico and La Robin from Portland.
+
+7
+00:05:24,400 --> 00:05:25,200
+Love this.
+
+8
+00:05:25,200 --> 00:05:27,700
+Love that we're all over yet.
+
+9
+00:05:27,700 --> 00:05:29,600
+We're so close together here today.
+
+10
+00:05:29,600 --> 00:05:34,100
+So, just, you know, talking about burnout.
+
+11
+00:05:34,100 --> 00:05:39,500
+I was doing a little bit of research and the American Psychological Association survey.
+
+12
+00:05:39,500 --> 00:05:48,900
+There was one that was taken recently and a massive 79 percent of us workers, reported having a severe sense of work-related stress.
+
+13
+00:05:50,400 --> 00:05:53,500
+30% of those said they were struggling with emotional exhaustion.
+
+14
+00:05:54,400 --> 00:05:58,300
+Will fatigue lack of motivation at work and cognitive weariness.
+
+15
+00:05:58,600 --> 00:06:11,900
+So I am so excited about the panelists that we have today as they are the experts on the front lines, not only managing burn out for themselves, but also for their teammates at a company level, so we're going to hear from them.
+
+16
+00:06:11,900 --> 00:06:14,200
+But before we jump into that, a couple things to note.
+
+17
+00:06:14,200 --> 00:06:17,000
+Housekeeping wise, we have got to help tab.
+
+18
+00:06:17,100 --> 00:06:22,000
+So, if there's any technical issues, you encounter, feel free to chat us there.
+
+19
+00:06:22,100 --> 00:06:24,300
+There's also a volume and a close.
+
+20
+00:06:24,500 --> 00:06:30,600
+Captioning knob underneath the screen so you can flip those on or adjust the volume as you need to.
+
+21
+00:06:31,000 --> 00:06:33,200
+Alright, so we're going to start with a poll.
+
+22
+00:06:33,400 --> 00:06:35,500
+Jessica, my producer in the green room.
+
+23
+00:06:35,600 --> 00:06:37,100
+Could you put that pull up?
+
+24
+00:06:38,000 --> 00:06:39,700
+How burnt out?
+
+25
+00:06:39,900 --> 00:06:40,800
+Are you feeling?
+
+26
+00:06:41,600 --> 00:06:44,600
+And y'all can keep it real on a scale of one to ten.
+
+27
+00:06:44,900 --> 00:06:45,100
+This.
+
+28
+00:06:45,100 --> 00:06:46,700
+This is for you yourself.
+
+29
+00:06:46,700 --> 00:06:48,000
+We're not talking about teams.
+
+30
+00:06:48,000 --> 00:06:49,500
+We're not talking about company level.
+
+31
+00:06:49,600 --> 00:06:50,600
+We're just talking about you.
+
+32
+00:06:51,200 --> 00:06:52,400
+All right, this is real.
+
+33
+00:06:53,300 --> 00:06:55,200
+Wow, we have got some tens.
+
+34
+00:06:55,400 --> 00:06:56,600
+So it's some sevens.
+
+35
+00:06:56,800 --> 00:06:57,400
+Okay?
+
+36
+00:06:57,900 --> 00:06:58,500
+All right.
+
+37
+00:06:58,500 --> 00:07:04,800
+This is very real and I think all of us are feeling and experiencing this at this time.
+
+38
+00:07:05,000 --> 00:07:10,100
+So with that I would love to invite to the stage our panelists today.
+
+39
+00:07:10,600 --> 00:07:20,800
+Vicky VP of people off operations at bonus lie, Brittany head of recruiting Ops and employer brand at Breck's and our co-founder and CEO Roberto.
+
+40
+00:07:21,100 --> 00:07:22,500
+Please join me on stage.
+
+41
+00:07:22,500 --> 00:07:22,900
+Hello.
+
+42
+00:07:23,400 --> 00:07:25,500
+Oh, hey Xena.
+
+43
+00:07:26,200 --> 00:07:27,400
+Hey.
+
+44
+00:07:27,700 --> 00:07:28,000
+Hello.
+
+45
+00:07:28,000 --> 00:07:28,400
+How are you?
+
+46
+00:07:28,400 --> 00:07:29,400
+All doing?
+
+47
+00:07:30,300 --> 00:07:31,300
+Hi everyone.
+
+48
+00:07:32,200 --> 00:07:33,900
+Hey folks, doing good?
+
+49
+00:07:33,900 --> 00:07:34,600
+Ready for this.
+
+50
+00:07:35,200 --> 00:07:36,100
+Good.
+
+51
+00:07:36,100 --> 00:07:36,400
+Good.
+
+52
+00:07:36,400 --> 00:07:37,000
+Good.
+
+53
+00:07:37,200 --> 00:07:37,900
+Yeah.
+
+54
+00:07:37,900 --> 00:07:40,600
+I am so excited to hear from each of you.
+
+55
+00:07:40,800 --> 00:07:46,900
+You know, we actually received up to 40 questions that were submitted in advance.
+
+56
+00:07:47,200 --> 00:07:52,800
+And so there's a lot of folks that are curious and have some questions around this.
+
+57
+00:07:53,000 --> 00:07:53,600
+Topic.
+
+58
+00:07:53,600 --> 00:08:02,500
+We went through all of those questions and identify the top 10 most burning questions, which we have under the Q&A tab right now.
+
+59
+00:08:02,800 --> 00:08:08,600
+So all attendees of this event, feel free to jump into that Q&A and upvote.
+
+60
+00:08:08,600 --> 00:08:11,100
+The question that is most burning to you.
+
+61
+00:08:11,300 --> 00:08:12,400
+In the meantime.
+
+62
+00:08:12,500 --> 00:08:14,200
+What we have done is broken down.
+
+63
+00:08:14,200 --> 00:08:17,400
+The questions under three categories.
+
+64
+00:08:17,700 --> 00:08:22,900
+One is managing burn out for yourself to is managing it for your team.
+
+65
+00:08:23,100 --> 00:08:27,100
+At that level and then three managing it at a company level.
+
+66
+00:08:27,400 --> 00:08:32,600
+And so, I wanted to get really real with each of you all as we tackle.
+
+67
+00:08:32,600 --> 00:08:43,500
+The first category of burnout for yourselves, you know, each of you are leading teams leading companies, and how are you all doing for real?
+
+68
+00:08:43,600 --> 00:08:46,900
+And how are you managing burn out for yourselves?
+
+69
+00:08:50,000 --> 00:08:51,500
+We're going to take it their guys.
+
+70
+00:08:53,700 --> 00:08:57,500
+I love that question Jenna and there's a friend of mine.
+
+71
+00:08:57,500 --> 00:08:57,800
+Actually.
+
+72
+00:08:57,800 --> 00:08:59,300
+He always asks, how are you really?
+
+73
+00:08:59,300 --> 00:08:59,800
+Really?
+
+74
+00:09:00,300 --> 00:09:03,800
+Because I think it's really easy to say I am fine and honestly the last two weeks.
+
+75
+00:09:03,800 --> 00:09:05,200
+I have not been fine.
+
+76
+00:09:05,200 --> 00:09:06,000
+It's been hard.
+
+77
+00:09:06,000 --> 00:09:15,100
+It's been really hard to kind of handle what's going on in the world and what was going on at home and then also still perform in the way that I want to put my job.
+
+78
+00:09:15,200 --> 00:09:18,500
+So definitely feeling it.
+
+79
+00:09:19,800 --> 00:09:20,700
+Belong wise.
+
+80
+00:09:21,000 --> 00:09:22,200
+I think there's a lot of different things.
+
+81
+00:09:22,200 --> 00:09:22,700
+I am doing.
+
+82
+00:09:22,800 --> 00:09:31,600
+Personally, therapies one of them and just kind of like learning and educating myself on kind of the things to do to take care of ourselves.
+
+83
+00:09:31,600 --> 00:09:49,600
+I think, we sometimes know what those are in the back of our minds, but to actually be intentional about taking that time to do those things and seeing that the impact even a short period of time with it and how that helps, but then I will fall off the wagon, so to speak and not do it in the next week or so.
+
+84
+00:09:49,600 --> 00:09:51,500
+And I will be back in the same spot.
+
+85
+00:09:51,600 --> 00:09:58,200
+But yeah, constantly try to remind myself to do those things like working out reading watching shows.
+
+86
+00:09:58,200 --> 00:09:59,400
+I love that kind of thing.
+
+87
+00:10:01,800 --> 00:10:04,600
+Yeah, I think Vicki makes a really good point event.
+
+88
+00:10:04,600 --> 00:10:12,200
+However, was doing a few months ago has completely changed from how I am doing now, which has probably completely changed from last week.
+
+89
+00:10:12,500 --> 00:10:16,500
+So I think it's definitely not working at a start-up.
+
+90
+00:10:17,300 --> 00:10:19,600
+There's always so much to do there.
+
+91
+00:10:19,800 --> 00:10:23,000
+Always, especially when you're a manager, people manager.
+
+92
+00:10:23,000 --> 00:10:30,600
+You want to, you have so many things to think about in my developing, my team enough and I caught up on my projects at my am I giving it my best?
+
+93
+00:10:30,600 --> 00:10:38,300
+And I think sometimes that imposter syndrome starts to creep in which starts to lead to burnout because you feel like your list keeps getting longer and longer.
+
+94
+00:10:38,600 --> 00:10:49,600
+So I definitely have to remind myself to constantly check in with myself, and I am really big on reflecting on previous month's and kind of saying what went well what didn't what should I be doing more?
+
+95
+00:10:49,700 --> 00:10:55,300
+Of and sometimes it's I should be doing a lot more of self-care and I should be doing a lot more of what we call it.
+
+96
+00:10:55,300 --> 00:11:06,000
+Where ax is declaring meeting bankruptcy, which is reorganizing my calendar and getting rid of meetings that are not serving purpose and scheduling things like a walk with my dog.
+
+97
+00:11:06,300 --> 00:11:09,300
+I literally check weather.com every Monday.
+
+98
+00:11:09,300 --> 00:11:18,600
+And I look at the week and I figure out when I can get outside with my dog for a half hour just to decompress and you know, take a little reset between meetings.
+
+99
+00:11:21,300 --> 00:11:22,100
+So good.
+
+100
+00:11:22,200 --> 00:11:22,800
+That's good.
+
+101
+00:11:23,100 --> 00:11:23,900
+That's good.
+
+102
+00:11:24,200 --> 00:11:24,500
+Brittany.
+
+103
+00:11:24,500 --> 00:11:26,900
+I am just going to follow up on what you said.
+
+104
+00:11:26,900 --> 00:11:29,300
+They're around getting outside.
+
+105
+00:11:29,300 --> 00:11:34,800
+Well, first of all, I think you know, when Gina was putting together this panel and still response.
+
+106
+00:11:34,800 --> 00:11:36,200
+We got was fantastic.
+
+107
+00:11:36,200 --> 00:11:42,900
+So I am happy that everyone is here to learn and sort of learn from each other and share best practices and tips.
+
+108
+00:11:44,000 --> 00:11:48,900
+But really, you know, us as M A lot of times we feel burnt out, and we're trying to help burnt.
+
+109
+00:11:49,100 --> 00:11:49,700
+Employees.
+
+110
+00:11:50,500 --> 00:11:55,900
+All right, if we're honest and I think asking the question with the leader.
+
+111
+00:11:55,900 --> 00:12:01,000
+First, I think is really powerful question because we get to set the pace.
+
+112
+00:12:01,000 --> 00:12:05,300
+We get to set the president's, we get this like the example with our team's, right?
+
+113
+00:12:05,300 --> 00:12:16,400
+And so once a couple of small things that I do, I try to get outside every day, and I have been doing walking talks for 10 ones, and I encourage folks that I am speaking with it.
+
+114
+00:12:16,400 --> 00:12:18,200
+We don't really have to look at the screen.
+
+115
+00:12:18,600 --> 00:12:18,900
+Call me.
+
+116
+00:12:19,000 --> 00:12:27,900
+On my cell phone, and we're going to go for a walk and what I found doing this over the last couple months has been a game-changer for me because one you get good vitamin D.
+
+117
+00:12:28,200 --> 00:12:38,700
+But to I think it also the psyche changes in how you communicate with that person as well wherever from one Zoom meeting to another Zoo meeting.
+
+118
+00:12:39,300 --> 00:12:42,400
+Just pick up the phone and putting some are pods and going for a walk.
+
+119
+00:12:42,800 --> 00:12:48,900
+I don't know it just it makes a big difference and so overall though Gino when you ask that question, how are we?
+
+120
+00:12:49,200 --> 00:12:57,200
+Burnout, I went back to thinking about my wife because I feel like it's like this family affair like to beat burnout.
+
+121
+00:12:57,200 --> 00:12:59,000
+It's like it's not just work.
+
+122
+00:12:59,100 --> 00:13:07,000
+It's like this holistic perspective that we have to take, and so we put boundaries up around it.
+
+123
+00:13:07,200 --> 00:13:13,000
+And now as a CEO that your phone is almost all like 24/7.
+
+124
+00:13:13,000 --> 00:13:18,900
+And so we had to, as a family, put the boundaries in place and say, you know what this time is for.
+
+125
+00:13:19,000 --> 00:13:21,300
+Family, so, I block out the time on my calendar.
+
+126
+00:13:21,700 --> 00:13:24,800
+That's like the golden hours, and I say, do not book.
+
+127
+00:13:24,800 --> 00:13:29,000
+And I, the block is actually in yellow and it is a reminder for me.
+
+128
+00:13:29,000 --> 00:13:31,000
+Like these are the golden hours of the day.
+
+129
+00:13:31,000 --> 00:13:41,600
+When I get to spend with my two year old and my wife and is when we do dinner and when I, whenever I have to miss those idea tends to not be a good signal, right?
+
+130
+00:13:41,600 --> 00:13:42,900
+It tends to be too.
+
+131
+00:13:43,000 --> 00:13:44,000
+You're pushing things out.
+
+132
+00:13:44,000 --> 00:13:47,000
+They really, really matter that you said really matter.
+
+133
+00:13:47,900 --> 00:13:55,200
+And, that's That typically triggers me, go back and re-evaluate my time and my calendar and all these different things.
+
+134
+00:13:55,200 --> 00:13:58,000
+And so anyway, yeah burn.
+
+135
+00:13:58,000 --> 00:14:01,100
+I was real, I am here for to talk about it.
+
+136
+00:14:02,200 --> 00:14:02,700
+That's great.
+
+137
+00:14:02,700 --> 00:14:05,000
+Thank you for being vulnerable and sharing.
+
+138
+00:14:05,300 --> 00:14:06,000
+From each of you.
+
+139
+00:14:06,000 --> 00:14:07,600
+It's very insightful to hear.
+
+140
+00:14:08,400 --> 00:14:12,700
+What are the signs and triggers a burnout?
+
+141
+00:14:13,100 --> 00:14:18,500
+Are there signs that we could be looking at way before each of us are even feeling it?
+
+142
+00:14:21,600 --> 00:14:24,400
+I will kick off here if that's okay.
+
+143
+00:14:25,300 --> 00:14:28,100
+I, you know, getting ready for this conversation.
+
+144
+00:14:28,100 --> 00:14:35,000
+I just went online and just, you know what, how do people Define burnout like let us start with that.
+
+145
+00:14:35,000 --> 00:14:37,000
+Like what is the definition of burnout?
+
+146
+00:14:37,300 --> 00:14:39,400
+And I think there's obvious.
+
+147
+00:14:39,400 --> 00:14:40,200
+There're two definitions.
+
+148
+00:14:40,200 --> 00:14:40,700
+Actually.
+
+149
+00:14:41,000 --> 00:14:49,200
+There's one that as people leaders there's definition in the space of HR and Leadership and foot with the posture of employees.
+
+150
+00:14:49,400 --> 00:14:53,300
+And then there's the Out from Webster's perspective, right?
+
+151
+00:14:53,300 --> 00:15:03,700
+And so, on our side burnout is a state of emotional, physical and mental exhaustion, caused by excessive and prolonged stress.
+
+152
+00:15:06,000 --> 00:15:07,700
+That's where real we can all head.
+
+153
+00:15:07,700 --> 00:15:08,200
+Not to that.
+
+154
+00:15:08,200 --> 00:15:08,700
+Is that yep?
+
+155
+00:15:08,700 --> 00:15:08,900
+Yep.
+
+156
+00:15:08,900 --> 00:15:09,100
+Yep.
+
+157
+00:15:09,100 --> 00:15:09,300
+Yep.
+
+158
+00:15:09,300 --> 00:15:09,500
+Yep.
+
+159
+00:15:09,500 --> 00:15:15,100
+Yep, and then my mind went to okay with the what does Webster say?
+
+160
+00:15:15,200 --> 00:15:29,600
+And it's really interesting to correlation here is basically the reduction of fuel is being on empty, is a motor that has nothing else to give is your cup is fully empty and you don't have the fuel to operate.
+
+161
+00:15:29,900 --> 00:15:38,400
+It's another term is, you know, a mechanical device that failed it, overheated.
+
+162
+00:15:38,900 --> 00:15:42,200
+It's done the poop and it's like you.
+
+163
+00:15:42,200 --> 00:15:45,200
+Look at those two terms that you have overlap them and a lot of them.
+
+164
+00:15:45,200 --> 00:15:49,600
+I mean, are super relevant to how people describe the feeling of burnout.
+
+165
+00:15:49,800 --> 00:16:08,500
+And I think that when you're asking about the signs and triggers, you know, I went on to even do research in this area as well, because I want to be equipped for, and we're here, talking about it and I will just read out a couple of the things that people more professional than I am at this space at Keep their lives to this and helping people manage these things.
+
+166
+00:16:10,100 --> 00:16:10,800
+What they say are.
+
+167
+00:16:10,800 --> 00:16:13,800
+Some of the signs that lead to burnout.
+
+168
+00:16:15,500 --> 00:16:17,500
+One is every day feels like a bad day.
+
+169
+00:16:17,500 --> 00:16:23,600
+When the day just feels like a bad day and it happens more often than you.
+
+170
+00:16:23,600 --> 00:16:29,600
+Like when you start caring about things less things at work, things at home.
+
+171
+00:16:29,600 --> 00:16:32,800
+You think about is a waste of energy, doing X, Y, or Z.
+
+172
+00:16:34,300 --> 00:16:36,000
+When you feel exhausted all the time.
+
+173
+00:16:36,000 --> 00:16:46,600
+The time even if you had a good night's sleep and you still exhausted and the majority of your time is spent on tasks that feel overwhelming.
+
+174
+00:16:48,600 --> 00:16:53,300
+These are like some of those top signs that folks, relate to burnout.
+
+175
+00:16:53,300 --> 00:16:58,200
+And, so I think that pointing back to the question you were asking about signs and such.
+
+176
+00:16:58,200 --> 00:17:00,500
+I think we can all relate to those things.
+
+177
+00:17:00,500 --> 00:17:02,800
+Quite significantly in our, in our rows.
+
+178
+00:17:02,800 --> 00:17:05,200
+And so anyways, I felt like it was good to Anchor.
+
+179
+00:17:05,200 --> 00:17:08,500
+The conversation is Going with like what's the definition of it?
+
+180
+00:17:08,500 --> 00:17:10,500
+Because I think it helps at framing there.
+
+181
+00:17:14,200 --> 00:17:23,099
+Yeah, I think it really if you think about the signs and triggers it varies so much person to person and I think, burnout and stress.
+
+182
+00:17:23,099 --> 00:17:25,500
+It's so unique to each individual.
+
+183
+00:17:25,500 --> 00:17:27,500
+That as a manager.
+
+184
+00:17:29,000 --> 00:17:31,800
+I would say first at with your own self.
+
+185
+00:17:31,800 --> 00:17:34,100
+You need to really know yourself and check in with yourself.
+
+186
+00:17:34,100 --> 00:17:41,000
+But as a manager, you need to really know your people and pay attention to them and observe how your team works.
+
+187
+00:17:41,000 --> 00:17:45,000
+And I think what I have noticed with my Small team is.
+
+188
+00:17:45,400 --> 00:17:58,600
+I understand what their normal behaviors are, and I understand when things are starting to fall off a little bit and I had something happen on my team recently, where someone who never is probably the most detail-oriented person.
+
+189
+00:17:59,400 --> 00:18:07,700
+So strong with ownership, just was starting to slip on some details and I wondered if she happy and I asked her flat out.
+
+190
+00:18:07,700 --> 00:18:08,400
+Are you happy here?
+
+191
+00:18:08,400 --> 00:18:12,800
+And I just wanted to check in and ask how things were going and just kind of hearing her out.
+
+192
+00:18:12,800 --> 00:18:22,200
+I realized she's Has not taken a vacation day and four months and it was my fault for not recognizing that she has not really taken any time off.
+
+193
+00:18:22,200 --> 00:18:25,500
+And we have been doing so much work lately.
+
+194
+00:18:25,500 --> 00:18:27,800
+That I mean, we have were balancing a lot right now.
+
+195
+00:18:27,800 --> 00:18:30,600
+So I pushed her to in the next month.
+
+196
+00:18:30,600 --> 00:18:47,800
+I want to see you taking time off on the calendar, and she took five days off, and she spread it out over two weeks, but took five days off, went to Coachella had a great time, came back fully recharged, and I mean, It's like seeing a completely different person.
+
+197
+00:18:47,800 --> 00:18:54,200
+So I think by knowing that and being able to recognize that something was off and by asking them comfortable questions.
+
+198
+00:18:54,200 --> 00:18:55,000
+Are you happy here?
+
+199
+00:18:55,000 --> 00:18:56,200
+Because no manager wants to hear.
+
+200
+00:18:56,200 --> 00:18:56,500
+No.
+
+201
+00:18:56,500 --> 00:18:57,400
+I am not happy.
+
+202
+00:18:57,800 --> 00:18:59,800
+It led us to this point of realizing.
+
+203
+00:19:00,000 --> 00:19:00,300
+Okay.
+
+204
+00:19:00,300 --> 00:19:01,700
+You need to take some time off.
+
+205
+00:19:01,900 --> 00:19:07,000
+Let me you know, let me pick up the slack and make sure you're taking care of yourself.
+
+206
+00:19:09,800 --> 00:19:14,000
+I think the only thing I would add to that is just doubling down on that recognizing signals.
+
+207
+00:19:14,000 --> 00:19:18,100
+I think for yourself and in your team and straight out, also asking.
+
+208
+00:19:18,100 --> 00:19:23,900
+And I think it's a good exercise for yourself and your team to write down, like, what are, what are the responses?
+
+209
+00:19:23,900 --> 00:19:25,000
+You have to stress?
+
+210
+00:19:25,500 --> 00:19:26,700
+What does that look like?
+
+211
+00:19:27,000 --> 00:19:30,900
+Because I don't think we sit down and really think about it until it's almost too late.
+
+212
+00:19:30,900 --> 00:19:43,400
+When in fact, if you had kind of paid attention to it earlier, you could see those little things kind of happening over because it is repeated that kind of Some sort of stress, that kind of goes over and over again to can cause burnout.
+
+213
+00:19:43,400 --> 00:19:48,500
+So definitely, definitely ask and don't be afraid to ask the question.
+
+214
+00:19:50,000 --> 00:19:53,900
+I think there's actually a very tangible walk away with Vicki.
+
+215
+00:19:53,900 --> 00:20:00,400
+What you just said, as you're managing your, your remote teams, you could actually ask them and document.
+
+216
+00:20:00,400 --> 00:20:03,200
+These things about your team members and even for yourself.
+
+217
+00:20:03,400 --> 00:20:06,300
+It's, I noticed there were some journaling comments in the chat.
+
+218
+00:20:06,400 --> 00:20:08,500
+I think knowing yourself.
+
+219
+00:20:08,600 --> 00:20:08,900
+Okay.
+
+220
+00:20:08,900 --> 00:20:10,000
+These are the triggers.
+
+221
+00:20:10,000 --> 00:20:12,200
+These are the things that make me stressed out.
+
+222
+00:20:12,200 --> 00:20:14,700
+It actually does the act of writing it down.
+
+223
+00:20:15,000 --> 00:20:16,000
+Typing it out.
+
+224
+00:20:16,200 --> 00:20:17,700
+Can, it can really help.
+
+225
+00:20:19,500 --> 00:20:20,600
+Great inputs.
+
+226
+00:20:22,400 --> 00:20:25,100
+Now, there was a question that came up.
+
+227
+00:20:25,500 --> 00:20:31,700
+How do we differentiate burnout from stress, or a mental health issue?
+
+228
+00:20:33,900 --> 00:20:35,000
+Any takers on that one.
+
+229
+00:20:36,000 --> 00:20:38,500
+I will take a stab at this one because I think this is something.
+
+230
+00:20:38,500 --> 00:20:45,900
+I have thought a lot about when I saw this question come in because I think it's tough because it's not like their three different line items.
+
+231
+00:20:46,200 --> 00:20:49,800
+There's a lot of, I mean, there's a lot of similarities.
+
+232
+00:20:49,800 --> 00:20:54,800
+They think stress is something as I said before, all individuals deal with, it's really unique to themselves.
+
+233
+00:20:55,900 --> 00:20:58,500
+The triggers are different from one person to another.
+
+234
+00:20:58,500 --> 00:21:03,100
+And I think it's a lot about, you know, overall perception of pressure.
+
+235
+00:21:04,300 --> 00:21:09,400
+But it's connected to burnout because it really depends on how you manage your stress and how you let it affect you.
+
+236
+00:21:09,400 --> 00:21:14,800
+How you, you know, how much you are handling it, and how you're handling it.
+
+237
+00:21:14,900 --> 00:21:20,500
+And then I think, at the end of the day, burnout can eventually lead to mental health.
+
+238
+00:21:20,500 --> 00:21:43,800
+I think this is where, if you're not managing that stress, if you're not setting boundaries similar to what, you know, I think just talking about calendar blocks before Like if you are not setting those boundaries for family time for gym time, you are taking on too much and it gets to the point where you really need to like take a step back and think about how can I Implement?
+
+239
+00:21:43,800 --> 00:21:48,700
+Some really strong self care practices and figure out what works for you.
+
+240
+00:21:48,800 --> 00:21:52,900
+I mean, I am someone who sometimes I will let things build up, build up.
+
+241
+00:21:52,900 --> 00:21:57,500
+And then I am like, okay, you know, I need to come working super late one night.
+
+242
+00:21:57,700 --> 00:21:59,500
+I need to sleep in a little bit longer tomorrow.
+
+243
+00:21:59,500 --> 00:22:02,500
+I need to make carve out time for the gym that day.
+
+244
+00:22:03,500 --> 00:22:13,600
+But it's, you know, strut if what leads to poor mental health is when you're really not able to recognize those limits and take a step back, and I think we have all been there before.
+
+245
+00:22:13,600 --> 00:22:21,800
+And I have personally been there before where I have needed to take that step back and whether it's take a mental health day or, you know, share with my team.
+
+246
+00:22:21,800 --> 00:22:25,200
+I need to reprioritize this because I just don't have time for it right now.
+
+247
+00:22:25,200 --> 00:22:28,100
+And so, I think it's all really connected.
+
+248
+00:22:30,300 --> 00:22:34,600
+Yeah, I am not sure you could tease it apart and then there're differences in mental health to write.
+
+249
+00:22:34,600 --> 00:22:36,000
+Is this a temporary thing?
+
+250
+00:22:36,000 --> 00:22:38,900
+Is, it's a chronic issue is a developing into a chronic issue.
+
+251
+00:22:40,200 --> 00:22:44,500
+So definitely a pieces of the same puzzle.
+
+252
+00:22:44,500 --> 00:22:46,900
+I think a lot of stress can lead to burnout.
+
+253
+00:22:46,900 --> 00:22:48,700
+I think mental health is that whole Spectrum?
+
+254
+00:22:48,700 --> 00:22:51,400
+Really of like, you are you taking care of it?
+
+255
+00:22:51,600 --> 00:22:55,900
+Is it to the point where it's chronic and maybe someone needs medication.
+
+256
+00:22:55,900 --> 00:22:57,100
+And how do we do stigmatize?
+
+257
+00:22:57,100 --> 00:22:57,800
+Some of that?
+
+258
+00:22:59,200 --> 00:23:03,300
+I love what you said about like he calling out when you need that time.
+
+259
+00:23:03,300 --> 00:23:04,100
+I have had people telling me.
+
+260
+00:23:04,100 --> 00:23:15,800
+Hey, can we move this meeting with my brains not here today, or I have had too many and I just can't and I won't be at my full capacity and doing it more like yeah, let us do that and making sure we're having kind of opening the space to have those kinds of conversations.
+
+261
+00:23:15,800 --> 00:23:18,100
+Say today is not a good headspace day.
+
+262
+00:23:19,300 --> 00:23:19,900
+Hmm.
+
+263
+00:23:20,100 --> 00:23:32,000
+I think the key right there to is how you as a manager, you're opening that up, like you're saying, it's okay to admit that, you know, giving the permission you also addressed the boundaries.
+
+264
+00:23:32,500 --> 00:23:34,300
+That's a question that came in.
+
+265
+00:23:34,800 --> 00:23:38,300
+How do I manage work versus personal boundaries?
+
+266
+00:23:38,300 --> 00:23:42,600
+Everything collides together in this remote, remote working world.
+
+267
+00:23:42,800 --> 00:23:46,100
+So how are you all managing that for yourselves?
+
+268
+00:23:46,300 --> 00:23:47,800
+And then how do you do it for your teams?
+
+269
+00:23:47,800 --> 00:23:48,900
+Will go right into that.
+
+270
+00:23:49,200 --> 00:23:49,700
+Teams.
+
+271
+00:23:52,300 --> 00:23:56,100
+Yeah, I will kick off a little bit on my side again.
+
+272
+00:23:56,100 --> 00:23:58,600
+Like, when I started I said I have this chunk of time.
+
+273
+00:23:58,800 --> 00:24:01,700
+Every single day for family, five days a week.
+
+274
+00:24:01,700 --> 00:24:04,600
+It doesn't move on Wednesdays.
+
+275
+00:24:04,600 --> 00:24:19,100
+I try to have no meetings, Wednesdays, obviously, sometimes that doesn't work and what we're having some teams experiment is at the team level is they get to select a no meeting day like within their teams, right?
+
+276
+00:24:19,100 --> 00:24:21,900
+So like in product, it might be Thursday, might be won.
+
+277
+00:24:22,100 --> 00:24:27,500
+For engineering and it's less about like being on 24/7 back-to-back.
+
+278
+00:24:27,500 --> 00:24:29,800
+One meeting to meetings to be meetings for meetings.
+
+279
+00:24:31,500 --> 00:24:37,300
+And then for me again going back to the 10 one's having those be walking talks have been phenomenal.
+
+280
+00:24:37,800 --> 00:24:39,100
+For me personally.
+
+281
+00:24:39,700 --> 00:24:44,300
+Now, I think going back to Brittany what you mentioned around?
+
+282
+00:24:45,200 --> 00:24:47,600
+The clear calendar bankruptcy.
+
+283
+00:24:47,700 --> 00:24:48,400
+I love that.
+
+284
+00:24:48,400 --> 00:24:51,900
+In fact, when we kicked off this court, I remember telling my staff.
+
+285
+00:24:52,000 --> 00:24:54,200
+Is a reevaluate.
+
+286
+00:24:54,500 --> 00:25:04,900
+All your meetings is quarter, like take a pause and kind of look at the calendar because the calendar ends up defining, everything we do whether we like it or not like that.
+
+287
+00:25:04,900 --> 00:25:05,700
+Invite is send.
+
+288
+00:25:05,700 --> 00:25:08,300
+There's people waiting for you on the other side of that Zoom link.
+
+289
+00:25:08,700 --> 00:25:13,700
+And if you're not taking inventory of whether this needs to be an actual call, can this be a phone call?
+
+290
+00:25:13,800 --> 00:25:16,700
+Can this just be an email or slack message?
+
+291
+00:25:16,800 --> 00:25:17,400
+Then?
+
+292
+00:25:17,400 --> 00:25:26,300
+Basically your lack of intentionality of checking in and In your time actually is going to pull you into a direction that you don't want to be in.
+
+293
+00:25:26,900 --> 00:25:32,700
+And so one things, I encourage my staff was to just re-evaluate that and I think what it does to.
+
+294
+00:25:33,400 --> 00:25:41,200
+It actually helps you not just create space for you and your team but it also helps you prioritize meetings actually matter.
+
+295
+00:25:41,700 --> 00:25:50,900
+If you take inventory of all your meetings, if you don't take inventory of your meetings, whether that's weekly monthly quarterly, then there's price and recurring meetings on there that don't need to be there.
+
+296
+00:25:52,000 --> 00:25:57,500
+And, so I go back to the calendar as this how I function every single day.
+
+297
+00:25:57,700 --> 00:26:06,200
+So the only way that I can operate is by making sure my calendar, reflects what I want, not necessarily what other people want as well.
+
+298
+00:26:10,100 --> 00:26:10,600
+That's great.
+
+299
+00:26:10,600 --> 00:26:11,100
+Roberto.
+
+300
+00:26:11,800 --> 00:26:13,100
+Any other thoughts?
+
+301
+00:26:13,700 --> 00:26:18,900
+Brittany make me, I was going to say, Roberto.
+
+302
+00:26:18,900 --> 00:26:19,900
+I feel like our calendars.
+
+303
+00:26:19,900 --> 00:26:26,200
+Probably look identical, because I do the same thing with icalendar blocks for family, time at night and blocks.
+
+304
+00:26:26,200 --> 00:26:26,900
+In the morning.
+
+305
+00:26:27,300 --> 00:26:31,000
+I think that overall, if anyone's booking over them, it's myself.
+
+306
+00:26:31,000 --> 00:26:37,900
+So I think having a visible calendar, we have transparent, calendars, attracts, people aren't going to go over those blocks.
+
+307
+00:26:37,900 --> 00:26:40,300
+When they see, you're taking Time for yourself.
+
+308
+00:26:41,200 --> 00:26:53,000
+I think the one thing that I would probably add is just in terms of, like, kind of the personal burnout when I have meetings back-to-back all day long, by the time I am signing off at night.
+
+309
+00:26:53,000 --> 00:26:56,100
+The last thing I want to do is talk to my husband or my family.
+
+310
+00:26:56,400 --> 00:27:05,900
+I am like, I have been talking all day long and it affects, you know, it if it's like, I want to end the day and spend that time with, you know, catching up on how your day was.
+
+311
+00:27:06,200 --> 00:27:13,300
+But sometimes when I realize I have so many at meetings, a it doesn't lead to a productive end of the day meeting.
+
+312
+00:27:13,300 --> 00:27:16,200
+So those last two meetings are really getting about 50% of me.
+
+313
+00:27:16,600 --> 00:27:24,900
+And then by the time I am signing off, it's really just not, I am not getting that personal time because I am so overwhelmed and thinking about, okay.
+
+314
+00:27:24,900 --> 00:27:25,800
+I had 10 meetings.
+
+315
+00:27:26,200 --> 00:27:28,000
+What do I need to action for each of those meetings?
+
+316
+00:27:28,000 --> 00:27:29,600
+And then I am probably working late into the night.
+
+317
+00:27:29,600 --> 00:27:38,600
+So I really try to manage my calendar and reorganize it as much as possible, which I would normally tell, you know, any new managers on my team.
+
+318
+00:27:38,600 --> 00:27:41,800
+I am like, Be consistent with your meetings, but you have to wear it.
+
+319
+00:27:41,800 --> 00:27:44,800
+We're working in such a different world now, so you have to reorganize things.
+
+320
+00:27:47,600 --> 00:27:57,600
+Solid morning, ruthless need to prioritize, which we don't always do when I know I am people offices, especially hard because we're like, the empathy is so high and really all we want to get this done for people.
+
+321
+00:27:57,600 --> 00:28:00,800
+But you gotta sit down and say, no, this is where that line is.
+
+322
+00:28:00,800 --> 00:28:03,400
+Because if I am not gonna get my best, I won't be able to give you what you need.
+
+323
+00:28:03,400 --> 00:28:03,900
+Either.
+
+324
+00:28:04,800 --> 00:28:05,200
+The other thing.
+
+325
+00:28:05,200 --> 00:28:06,100
+I did want to call it.
+
+326
+00:28:06,100 --> 00:28:13,100
+Someone mentions the chat to is, if there isn't, you know, some people don't feel empowered to be able to have those conversations with their managers and that's true.
+
+327
+00:28:13,100 --> 00:28:22,500
+And I wish there was a really good solution for that if it doesn't come from the top down, And we as managers and leaders aren't displaying that, then it won't work.
+
+328
+00:28:23,200 --> 00:28:27,100
+And I mean it won't so that it won't work, but it won't be as effective.
+
+329
+00:28:27,100 --> 00:28:27,300
+Right?
+
+330
+00:28:27,300 --> 00:28:30,100
+I think as an individual, you can still try to do what you can.
+
+331
+00:28:30,100 --> 00:28:32,800
+But it definitely helps me have a support system and your team.
+
+332
+00:28:35,600 --> 00:28:36,200
+It's powerful.
+
+333
+00:28:36,200 --> 00:28:38,900
+I think I am seeing a lot of people resonating.
+
+334
+00:28:38,900 --> 00:28:40,000
+This is so real.
+
+335
+00:28:40,500 --> 00:28:46,100
+I have three children and you know II totally aligned to what you said, Brittany, right?
+
+336
+00:28:46,100 --> 00:28:48,100
+The other day after your, on all these calls.
+
+337
+00:28:48,300 --> 00:28:55,100
+It's like, I don't feel like talking, you know, so being able to prioritize scheduling.
+
+338
+00:28:55,100 --> 00:29:00,300
+I mean, how often do each of you manage your prioritization of your calendars?
+
+339
+00:29:02,200 --> 00:29:04,200
+Day by day week by week.
+
+340
+00:29:05,500 --> 00:29:11,600
+It's unfortunately, I, so I try to do Sunday night check in and look at my week ahead.
+
+341
+00:29:12,500 --> 00:29:13,700
+That's when I typically check for.
+
+342
+00:29:13,800 --> 00:29:17,000
+And then every night, I check with the next day.
+
+343
+00:29:17,000 --> 00:29:20,500
+He's looking like, so then I can move things around if I need to.
+
+344
+00:29:22,200 --> 00:29:26,300
+But sometimes like today, I just move the meeting, just because I needed more space.
+
+345
+00:29:26,300 --> 00:29:28,000
+And I said, I see another slot on your calendar.
+
+346
+00:29:28,000 --> 00:29:28,300
+This time.
+
+347
+00:29:28,300 --> 00:29:29,000
+Does that work?
+
+348
+00:29:29,100 --> 00:29:29,600
+Okay, cool.
+
+349
+00:29:29,900 --> 00:29:31,900
+Well, I'ma go take a breather right now, or I am gonna go.
+
+350
+00:29:33,600 --> 00:29:37,700
+Have lunch with my kid as downstairs because I need that for me.
+
+351
+00:29:37,700 --> 00:29:39,500
+I do know, one thing as a new parent to.
+
+352
+00:29:39,500 --> 00:29:41,300
+I have one little girl.
+
+353
+00:29:41,300 --> 00:29:50,900
+She's two and a half going on 22 and I talk about this all the time like parenting and also being in a start-up is hard.
+
+354
+00:29:51,200 --> 00:30:01,900
+But also for me, what it does is it forces me to unplug if you really are serious about that, if you say family time is family time, that time becomes rest.
+
+355
+00:30:02,000 --> 00:30:06,500
+But for me personally and it injects a different amount of energy, right?
+
+356
+00:30:06,500 --> 00:30:18,900
+Having a young kid that you can like nurture and play with and it's just a different world where I am going from like having an investor meeting to go in and clean blocks with your Barbies or whatever, whatever.
+
+357
+00:30:18,900 --> 00:30:19,800
+She's into that day.
+
+358
+00:30:19,800 --> 00:30:21,200
+PAW Patrol happens to be the thing.
+
+359
+00:30:21,200 --> 00:30:22,000
+She's into now.
+
+360
+00:30:22,800 --> 00:30:25,100
+So it's like this nice mix of things.
+
+361
+00:30:25,100 --> 00:30:27,500
+And, so I leaned into that really have the weight.
+
+362
+00:30:27,700 --> 00:30:37,700
+I lean into those moments and say, you know what, like yes, I have 30 I am gonna go grab that, and I am gonna go walk with the dog, or take a phone call instead.
+
+363
+00:30:37,700 --> 00:30:42,000
+And so, I do Sunday night for the week and then daily at night for the next day.
+
+364
+00:30:42,000 --> 00:30:43,400
+That's how I look at the calendars.
+
+365
+00:30:45,300 --> 00:30:46,100
+That's great.
+
+366
+00:30:47,900 --> 00:30:49,900
+Well, we got some questions that are going up voted.
+
+367
+00:30:49,900 --> 00:30:51,000
+So I am going to jump into this.
+
+368
+00:30:51,000 --> 00:30:55,000
+I know we were in the category of management of burnout with your teams.
+
+369
+00:30:55,300 --> 00:30:58,500
+So, a couple questions related to that.
+
+370
+00:30:58,800 --> 00:31:03,700
+What are the burnout signs and triggers with team members that I should be aware of?
+
+371
+00:31:06,300 --> 00:31:08,900
+And I think we might have addressed some of this earlier.
+
+372
+00:31:08,900 --> 00:31:09,500
+Britney.
+
+373
+00:31:09,900 --> 00:31:12,000
+But is there, is there anything else you would?
+
+374
+00:31:12,100 --> 00:31:13,500
+You would add to that?
+
+375
+00:31:15,000 --> 00:31:21,600
+Yeah, I mean, I think I try to be really observant and remind myself and I say this to my team as well.
+
+376
+00:31:21,600 --> 00:31:24,700
+I am managing managers for the first time in my career.
+
+377
+00:31:24,700 --> 00:31:31,900
+So I am realizing that I am kind of playing back what I have learned in my experience and what I know of management a lot.
+
+378
+00:31:33,000 --> 00:31:46,100
+And I think some of just the obvious trigger signs are, you know, as someone eating lunch like we're very, were very aware of time zones, it breaks because we're remote company, but if someone eating lunch at 4:00 Is someone not taking PTO?
+
+379
+00:31:46,100 --> 00:31:49,600
+Time is someone sending emails after hours as someone have?
+
+380
+00:31:49,900 --> 00:31:51,700
+No again, we have transparent calendars.
+
+381
+00:31:51,700 --> 00:31:54,100
+So am I seeing someone's on back-to-back meetings?
+
+382
+00:31:54,500 --> 00:31:58,300
+And just kind of reminding yourself like we're not superhuman.
+
+383
+00:31:58,300 --> 00:31:59,900
+We cannot do this.
+
+384
+00:31:59,900 --> 00:32:08,000
+And I think, just by recognizing it with the team and letting them know, like, I will also say, like, I have to reschedule my calendar.
+
+385
+00:32:08,000 --> 00:32:08,800
+It's just too.
+
+386
+00:32:09,100 --> 00:32:10,600
+I have too much going on this week.
+
+387
+00:32:11,000 --> 00:32:13,000
+It gives them kind of what Vicki was saying.
+
+388
+00:32:13,000 --> 00:32:14,300
+It lets them know it's okay.
+
+389
+00:32:14,500 --> 00:32:21,400
+Okay, so I think just really being observant of what's going on with your, your team and giving them an out.
+
+390
+00:32:21,400 --> 00:32:22,100
+Or sometimes.
+
+391
+00:32:22,100 --> 00:32:23,200
+I will just reschedule something.
+
+392
+00:32:23,200 --> 00:32:24,500
+I will say hey, sorry, calendars.
+
+393
+00:32:24,500 --> 00:32:25,300
+Crazy today.
+
+394
+00:32:25,800 --> 00:32:27,500
+I have nothing urgent for a one-on-one.
+
+395
+00:32:27,500 --> 00:32:29,200
+Let us move this to tomorrow if you want.
+
+396
+00:32:29,300 --> 00:32:30,200
+So, giving them that out.
+
+397
+00:32:30,200 --> 00:32:33,300
+I think really helps them feel a little relieved.
+
+398
+00:32:36,400 --> 00:32:37,100
+That's good.
+
+399
+00:32:37,600 --> 00:32:38,600
+That's really good.
+
+400
+00:32:38,800 --> 00:32:54,800
+The permission to you're giving permit, you're releasing permission, even by the language that you use with your team members and obviously, like modeling it as Leaders yourselves, is key for that accountability and behavior to manifest with your team members.
+
+401
+00:32:56,300 --> 00:32:57,200
+Are there any other points?
+
+402
+00:32:57,200 --> 00:33:01,200
+Yeah, that is interesting because I was just having this conversation with Gina.
+
+403
+00:33:01,200 --> 00:33:02,600
+I am put us on the spot.
+
+404
+00:33:02,900 --> 00:33:09,000
+I think it was like last night and or like, one day this week and it was around.
+
+405
+00:33:11,400 --> 00:33:18,000
+It was around like, hey, I see that your notifications on or off and it's like these weird times that it comes on and off like your slack.
+
+406
+00:33:18,000 --> 00:33:24,300
+Like the green.is, the so interesting because we take that for granted, like when they green.is on, it means go.
+
+407
+00:33:24,400 --> 00:33:25,300
+Like in many ways.
+
+408
+00:33:25,300 --> 00:33:26,800
+It's like this person is available.
+
+409
+00:33:26,800 --> 00:33:28,000
+So go ahead and DM them.
+
+410
+00:33:28,000 --> 00:33:42,100
+Go ahead and go my slack versus controlling that even setting the boundaries even at that level and say, you know what, like I'ma put these boundaries in place, the tools have the capabilities for you to have Boundaries in place.
+
+411
+00:33:42,100 --> 00:33:51,200
+A lot of people don't even take advantage of that and I think as managers holding people to that holding people to, you know, time off at welcome.
+
+412
+00:33:51,200 --> 00:34:01,700
+We like a lot of companies, you know, we, we have like the unlimited vacation policy and that's a double-edged sword because many people just don't take the vacations, right?
+
+413
+00:34:01,700 --> 00:34:07,200
+And so it means that we have to be more proactive around that, and we have some things in place that helps with that.
+
+414
+00:34:07,300 --> 00:34:15,699
+I am and, and I know we're getting to that Gina in a minute, but I think is having a pulse on the Small Things Brittany to what you're saying?
+
+415
+00:34:15,699 --> 00:34:17,699
+This person is responding after hours.
+
+416
+00:34:18,199 --> 00:34:19,100
+I haven't seen this person.
+
+417
+00:34:19,100 --> 00:34:19,900
+Take a vacation.
+
+418
+00:34:19,900 --> 00:34:21,300
+Can I look that up?
+
+419
+00:34:21,400 --> 00:34:25,600
+Have they not taking vacation level of energy?
+
+420
+00:34:25,600 --> 00:34:28,500
+I think is as well as a big is a big deal as well.
+
+421
+00:34:28,500 --> 00:34:36,300
+Like seeing their energy, you know this, you know your people well, you should know your people and when something is off and you feel like something's off.
+
+422
+00:34:36,300 --> 00:34:37,900
+Typically, it is off.
+
+423
+00:34:38,000 --> 00:34:40,500
+And so the question is, are you going to lean in and have the conversation?
+
+424
+00:34:41,300 --> 00:34:51,000
+I think that's something that I am learning every day as well as the leader in the fast-growing company is like those things matter and have them post when people really does matter.
+
+425
+00:34:54,000 --> 00:34:55,900
+Yeah, I think just add.
+
+426
+00:34:55,900 --> 00:35:03,200
+I think there's some very obvious signals that you can pick up on but then there's some of the not so obvious and that's where I think are.
+
+427
+00:35:03,200 --> 00:35:04,300
+We do a quarterly culture?
+
+428
+00:35:04,300 --> 00:35:08,400
+Survey that tells us so much about how our employees are feeling.
+
+429
+00:35:08,700 --> 00:35:09,800
+That's huge.
+
+430
+00:35:09,800 --> 00:35:16,200
+We also do I do 360 feedback, surveys with our teams with, with my directs.
+
+431
+00:35:16,200 --> 00:35:29,700
+I do them every six months which also tells us a lot of how they're doing and I think it gives them Overall, it gives them a really good idea of how their Partners think they're doing, and gives them some really great goals to work towards.
+
+432
+00:35:30,100 --> 00:35:32,600
+But just by that culture survey.
+
+433
+00:35:32,600 --> 00:35:33,800
+We monitor the trends.
+
+434
+00:35:33,800 --> 00:35:37,700
+We learn a lot from that, and we action a lot from that.
+
+435
+00:35:38,200 --> 00:35:43,000
+I have done these in the past and as an employee taking these, I have always liked, they don't read them.
+
+436
+00:35:43,100 --> 00:35:52,200
+But like being on the other side of it and like, we read every comment, and we literally make changes to policy and employee experience based on those comments.
+
+437
+00:35:56,700 --> 00:35:58,200
+Vicki, did you want to add anything?
+
+438
+00:35:59,900 --> 00:36:03,500
+Proud of have you +1 to everything that was said, yeah.
+
+439
+00:36:05,100 --> 00:36:05,400
+All right.
+
+440
+00:36:05,400 --> 00:36:06,400
+Here's another question.
+
+441
+00:36:06,400 --> 00:36:07,500
+That's getting up.
+
+442
+00:36:07,500 --> 00:36:08,500
+Voted pretty high.
+
+443
+00:36:08,800 --> 00:36:10,800
+What are low cost Solutions?
+
+444
+00:36:10,800 --> 00:36:15,100
+We can take to positively impact, our employees well-being.
+
+445
+00:36:17,900 --> 00:36:18,700
+I think that's a tough.
+
+446
+00:36:18,700 --> 00:36:19,200
+One.
+
+447
+00:36:20,600 --> 00:36:35,300
+One thing I would say is at least for me in my experience, educating myself on what burnout is similar like, really understanding it understanding what we can do to combat.
+
+448
+00:36:35,300 --> 00:36:37,800
+Some that's what are some, what are some of those therapy techniques.
+
+449
+00:36:38,200 --> 00:36:47,300
+What are some of those mindfulness techniques and then sharing that outright having discussions with your team, having discussions with the company talking about what this is talking about.
+
+450
+00:36:47,500 --> 00:36:51,300
+All of those things are University of Pennsylvania.
+
+451
+00:36:51,300 --> 00:36:53,200
+Did a study on resiliency.
+
+452
+00:36:53,800 --> 00:36:57,200
+So if you look up you can and the word Karma to erm a.
+
+453
+00:36:57,400 --> 00:37:05,600
+It they actually figured out all those pieces that kind of connect to what was really what creates resiliency, which is what helps with burnout.
+
+454
+00:37:05,600 --> 00:37:05,900
+Right?
+
+455
+00:37:05,900 --> 00:37:09,300
+And so there's like moments of positivity that can help with that.
+
+456
+00:37:09,300 --> 00:37:11,000
+So there's like a Magic Bullet.
+
+457
+00:37:11,000 --> 00:37:17,300
+I think this team kind of talked about how there wasn't one to fix burnout, but what are those little pieces that you can do?
+
+458
+00:37:17,400 --> 00:37:27,200
+Do to go and create more or build your resiliency, build your energy back up and really looking at those pieces to kind of help support some of that.
+
+459
+00:37:27,800 --> 00:37:40,600
+So that way, you know, it doesn't cost money to go and kind of do the research and share that back out and then maybe if you do have a budget, you can start finding other ways to build some of that in Yeah.
+
+460
+00:37:40,600 --> 00:37:44,700
+Yeah, Gina looks like we talked about like inexpensive ways.
+
+461
+00:37:44,700 --> 00:37:52,300
+I think that going back to the PTO thing and I see people having compliments inside of chat about the unlimited PTO and its controversial thing.
+
+462
+00:37:52,300 --> 00:37:56,300
+And you know for us we're in year 2 as a company.
+
+463
+00:37:56,300 --> 00:37:59,800
+Welcome, by the way, welcome is this platform that you guys are on today.
+
+464
+00:37:59,900 --> 00:38:01,400
+So welcome to welcome.
+
+465
+00:38:01,900 --> 00:38:14,600
+One of the things we were in year, two of our business of being in the market and what we It is look at your one and evaluating things, and we were asking what, what can we do better?
+
+466
+00:38:14,700 --> 00:38:21,500
+Right going back to the post surveys that we're getting from employees and asking the question, and we're startup, we were to like this young startup.
+
+467
+00:38:21,500 --> 00:38:23,200
+They were tripping over ourselves and we're running.
+
+468
+00:38:23,200 --> 00:38:30,300
+We're doing our best we can, and we tend to punch each other, you know, punch yourself in the face sometimes and Miss. opportunities.
+
+469
+00:38:30,300 --> 00:38:33,400
+When we saw it may be a glimmer of an opportunity that we should have taken.
+
+470
+00:38:33,400 --> 00:38:35,600
+And so we're constantly learning, right?
+
+471
+00:38:36,100 --> 00:38:48,600
+And one of the things we said, when we kicked off the show, Here we kicked off Wellness weekends, and it's a simple idea, but I think it has a high impact.
+
+472
+00:38:48,800 --> 00:38:54,700
+And what it means is that we are shutting down the first Friday of every month.
+
+473
+00:38:55,300 --> 00:38:57,200
+So we always have a three-day weekend.
+
+474
+00:38:57,200 --> 00:39:01,600
+So employees always have a three-day weekend, every single month.
+
+475
+00:39:02,000 --> 00:39:06,500
+Now when we do the calculations on that, as a business, that's almost like two weeks off.
+
+476
+00:39:06,500 --> 00:39:08,000
+That's 12 days a year.
+
+477
+00:39:08,500 --> 00:39:26,100
+That you have no option but to be off like we're forcing you to take 12 days off of year so that you can have a pause so that you have some intention around that three day weekend and sometimes, you know, the holiday kicks in, and they will be like a 40 weekend because a Monday is awful.
+
+478
+00:39:26,100 --> 00:39:26,800
+What have you?
+
+479
+00:39:27,900 --> 00:39:29,700
+But that's a small thing.
+
+480
+00:39:29,700 --> 00:39:32,900
+I think that we have been experimenting with this year.
+
+481
+00:39:33,300 --> 00:39:41,000
+And what would it helps with what it helps with as well, is when everybody is off, nobody's feeling like they have to be on.
+
+482
+00:39:42,400 --> 00:39:49,400
+Quite a similar to some of the hard times have you taken off is because you're saying, you know what, we have to catch up so much.
+
+483
+00:39:49,400 --> 00:39:50,600
+It might take a week off.
+
+484
+00:39:50,700 --> 00:39:51,100
+Imagine.
+
+485
+00:39:51,100 --> 00:39:59,300
+All the emails have to catch up on those critical meetings that I want to be a part of when you shut down a company-wide, and we do it again.
+
+486
+00:39:59,700 --> 00:40:07,000
+One day a month that we focus on wellness, and we talked about how are you planning your Wellness weekend means that nobody else is on slide?
+
+487
+00:40:07,000 --> 00:40:08,300
+There is no other meeting happening.
+
+488
+00:40:08,300 --> 00:40:10,700
+You don't have to catch up because everybody's off.
+
+489
+00:40:11,300 --> 00:40:13,500
+And I think that's just an All way that.
+
+490
+00:40:14,800 --> 00:40:18,900
+And I think it's a cheap way actually because the Accord, the question was like, what's inexpensive ways.
+
+491
+00:40:18,900 --> 00:40:27,300
+I think is this is an inexpensive way to do that for you for your employees and something that we have been experimenting with and it's fun to see.
+
+492
+00:40:29,600 --> 00:40:31,600
+Yeah, we do a version of that.
+
+493
+00:40:31,600 --> 00:40:34,000
+We do two weeks, long breaks.
+
+494
+00:40:34,000 --> 00:40:54,100
+We do want it Fourth of July and when it Christmases and I think, what's most beneficial about it to your point is everyone just signing off the same time and then when you log back in after that 10 days because really from Friday that Monday, it's about 10 days off, you're signing on and you don't have an email inbox full that you have to catch up on.
+
+495
+00:40:54,300 --> 00:40:58,100
+You can actually enjoy the break and not think about what am I missing?
+
+496
+00:40:58,400 --> 00:40:59,200
+There're times when I have taken.
+
+497
+00:40:59,300 --> 00:41:01,200
+Off when no one else is taken off.
+
+498
+00:41:01,600 --> 00:41:03,600
+And I can't help but check slack, check email.
+
+499
+00:41:03,600 --> 00:41:06,300
+So I am a big fan of those, those brakes.
+
+500
+00:41:06,300 --> 00:41:09,500
+And we have we did the first one we did was right after covid.
+
+501
+00:41:09,500 --> 00:41:14,700
+And we were like, okay, people need to take some time, and we kept them because they have been so beneficial.
+
+502
+00:41:17,000 --> 00:41:21,100
+The other thing I would add is, you know, really, again, I think we're Berta.
+
+503
+00:41:21,100 --> 00:41:37,300
+We're very similar in terms of Zoom fatigue, as much as I can turn off cameras, taking walking meetings, thinking about When we can do a call and said seems to just really help people and sometimes it's like this can be 5 minutes.
+
+504
+00:41:37,300 --> 00:41:42,200
+We don't have a ton to catch up on just because it's a 30-minute meeting on your calendar, doesn't mean you need to use the whole time.
+
+505
+00:41:42,400 --> 00:42:11,800
+So we're really big on sitting agendas and making sure I think I saw someone write in the chat, you know if you don't need to be there, feel free to decline the meeting, and we're not taking it personally, but I think also just being really intentional with your meetings and explaining why you have invited or what the context of the meeting is or what the goal of the meeting is, and then we have tried some other things at such as you know, employee LED self care, which I think just keeps the conversation going, whether it's meditation or workouts.
+
+506
+00:42:11,800 --> 00:42:17,000
+It's just letting people know that it's okay to do this during the day because we need to, and we need to focus on ourselves.
+
+507
+00:42:17,300 --> 00:42:24,400
+And that's actually, I don't think they always stick but I think it sends the right message and it really is appreciated.
+
+508
+00:42:28,000 --> 00:42:28,800
+So good.
+
+509
+00:42:29,500 --> 00:42:29,800
+All right.
+
+510
+00:42:29,800 --> 00:42:33,900
+I am going to jump into one of our highest voted questions goes into the company.
+
+511
+00:42:34,800 --> 00:42:36,000
+Topic category.
+
+512
+00:42:36,100 --> 00:42:43,100
+How do you prioritize employees mental health at a company level with limited time staff and other resources?
+
+513
+00:42:48,300 --> 00:42:53,600
+I think this the likes pulling similar threats of what we were just talking about, right?
+
+514
+00:42:53,600 --> 00:42:59,000
+I think that as Leaders it starts at the top down, so like for it's just us, right?
+
+515
+00:42:59,000 --> 00:42:59,700
+You're saying okay.
+
+516
+00:43:00,000 --> 00:43:02,900
+Can we afford to give everybody a force?
+
+517
+00:43:02,900 --> 00:43:04,600
+Can we shut the company down every Friday?
+
+518
+00:43:04,600 --> 00:43:05,500
+What does that look like?
+
+519
+00:43:05,800 --> 00:43:21,400
+So as the decision you have to make from the top down and then there's the when you think about empowering your employees, have the freedom to Have ownership about their mental health and preventing burnout.
+
+520
+00:43:21,500 --> 00:43:24,000
+I think that's probably the best thing we can do.
+
+521
+00:43:24,000 --> 00:43:33,800
+As Leaders is actually encouraging and holding folks accountable to take control of what they need because everybody needs something very different.
+
+522
+00:43:33,800 --> 00:43:36,200
+You know, I was a few weeks ago.
+
+523
+00:43:36,200 --> 00:43:39,600
+I had the pleasure of getting to know Arianna Huffington.
+
+524
+00:43:39,600 --> 00:43:47,500
+We were having a conversation, and she had this one question that I think for everybody as a manager here, I think for me, I wrote it down.
+
+525
+00:43:47,500 --> 00:43:54,500
+It's very simple, but I think it's very important and it was during the onboarding during the first 30 days.
+
+526
+00:43:54,500 --> 00:43:59,800
+Make sure you get time with your employee and ask them a simple question.
+
+527
+00:44:02,100 --> 00:44:05,000
+What is most important to you outside of work?
+
+528
+00:44:05,300 --> 00:44:07,400
+What is something that you're striving to do?
+
+529
+00:44:07,400 --> 00:44:07,800
+What's it?
+
+530
+00:44:07,800 --> 00:44:08,800
+What's a good life goal?
+
+531
+00:44:08,800 --> 00:44:11,000
+What's really important for you in this season?
+
+532
+00:44:12,300 --> 00:44:15,300
+And it sounds like a simple question.
+
+533
+00:44:15,300 --> 00:44:21,700
+But and then when you start to unpack that you start to realize as a manager, how do I hope that employee win on?
+
+534
+00:44:21,700 --> 00:44:24,000
+What's most important for them in this season?
+
+535
+00:44:24,000 --> 00:44:25,900
+What's a most important for her in the season?
+
+536
+00:44:25,900 --> 00:44:29,300
+So for example, an employee that lives in Tennessee?
+
+537
+00:44:29,300 --> 00:44:30,400
+She's remote.
+
+538
+00:44:30,900 --> 00:44:35,500
+She has a little girl, and she's involved in a sporting function.
+
+539
+00:44:35,500 --> 00:44:37,500
+She has to be at this time.
+
+540
+00:44:37,500 --> 00:44:41,800
+Every single Thursday is really important for her to be there.
+
+541
+00:44:42,100 --> 00:44:44,500
+It's like super important for her personally.
+
+542
+00:44:45,000 --> 00:44:56,200
+So now as a manager, you know, I am not going to book anything critical no meetings on that Thursday, because I don't want her to feel like she has to choose between that very important thing.
+
+543
+00:44:56,200 --> 00:45:00,600
+She has to go accomplish for her personally or being part of this meeting.
+
+544
+00:45:00,900 --> 00:45:08,400
+And so just having that self-awareness, as a leader, but also encouraging your employees to take full control of that and respecting that as well.
+
+545
+00:45:08,800 --> 00:45:11,900
+I think this is the way we scale this across with limited amount of resources.
+
+546
+00:45:12,000 --> 00:45:16,000
+Sources, because all we have to do is Empower them to take ownership of it.
+
+547
+00:45:16,100 --> 00:45:20,500
+Is that the end of the day, you're only playing a part in their lives?
+
+548
+00:45:20,600 --> 00:45:27,300
+That's confound in this area, like, burnout and overwhelmed, like, seeps into every area.
+
+549
+00:45:27,400 --> 00:45:27,600
+Right?
+
+550
+00:45:27,600 --> 00:45:30,800
+And so, just understanding that better and empowering them to take control.
+
+551
+00:45:31,200 --> 00:45:34,200
+I think it's how we scale some of this with limited resources.
+
+552
+00:45:36,800 --> 00:45:41,600
+Empowerment is huge from the leadership and the other thoughts.
+
+553
+00:45:42,300 --> 00:45:46,800
+I think the other thing to ask is one, there is a cost to burn out.
+
+554
+00:45:47,700 --> 00:45:53,500
+I mean, mental health platforms, like Spring Health, Modern Health, they all have data around like, what the cost of it is.
+
+555
+00:45:53,500 --> 00:45:55,200
+We know there's a cost to turn over.
+
+556
+00:45:55,500 --> 00:45:57,700
+So there's actual like, monetary cost.
+
+557
+00:45:57,700 --> 00:46:01,300
+If you are having trouble kind of convincing, maybe leadership, there're dollars.
+
+558
+00:46:01,300 --> 00:46:02,500
+You can put behind it.
+
+559
+00:46:02,900 --> 00:46:10,800
+And then I think what we're gonna touch on like, the Letty, is something people are really craving and I think we have to ask ourselves.
+
+560
+00:46:10,800 --> 00:46:13,900
+You know, what can we change about the way we work?
+
+561
+00:46:14,400 --> 00:46:20,800
+That would help because I think in our heads we think are eight to five days a week.
+
+562
+00:46:20,800 --> 00:46:22,200
+That's how it's always been.
+
+563
+00:46:22,300 --> 00:46:23,700
+But does it have to be a why?
+
+564
+00:46:23,700 --> 00:46:26,900
+I think a lot of people, when we came into doing things virtually.
+
+565
+00:46:26,900 --> 00:46:28,600
+Oh, no, it's going to screw everything up.
+
+566
+00:46:28,700 --> 00:46:29,900
+Did not screw everything up.
+
+567
+00:46:29,900 --> 00:46:33,100
+We very clearly know how to, at least in most, I should say in all Industries.
+
+568
+00:46:33,100 --> 00:46:35,000
+Obviously, in some, it's very difficult to do that.
+
+569
+00:46:35,000 --> 00:46:47,000
+But in many is Actually possible, but we are so rigid in the way we think about how we sometimes operate that if we start there, really think about what problem are we trying to solve with helping people, and ensuring productivity?
+
+570
+00:46:47,300 --> 00:46:50,400
+Because there's this fear that if we don't do it to 5 Monday through Friday, right?
+
+571
+00:46:50,400 --> 00:46:57,200
+We're not going to be productive as a whole other topic in and of itself, but how do we then rethink how we do this?
+
+572
+00:46:57,200 --> 00:47:00,500
+Because maybe there's a better way to do it a different way to do it.
+
+573
+00:47:00,500 --> 00:47:03,400
+That would still get better results of someone's them more engaged.
+
+574
+00:47:07,100 --> 00:47:08,800
+Yeah, I think just to add to that.
+
+575
+00:47:09,100 --> 00:47:13,100
+The cost of not prioritizing it is detrimental to the business.
+
+576
+00:47:13,400 --> 00:47:20,300
+Think about how much time it takes to recruit and onboard and hire someone, and you have them for six months and you run them.
+
+577
+00:47:20,300 --> 00:47:22,700
+So dry that they're burnt out by the end of they leave.
+
+578
+00:47:23,000 --> 00:47:24,700
+You have to start that process all over again.
+
+579
+00:47:24,700 --> 00:47:34,900
+It's it really, I think it's super beneficial to have just an open dialogue about burnout and mental health and, and work-life balance.
+
+580
+00:47:34,900 --> 00:47:35,900
+And all of the above.
+
+581
+00:47:36,200 --> 00:47:41,800
+From day one and being able to offer those resources to your company and let them know your stance on it.
+
+582
+00:47:43,100 --> 00:47:47,600
+I think is so incredibly important and I think hearing from it top down which I think we have said a few times.
+
+583
+00:47:47,600 --> 00:48:01,500
+Now are one of our co-founders, Pedro wrote a whole blog post on mental health and really just opened up to the company and it really showed just a vulnerable side of a Founder that you typically don't see.
+
+584
+00:48:01,500 --> 00:48:05,500
+And it made everyone feel like it's okay to have days that you're high.
+
+585
+00:48:05,500 --> 00:48:11,600
+You have highs and lows and it just really allowed people to relate to him and really just understand his stance.
+
+586
+00:48:11,600 --> 00:48:13,600
+So it was, I think really empowering.
+
+587
+00:48:17,000 --> 00:48:17,600
+That's great.
+
+588
+00:48:17,600 --> 00:48:20,400
+This company level support comes up.
+
+589
+00:48:20,600 --> 00:48:22,300
+I have another high vote on it.
+
+590
+00:48:22,300 --> 00:48:24,000
+I think we did answer a lot of it.
+
+591
+00:48:24,000 --> 00:48:29,400
+This question is very similar, are there policies that can be put in place at a company level.
+
+592
+00:48:29,600 --> 00:48:38,000
+And, so I think all of you have shared something about that, which I think is really it starts from the top and talking.
+
+593
+00:48:38,000 --> 00:48:46,500
+I am hearing empowerment of your employees and really creating that culture and environment where it's safe to be able to be vulnerable.
+
+594
+00:48:46,700 --> 00:48:47,500
+And be real.
+
+595
+00:48:47,900 --> 00:48:49,500
+So I think those are all powerful things.
+
+596
+00:48:49,500 --> 00:48:52,600
+Here's another question from Alexandria.
+
+597
+00:48:52,800 --> 00:49:01,600
+How do you encourage people to prioritize treating their burnout when it feels like another task on their already unmanageable to-do list?
+
+598
+00:49:07,500 --> 00:49:16,800
+This actually came up and whenever meetings one of our team members left and the manager inherited the calendar, and they saw kind of what was on it.
+
+599
+00:49:17,000 --> 00:49:19,500
+So you like oh, I could have done a better job here.
+
+600
+00:49:19,500 --> 00:49:22,500
+It may be going through and helping them figure out what to prioritize.
+
+601
+00:49:22,500 --> 00:49:23,500
+How to think about it.
+
+602
+00:49:24,800 --> 00:49:30,500
+Another thing I have done with our people managers at least and I think it's a good exercise to kind of do in groups.
+
+603
+00:49:30,500 --> 00:49:34,700
+Is to really just sit down and ask each other.
+
+604
+00:49:34,700 --> 00:49:36,600
+How do we, what can we get?
+
+605
+00:49:36,800 --> 00:49:39,800
+Up, like our marketing team has sat down and done that before.
+
+606
+00:49:39,800 --> 00:49:41,200
+Like what do we stop doing?
+
+607
+00:49:41,200 --> 00:49:45,400
+And really when we say stop doing is not kind of sort of keep doing it.
+
+608
+00:49:45,400 --> 00:50:02,400
+It's actually really stop doing it because we all agree that there's like too much right now, and we have to prioritize stuff and even just sitting down with someone else, because when you're in it, you're kind of too close to it and having an external person, come and look at what's going on, that kind of knows what your work is.
+
+609
+00:50:02,400 --> 00:50:04,100
+And they can say, hey, do you actually need to do that?
+
+610
+00:50:04,100 --> 00:50:05,400
+Or does that one really matter?
+
+611
+00:50:05,400 --> 00:50:06,600
+What's that one for?
+
+612
+00:50:06,700 --> 00:50:10,800
+Or and it might help to get that kind of separate View.
+
+613
+00:50:13,300 --> 00:50:15,300
+Yeah, I will follow on that Vicki.
+
+614
+00:50:15,300 --> 00:50:15,800
+I think.
+
+615
+00:50:16,100 --> 00:50:21,900
+Yeah, like the ideal focus, and we take that for granted for we just focus on the right things.
+
+616
+00:50:21,900 --> 00:50:32,900
+But actually there's probably 30 40 percent of the things that you're working on that can be optimized and or removed.
+
+617
+00:50:32,900 --> 00:50:43,000
+And you can focus that other 40% of energy on the other 60 and supercharged that for yourself for the business and for the results, but sometimes it's hard to say, no, and let go of things.
+
+618
+00:50:43,400 --> 00:50:46,600
+But in the reality is, I am a double down on things that are working.
+
+619
+00:50:46,700 --> 00:50:53,300
+And when they were down to things that have traction, given my limited T, my resources, I am gonna say no to a lot of things.
+
+620
+00:50:53,300 --> 00:51:05,600
+So I can say yes, the right things and I just freeze up a lot of head space because now, you start your week, you know, these are the only three things I care about and these are the things that my manager cares about and what's going to get us results.
+
+621
+00:51:05,900 --> 00:51:10,600
+And then a super important, especially for start-up that you tend to just wear.
+
+622
+00:51:10,600 --> 00:51:21,200
+So many hats is being able to prioritize The things that actually matter one thing that I want to Anchor back to I think somebody talked about ending meetings early.
+
+623
+00:51:21,300 --> 00:51:21,900
+I love that.
+
+624
+00:51:21,900 --> 00:51:25,100
+I love the idea of ending meetings early like just because it's 30 minutes.
+
+625
+00:51:25,100 --> 00:51:25,800
+It doesn't need to be.
+
+626
+00:51:25,800 --> 00:51:37,100
+I remember when I was at Google we had these meetings that They were always like an hour meeting was to be 50 meetings and 30 minute meetings will always be 25-minute meetings.
+
+627
+00:51:37,100 --> 00:51:39,200
+And I remember being new employee at go on our side.
+
+628
+00:51:39,200 --> 00:51:43,000
+You know, what is because we have to walk from this building that this building.
+
+629
+00:51:43,000 --> 00:51:46,200
+I got to get on that silly Google bike and go from one building to the other building.
+
+630
+00:51:46,200 --> 00:51:49,600
+So they want like that buffer time, but we still need that buffer time.
+
+631
+00:51:49,800 --> 00:51:53,900
+Even now, even at the zoom level of connecting to another room.
+
+632
+00:51:53,900 --> 00:51:54,800
+Another meeting.
+
+633
+00:51:55,200 --> 00:52:00,000
+And so, in your Google calendar, if you go to your Google calendar, there are a settings.
+
+634
+00:52:00,000 --> 00:52:05,100
+And, in fact, Go ahead and drop the image inside of chat.
+
+635
+00:52:05,200 --> 00:52:07,000
+There's a setting that you can enable.
+
+636
+00:52:07,400 --> 00:52:10,500
+So every time you book a meeting, it always defaults to fight.
+
+637
+00:52:10,500 --> 00:52:17,600
+Give you a five or ten minute buffer to every meeting you said, and that's and then it takes your discipline to be able to cut it off at that point.
+
+638
+00:52:17,600 --> 00:52:21,800
+But at least you set it up and say, that's the time, we're going to be meeting with me.
+
+639
+00:52:21,800 --> 00:52:24,600
+Five minutes, Gap or 10 minutes in between.
+
+640
+00:52:27,900 --> 00:52:28,200
+All right.
+
+641
+00:52:28,200 --> 00:52:29,400
+I am going to go through these unless.
+
+642
+00:52:29,400 --> 00:52:30,300
+Did you have Brittany?
+
+643
+00:52:30,300 --> 00:52:31,200
+Another note on that?
+
+644
+00:52:31,400 --> 00:52:33,100
+Okay, I have got nine minutes left.
+
+645
+00:52:33,100 --> 00:52:36,500
+So I am going to try to get through as many questions as we can here.
+
+646
+00:52:37,300 --> 00:52:39,300
+This is more specific to sales roles.
+
+647
+00:52:39,900 --> 00:52:42,100
+How do you encourage reps to take time off?
+
+648
+00:52:42,100 --> 00:52:45,000
+Especially since quota is a large part of the Roll.
+
+649
+00:52:49,900 --> 00:52:51,000
+Tricky balance.
+
+650
+00:52:52,600 --> 00:52:53,600
+That's a tricky one.
+
+651
+00:52:53,700 --> 00:52:57,000
+Yeah, I think especially in sales.
+
+652
+00:52:58,600 --> 00:53:05,500
+This is a very tricky one because it's your like every day that I am off is actually hurting my performance quote unquote, right?
+
+653
+00:53:05,500 --> 00:53:21,000
+Because I am putting numbers on the board and I think it comes down to just Being able to manage a book of business in a way I think about, I think about sales folks as entrepreneurs is like they're running their own business, right?
+
+654
+00:53:21,000 --> 00:53:23,800
+So you could you have the advantage of running your own business?
+
+655
+00:53:23,800 --> 00:53:39,000
+You can say, you know what I am going to use Monday through Thursday to hammer this home in Friday's, you know, I am going to take, I am gonna do half days on Friday, and I am actually going to go to a coffee shop and do this, but it's around owning your book of business in a way that as an entrepreneur, you can think about it.
+
+656
+00:53:39,000 --> 00:53:42,100
+And say, you know what, like I get to own my business.
+
+657
+00:53:42,500 --> 00:53:44,300
+And I am a run it this kind of way.
+
+658
+00:53:44,300 --> 00:53:47,200
+So maybe Monday, Tuesday and Wednesday are going to be like this.
+
+659
+00:53:47,400 --> 00:53:50,000
+Maybe Mondays are going to be like this in Friday is going to be like that.
+
+660
+00:53:50,300 --> 00:53:51,900
+I think you do have that Advantage.
+
+661
+00:53:52,000 --> 00:54:07,800
+If again, if you take the owners ownership mentality, it's, you know, one of our core values on at welcome is simply own it, and it talks about like, taking full ownership of it, no matter how big or how small, and I think applying that to your time and how you work.
+
+662
+00:54:08,200 --> 00:54:13,300
+I think in the sales and sales case can be very fruitful as well.
+
+663
+00:54:16,500 --> 00:54:21,200
+I think one thing that we do it, Brax is we enforce decompression days.
+
+664
+00:54:21,700 --> 00:54:26,400
+So, we will tell people take the day off after 12 or take the full day off.
+
+665
+00:54:26,400 --> 00:54:32,200
+Sometimes, we will say, spend $50 on your brakes card or a hundred dollars in a bricks card, and go do something to decompress.
+
+666
+00:54:32,600 --> 00:54:37,700
+And I think again, it just gives them that like we're giving that permission and pushing you guys.
+
+667
+00:54:37,700 --> 00:54:47,700
+And then we also share in our slack channels of, you know, tell us what you did today and I think it just kind of lets people be a little more comfortable taking that and now, That everyone else is taking it too.
+
+668
+00:54:51,500 --> 00:54:52,100
+It's great.
+
+669
+00:54:52,200 --> 00:54:52,500
+Britney.
+
+670
+00:54:52,500 --> 00:54:53,600
+Looks like we have another question.
+
+671
+00:54:53,600 --> 00:54:54,500
+Actually for you.
+
+672
+00:54:54,900 --> 00:54:59,900
+How do you suggest dealing with imposter syndrome and overcoming those negative effects?
+
+673
+00:55:02,000 --> 00:55:03,400
+That's a great question.
+
+674
+00:55:03,700 --> 00:55:12,300
+It's, I think it's something that You just have to shove to the back of your mind because it's really hard.
+
+675
+00:55:12,700 --> 00:55:15,300
+And at the end of the day, you have to remind yourself.
+
+676
+00:55:15,900 --> 00:55:18,500
+It's so much of your, it's so much of you doing it.
+
+677
+00:55:18,500 --> 00:55:21,400
+And what I am really, I am huge on self-reflection.
+
+678
+00:55:21,400 --> 00:55:27,600
+So at the end of every quarter, I have written down accomplishments and improvements and things that I want to work on.
+
+679
+00:55:27,800 --> 00:55:29,600
+But I also don't set the bar too high.
+
+680
+00:55:29,600 --> 00:55:38,500
+I am not expecting 20, huge accomplishments and I do this with my team to wear even if we look at daily goals when we're Prioritizing weekly goals.
+
+681
+00:55:39,000 --> 00:55:43,400
+Most days, I will just set if I can accomplish these three things today.
+
+682
+00:55:43,600 --> 00:55:44,500
+I have had a good day.
+
+683
+00:55:44,900 --> 00:55:50,200
+And then when I reflected, I write this all down on a notepad so that I can look back week to week at the end of each quarter.
+
+684
+00:55:50,700 --> 00:55:55,500
+It's a nice reminder that I am not doing as bad as the little voice in my head is telling me I am doing.
+
+685
+00:55:55,700 --> 00:55:56,800
+I am not even close to it.
+
+686
+00:55:56,800 --> 00:56:10,300
+And I think also between that and performance review is just, you know, I think it really is in your head so much, but I am really huge on documentation and being able to look back at things and it's just a nice reminder.
+
+687
+00:56:10,900 --> 00:56:15,800
+And then the one other thing is I have a happy days filter of every time I get praise or recognition.
+
+688
+00:56:16,000 --> 00:56:21,200
+I save it in my email and I go back and look at that and I it's just again a nice reminder that.
+
+689
+00:56:21,600 --> 00:56:25,500
+I am in my own head, and I am doing good work and it really helps.
+
+690
+00:56:26,900 --> 00:56:27,600
+So good.
+
+691
+00:56:27,600 --> 00:56:29,800
+I think I want to start that happy praise folder.
+
+692
+00:56:31,300 --> 00:56:35,000
+I have seen Pope affirmation, Post-it notes as an exercise as well.
+
+693
+00:56:37,000 --> 00:56:37,900
+Put that on your wall.
+
+694
+00:56:40,300 --> 00:56:42,200
+Vicky any added thoughts.
+
+695
+00:56:44,700 --> 00:56:47,800
+I would say also, you make sure you have a good support network around you.
+
+696
+00:56:47,800 --> 00:56:49,600
+I think similar to Britney's point.
+
+697
+00:56:49,600 --> 00:56:53,300
+It's in our head and for sitting in our head alone that's even worse.
+
+698
+00:56:53,300 --> 00:56:53,500
+Right?
+
+699
+00:56:53,500 --> 00:56:58,900
+But when you have other people who remind you of the things that you're really good at that can be really powerful.
+
+700
+00:56:59,500 --> 00:57:01,200
+I like how Jeff mention the bonus baby doll.
+
+701
+00:57:01,200 --> 00:57:03,200
+Go back and look through my own boat asleep.
+
+702
+00:57:03,200 --> 00:57:06,600
+Eat if I am having a crappy day because it does remind me like, oh, yeah.
+
+703
+00:57:06,800 --> 00:57:17,900
+I did all these things and you know, our brain naturally, we will go to the — so you need to yank it out of there because our threat response is Hi to just sit in the positive for a bit and really think about.
+
+704
+00:57:17,900 --> 00:57:18,400
+Okay.
+
+705
+00:57:18,700 --> 00:57:22,600
+What am I really proud of another thing that my team does is every month.
+
+706
+00:57:22,600 --> 00:57:26,900
+We have a highlights and learnings slide that I have everyone fill out.
+
+707
+00:57:26,900 --> 00:57:32,400
+So we talked about the things that we were really proud of and the things that we learned, so we're constantly one, it's to help.
+
+708
+00:57:32,400 --> 00:57:34,100
+Make sure that we're talking about the mistakes we made.
+
+709
+00:57:34,100 --> 00:57:37,000
+And what we learn from them to is like, hey, what were you really proud of?
+
+710
+00:57:37,000 --> 00:57:43,300
+So that you remember that you did something great because my type performance review comes around, sometimes you're like, I don't even remember what I did last month.
+
+711
+00:57:45,400 --> 00:57:50,800
+By the way, I will jump in and say at welcome bonus, Lee feed is the most lit feed.
+
+712
+00:57:50,800 --> 00:57:55,200
+Welcome, and it's so good because you see it's like, it's like the Love Fest.
+
+713
+00:57:55,200 --> 00:57:57,000
+Everybody's like, hey, this person is awesome.
+
+714
+00:57:57,000 --> 00:57:57,400
+This person.
+
+715
+00:57:57,400 --> 00:57:57,500
+No.
+
+716
+00:57:57,500 --> 00:57:58,300
+No, you're awesome.
+
+717
+00:57:58,300 --> 00:58:04,300
+Is like, I would love seeing and I think it's interesting because I think it's correlated in helping burnout as well.
+
+718
+00:58:04,300 --> 00:58:07,300
+Because one of the reasons for a burnout was in a symptom of it.
+
+719
+00:58:07,300 --> 00:58:12,400
+It's feeling like you're not recognized enough and I think small things like a bonus.
+
+720
+00:58:12,400 --> 00:58:15,400
+Lee recognition can go a long.
+
+721
+00:58:15,500 --> 00:58:16,600
+Way, I think for folks.
+
+722
+00:58:19,700 --> 00:58:20,300
+All right.
+
+723
+00:58:20,300 --> 00:58:23,900
+I don't know if we could fit two questions because there's some a couple of really good questions.
+
+724
+00:58:23,900 --> 00:58:25,300
+But here's one.
+
+725
+00:58:25,700 --> 00:58:28,300
+How do you signal burnout to your boss?
+
+726
+00:58:28,300 --> 00:58:32,800
+When everyone around, you seem to be doing just fine with the same or even more work?
+
+727
+00:58:36,000 --> 00:58:41,700
+I think the best advice I received early in my career was don't compare your beginning to someone else's middle.
+
+728
+00:58:42,300 --> 00:58:45,500
+And you have to remember, we're all starting at different times.
+
+729
+00:58:46,700 --> 00:58:49,700
+And I am also just the I have over the years.
+
+730
+00:58:49,700 --> 00:58:53,100
+I was always like how I want to be, I want to always be positive for my boss.
+
+731
+00:58:53,100 --> 00:58:54,500
+I always want to show up for my boss.
+
+732
+00:58:55,000 --> 00:59:00,600
+But again, we're human, and we're going to have bad days and I find that just having that level of transparency with my boss.
+
+733
+00:59:01,200 --> 00:59:08,200
+He will actually recognize when I am having an off day and I think Just really helps to just be really open.
+
+734
+00:59:11,200 --> 00:59:21,200
+You have also at least I talk to my colleagues sometimes and I think we make assumptions because everyone's kind of put on their work face when they're at work or you know, especially if you're a leader, right?
+
+735
+00:59:21,200 --> 00:59:32,400
+Because you bring the weather so it may not be actually true that they're doing the same or even more work and it'd be a good way to if you can is you feel safe enough to gut check that too.
+
+736
+00:59:33,800 --> 00:59:38,900
+And said, maybe actually find out, you're all kind of in the same boat and then that's even easier to go and bring to a leader.
+
+737
+00:59:40,700 --> 00:59:41,200
+It's great.
+
+738
+00:59:41,200 --> 00:59:43,000
+All right one last question.
+
+739
+00:59:43,400 --> 00:59:45,600
+I am pulling up Spencer's question here?
+
+740
+00:59:46,300 --> 00:59:47,300
+I don't know if you all see it.
+
+741
+00:59:47,300 --> 00:59:53,200
+It says now that I have been remote for two plus years having zero decompression time between work and family.
+
+742
+00:59:53,500 --> 00:59:58,000
+I hate traffic, but that who I just lost it.
+
+743
+00:59:58,600 --> 00:59:59,100
+There it is.
+
+744
+00:59:59,300 --> 01:00:02,600
+Okay, I hate traffic, but that was my deep compression time.
+
+745
+01:00:02,700 --> 01:00:06,500
+How are you solving that for yourself and your employees?
+
+746
+01:00:10,800 --> 01:00:11,600
+That's a real one.
+
+747
+01:00:11,800 --> 01:00:12,700
+I hate you.
+
+748
+01:00:12,700 --> 01:00:14,100
+I really wanted percent.
+
+749
+01:00:14,100 --> 01:00:16,800
+I hate traffic, but I was into, I love driving.
+
+750
+01:00:16,800 --> 01:00:18,100
+Actually, it's a form.
+
+751
+01:00:18,300 --> 01:00:25,600
+Driving is a form of self care, for me, like sometimes when I need some space, just going for a drive actually helps.
+
+752
+01:00:25,600 --> 01:00:36,400
+And my wife knows that is when I get to actually turn up the music and Feel the Bass without like freaking everybody out in the house with like the music I listened to or any of that.
+
+753
+01:00:36,500 --> 01:00:37,800
+I think it's my time.
+
+754
+01:00:37,800 --> 01:00:40,500
+And, so I don't know what the solution is.
+
+755
+01:00:40,700 --> 01:00:49,700
+On this, especially in, this remote World outside of self-awareness, and knowing what you need, because you get to manage that time.
+
+756
+01:00:49,700 --> 01:00:55,000
+And for me, it starts and stops at the calendar level, like me being able to block off.
+
+757
+01:00:55,000 --> 01:01:06,600
+Even before I start my day, being able to block off that buffer time of transition, whether that's a work out, whether that's a walk, whether that's putting my little girl down for a nap, right?
+
+758
+01:01:07,200 --> 01:01:10,500
+So yeah, I don't have the answers Spencer, but I miss those days.
+
+759
+01:01:10,600 --> 01:01:13,400
+Days of filling the base with music as well.
+
+760
+01:01:15,300 --> 01:01:16,500
+Love it, and I see Vicky.
+
+761
+01:01:16,500 --> 01:01:20,100
+You take short walks for your decompression time, Brittany.
+
+762
+01:01:20,100 --> 01:01:22,000
+What do you do for decompressing?
+
+763
+01:01:26,200 --> 01:01:27,300
+Oh, you're a mute.
+
+764
+01:01:29,100 --> 01:01:33,800
+Sorry, I made it the whole time without doing that and, you know, with one minute to go.
+
+765
+01:01:34,000 --> 01:01:36,400
+But yeah, big on going for walks with my dog.
+
+766
+01:01:36,400 --> 01:01:46,100
+I think just spending time with my dog, in general gives me like so much joy, so as much as I can get outside to decompress with her, it really helps love it.
+
+767
+01:01:46,600 --> 01:01:47,000
+Wow.
+
+768
+01:01:47,000 --> 01:01:47,200
+Okay.
+
+769
+01:01:47,200 --> 01:01:48,900
+Well, these wraps are time.
+
+770
+01:01:48,900 --> 01:01:55,000
+It's so rich that we made it right at the our thank you so much Vicki, Brittany, Roberto.
+
+771
+01:01:55,000 --> 01:01:58,700
+And everybody who participated with providing us some great questions.
+
+772
+01:01:59,200 --> 01:02:01,500
+We look forward to seeing you at our next event.
+
+773
+01:02:01,700 --> 01:02:03,900
+So we have got a tab at the top.
+
+774
+01:02:04,000 --> 01:02:04,600
+Check it out.
+
+775
+01:02:04,600 --> 01:02:08,500
+We have got a couple of events one coming up Thursday next week Tuesday.
+
+776
+01:02:08,600 --> 01:02:11,500
+We're doing the spotlight with coffee plus drinks.
+
+777
+01:02:12,200 --> 01:02:13,000
+So check them out.
+
+778
+01:02:13,000 --> 01:02:18,100
+We have got team leaders that are figuring out how to inspire and motivate their teams.
+
+779
+01:02:18,100 --> 01:02:21,200
+Remotely including the DEA leader of Envision.
+
+780
+01:02:21,200 --> 01:02:23,200
+Tamsin will be joining us next Tuesday.
+
+781
+01:02:23,400 --> 01:02:28,600
+So definitely register, we will get the recording of this event sent to you.
+
+782
+01:02:28,800 --> 01:02:29,600
+Right away.
+
+783
+01:02:29,800 --> 01:02:32,000
+And as you see and you're experiencing, we're on.
+
+784
+01:02:32,000 --> 01:02:32,600
+Welcome.
+
+785
+01:02:32,600 --> 01:02:51,000
+And if you have any questions of how to be hosted, these type of events, or do these kind of community oriented conversational vents with your own team, members talk to us, and we have got a tab at the top or you can chat with us at any given time have a wonderful rest of your day and week.
+
+786
+01:02:51,300 --> 01:02:53,900
+Please manage your own burn out for yourself.
+
+787
+01:02:53,900 --> 01:02:58,700
+First and foremost oxygen mask on ourselves and decompressed.
+
+788
+01:02:58,800 --> 01:02:59,600
+Take the walks.
+
+789
+01:02:59,600 --> 01:03:01,100
+Go, grab some ice cream.
+
+790
+01:03:01,200 --> 01:03:04,100
+Enjoy the beautiful sun, if it's shining out there.
+
+791
+01:03:04,300 --> 01:03:04,800
+All right.
+
+792
+01:03:04,800 --> 01:03:05,300
+Take care.
+
+793
+01:03:05,300 --> 01:03:06,100
+Until next time.
+
+794
+01:03:06,100 --> 01:03:06,900
+We will see you later.
+
+795
+01:03:08,500 --> 01:03:09,200
+See you guys.

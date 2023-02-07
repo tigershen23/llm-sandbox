@@ -1,0 +1,2980 @@
+
+1
+00:04:06,500 --> 00:04:08,000
+Hello everyone.
+
+2
+00:04:08,000 --> 00:04:13,000
+Welcome to a virtual Safari and an awesome panel.
+
+3
+00:04:13,000 --> 00:04:19,200
+We're going to talk a little bit about how we're going to team build during these hybrid remote times.
+
+4
+00:04:19,399 --> 00:04:20,700
+So let us see here.
+
+5
+00:04:20,700 --> 00:04:23,900
+We got people all over the nation here.
+
+6
+00:04:23,900 --> 00:04:25,800
+Hi Ashley, d.c.
+
+7
+00:04:25,800 --> 00:04:27,200
+Chicago.
+
+8
+00:04:28,300 --> 00:04:31,100
+Wow, Callie, New Hampshire Toronto.
+
+9
+00:04:31,100 --> 00:04:34,100
+I saw Puerto Rico, New York City, Texas.
+
+10
+00:04:34,100 --> 00:04:35,300
+Hello everybody.
+
+11
+00:04:35,500 --> 00:04:37,600
+We're so happy to have you here.
+
+12
+00:04:37,800 --> 00:04:44,500
+So before we jump in, Just note some housekeeping, we have got obviously you see the chat and there's Q&A.
+
+13
+00:04:44,500 --> 00:04:47,300
+So throughout this entire time at any given moment.
+
+14
+00:04:47,300 --> 00:04:51,600
+If you have got a question a burning question, please drop it in Q&A.
+
+15
+00:04:51,600 --> 00:04:55,600
+And if you got any Tech issues, there's a little help tab right there as well.
+
+16
+00:04:55,900 --> 00:04:58,300
+Okay, let us Jump Right In.
+
+17
+00:04:58,300 --> 00:05:03,000
+I have got my virtual Safari shirt on, are you guys have your virtual Safari game?
+
+18
+00:05:03,000 --> 00:05:05,100
+There's like a little elephant somewhere over here.
+
+19
+00:05:07,200 --> 00:05:08,500
+Vegas, what's up?
+
+20
+00:05:08,500 --> 00:05:09,600
+I am in Vegas, too.
+
+21
+00:05:09,900 --> 00:05:13,700
+Okay, let us kick it off with a pole.
+
+22
+00:05:14,400 --> 00:05:17,200
+So Joshua, he's my producer in The Green Room.
+
+23
+00:05:17,200 --> 00:05:21,500
+Hello, Josh, you all can't see him, but I can thank you for pulling that pull up.
+
+24
+00:05:21,500 --> 00:05:24,400
+All right, have any of you been on a safari?
+
+25
+00:05:24,400 --> 00:05:27,100
+This is in real life or virtual.
+
+26
+00:05:27,900 --> 00:05:28,600
+Wow.
+
+27
+00:05:28,700 --> 00:05:29,000
+Okay.
+
+28
+00:05:29,000 --> 00:05:30,100
+I haven't either.
+
+29
+00:05:30,100 --> 00:05:32,400
+I haven't done a virtual Safari yet.
+
+30
+00:05:32,400 --> 00:05:35,000
+So this is going to be a fun experience.
+
+31
+00:05:35,400 --> 00:05:36,900
+Stan yell, you know what?
+
+32
+00:05:36,900 --> 00:05:38,200
+You want to go on one so bad.
+
+33
+00:05:38,200 --> 00:05:40,400
+We're gonna go on a virtual one together today.
+
+34
+00:05:40,400 --> 00:05:41,600
+It's going to be great.
+
+35
+00:05:41,600 --> 00:05:42,400
+All right.
+
+36
+00:05:42,500 --> 00:05:53,300
+So with that, I would love to introduce our partners on the panel today, Suman from Marco experiences and Aaron from Bonus, Lee.
+
+37
+00:05:53,300 --> 00:05:55,400
+Would you join me on stage?
+
+38
+00:05:56,300 --> 00:05:57,000
+Hallo.
+
+39
+00:05:57,000 --> 00:05:57,900
+Hey everyone.
+
+40
+00:05:59,400 --> 00:05:59,900
+Hello.
+
+41
+00:05:59,900 --> 00:06:00,500
+Hello.
+
+42
+00:06:00,500 --> 00:06:05,100
+Well II am so blessed to have you graced our stage, both of you.
+
+43
+00:06:05,400 --> 00:06:17,300
+It's wonderful to be with you all before we jump into talking about some really cool team building ideas because I know each of you have golden insights to share with us.
+
+44
+00:06:17,700 --> 00:06:19,600
+Let us go in with some fun facts.
+
+45
+00:06:19,800 --> 00:06:21,300
+So fun facts, right?
+
+46
+00:06:22,200 --> 00:06:23,800
+All right, so fun facts.
+
+47
+00:06:23,800 --> 00:06:29,400
+Just about me is that, when I was early in my twenties way, back in the day.
+
+48
+00:06:29,800 --> 00:06:30,400
+I was on Ugly.
+
+49
+00:06:30,400 --> 00:06:30,800
+Betty.
+
+50
+00:06:30,800 --> 00:06:34,300
+Believe it or not and 7th Heaven and see.
+
+51
+00:06:34,300 --> 00:06:35,200
+Yes, I did.
+
+52
+00:06:35,400 --> 00:06:37,400
+Adam Sandler movies back in the day.
+
+53
+00:06:38,100 --> 00:06:39,700
+So yeah, that's my fun fact.
+
+54
+00:06:39,700 --> 00:06:42,400
+I am going to hand it over to you Suman.
+
+55
+00:06:42,400 --> 00:06:42,900
+What's your fun?
+
+56
+00:06:42,900 --> 00:06:46,100
+Fact fun fact is I have a twin brother.
+
+57
+00:06:46,100 --> 00:06:47,000
+His name is Vig.
+
+58
+00:06:47,000 --> 00:06:53,400
+He's on the west coast, the better-looking twin as you can see in this photo here with this beautiful dog that I am embracing.
+
+59
+00:06:53,400 --> 00:06:56,300
+So as my fun fact, very cool.
+
+60
+00:06:56,800 --> 00:06:57,400
+Aaron.
+
+61
+00:06:57,400 --> 00:06:58,700
+Your fun fact.
+
+62
+00:06:58,900 --> 00:07:05,200
+A fun fact is one of my tweets made it into an Atlantic article ton of high C codes had been learning French.
+
+63
+00:07:05,300 --> 00:07:10,200
+Each and he asked if anyone could explain the subjunctive tense, very cool.
+
+64
+00:07:10,300 --> 00:07:13,300
+And I am super curious about how to cook objective.
+
+65
+00:07:14,400 --> 00:07:15,300
+That's good.
+
+66
+00:07:15,800 --> 00:07:28,000
+Well, both of you have some really interesting insights around creative team, building ideas, and just things that you have been implementing with your companies and with your own teams.
+
+67
+00:07:28,400 --> 00:07:43,600
+And so before we jump into that though, can each of you just tell us a little bit about like Marco and even bonus lie, What are you guys seeing as, like, really interesting trends of your customers and I will start off Aaron with you?
+
+68
+00:07:44,700 --> 00:07:44,900
+Yes.
+
+69
+00:07:44,900 --> 00:08:02,400
+Well, I think bonus lead is the perfect app for, you know, the times that we have in remote work and everything like that because it really encourages engagement and recognition and it really brings employees together and you don't necessarily have to be in the same room.
+
+70
+00:08:05,700 --> 00:08:09,000
+Yeah, I will hop in so Marco.
+
+71
+00:08:09,000 --> 00:08:15,600
+I guess the trend is where our company is literally focused all around connectivity in a more distributed kind of flexible world.
+
+72
+00:08:15,600 --> 00:08:17,500
+So Marco, I am the CEO and co-founder of Marco.
+
+73
+00:08:17,500 --> 00:08:33,299
+We cultivate culture and connection through extraordinary experiences virtual and person off sites, but really excited to be sharing kind of one of our virtual host today with you and talking all about how we think about Marco and how we build our own distributed team, which is kind of all over the world.
+
+74
+00:08:33,299 --> 00:08:35,600
+So Very cool.
+
+75
+00:08:35,799 --> 00:08:37,299
+Thank you for sharing.
+
+76
+00:08:38,200 --> 00:08:42,400
+So, Aaron just go on, talking about your own team right now?
+
+77
+00:08:42,400 --> 00:08:46,000
+You are a people leader of an engineering team.
+
+78
+00:08:46,300 --> 00:08:48,800
+And over this pandemic.
+
+79
+00:08:48,800 --> 00:08:55,100
+You have identified some really cool ways to keep your team connected and interacting.
+
+80
+00:08:55,500 --> 00:08:56,700
+What are some of those things?
+
+81
+00:08:57,600 --> 00:09:02,200
+Well, whenever I started as an engineering manager, we were all pretty new to each other.
+
+82
+00:09:02,200 --> 00:09:09,500
+So, the first thing I did was created an about me page is basically a page online that, you know, I feel about questions.
+
+83
+00:09:09,500 --> 00:09:16,400
+Like, where did I grow up how to support me at work or, you know, how I prefer to get positive and negative feedback.
+
+84
+00:09:16,900 --> 00:09:22,000
+And, so I filled that page out but I also asked my team to fill those out, too.
+
+85
+00:09:22,400 --> 00:09:24,400
+So it's been very helpful.
+
+86
+00:09:24,800 --> 00:09:25,400
+Very cool.
+
+87
+00:09:25,400 --> 00:09:27,200
+What platform or how do you guys?
+
+88
+00:09:27,400 --> 00:09:34,600
+Fed up, you just put up a WordPress page or, you know, we actually use Confluence as a tool for documentation.
+
+89
+00:09:34,600 --> 00:09:36,500
+And in our space, we put it in.
+
+90
+00:09:37,800 --> 00:09:38,900
+Very nice.
+
+91
+00:09:39,200 --> 00:09:42,900
+Okay, and what are some other tactics?
+
+92
+00:09:42,900 --> 00:09:44,600
+I mean you were mentioning a few of them?
+
+93
+00:09:45,900 --> 00:09:57,100
+Well, I think the first thing I did that really helped the most was done a Clifton strengths finder survey of strengths finder, by the way, it's great.
+
+94
+00:09:57,600 --> 00:10:03,100
+We all talked about what we were good at and, you know, that actually informed our about me pages to.
+
+95
+00:10:04,300 --> 00:10:09,500
+And we talked about what the team was good at collectively and You know, we have a cross-functional team.
+
+96
+00:10:09,600 --> 00:10:12,700
+So our team includes members of design and product.
+
+97
+00:10:12,800 --> 00:10:16,000
+So, you know, generally the engineers were very analytical.
+
+98
+00:10:16,000 --> 00:10:21,300
+They have very analytical strengths in our design and product Partners had great relational strength.
+
+99
+00:10:21,300 --> 00:10:23,200
+So that kind of balance the team out.
+
+100
+00:10:24,100 --> 00:10:24,800
+That's great.
+
+101
+00:10:24,800 --> 00:10:26,500
+I could speak to the strings fine.
+
+102
+00:10:26,500 --> 00:10:30,900
+I have been using with various teams for last 10 years and it is awesome.
+
+103
+00:10:31,300 --> 00:10:34,500
+It's a really fun team building opportunity to when you bring in a coach.
+
+104
+00:10:34,500 --> 00:10:37,200
+I have done it virtually with our team as well.
+
+105
+00:10:37,800 --> 00:10:52,100
+And we hired a coach to come in, and we had everyone take their strengths finder prior to the coach coming in and I created an Excel doc that just Maps out the top-10 strengths of each of the team members.
+
+106
+00:10:52,300 --> 00:11:06,600
+And then we started to analyze Eyes as a team and have a really healthy discussion of our strengths and you know where we default to in times of great stress or Joy or flow, you know what I am saying?
+
+107
+00:11:06,600 --> 00:11:09,900
+So it really helped us a ton Suman.
+
+108
+00:11:09,900 --> 00:11:11,800
+How about you all your Marcos?
+
+109
+00:11:11,800 --> 00:11:12,700
+Also, remote team.
+
+110
+00:11:12,700 --> 00:11:19,400
+I mean, of course you guys are the pro experiences, but how are you keeping your own teams engaged?
+
+111
+00:11:19,500 --> 00:11:23,700
+Yeah, I mean so our team is in New York, San Francisco.
+
+112
+00:11:23,900 --> 00:11:28,700
+AOL a Seattle, Miami Atlanta in the Philippines, and we're subbed 20 people.
+
+113
+00:11:28,700 --> 00:11:30,600
+So we're quite distributed.
+
+114
+00:11:30,600 --> 00:11:34,200
+I think one, there's a couple of themes that I would touch on one, is just proactivity.
+
+115
+00:11:34,300 --> 00:11:39,100
+So we create for ourselves as well as for our customers, what we call, like a culture calendar.
+
+116
+00:11:39,200 --> 00:11:43,300
+So instead of just being reactive and saying, oh my gosh, we haven't seen each other in a while.
+
+117
+00:11:43,400 --> 00:12:08,300
+How do we actually create a way for folks to look forward to meeting whether it's kind of virtually more frequently in person less frequently, and we talked a lot about intentionality of So one of the interesting things that both of y'all touched on which is experiences can be fun, which is we're going to have fun today on this virtual Safari, but they can also be meaningful and really provide an opportunity to get to know one another and allow us to kind of do our best work.
+
+118
+00:12:08,300 --> 00:12:14,800
+So, even today instead of a normal team meeting, we're doing something called the super story, which is a friend Sarah runs.
+
+119
+00:12:14,800 --> 00:12:22,700
+It's kind of similar to the strengthsfinder exercise, but it's really about who you are your life thread and kind of your new your unique powers, your super story.
+
+120
+00:12:22,900 --> 00:12:27,200
+And so Experience is its a new experience since it will be on our platform soon.
+
+121
+00:12:27,400 --> 00:12:32,800
+But those are opportunities where you can really understand, like, who is Aaron, for example, get to know her.
+
+122
+00:12:32,900 --> 00:12:33,900
+Why is she?
+
+123
+00:12:33,900 --> 00:12:35,600
+What is she motivated by?
+
+124
+00:12:35,800 --> 00:12:43,100
+And I think if you think about why we do experiences, it's really, so we can provide that context and I think it allows us to do our best work.
+
+125
+00:12:43,100 --> 00:12:45,500
+So that's how we kind of approach it in our team.
+
+126
+00:12:45,600 --> 00:12:47,300
+So I love that.
+
+127
+00:12:47,300 --> 00:12:53,300
+And so far just the common theme of what I am hearing, just the for the initial team building.
+
+128
+00:12:54,000 --> 00:12:58,500
+Idea, you know, is really their exercises that help one.
+
+129
+00:12:58,500 --> 00:13:01,000
+Another get to know each other at another level.
+
+130
+00:13:01,300 --> 00:13:06,400
+I mean we can have amazing safaris happy hours and all these things.
+
+131
+00:13:06,400 --> 00:13:14,700
+But at the end of the day if we're not feeling that connection and deeper understanding of one, another than those things aren't as meaningful.
+
+132
+00:13:14,800 --> 00:13:23,700
+So can each of you speak to that a little bit of just like how you have been able to create some of those deeper connections.
+
+133
+00:13:23,800 --> 00:13:31,400
+And, you know, I think we're missing out with the in-person water cooler like bum pins and, you know, all the way to the kitchen.
+
+134
+00:13:31,400 --> 00:13:33,100
+Hey, want to grab some coffee?
+
+135
+00:13:33,100 --> 00:13:34,900
+Like we missed that these days.
+
+136
+00:13:34,900 --> 00:13:40,300
+So, how are each of you accomplishing that within your team's today?
+
+137
+00:13:42,000 --> 00:13:43,300
+Yeah, I can, I can jump it.
+
+138
+00:13:43,300 --> 00:13:49,500
+I think one important thing is, we're living in a world that's been pretty crazy for the past two years.
+
+139
+00:13:49,500 --> 00:13:54,600
+And even now there's another outbreak of covid or a geopolitical kind of Crisis.
+
+140
+00:13:54,600 --> 00:13:59,000
+And one thing is just acknowledging the stress that people are going through.
+
+141
+00:13:59,200 --> 00:14:05,700
+And there's this concept of bringing your whole self to work and just allowing for a space where you can talk about mental health.
+
+142
+00:14:05,700 --> 00:14:14,400
+You can talk about how you're stressed out whether that's kind of your personal life or your work life, and I think creating the Safe spaces, and you can do that through experiences.
+
+143
+00:14:14,400 --> 00:14:20,000
+You can just do that through a check in and whether it's, you know, through report and saying, hey look like how are you doing?
+
+144
+00:14:20,100 --> 00:14:22,500
+Maybe we take a moment to breathe together, that sort of thing.
+
+145
+00:14:22,500 --> 00:14:29,500
+I think is really impactful and allows folks to open up when they might not be able to you know on board and meet everyone.
+
+146
+00:14:29,500 --> 00:14:34,000
+Now, they can provide a safe space to kind of get to know one another in a real way.
+
+147
+00:14:34,000 --> 00:14:35,700
+I think so good.
+
+148
+00:14:35,800 --> 00:14:37,500
+I completely agree with that.
+
+149
+00:14:37,600 --> 00:14:38,600
+How about you Aaron?
+
+150
+00:14:39,500 --> 00:14:46,800
+Well, I think I, once I read a study that mentions that parallel communication or side-by-side communication Foster's cooperation.
+
+151
+00:14:47,200 --> 00:14:51,900
+And it also Fosters's more intimacy than when you sit across from each other.
+
+152
+00:14:52,500 --> 00:14:54,400
+So it's kind of like a sports team.
+
+153
+00:14:54,400 --> 00:14:56,600
+You face your opponent and your next to your teammate.
+
+154
+00:14:57,100 --> 00:15:03,400
+And what we, what I do a lot is play video games actually, so we have to coordinate.
+
+155
+00:15:03,400 --> 00:15:04,400
+We're kind of team.
+
+156
+00:15:04,900 --> 00:15:19,800
+There's a lot of (Mario) Kart a lot of jackbox games, but Yeah, I think that kind of breaks down the barrier of defensiveness or self-consciousness, and then, you know, it creates a little bit more of a Teen Spirit.
+
+157
+00:15:21,000 --> 00:15:23,400
+I love that and we're seeing some folks.
+
+158
+00:15:23,600 --> 00:15:25,300
+Drop some insight Samantha.
+
+159
+00:15:25,300 --> 00:15:32,600
+I completely agree that it's on the leaders and managers to set the tone MJ looks like you agree with that too.
+
+160
+00:15:32,900 --> 00:15:41,800
+And I think that's, that's really important as people leaders and managers that, you know, were able to maintain Suman.
+
+161
+00:15:41,800 --> 00:15:49,300
+Some of what you're talking about that empathy during times such as this were, there's uncertainty, and some volatility.
+
+162
+00:15:49,300 --> 00:15:56,200
+Even how do we Continue to keep that balance of vulnerability to those things?
+
+163
+00:15:56,200 --> 00:16:03,700
+Yet also strength and resilience, you know, it's such a fine line of a balance, but I believe it can be done.
+
+164
+00:16:04,900 --> 00:16:14,600
+Yeah, I think going on what Aaron said, providing kind of talking about, a lot of Studies have been published recently McKinsey published a study in September about kind of the great resignation.
+
+165
+00:16:14,600 --> 00:16:20,600
+One of the things they found was one of the biggest reasons why people are leaving their jobs is because they don't have a sense of belonging.
+
+166
+00:16:20,700 --> 00:16:21,100
+Longing.
+
+167
+00:16:21,300 --> 00:16:27,600
+And, so I think investing in creating that sense of belonging is actually super, super important.
+
+168
+00:16:27,600 --> 00:16:29,100
+It actually provides business results.
+
+169
+00:16:29,300 --> 00:16:45,400
+So I think people sometimes think about events and experiences which we're doing now and it's kind of it can be a Band-Aid and just kind of something that you need to do, but I think approaching it with a different mindset with intentionality and saying, oh, how do I actually Foster a connection belonging and also still maintaining kind of strong business results in strength.
+
+170
+00:16:45,500 --> 00:16:49,500
+And that balance that you mentioned Gina is super effective important.
+
+171
+00:16:50,400 --> 00:16:53,200
+Yes, love that.
+
+172
+00:16:53,200 --> 00:17:00,100
+And as far as the strengthsfinder, it's a great tool to help you get to know the team members.
+
+173
+00:17:00,100 --> 00:17:00,300
+Now.
+
+174
+00:17:00,300 --> 00:17:01,200
+It's only a tool.
+
+175
+00:17:01,200 --> 00:17:04,400
+All these things were talking about experiences, even strengths finder.
+
+176
+00:17:04,400 --> 00:17:14,800
+If you don't use those insights to actually get to know your team, spend the time, get in the trenches with them, ask the hard questions and really engage with them.
+
+177
+00:17:14,800 --> 00:17:18,000
+Then none of these tools and experiences mean anything.
+
+178
+00:17:18,000 --> 00:17:27,700
+So I think to your point see you in about Belonging like how that's ultimately like I think of Maslow's hierarchy of needs that's like the Pinnacle right?
+
+179
+00:17:27,700 --> 00:17:30,500
+Of having everyone feel that outcome.
+
+180
+00:17:30,500 --> 00:17:41,300
+But there's some basic layers of things that we can provide our team members to get to that sense of belonging on a daily basis.
+
+181
+00:17:42,900 --> 00:17:44,600
+Totally thoughts to that.
+
+182
+00:17:45,300 --> 00:17:45,700
+Yeah.
+
+183
+00:17:45,800 --> 00:17:48,700
+I mean, I think the, there's actually two me.
+
+184
+00:17:48,700 --> 00:17:52,500
+I feel people are really stressed, and it's been kind of challenging couple of years.
+
+185
+00:17:52,500 --> 00:18:01,300
+I will be the first to acknowledge, that's been the case for me, but I think the opportunity we have now is to rethink our relationship with life and work.
+
+186
+00:18:01,300 --> 00:18:07,600
+And so there's this opportunity to actually reset and hopefully we can emerge from this time and say, well, what do I actually?
+
+187
+00:18:07,600 --> 00:18:12,000
+I mean, I spend a lot of time at work, how do I, you know, get the most out of it?
+
+188
+00:18:12,000 --> 00:18:21,400
+And how do we Structure kind of you know, the Cadence and frequency and kind of how we all kind of show up and connect them with one another to where it's actually positive.
+
+189
+00:18:21,400 --> 00:18:31,900
+And, so I am actually super excited about kind of the future in the next few years and the like, we now have a lot of flexibility, but how do we maintain that flexibility?
+
+190
+00:18:31,900 --> 00:18:33,900
+But still retain this connectivity.
+
+191
+00:18:34,000 --> 00:18:34,800
+We can do that virtually.
+
+192
+00:18:34,800 --> 00:18:36,000
+We, that person we can do that.
+
+193
+00:18:36,000 --> 00:18:41,400
+A bunch of different ways, but that's, I think the natural tension the challenge, but also kind of the opportunity that we have.
+
+194
+00:18:42,200 --> 00:18:43,100
+Love that.
+
+195
+00:18:43,700 --> 00:18:47,000
+And just a tack on to the idea of belonging.
+
+196
+00:18:47,000 --> 00:18:51,400
+There's actually a framework called biceps and belonging is the be and biceps.
+
+197
+00:18:51,400 --> 00:18:59,300
+So it's sort of being includes like equality or Equity, predictability, significance and things like that.
+
+198
+00:18:59,900 --> 00:19:09,800
+So I think that, you know, factoring all of those factors into sort of building a team or creating a culture on the team can really help.
+
+199
+00:19:10,500 --> 00:19:11,500
+That is nice.
+
+200
+00:19:11,500 --> 00:19:13,700
+So biceps like that.
+
+201
+00:19:16,400 --> 00:19:21,000
+Could you drop that in chat for us so that we can see what you have is the acronyms?
+
+202
+00:19:21,000 --> 00:19:22,500
+That's pretty powerful there.
+
+203
+00:19:23,000 --> 00:19:30,000
+So we got it some of the deep stuff and that's really the meaningful thing is everything we're talking about right now.
+
+204
+00:19:30,000 --> 00:19:49,400
+It's that over communication connecting its vulnerability, you know, really it engages with our team members in times like this and then There's that layer above it of will, there's a fun experiences and video games to amazing virtual safaris.
+
+205
+00:19:49,800 --> 00:19:50,600
+I mean, with welcome.
+
+206
+00:19:50,600 --> 00:19:55,400
+We're actually playing with this idea of creating our environment as a cafe.
+
+207
+00:19:55,900 --> 00:20:12,500
+And so we have been doing a cafe on a weekly basis where we invite all of our team members to just hang out, and we have got some nice Lounge music, and we have created the environment to feel very like, bring your coffee cup and on us, you know, kind of moment.
+
+208
+00:20:12,500 --> 00:20:17,000
+So let us talk a little bit about those creative ideas and experiences.
+
+209
+00:20:17,800 --> 00:20:20,500
+I know Aaron, you mentioned some Suman.
+
+210
+00:20:20,800 --> 00:20:26,200
+What are you guys doing these days and why are companies pull in from you all?
+
+211
+00:20:26,700 --> 00:20:28,900
+Well, the cool thing is a bit of a backstory.
+
+212
+00:20:28,900 --> 00:20:33,300
+I have had traditional careers until this point and now we get to have a lot of fun, right?
+
+213
+00:20:33,300 --> 00:20:45,400
+So I worked in finance prior to Marco and now we're finding new hosts and empowering them to, you know, bring their creative passions to new customers such as the folks here.
+
+214
+00:20:45,600 --> 00:20:47,000
+And so, just a few.
+
+215
+00:20:47,000 --> 00:20:49,300
+I mean, by the way, I am all for kind of having fun.
+
+216
+00:20:49,300 --> 00:20:53,500
+We just had a meeting with our team and everyone put on a different ridiculous hat just for no reason.
+
+217
+00:20:53,700 --> 00:21:01,900
+And that kind of stuff is like silly, but people, you know, got some smiles and you can just bring a little bit of levity to what is normally kind of perhaps a stressful meeting.
+
+218
+00:21:01,900 --> 00:21:14,700
+But, I mean, just a few in addition to the one that you will see, so I won't cover that one, but there's a brand called Marco ice cream and I found Marco ice cream through a Friend, and they have this kind of global culinary Feast, where they ship you ice cream.
+
+219
+00:21:14,800 --> 00:21:15,500
+It's delicious.
+
+220
+00:21:15,500 --> 00:21:17,100
+All the flavors are super interesting.
+
+221
+00:21:17,300 --> 00:21:28,500
+I am actually going to drop Marco ice cream in the chat, but we just love the name because I love Marco obviously, but that kind of stuff is we have the opportunity.
+
+222
+00:21:28,500 --> 00:21:35,000
+Now to Shameless plug, we have the opportunity to go find the founder and say, hey, why don't you do an experience?
+
+223
+00:21:35,000 --> 00:21:40,100
+Tell everyone about the founding story of Marco ice cream, and they kind of play playlist for each.
+
+224
+00:21:40,400 --> 00:21:41,000
+Ice cream.
+
+225
+00:21:41,200 --> 00:21:49,000
+And so that's one example, we do everything from kind of plant conversations with this, with this hose called free Plants.
+
+226
+00:21:49,300 --> 00:21:54,700
+Everything that you would think of we get the opportunity to from that the heavy stuff to the super light stuff.
+
+227
+00:21:54,700 --> 00:22:00,900
+We get we have the opportunity to bring those hosts on our platform and allow them to show their passions to the world.
+
+228
+00:22:00,900 --> 00:22:08,700
+So Ryan's asking if every one of us gets a pint of your ice cream there, we should have hit some ice cream.
+
+229
+00:22:08,700 --> 00:22:15,100
+I think it's the Maybe the next experience event is like will just totally ice cream and ice cream experiment.
+
+230
+00:22:15,100 --> 00:22:16,400
+Ice cream is absolutely delicious.
+
+231
+00:22:16,400 --> 00:22:20,900
+And so it's for us was we met we joke with the founders like what a great partnership.
+
+232
+00:22:20,900 --> 00:22:22,000
+We both love the name worker.
+
+233
+00:22:22,000 --> 00:22:22,800
+We both love ice cream.
+
+234
+00:22:22,800 --> 00:22:25,700
+So super fun.
+
+235
+00:22:26,000 --> 00:22:29,800
+Aaron, are there any other things that your teams are doing?
+
+236
+00:22:30,900 --> 00:22:33,500
+Yeah, well, obviously we use bonus lie.
+
+237
+00:22:34,200 --> 00:22:40,000
+So I think that really factors into, you know, feeling of being recognized and rewarded at work.
+
+238
+00:22:40,400 --> 00:22:47,300
+So another thing that we do we have very active slack channels, you know, we have a dog chat cat chat, hiking chat.
+
+239
+00:22:47,400 --> 00:22:48,300
+Things like that.
+
+240
+00:22:49,600 --> 00:22:52,000
+Hmm, and that's good.
+
+241
+00:22:52,200 --> 00:22:52,700
+Yeah.
+
+242
+00:22:53,100 --> 00:22:58,700
+It's a we try to get together whenever it's safe and also have any person happy hours.
+
+243
+00:22:58,700 --> 00:23:00,000
+But yeah.
+
+244
+00:23:00,800 --> 00:23:01,600
+So good.
+
+245
+00:23:01,600 --> 00:23:07,700
+Alright, let us move right into Q&A because I can see our virtual Safari guy.
+
+246
+00:23:07,700 --> 00:23:09,300
+Nate is in the green room.
+
+247
+00:23:09,600 --> 00:23:13,100
+So let us pull up that first question there, Josh.
+
+248
+00:23:14,100 --> 00:23:22,700
+From cat, how do you create a sense of belonging and engagement in the workplace without affecting the employees work-life balance?
+
+249
+00:23:24,300 --> 00:23:29,700
+Good question, answer that.
+
+250
+00:23:31,100 --> 00:23:47,900
+I think work-life balance has been very important on our team because, you know, it's a time when everybody has a lot of going on outside of work and I think that one of the most important things is to model work-life balance.
+
+251
+00:23:48,300 --> 00:23:58,200
+So things I do, you know, I try not to work late or I tried to get all my work done within business hours.
+
+252
+00:23:58,300 --> 00:24:02,300
+And if I do work afterwards, I don't think my team on slack.
+
+253
+00:24:02,300 --> 00:24:07,500
+I usually schedule the messages or, you know, save it for tomorrow.
+
+254
+00:24:10,300 --> 00:24:11,200
+Yeah, I guess for us.
+
+255
+00:24:11,400 --> 00:24:14,800
+I think we try to, and we're still working on this boat leading with flexibility.
+
+256
+00:24:14,800 --> 00:24:26,000
+So I actually think that now you might, you know, be in Tahoe and want to take a half-day to go skiing and then work late or work on a And to me, that's completely fine.
+
+257
+00:24:26,000 --> 00:24:28,000
+So long as the work product is great.
+
+258
+00:24:28,000 --> 00:24:31,600
+And I think there's also an element of not kind of overreaching.
+
+259
+00:24:31,600 --> 00:24:41,200
+So we started this by talking about, you know, sharing and having the sense of belonging, but also respecting people's boundaries and what they want to keep within their personal life.
+
+260
+00:24:41,500 --> 00:24:42,400
+They should be able to write.
+
+261
+00:24:42,400 --> 00:24:49,300
+And I think now there's blurred lines between, you know, personal and professional life because everything's working all the time and every can jump on a zoom meeting whatever.
+
+262
+00:24:49,500 --> 00:24:53,900
+And, so I think just respecting boundaries is super important as well.
+
+263
+00:24:56,200 --> 00:24:57,300
+I think that's great.
+
+264
+00:24:57,600 --> 00:24:58,200
+Great points.
+
+265
+00:24:58,200 --> 00:24:58,500
+There.
+
+266
+00:24:58,500 --> 00:24:59,900
+Let us jump right into Kylie's.
+
+267
+00:24:59,900 --> 00:25:00,700
+Question.
+
+268
+00:25:01,600 --> 00:25:05,200
+Everyone on our staff is completely covered up by workload.
+
+269
+00:25:05,500 --> 00:25:10,100
+How can we create bonding connectivity when there's no time for activities?
+
+270
+00:25:10,100 --> 00:25:11,700
+So, I will jump right into this one.
+
+271
+00:25:11,700 --> 00:25:13,000
+Actually bonus.
+
+272
+00:25:13,000 --> 00:25:23,400
+Lee has been an amazing tool for our team, as we're cranking on our work and going meeting to meeting at times were able to recognize one another.
+
+273
+00:25:24,000 --> 00:25:25,300
+In a really easy way.
+
+274
+00:25:25,300 --> 00:25:33,100
+So, all of those recognitions actually go into our values, shoutouts lap Channel, and we're always looking at it.
+
+275
+00:25:33,100 --> 00:25:38,500
+And then what we do is actually call out those shout outs at our weekly all hands.
+
+276
+00:25:38,700 --> 00:25:46,700
+So we have our All Hands meeting on Friday and part of that run is show is to be able to recognize our team members and some of these things.
+
+277
+00:25:46,700 --> 00:25:59,900
+So, you know, being able to just get the asynchronous mentions and Figuring out where it's appropriate to bring up the synchronous mentions.
+
+278
+00:25:59,900 --> 00:26:00,900
+If that makes sense.
+
+279
+00:26:01,000 --> 00:26:03,800
+Am I think a really good way to cover that?
+
+280
+00:26:04,600 --> 00:26:05,600
+Any other thoughts.
+
+281
+00:26:07,200 --> 00:26:13,800
+I guess one thought is for me making the time and prioritizing it from leadership.
+
+282
+00:26:13,800 --> 00:26:23,900
+And so as an example, we have our company Retreat, coming up in May and in previous Retreats, we have actually worked too much and not that enough creative time or kind of fun.
+
+283
+00:26:24,000 --> 00:26:24,600
+One time.
+
+284
+00:26:24,600 --> 00:26:30,700
+And it, what I, what I think is those moments in taking the time, actually pays a lot of dividends because it could be easy to say.
+
+285
+00:26:30,800 --> 00:26:31,400
+Oh my gosh.
+
+286
+00:26:31,400 --> 00:26:36,700
+I actually have to, you know, let us push the kind of connectivity experience.
+
+287
+00:26:36,700 --> 00:26:42,900
+And let us instead just focus on creating the slide deck, but I think it ends up creating business value to do this stuff.
+
+288
+00:26:42,900 --> 00:26:44,500
+If it's done in the right Cadence, right?
+
+289
+00:26:44,500 --> 00:26:46,000
+It shouldn't overwhelm folks.
+
+290
+00:26:46,000 --> 00:26:53,900
+That should be done at the right Cadence, but it actually I think will pay dividends for kind of company and kind of business value and showing that from leadership perspective.
+
+291
+00:26:54,100 --> 00:26:54,600
+Important.
+
+292
+00:26:57,900 --> 00:26:58,600
+Awesome.
+
+293
+00:26:58,600 --> 00:27:00,100
+That I think that's right on.
+
+294
+00:27:00,400 --> 00:27:06,400
+You know, I think yes, we can get overloaded with work, but we need to make time as Leaders as managers.
+
+295
+00:27:06,400 --> 00:27:07,300
+We have to make time.
+
+296
+00:27:07,300 --> 00:27:11,300
+If it's an off-site and your team needs that connectivity, fly him out.
+
+297
+00:27:11,400 --> 00:27:17,600
+It's worth the investment of that focused energy and time whether it's in person or whether it's virtual, so that is right on?
+
+298
+00:27:17,600 --> 00:27:23,600
+Okay, we're starting to wrap up with time before our safari guide, but we could take one more question.
+
+299
+00:27:24,600 --> 00:27:26,400
+Shiloh because it's upvoted.
+
+300
+00:27:26,400 --> 00:27:27,100
+So high.
+
+301
+00:27:27,600 --> 00:27:32,300
+How can you comfortably include introverts in culture?
+
+302
+00:27:33,000 --> 00:27:34,300
+Oh, this is a good question.
+
+303
+00:27:36,800 --> 00:27:38,800
+I think I have a team of introverts.
+
+304
+00:27:39,800 --> 00:27:41,000
+I am an introvert myself.
+
+305
+00:27:42,100 --> 00:27:52,000
+So I think going back to that idea of not necessarily having direct engagement or forcing direct engagement with each other.
+
+306
+00:27:52,000 --> 00:28:03,200
+I think that you know, kind of creating a space where people can talk to each other or be as open as they want to be or as create the boundaries that they want to create.
+
+307
+00:28:03,600 --> 00:28:09,700
+But also, you know, making it very known that You know, Association is possible.
+
+308
+00:28:09,700 --> 00:28:22,600
+It's encouraged whenever you want it and just creating those spaces where we can work as a team together without needing to be in a sort of defensive position.
+
+309
+00:28:25,400 --> 00:28:26,400
+Yeah, I guess it's funny.
+
+310
+00:28:26,400 --> 00:28:28,600
+I start off my fun fact because I am a twin brother.
+
+311
+00:28:28,600 --> 00:28:36,500
+My I am a super extrovert as you write tell if you know, I imagine your expert as well, and he's super introvert, so I can kind of challenge have this challenge my entire life.
+
+312
+00:28:36,600 --> 00:28:40,500
+It's really kind of, I think having respect for how people operate best.
+
+313
+00:28:40,500 --> 00:28:47,500
+I think the cool thing is now in this more distributed World, providing spaces, where introverts can speak up if they, if they want in the right.
+
+314
+00:28:47,500 --> 00:28:55,800
+Setting is perhaps easier because in a purely, we're in a world where you're always in person together the It's might shine, right?
+
+315
+00:28:55,800 --> 00:28:58,000
+They might be the ones who are always ready to order gold.
+
+316
+00:28:58,000 --> 00:29:02,300
+So they might only be the ones that are developing on their relationships and extra introverts by not.
+
+317
+00:29:02,300 --> 00:29:05,600
+So I think creating structuring the space methodically.
+
+318
+00:29:05,600 --> 00:29:12,500
+I think I totally agree and I think being in a virtual or hybrid circumstance, actually, empowers.
+
+319
+00:29:12,600 --> 00:29:24,500
+Introverts, to be able to chat to be able to ask the questions that normally if the extroverts in person are like overbearingly asking all the questions, they're able to have their voice heard.
+
+320
+00:29:24,600 --> 00:29:30,700
+Hurt in a virtual environment and I agree with Samantha what you said, you know, ask people what they want.
+
+321
+00:29:30,800 --> 00:29:33,100
+And that's where activities like strengths finder.
+
+322
+00:29:33,200 --> 00:29:35,700
+And getting to know your team members and how they're wired.
+
+323
+00:29:35,700 --> 00:29:37,700
+Myers Brigg, Enneagram.
+
+324
+00:29:37,900 --> 00:29:43,700
+All of these personality tests can really help, you get to know your team members and vice versa.
+
+325
+00:29:43,700 --> 00:29:47,200
+It's important for them to get to you as their leader as well.
+
+326
+00:29:47,300 --> 00:29:48,400
+So it goes both ways.
+
+327
+00:29:49,000 --> 00:29:52,900
+Well, these are awesome questions and answers.
+
+328
+00:29:52,900 --> 00:29:54,100
+Thank you so much.
+
+329
+00:29:54,100 --> 00:29:54,500
+Sue me.
+
+330
+00:29:54,800 --> 00:29:56,700
+Aaron for all your insights.
+
+331
+00:29:57,900 --> 00:30:03,500
+We're going to now bring up Nate our virtual Safari guide.
+
+332
+00:30:04,000 --> 00:30:05,900
+Join me up on stage to urinate.
+
+333
+00:30:08,000 --> 00:30:08,800
+He's coming up.
+
+334
+00:30:08,800 --> 00:30:09,800
+He's coming up.
+
+335
+00:30:11,900 --> 00:30:12,400
+All right.
+
+336
+00:30:12,400 --> 00:30:15,300
+Well, if the Beats eyeball waiting for Nate of there you are.
+
+337
+00:30:15,900 --> 00:30:18,600
+Hello, the flamingos.
+
+338
+00:30:20,100 --> 00:30:20,500
+Yep.
+
+339
+00:30:20,500 --> 00:30:22,300
+We're here at the Flamingo Pond.
+
+340
+00:30:23,900 --> 00:30:25,100
+I love it.
+
+341
+00:30:25,300 --> 00:30:25,900
+Wow.
+
+342
+00:30:26,000 --> 00:30:33,300
+So Nate, how long have you been guiding these virtual safaris and maybe in real life safaris as well?
+
+343
+00:30:34,200 --> 00:30:34,600
+Yeah.
+
+344
+00:30:34,900 --> 00:30:43,400
+Well, I started here at Safari West in, you know back in 2016 and virtual safaris were something.
+
+345
+00:30:43,400 --> 00:30:45,800
+None of us ever thought of until last year, of course.
+
+346
+00:30:46,900 --> 00:30:55,800
+And you know, it's not been an easy time for any of us, but zoos have a very specific problem in that, their overhead can't go.
+
+347
+00:30:55,900 --> 00:31:00,900
+Go down, you know, we have animals, we have to feed and care for at all times.
+
+348
+00:31:01,100 --> 00:31:02,600
+And a lot of that.
+
+349
+00:31:02,600 --> 00:31:05,200
+We do funded by guest experiences.
+
+350
+00:31:05,200 --> 00:31:17,800
+So when we had no way to bring people to our animals, we decided to bring our animals to them, and that's when we created this virtual Safari program last year.
+
+351
+00:31:18,900 --> 00:31:19,900
+I love it.
+
+352
+00:31:19,900 --> 00:31:22,600
+Well, we're all very excited for you to guide us through.
+
+353
+00:31:22,600 --> 00:31:24,600
+Before we jump into your guide.
+
+354
+00:31:24,600 --> 00:31:29,800
+We do have a pole So Josh, if you could pull up bar Pole.
+
+355
+00:31:31,400 --> 00:31:32,900
+What is your favorite animal?
+
+356
+00:31:33,000 --> 00:31:39,100
+Let us just get a quick feel here to see what everyone's favorite animal is.
+
+357
+00:31:40,500 --> 00:31:42,000
+I am just going to say my name out loud.
+
+358
+00:31:42,000 --> 00:31:43,500
+I think I know what my vote would be.
+
+359
+00:31:44,900 --> 00:31:45,900
+What's yours?
+
+360
+00:31:45,900 --> 00:31:47,100
+I am glad we started here.
+
+361
+00:31:47,900 --> 00:31:48,800
+Oh, it's giraffe.
+
+362
+00:31:49,800 --> 00:31:50,800
+Nice.
+
+363
+00:31:51,800 --> 00:31:53,700
+All right, what about the elephants?
+
+364
+00:31:53,700 --> 00:31:54,100
+I have.
+
+365
+00:31:54,100 --> 00:31:54,800
+We do it.
+
+366
+00:31:54,800 --> 00:31:56,500
+Tell if it's didn't make it to our poll?
+
+367
+00:31:57,600 --> 00:32:04,300
+But yeah, it looks like we have got a lot of draft fans and a lot of I love them all fans.
+
+368
+00:32:04,300 --> 00:32:06,800
+So this is going to be a treat for us.
+
+369
+00:32:06,800 --> 00:32:08,100
+That is the best answer.
+
+370
+00:32:08,100 --> 00:32:08,500
+Yeah.
+
+371
+00:32:09,600 --> 00:32:09,900
+All right, cool.
+
+372
+00:32:12,400 --> 00:32:13,600
+Thank you very much.
+
+373
+00:32:13,900 --> 00:32:18,200
+So we're going to profile, three animals that live here at Safari West.
+
+374
+00:32:18,200 --> 00:32:18,700
+Today.
+
+375
+00:32:18,800 --> 00:32:22,500
+We're starting off strong with a personal favorite of many of you.
+
+376
+00:32:22,500 --> 00:32:25,600
+It looks like according to our poll, the flamingo.
+
+377
+00:32:26,200 --> 00:32:26,600
+Now.
+
+378
+00:32:26,600 --> 00:32:27,600
+This is a live.
+
+379
+00:32:27,600 --> 00:32:28,600
+Look right now.
+
+380
+00:32:28,600 --> 00:32:30,700
+I have got my camera posted right behind us.
+
+381
+00:32:30,700 --> 00:32:33,600
+Right here, pointed straight into the flamingo habitat.
+
+382
+00:32:33,700 --> 00:32:42,100
+These are African lesser, flamingos a little smaller in stature than the Caribbean, flamingos that you might see down at Florida, certain time.
+
+383
+00:32:42,300 --> 00:32:46,400
+Of year, but much more vibrantly colored.
+
+384
+00:32:46,400 --> 00:32:48,300
+Look at those fluorescent legs.
+
+385
+00:32:48,300 --> 00:32:50,100
+They're absolutely beautiful.
+
+386
+00:32:50,500 --> 00:32:51,700
+Now, flamingos.
+
+387
+00:32:51,800 --> 00:32:54,200
+They get their color much the same way.
+
+388
+00:32:54,200 --> 00:32:56,000
+A lot of bright red birds.
+
+389
+00:32:56,000 --> 00:33:00,100
+Do they convert beta-carotene in their diet into paint?
+
+390
+00:33:00,100 --> 00:33:01,100
+Pigment?
+
+391
+00:33:01,200 --> 00:33:06,700
+A lot of you may have heard that flamingos are pink because Eat.
+
+392
+00:33:20,200 --> 00:33:35,800
+It's a beta carotene and them and their bodies can express that beta-carotene as beautiful pink, that Flamingo sticks, its beak.
+
+393
+00:33:35,800 --> 00:33:49,600
+It's there's a filter inside its peak, the going to catch all of those tiny Christian I mention and that's the way it easy thing else.
+
+394
+00:33:49,800 --> 00:33:55,400
+Except okay.
+
+395
+00:34:06,400 --> 00:34:08,600
+That their legs appear to bend backward.
+
+396
+00:34:08,600 --> 00:34:10,600
+Go in the middle of his leg.
+
+397
+00:34:11,000 --> 00:34:12,000
+There were it is an ankle.
+
+398
+00:34:12,000 --> 00:34:23,400
+It's not an e, it's an ankle and it's kind of like when you stand on your tiptoes and your heel is right off the ground.
+
+399
+00:34:23,400 --> 00:34:26,199
+That's like the joint in the middle of their leg.
+
+400
+00:34:27,600 --> 00:34:31,600
+Yeah, but let us see.
+
+401
+00:34:33,699 --> 00:34:34,199
+From here.
+
+402
+00:34:34,199 --> 00:34:37,199
+It looks like we might have some questions coming in.
+
+403
+00:34:37,300 --> 00:34:40,900
+I can take some questions on flamingos, if anybody's got some.
+
+404
+00:34:50,300 --> 00:34:55,199
+If not, if we don't have any questions, I can roll right on through to our next animal.
+
+405
+00:34:55,199 --> 00:34:55,600
+Here.
+
+406
+00:34:56,199 --> 00:34:58,900
+We have another one that I want to feature today.
+
+407
+00:34:59,200 --> 00:35:00,900
+Its habitat is brand-new.
+
+408
+00:35:00,900 --> 00:35:02,300
+We just built it.
+
+409
+00:35:03,000 --> 00:35:03,700
+I will give you a hint.
+
+410
+00:35:03,700 --> 00:35:04,400
+What they are.
+
+411
+00:35:04,800 --> 00:35:07,600
+What is the pig with the longest legs in the world?
+
+412
+00:35:08,200 --> 00:35:09,200
+It's the warthog.
+
+413
+00:35:09,500 --> 00:35:14,000
+We have a beautiful habitat that we just built right over here nigiri and her daughter.
+
+414
+00:35:14,000 --> 00:35:14,400
+Lucy.
+
+415
+00:35:14,400 --> 00:35:19,400
+Just moved in, and I am going to go ahead and pivot my camera, and we're going to do something really.
+
+416
+00:35:19,600 --> 00:35:22,500
+Fine, we're going to feed the warthogs together.
+
+417
+00:35:22,800 --> 00:35:24,100
+So just a moment here.
+
+418
+00:35:24,200 --> 00:35:25,700
+We're going to Pivot the camera.
+
+419
+00:35:37,900 --> 00:35:39,300
+All right.
+
+420
+00:35:39,700 --> 00:35:41,100
+There's our habitat.
+
+421
+00:35:41,800 --> 00:35:45,700
+We're going to head right over to that fence, and we're going to try to feed some warthogs today.
+
+422
+00:35:56,200 --> 00:35:56,800
+A big help.
+
+423
+00:36:00,000 --> 00:36:01,600
+They're going to move to the other side for me.
+
+424
+00:36:19,200 --> 00:36:24,800
+All right, here are our beautiful warthogs.
+
+425
+00:36:25,800 --> 00:36:26,100
+Again.
+
+426
+00:36:26,100 --> 00:36:33,700
+This is nigiri and Lucy right here mother-daughter pair, and we're going to step right up to the fence here.
+
+427
+00:36:34,600 --> 00:36:35,800
+We're going to feed them together.
+
+428
+00:36:36,200 --> 00:36:37,000
+Hey ladies.
+
+429
+00:36:41,000 --> 00:36:42,300
+Are you a little frightened?
+
+430
+00:36:43,800 --> 00:36:46,300
+Let us bring it back over with some of their favorite treats here.
+
+431
+00:36:46,300 --> 00:36:50,700
+We have got some romaine lettuce, which is an absolute favorite of theirs.
+
+432
+00:36:55,900 --> 00:36:56,800
+Nigerien Lucy.
+
+433
+00:36:56,800 --> 00:37:00,800
+Only moved into this habitat about a month and a half ago.
+
+434
+00:37:01,200 --> 00:37:01,800
+Previously.
+
+435
+00:37:01,800 --> 00:37:07,100
+They were living back off stage another out front and center where I guess can come and see them.
+
+436
+00:37:10,000 --> 00:37:11,800
+You guys back for some tasty treats?
+
+437
+00:37:13,300 --> 00:37:14,300
+There we go.
+
+438
+00:37:14,900 --> 00:37:17,200
+One of the things that makes warthogs different from other.
+
+439
+00:37:17,200 --> 00:37:21,400
+Pigs is a Tusk where hogs have these big gigantic tusks.
+
+440
+00:37:22,100 --> 00:37:23,700
+You can see them right here.
+
+441
+00:37:23,900 --> 00:37:25,300
+They are modified teeth.
+
+442
+00:37:25,300 --> 00:37:32,100
+That grow way out of the sides of the mouth, that can be used to defend themselves from big predators.
+
+443
+00:37:33,300 --> 00:37:46,000
+They are one of the fastest members of the hog family top speed on these little warthogs is about 35 miles per hour, which I know blew my mama, and when I first heard it, because that's just crazy fast.
+
+444
+00:37:46,900 --> 00:37:48,000
+They are.
+
+445
+00:37:49,200 --> 00:37:54,300
+Well fast enough to get away from things that might want to eat them, which is a really important thing for him.
+
+446
+00:37:55,000 --> 00:37:55,900
+Oh, hi Lucy.
+
+447
+00:37:57,500 --> 00:37:58,900
+I am glad you guys warmed up to me.
+
+448
+00:37:58,900 --> 00:38:00,700
+There, you made me nervous for a second.
+
+449
+00:38:02,500 --> 00:38:02,800
+Now.
+
+450
+00:38:03,500 --> 00:38:04,100
+One reason.
+
+451
+00:38:04,100 --> 00:38:15,300
+I always feel the need to stand up for the warthog, is I think they get a pretty bad reputation as being animals, that are not cleaned and I don't know why people look down on them for this.
+
+452
+00:38:15,500 --> 00:38:18,000
+Yes, they spend all day rolling around in the mud.
+
+453
+00:38:18,000 --> 00:38:20,900
+But you might do, if you were a hog.
+
+454
+00:38:21,300 --> 00:38:23,600
+You see members of the hog and pig family.
+
+455
+00:38:23,800 --> 00:38:27,200
+One thing that makes them all similar is that they Cannot.
+
+456
+00:38:45,100 --> 00:38:48,500
+They're very, very happy with their new home over here.
+
+457
+00:38:48,700 --> 00:38:55,300
+And if they will stay by the fence, I will come back to my station here and see if we got any questions coming through.
+
+458
+00:38:56,500 --> 00:38:57,300
+All right.
+
+459
+00:38:59,900 --> 00:39:02,200
+I will look at those adorable pigs.
+
+460
+00:39:04,500 --> 00:39:07,100
+Lucy and particular is very energetic.
+
+461
+00:39:07,100 --> 00:39:07,700
+You guys might notice.
+
+462
+00:39:07,700 --> 00:39:08,700
+They have a sort of Moe.
+
+463
+00:39:29,200 --> 00:39:43,600
+All together, I think they deserve a little more credit than they get who do parents and children separate or do they stay together their whole life, you know that the female Offspring will stick around with the family for a while.
+
+464
+00:39:44,100 --> 00:39:48,300
+The male offspring will typically go out and do their own saying once they reach adulthood.
+
+465
+00:39:49,000 --> 00:39:50,600
+So yeah, great question.
+
+466
+00:39:50,600 --> 00:39:51,500
+Thank you, Kylie.
+
+467
+00:39:52,500 --> 00:39:54,400
+All right, let us get over here.
+
+468
+00:39:58,500 --> 00:40:02,100
+Elizabeth I am glad the Lion King's is popular in your house as it is in mind.
+
+469
+00:40:02,100 --> 00:40:03,200
+Love that movie.
+
+470
+00:40:03,300 --> 00:40:05,900
+Absolutely Lucy.
+
+471
+00:40:06,000 --> 00:40:06,900
+Where'd you go here?
+
+472
+00:40:06,900 --> 00:40:08,400
+Let me get her back on camera.
+
+473
+00:40:09,200 --> 00:40:11,800
+Oh, Lucy went and hid behind a tree, but we can get her mom.
+
+474
+00:40:11,800 --> 00:40:12,600
+This is nigiri.
+
+475
+00:40:12,600 --> 00:40:13,800
+She's beautiful too.
+
+476
+00:40:14,400 --> 00:40:15,800
+Let us get nice and close.
+
+477
+00:40:20,700 --> 00:40:24,200
+Now nigiri and Lucy are going to get a neighbor very soon.
+
+478
+00:40:24,200 --> 00:40:25,800
+In the next couple of weeks.
+
+479
+00:40:25,800 --> 00:40:33,300
+I Love Lucy to Colleen and that new neighbor is going to be our male warthog, whose name is pig Nuit.
+
+480
+00:40:33,400 --> 00:40:40,900
+I wish I could show you guys him today, but sadly, he still lives backstage, and he's getting introduced to the new habitat and very, very soon.
+
+481
+00:40:41,100 --> 00:40:42,900
+I know great name, right?
+
+482
+00:40:44,100 --> 00:40:44,500
+Yeah.
+
+483
+00:40:45,900 --> 00:40:48,800
+The girls came out here first, and they're doing great.
+
+484
+00:40:48,800 --> 00:40:50,300
+They absolutely love it.
+
+485
+00:40:51,100 --> 00:40:56,100
+That what they really love is they have a lot of new neighbors, you know.
+
+486
+00:40:56,100 --> 00:40:56,800
+Backstage.
+
+487
+00:40:56,800 --> 00:40:58,200
+It was just warthog town.
+
+488
+00:40:58,400 --> 00:41:01,700
+But out here they live next to a lot of really neat creatures.
+
+489
+00:41:02,100 --> 00:41:15,600
+One of their neighbors being The giraffe, some of my personal favorites.
+
+490
+00:41:15,900 --> 00:41:17,500
+The giraffe now.
+
+491
+00:41:17,800 --> 00:41:20,100
+Did you guys enjoy feeding the warthogs with me?
+
+492
+00:41:20,100 --> 00:41:20,800
+Was that fun?
+
+493
+00:41:22,400 --> 00:41:25,900
+Cool, would you guys like to do the same with the giraffe right now?
+
+494
+00:41:27,800 --> 00:41:28,300
+Awesome.
+
+495
+00:41:28,300 --> 00:41:28,800
+Okay.
+
+496
+00:41:29,200 --> 00:41:33,300
+I have got some of our giraffes favorite food, leaves of the acacia tree.
+
+497
+00:41:35,600 --> 00:41:38,500
+I have a very large bundle of it actually.
+
+498
+00:41:38,700 --> 00:41:41,200
+And we're going to go see if we can get their attention.
+
+499
+00:41:42,000 --> 00:41:42,700
+Alright.
+
+500
+00:41:49,900 --> 00:41:50,700
+Hey everybody.
+
+501
+00:41:50,900 --> 00:41:52,300
+I got your favorite snack.
+
+502
+00:41:56,800 --> 00:41:57,900
+Let us see here.
+
+503
+00:42:04,700 --> 00:42:06,000
+Oh, well, hi there.
+
+504
+00:42:07,100 --> 00:42:07,900
+This is little o.
+
+505
+00:42:07,900 --> 00:42:11,100
+Be obese about a year and a half.
+
+506
+00:42:11,100 --> 00:42:12,500
+Two years old.
+
+507
+00:42:17,000 --> 00:42:19,000
+And this is little baby Leon.
+
+508
+00:42:19,000 --> 00:42:20,800
+Who's not a baby anymore?
+
+509
+00:42:20,900 --> 00:42:21,200
+Guys.
+
+510
+00:42:21,200 --> 00:42:23,700
+She's got to be close to two now as well.
+
+511
+00:42:23,700 --> 00:42:27,500
+And I am you have got to see me next to them.
+
+512
+00:42:27,500 --> 00:42:27,800
+Right?
+
+513
+00:42:27,800 --> 00:42:29,100
+For one and two year olds.
+
+514
+00:42:29,100 --> 00:42:32,300
+These are gigantic giraffe are never small.
+
+515
+00:42:32,300 --> 00:42:37,700
+At any point in the life cycle, giraffe are born, six feet tall and about 100 pounds.
+
+516
+00:42:37,700 --> 00:42:46,700
+They are huge gigantic enormous babies and their wobbly little things, but they usually up and walking in about 30 minutes or less.
+
+517
+00:42:46,900 --> 00:42:47,700
+For their born.
+
+518
+00:42:49,800 --> 00:42:51,900
+And then after that, you may have guessed.
+
+519
+00:42:51,900 --> 00:43:00,300
+They almost double in size and the first year Gotta Be This Tall making me feel real short over here.
+
+520
+00:43:00,500 --> 00:43:02,300
+Now again, we do have their favorite food over here.
+
+521
+00:43:02,300 --> 00:43:03,600
+These are leaves of the acacia tree.
+
+522
+00:43:03,600 --> 00:43:07,500
+We grow this here at Safari West because we know how much the giraffe love it.
+
+523
+00:43:07,800 --> 00:43:10,000
+Of course, you know, we have about 900 animals here.
+
+524
+00:43:10,000 --> 00:43:12,700
+We can't grow enough on our 400 Acres, defeat everything.
+
+525
+00:43:12,900 --> 00:43:15,500
+But as many of their favorite treats that we can grow.
+
+526
+00:43:15,500 --> 00:43:18,500
+We do try to hear that guys.
+
+527
+00:43:22,000 --> 00:43:23,200
+Look at that tongue.
+
+528
+00:43:23,400 --> 00:43:25,400
+Did you guys know that the giraffe has a tongue?
+
+529
+00:43:25,400 --> 00:43:28,900
+That is almost an inch long for every foot tall that they are?
+
+530
+00:43:29,200 --> 00:43:32,900
+That means a full-grown giraffe at you know, 15 to 18 feet.
+
+531
+00:43:32,900 --> 00:43:36,300
+Tall has a tongue that is 15 to 18 inches long.
+
+532
+00:43:36,700 --> 00:43:41,800
+It is also prehensile, which means they can wrap it around things and pick them up.
+
+533
+00:43:41,800 --> 00:43:44,500
+Kind of like you're seeing them do with our branches here.
+
+534
+00:43:47,200 --> 00:43:48,100
+We want another one.
+
+535
+00:43:48,300 --> 00:43:49,600
+I am still chewing up there.
+
+536
+00:43:50,300 --> 00:43:51,500
+Something that's always blown.
+
+537
+00:43:51,500 --> 00:43:55,100
+My mind is the number of bones that the giraffe has in its neck.
+
+538
+00:43:55,600 --> 00:44:00,500
+You may know this, but human beings us, we have seven vertebrae in our neck.
+
+539
+00:44:00,500 --> 00:44:08,200
+That these little bone discs, that hold our spine together and shockingly, enough giraffe have the same.
+
+540
+00:44:08,200 --> 00:44:12,200
+Number giraffe, also have seven vertebrae in their neck.
+
+541
+00:44:12,200 --> 00:44:14,800
+Only, whereas ours are these little bone discs.
+
+542
+00:44:14,800 --> 00:44:18,200
+There's are these giant Antic phone logs.
+
+543
+00:44:20,300 --> 00:44:22,700
+Well, it looks like we might have a third coming to join us.
+
+544
+00:44:22,700 --> 00:44:24,700
+This is tarah over here.
+
+545
+00:44:24,800 --> 00:44:26,300
+Hey, Tara, how we do?
+
+546
+00:44:27,800 --> 00:44:29,100
+Would you like a snack?
+
+547
+00:44:34,500 --> 00:44:35,800
+We're going to think about it.
+
+548
+00:44:39,400 --> 00:44:41,300
+We're actually doing this a little bit special.
+
+549
+00:44:41,300 --> 00:44:43,500
+I am not sure if you notice they're a little hesitant.
+
+550
+00:44:43,600 --> 00:44:46,900
+We have actually not done giraffe meetings in this location before.
+
+551
+00:44:47,200 --> 00:44:49,100
+But special for our presentation today.
+
+552
+00:44:49,100 --> 00:44:56,900
+We thought we'd try this out and at least a little one, the one and two year, olds seem to be enjoying the new spot over here.
+
+553
+00:44:58,100 --> 00:45:04,000
+I should mention, the giraffe has one of the largest hearts of any land mammal on planet Earth.
+
+554
+00:45:04,000 --> 00:45:06,300
+A giraffe heart is on average.
+
+555
+00:45:07,000 --> 00:45:11,800
+Around 25 pounds, which is absolutely gigantic.
+
+556
+00:45:12,300 --> 00:45:14,300
+But there's a good reason, it's that big.
+
+557
+00:45:14,600 --> 00:45:15,900
+What is the hearts main job.
+
+558
+00:45:15,900 --> 00:45:20,900
+It's pumping blood throughout the body and particularly from the chest to the brain on this animal.
+
+559
+00:45:20,900 --> 00:45:22,800
+That's a distance of six to seven feet.
+
+560
+00:45:22,800 --> 00:45:24,000
+That's a big job.
+
+561
+00:45:24,000 --> 00:45:30,000
+That requires a very big heart and that's part of the reason why the drafts heart is as large as it is.
+
+562
+00:45:34,200 --> 00:45:36,700
+Alright, I am going to try to stick some of these in the fence here.
+
+563
+00:45:37,300 --> 00:45:41,400
+Keep them occupied and step back to you guys and get some more questions here.
+
+564
+00:45:43,200 --> 00:45:47,800
+Let us just make sure they get plenty of snacks because they certainly deserve it.
+
+565
+00:45:47,900 --> 00:45:49,200
+They have been great.
+
+566
+00:45:55,900 --> 00:45:56,800
+All right.
+
+567
+00:46:00,800 --> 00:46:01,800
+Excellent.
+
+568
+00:46:03,100 --> 00:46:04,100
+All right.
+
+569
+00:46:11,400 --> 00:46:16,000
+Okay, it looks like we did have some questions role in first one.
+
+570
+00:46:16,000 --> 00:46:20,100
+I am seeing here Colleen would like to like me to explain the nubbins.
+
+571
+00:46:20,400 --> 00:46:24,600
+If you're referring to the little things that stick up out of the top of the giraffe's head.
+
+572
+00:46:24,600 --> 00:46:26,000
+Those are called ossicones.
+
+573
+00:46:26,000 --> 00:46:29,400
+And you know what I should do zoom out just a little bit.
+
+574
+00:46:30,000 --> 00:46:31,000
+So you guys are seeing them.
+
+575
+00:46:31,200 --> 00:46:32,100
+Let us see here.
+
+576
+00:46:35,300 --> 00:46:35,900
+There we go.
+
+577
+00:46:35,900 --> 00:46:37,300
+That probably ought to do it.
+
+578
+00:46:38,400 --> 00:46:39,300
+There we go.
+
+579
+00:46:39,800 --> 00:46:45,400
+So the giraffe has a horn like structure that sticks up out of the top of their head.
+
+580
+00:46:45,700 --> 00:46:48,300
+It is called a gnostic own, which is a word.
+
+581
+00:46:48,400 --> 00:46:49,000
+I didn't know.
+
+582
+00:46:49,000 --> 00:46:56,700
+Before I started working here, six years ago, but also cones are like a horn, but they're covered in skin and fur giraffe.
+
+583
+00:46:56,700 --> 00:46:59,700
+Were one of only two animals on the planet that have them.
+
+584
+00:47:00,100 --> 00:47:04,500
+The other one being called the Okapi, lesser-known forest, animal.
+
+585
+00:47:04,500 --> 00:47:07,400
+That comes from like deep in the Congo rainforest.
+
+586
+00:47:07,900 --> 00:47:08,100
+Now.
+
+587
+00:47:08,800 --> 00:47:10,200
+What are they useful for?
+
+588
+00:47:11,100 --> 00:47:13,100
+Have you ever seen a giraffe bike with one another?
+
+589
+00:47:13,600 --> 00:47:16,200
+If you haven't it's absolutely wild.
+
+590
+00:47:16,200 --> 00:47:18,600
+It's called necking to giraffe.
+
+591
+00:47:18,600 --> 00:47:20,300
+Will walk up side by side.
+
+592
+00:47:20,300 --> 00:47:35,600
+They will press the sides of their bodies against each other, and they will swing their heads in next to each other, as hard as they can use their head, almost like a wrecking ball to strike one another and that's as far as we know what they're useful for.
+
+593
+00:47:36,400 --> 00:47:41,700
+Now along with that, I always love to mention this fighting style might be.
+
+594
+00:47:41,700 --> 00:47:45,200
+Why giraffe or so Tall part of me.
+
+595
+00:47:45,200 --> 00:47:50,900
+If you grew up like me in school, you learned that giraffe or tall to eat leaves from the tallest trees.
+
+596
+00:47:51,700 --> 00:48:02,600
+Well, that might not be the reason you know, the funny thing about animal Science Biology is that the new research comes out every single year and everything?
+
+597
+00:48:02,600 --> 00:48:06,000
+We learn about one animal changes, what we thought we might have known about another.
+
+598
+00:48:06,400 --> 00:48:15,800
+So a few years back, biologists noticed this really cool Critter called the gerenuk and the gerenuk are an antelope that has learned to stand on.
+
+599
+00:48:15,800 --> 00:48:18,100
+Its hind legs to reach higher.
+
+600
+00:48:18,100 --> 00:48:28,300
+Branches in a tree not as tall a branch is a giraffe but still higher branches by standing on hind legs if that's something that's possible for a four-legged animal.
+
+601
+00:48:29,100 --> 00:48:34,800
+Why then would the giraffe develop a 6-foot neck Instead, This one seemed easier than the other.
+
+602
+00:48:35,400 --> 00:48:38,300
+So we don't For sure, but it led us to start questioning.
+
+603
+00:48:38,600 --> 00:48:44,900
+Could there be another reason why the giraffe has such a long neck and that fighting style might be it?
+
+604
+00:48:45,300 --> 00:48:49,900
+You see male giraffe fight over taxes to female giraffe by swinging their necks it each other.
+
+605
+00:48:50,400 --> 00:49:03,500
+If that's the case, doesn't it stand to reason that the Giraffe with the longest, strongest neck might win the most fights and if that's the case, wouldn't the Giraffe with the longest neck produce the most Offspring every generation.
+
+606
+00:49:04,200 --> 00:49:05,900
+Maybe that's why giraffe are so tall.
+
+607
+00:49:06,300 --> 00:49:08,300
+Or maybe it's the eating leaves from trees thing.
+
+608
+00:49:08,400 --> 00:49:09,600
+Or maybe it's a third thing.
+
+609
+00:49:09,600 --> 00:49:13,200
+That some young person today will grow up to learn about them to be teaching.
+
+610
+00:49:13,200 --> 00:49:13,700
+All of us.
+
+611
+00:49:13,700 --> 00:49:14,200
+One day.
+
+612
+00:49:14,700 --> 00:49:16,400
+That's the fun thing about studying animals.
+
+613
+00:49:19,100 --> 00:49:20,000
+Let us see.
+
+614
+00:49:20,600 --> 00:49:21,800
+Oh Ryan, you nailed it.
+
+615
+00:49:21,800 --> 00:49:23,400
+Ossicones right there in the chat.
+
+616
+00:49:23,400 --> 00:49:23,900
+Thank you.
+
+617
+00:49:24,500 --> 00:49:25,100
+Let us see.
+
+618
+00:49:25,600 --> 00:49:26,300
+Alexandria.
+
+619
+00:49:26,300 --> 00:49:29,300
+Okapi, babies are the cutest things I have ever seen.
+
+620
+00:49:29,300 --> 00:49:30,100
+They are great.
+
+621
+00:49:30,200 --> 00:49:32,700
+Danielle do asks a great question.
+
+622
+00:49:32,700 --> 00:49:34,800
+Do they sleep standing up?
+
+623
+00:49:35,200 --> 00:49:36,100
+Yes, director.
+
+624
+00:49:36,200 --> 00:49:39,200
+Do sleep standing up, can they sleep sitting down?
+
+625
+00:49:39,200 --> 00:49:43,100
+Sure, they can but it puts him in a really vulnerable position.
+
+626
+00:49:43,500 --> 00:49:59,600
+Giraffe takes so long to exit a seated position that if a lion comes Upon A seated giraffe that giraffes in really big trouble, right then and there but giraffe are capable of sleeping standing up.
+
+627
+00:49:59,700 --> 00:50:02,400
+So in most cases, that's what they're going to do because that's what safer.
+
+628
+00:50:03,900 --> 00:50:04,700
+All right.
+
+629
+00:50:05,000 --> 00:50:09,100
+Boo, and it looks like MJ managed to share some footage of giraffe necking.
+
+630
+00:50:09,100 --> 00:50:10,200
+Thank you so much for that.
+
+631
+00:50:10,200 --> 00:50:12,600
+It's always great to have a visual representation.
+
+632
+00:50:13,500 --> 00:50:14,500
+And sure Danielle.
+
+633
+00:50:14,500 --> 00:50:15,800
+You can keep calling them nubbins.
+
+634
+00:50:15,800 --> 00:50:16,600
+That's fine.
+
+635
+00:50:17,100 --> 00:50:18,700
+How did they not get tired sleeping?
+
+636
+00:50:20,600 --> 00:50:22,100
+No one's ever asked me that question.
+
+637
+00:50:22,400 --> 00:50:24,300
+That's a good question actually.
+
+638
+00:50:27,000 --> 00:50:27,900
+All right, cool.
+
+639
+00:50:28,500 --> 00:50:33,300
+Well while we're here, I am just going to share a couple more my favorite giraffe facts with you guys.
+
+640
+00:50:33,300 --> 00:50:36,900
+And if you have any other questions, please feel free to put them in the chat here.
+
+641
+00:50:37,500 --> 00:50:42,200
+One thing I always love to share is that the giraffe can kick tremendously hard.
+
+642
+00:50:42,600 --> 00:50:47,900
+If you just have what we did to go off of, you would probably consider the giraffe a gentle giant.
+
+643
+00:50:48,000 --> 00:50:50,100
+And for the most part.
+
+644
+00:50:50,300 --> 00:50:54,300
+They really are, but just like any other animal that's life is threatened.
+
+645
+00:50:54,300 --> 00:50:57,000
+The fight or flight response kicks in, and they're fast.
+
+646
+00:50:57,000 --> 00:50:58,900
+They can run like 35 miles per hour.
+
+647
+00:50:59,000 --> 00:51:03,700
+So maybe flight is the option but if fighting is the option, the giraffe delivers a kick.
+
+648
+00:51:03,700 --> 00:51:08,400
+So powerful that if it kicks a lion in the head, it will not just kill that lion.
+
+649
+00:51:08,700 --> 00:51:13,700
+It could very well shatter that Lion's skull which is just wild.
+
+650
+00:51:14,100 --> 00:51:16,400
+So don't ever think the giraffes a pushover.
+
+651
+00:51:16,400 --> 00:51:19,300
+They can take some pretty serious predators in a fight.
+
+652
+00:51:20,200 --> 00:51:21,000
+Now, let us see.
+
+653
+00:51:22,000 --> 00:51:25,100
+Jade asks, how do we tell them apart?
+
+654
+00:51:25,400 --> 00:51:26,300
+Great question.
+
+655
+00:51:27,000 --> 00:51:27,500
+Frankly.
+
+656
+00:51:27,500 --> 00:51:30,100
+It's because we have been spending so much time with them.
+
+657
+00:51:30,500 --> 00:51:34,000
+I mean, for one every giraffe has a unique spot pattern.
+
+658
+00:51:34,000 --> 00:51:34,800
+No, two are alike.
+
+659
+00:51:34,800 --> 00:51:36,200
+They're like human fingerprints.
+
+660
+00:51:36,200 --> 00:51:43,200
+So if you have a favorite giraffe, you could sort of memorize what its pattern looks like, for example, we have a giraffe that's got one.
+
+661
+00:51:43,200 --> 00:51:50,100
+Perfect heart-shaped spot on her butt, and we know that one is Kasia because of that.
+
+662
+00:51:50,200 --> 00:51:50,700
+Spot.
+
+663
+00:51:50,700 --> 00:51:53,200
+Now unfortunately, she's hanging out in the barn today.
+
+664
+00:51:53,200 --> 00:51:55,500
+So I can't show you guys her right now.
+
+665
+00:51:55,900 --> 00:52:02,500
+But yeah, if you have got a favorite spot, look for easily or a favorite drop, look for easily identifiable spots and that's a great way to figure out.
+
+666
+00:52:02,500 --> 00:52:04,700
+Who's who Samantha asks.
+
+667
+00:52:04,700 --> 00:52:06,300
+What is my favorite part of my job?
+
+668
+00:52:07,000 --> 00:52:10,800
+What I just did with you guys feeding the giraffe.
+
+669
+00:52:11,100 --> 00:52:12,300
+It is the most fun.
+
+670
+00:52:12,300 --> 00:52:18,400
+I think they're the most fascinating animals and I love getting to share my favorite things about them with folks, like you.
+
+671
+00:52:18,400 --> 00:52:20,000
+So that's probably my favorite thing.
+
+672
+00:52:22,100 --> 00:52:25,400
+Alicia asks, are they Anjali?
+
+673
+00:52:25,400 --> 00:52:30,600
+It's and have a modified me, it acts like a shelf allows for standing for long periods of time.
+
+674
+00:52:30,700 --> 00:52:34,400
+So yes, you know, I can't speak to the knee thing as much.
+
+675
+00:52:34,400 --> 00:52:36,100
+I am not quite sure how that works.
+
+676
+00:52:37,100 --> 00:52:38,700
+But yeah, you are, right.
+
+677
+00:52:38,700 --> 00:52:39,300
+They are Anjali.
+
+678
+00:52:39,300 --> 00:52:42,700
+It's and it sounds like you might know better than me how their knees works.
+
+679
+00:52:42,700 --> 00:52:44,700
+So, thank you for sharing that with the group.
+
+680
+00:52:45,200 --> 00:52:47,100
+What is the life expectancy of a giraffe?
+
+681
+00:52:47,300 --> 00:52:50,000
+We're talking about 18 years ish in the wild.
+
+682
+00:52:50,500 --> 00:52:51,900
+Longer under human care.
+
+683
+00:52:52,200 --> 00:52:57,700
+Our oldest giraffe right now is jamala, and she's about 26, and she's by no means a record breaker.
+
+684
+00:52:57,700 --> 00:53:00,800
+I think the oldest one in the United States right now is 31.
+
+685
+00:53:02,600 --> 00:53:05,200
+Alright from Pom-Pom.
+
+686
+00:53:05,200 --> 00:53:07,000
+How much do they eat in a day?
+
+687
+00:53:08,500 --> 00:53:09,300
+It's a lot.
+
+688
+00:53:09,400 --> 00:53:15,000
+I mean, they grow to what, like to 3,000 pounds by eating nothing but a beliefs that takes a lot of leaves.
+
+689
+00:53:15,300 --> 00:53:17,500
+I don't have a number on a deck.
+
+690
+00:53:18,000 --> 00:53:18,300
+Really?
+
+691
+00:53:18,300 --> 00:53:20,100
+How many pounds of food they eat a day?
+
+692
+00:53:20,200 --> 00:53:23,300
+I know our Rhino seat about 100 pounds of food every day, and I can't imagine.
+
+693
+00:53:23,300 --> 00:53:25,800
+It's nearly that much but it's a large number.
+
+694
+00:53:26,800 --> 00:53:27,500
+Let us see.
+
+695
+00:53:30,000 --> 00:53:35,100
+So, if the giraffe has a gnarly kick, would it be more dangerous for you to be in the warthog area or the De rap area?
+
+696
+00:53:35,200 --> 00:53:37,600
+That is an interesting question Jade.
+
+697
+00:53:39,400 --> 00:53:45,300
+It's probably going to be it depends on the individual, you know, just like in terms of people.
+
+698
+00:53:45,600 --> 00:53:52,700
+There's people that are a little bit, you know, shorter tempered, then others with animals.
+
+699
+00:53:52,700 --> 00:53:54,700
+There are some that are shorter temper than others.
+
+700
+00:53:54,700 --> 00:54:01,900
+So if it's my choice between a friendly giraffe and a grumpy War Of course, I want to be out with the friendly giraffe.
+
+701
+00:54:02,200 --> 00:54:06,300
+If it's the other way around, then I want to be in the other habitat there.
+
+702
+00:54:06,900 --> 00:54:08,400
+So tricky question to answer.
+
+703
+00:54:08,400 --> 00:54:11,400
+I think it all would have to come down to the individuals temperament.
+
+704
+00:54:11,400 --> 00:54:13,000
+Not necessarily the species.
+
+705
+00:54:16,400 --> 00:54:17,400
+How much sleep do they need?
+
+706
+00:54:17,400 --> 00:54:19,600
+Not a lot, not a lot of sleep.
+
+707
+00:54:20,800 --> 00:54:21,900
+The in the wild.
+
+708
+00:54:22,400 --> 00:54:27,200
+They think they spent roughly 15 to 20 hours a day, eating and foraging.
+
+709
+00:54:27,900 --> 00:54:29,300
+That does not leave a lot of time.
+
+710
+00:54:29,400 --> 00:54:32,200
+I am left over for Sleep who names them.
+
+711
+00:54:32,200 --> 00:54:37,900
+Their Keepers, do the folks that you know, help them, give birth folks that feed them every day.
+
+712
+00:54:37,900 --> 00:54:39,500
+The folks that help them with vet care.
+
+713
+00:54:39,500 --> 00:54:40,500
+If they need it.
+
+714
+00:54:40,700 --> 00:54:45,200
+The ones that are here holidays weekends, all this time.
+
+715
+00:54:45,200 --> 00:54:46,500
+Making sure they're happy and healthy.
+
+716
+00:54:46,600 --> 00:54:51,100
+They definitely are in the right to name them and that's who gets to, alright.
+
+717
+00:54:53,200 --> 00:54:54,700
+Colleen will stick with flamingos.
+
+718
+00:54:54,700 --> 00:54:55,800
+All right, fair enough.
+
+719
+00:54:56,400 --> 00:54:59,400
+Well, thank you guys so much for your questions.
+
+720
+00:54:59,900 --> 00:55:04,500
+I had an absolutely great time showing you three of my favorite animals here.
+
+721
+00:55:04,500 --> 00:55:06,500
+I hope you enjoyed getting to feed them with me.
+
+722
+00:55:07,200 --> 00:55:08,200
+It's a lot of fun for me.
+
+723
+00:55:08,200 --> 00:55:09,900
+I hope it was a lot of fun for you.
+
+724
+00:55:10,600 --> 00:55:14,100
+And if you want to know more about us, we are Safari West on.
+
+725
+00:55:14,100 --> 00:55:17,000
+You can look us up and come on out and see us sometime.
+
+726
+00:55:17,000 --> 00:55:18,000
+If you're interested.
+
+727
+00:55:18,600 --> 00:55:19,500
+Amazing.
+
+728
+00:55:19,500 --> 00:55:21,100
+Thank you so much Nate.
+
+729
+00:55:21,600 --> 00:55:22,300
+Thanks for dropping.
+
+730
+00:55:22,500 --> 00:55:24,900
+All the knowledge on the animals as well.
+
+731
+00:55:25,000 --> 00:55:26,300
+Really appreciate it.
+
+732
+00:55:26,500 --> 00:55:27,200
+All right.
+
+733
+00:55:27,200 --> 00:55:33,400
+Well that wraps up our time, and we are so happy that each of you are able to be part of this.
+
+734
+00:55:33,600 --> 00:55:44,500
+Now, note that this took place on welcome, which is our employee event platform, and we can enable and supercharge, these type of experiences pretty easily.
+
+735
+00:55:44,500 --> 00:55:48,100
+If any of you are interested, feel free to connect with us.
+
+736
+00:55:48,200 --> 00:55:56,900
+And in the meantime, I do have a lounge room open, so go ahead and click on the tab above and if you're still around, would love to chat.
+
+737
+00:55:56,900 --> 00:56:00,000
+And let us share some flamingos facts together.
+
+738
+00:56:00,200 --> 00:56:03,700
+Check out our next events coming up in April, actually, next week.
+
+739
+00:56:03,700 --> 00:56:07,800
+We have got jobin Webb, who is the American Idol?
+
+740
+00:56:07,800 --> 00:56:10,900
+Top finalists who's doing a special acoustic session?
+
+741
+00:56:10,900 --> 00:56:11,900
+That's next Wednesday.
+
+742
+00:56:12,100 --> 00:56:16,200
+So check out our events page and I hope to see you then.
+
+743
+00:56:16,500 --> 00:56:16,900
+All right.
+
+744
+00:56:16,900 --> 00:56:18,900
+Y'all have a wonderful day.
+
+745
+00:56:19,400 --> 00:56:19,600
+See.

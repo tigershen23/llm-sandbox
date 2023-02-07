@@ -1,0 +1,2408 @@
+
+1
+00:20:05,715 --> 00:20:09,315
+Hi everyone, welcome to today's event.
+
+2
+00:20:09,315 --> 00:20:25,215
+We're so excited to have you here, and we're joined by an incredible panel of CEOs, bleeding distributed teams, and we're going to talk about the top trends and predictions for leading distributed teams in 2023.
+
+3
+00:20:25,415 --> 00:20:29,315
+So I am really excited about hearing what they have to say.
+
+4
+00:20:29,515 --> 00:20:32,615
+Feel free to drop in chat where you're tuning in from.
+
+5
+00:20:32,615 --> 00:20:42,715
+I am in Vegas today, we have some Folks here from Puerto Rico, Ireland Mendocino, California Quarry in Orlando, Florida.
+
+6
+00:20:42,715 --> 00:20:46,415
+It's great to have you all joining from all over the world.
+
+7
+00:20:46,415 --> 00:20:51,615
+This is really exciting, and we have got in Q&A that tab, right?
+
+8
+00:20:51,615 --> 00:21:00,615
+That you see, right over there, feel free to drop any questions that you have any burning questions about Trends and predictions.
+
+9
+00:21:01,315 --> 00:21:04,015
+Please throw them in there and upvote.
+
+10
+00:21:04,015 --> 00:21:07,015
+Any questions that really resonate to you.
+
+11
+00:21:07,715 --> 00:21:11,615
+All right, so about our topic today, you know, one thing is clear.
+
+12
+00:21:12,415 --> 00:21:18,515
+Obviously, we are not the same people from 2020 to this collective experience.
+
+13
+00:21:18,515 --> 00:21:31,915
+We have all had over the past few years has left truly a lasting imprint and it's completely redefining the role of work and balance and wellness in our lives today.
+
+14
+00:21:32,415 --> 00:21:47,015
+You know, according to ladders 25% of All professional jobs in North America, will be remote by the end of 2020 to and remote opportunities will continue to increase through 2023.
+
+15
+00:21:47,815 --> 00:21:54,515
+So today I am really excited about what we're going to talk about with our CEOs, as they're leading distribute.
+
+16
+00:21:54,515 --> 00:22:05,215
+Team teams, we want to hear what they're seeing, what are the trends, the predictions they're picking up right now and into the next 12 months and 24 months.
+
+17
+00:22:05,315 --> 00:22:10,015
+It's, so we have got CEOs from scoop bucket list and welcome.
+
+18
+00:22:10,015 --> 00:22:12,215
+They're designing tools for the future.
+
+19
+00:22:12,415 --> 00:22:14,915
+And before I bring them on, let us do a quick little poll.
+
+20
+00:22:16,015 --> 00:22:19,615
+So Katie who's our lovely producer in The Green Room?
+
+21
+00:22:19,815 --> 00:22:20,115
+Hello?
+
+22
+00:22:20,115 --> 00:22:20,515
+Hello.
+
+23
+00:22:20,515 --> 00:22:21,815
+Thank you for pulling that poll.
+
+24
+00:22:22,915 --> 00:22:32,015
+Which one of these do you think will be a top Trend in 2023, remote only work hybrid work in person?
+
+25
+00:22:32,015 --> 00:22:38,915
+Work mental health and well-being, access to Talent OR flying First which of these feel free to place your votes.
+
+26
+00:22:40,015 --> 00:22:44,915
+All right, we see mental health and well-being and hybrid work.
+
+27
+00:22:44,915 --> 00:22:45,715
+Being top.
+
+28
+00:22:45,715 --> 00:22:47,415
+Top up there, okay?
+
+29
+00:22:47,515 --> 00:22:47,915
+All right.
+
+30
+00:22:47,915 --> 00:22:52,815
+So with that, I would love to introduce our panelists to the stage.
+
+31
+00:22:52,815 --> 00:23:01,715
+Please join me here, Rob Shadow, CEO, scoop, Jason Lindstrom, CEO of bucket list rewards and Roberto Ortiz.
+
+32
+00:23:01,715 --> 00:23:03,615
+CEO of welcome.
+
+33
+00:23:07,515 --> 00:23:08,715
+Hi.
+
+34
+00:23:10,615 --> 00:23:17,315
+Hey Dina it's going well, thank you for opening up and hosting the conversation looking forward to.
+
+35
+00:23:17,315 --> 00:23:19,915
+Absolutely, we are very excited about this.
+
+36
+00:23:20,215 --> 00:23:20,515
+Could eat.
+
+37
+00:23:20,715 --> 00:23:26,515
+You introduce yourselves and maybe tell us a little bit about what you're building for our who distributed teams.
+
+38
+00:23:26,515 --> 00:23:29,615
+And I will start with you rob Roberto.
+
+39
+00:23:30,115 --> 00:23:31,615
+Got Two Brothers Rubber.
+
+40
+00:23:33,115 --> 00:23:37,015
+And to be clear, we just coordinate this in the green room because we got to Rob's up here.
+
+41
+00:23:37,015 --> 00:23:39,715
+And I am doing by Roberto today buddy.
+
+42
+00:23:39,715 --> 00:23:40,715
+Like Roberto CEO.
+
+43
+00:23:40,715 --> 00:23:42,115
+Co-founder of welcome.
+
+44
+00:23:42,415 --> 00:24:03,215
+We, we built the technology that's being used for this event are Technologies, helps companies that are driving Table and remote employee experiences, and they're asking the question how to engage their employees and better ways how to communicate and better ways than the technology that we were used to prior to this.
+
+45
+00:24:03,215 --> 00:24:04,915
+And so welcome, fits that Gap.
+
+46
+00:24:04,915 --> 00:24:16,115
+So we Empower connection of this remote Workforce, and we're happy, we're happy to just be serving sort of the shift and this future of work that we all find ourselves.
+
+47
+00:24:20,615 --> 00:24:25,215
+Dr. Rob and thanks again for saving the name.
+
+48
+00:24:25,215 --> 00:24:39,315
+Rob's me for this conversation is much appreciated, so I am Rob I am the CEO and co-founder at scoop, we're big fans of hybrid work, you know, and believe pretty great deeply in the future is being hybrid and some capacity.
+
+49
+00:24:39,315 --> 00:24:50,615
+And one of the things that we started to find very early in the pandemic though, was that if hybrid work is fundamentally about choice and there are good reasons why you might want to.
+
+50
+00:24:50,615 --> 00:24:53,315
+To work from home or work in the office on a given day.
+
+51
+00:24:53,715 --> 00:25:01,515
+Nothing really is worse than if you decide to go into the office, you find no one else has their, you spend the day on video conference and you say, well, this is kind of waste of time.
+
+52
+00:25:01,515 --> 00:25:02,315
+Why do we do this?
+
+53
+00:25:02,315 --> 00:25:07,515
+And so we built software that's built into slack and Google Calendar and chrome.
+
+54
+00:25:07,815 --> 00:25:20,315
+That allows you to see flexibly who's working, where who's planning on working, where updated status and calendar, it will pass slack updating slack, it will pass to other platforms, make it the hybrid work is a little bit easier to operate.
+
+55
+00:25:20,715 --> 00:25:28,315
+You can actually unlock that flexibility and when you go to the office, always feels worth it, so appreciate being invited and excited to do this.
+
+56
+00:25:30,415 --> 00:25:31,115
+Thanks, Rob.
+
+57
+00:25:31,615 --> 00:25:33,215
+Jason, awesome.
+
+58
+00:25:33,515 --> 00:25:34,815
+My name is Jason Lindstrom.
+
+59
+00:25:34,815 --> 00:25:36,315
+Lovely to meet everybody.
+
+60
+00:25:36,315 --> 00:26:09,315
+Virtually, I am the CEO of over at Buck of the street wards where we are a rewards and recognition platform and like fundamentally when you take great care of your staff, they perform better, and they stick around longer and Pockets rewards is all about, you know, recognizing both the micro moments and the big achievements of your staff which helps reduce turnover by as much as 80% in precreasing Coke, Employee Engagement by 25%, and I am just personally am very deeply interested in building, high-performing cultures.
+
+61
+00:26:09,315 --> 00:26:12,315
+And we're on a mission to help build the best cultures in the world.
+
+62
+00:26:12,415 --> 00:26:22,015
+And so today's topic is super relevant, I am happy to share any sort of tips tricks or insights into the future because like we're Berto and Rob.
+
+63
+00:26:22,015 --> 00:26:29,715
+I am sure I have had a chance to work with hundreds of clients and see how people are doing things today, and how some people are doing things in a very Progressive Way for the Future.
+
+64
+00:26:29,715 --> 00:26:32,215
+So looking forward to sharing any insights.
+
+65
+00:26:32,215 --> 00:26:35,415
+I might have Thanked you all.
+
+66
+00:26:35,715 --> 00:26:47,015
+We're very excited to hear you those tips and tricks, for sure, we have got five different categories that we wanted to cover and, you know, we will see what we can get through.
+
+67
+00:26:47,015 --> 00:26:53,715
+Because I am seeing the questions begin to pop up in the Q&A panel, but one is flexibility and quality of life.
+
+68
+00:26:53,715 --> 00:26:57,415
+The second is employee management communication Wellness.
+
+69
+00:26:58,115 --> 00:27:02,615
+Going fully remote versus in person hybrid and creating a better workplace.
+
+70
+00:27:03,015 --> 00:27:05,415
+And I know each of you have touched that.
+
+71
+00:27:05,415 --> 00:27:11,415
+So the first trend is around flexibility and quality of life.
+
+72
+00:27:11,815 --> 00:27:14,615
+Now, we see these stats, here's one stat from future.
+
+73
+00:27:14,615 --> 00:27:33,315
+Forums pulse, survey reports that knowledge workers who say they have little to no ability to set their own hours, are 2.6 more likely to definitely look for a new job 2.2%, you know, times worse, it works in.
+
+74
+00:27:33,515 --> 00:27:40,115
+Related Stress and Anxiety and 1.7 times worse in work-life Balance, 1.4 times the worst pronounce.
+
+75
+00:27:40,115 --> 00:27:41,215
+We're seeing that.
+
+76
+00:27:41,515 --> 00:27:46,015
+A lot of knowledge workers are wanting flexibility.
+
+77
+00:27:46,215 --> 00:27:52,115
+What are you seeing as the pros and cons around flexible work?
+
+78
+00:27:54,315 --> 00:27:56,315
+I will kick off on my side.
+
+79
+00:27:56,915 --> 00:28:00,315
+Is that Rob, I have robbed all pass it over to the.
+
+80
+00:28:00,315 --> 00:28:04,715
+I have passed it over to you, but just taking a step back.
+
+81
+00:28:04,815 --> 00:28:19,915
+I think that, you know, we're here we're talking about sort of the trends were talking about the future, but I think it's pretty clear to say that what we have all experienced is just shift in remote and flex.
+
+82
+00:28:19,915 --> 00:28:23,515
+Becoming a first class citizen in how we work.
+
+83
+00:28:24,115 --> 00:28:30,315
+I no longer our leaders and employees thinking about it the same way they were thinking about it 23 years ago.
+
+84
+00:28:30,615 --> 00:28:41,315
+And so it's pretty safe to say that, you know, a new way of working is becoming a permanent fixture in the boardrooms and meetings and how we actually look at work.
+
+85
+00:28:41,815 --> 00:28:46,615
+And I think that also something to take into consideration that I won't think is discussed.
+
+86
+00:28:46,615 --> 00:29:09,915
+As is often like how folks are prioritizing work given the 23 years that we have gone through, folks, understanding, and getting a taste of flexibility, what has that done to the way, they look at work, the way that they look at Travel, the way that they look at what was to, what could be.
+
+87
+00:29:10,315 --> 00:29:23,615
+I think, is a really, really interesting sort of like foundational piece to the conversation here because you know, I think that there's a lot of pros and cons and anything you look at, you can always make a pros and cons list.
+
+88
+00:29:24,015 --> 00:29:29,315
+On anything, you can, we can make a pros and cons list, making a family trip to Disney World.
+
+89
+00:29:29,315 --> 00:29:36,315
+There's always going to be a pros and cons list but I think at a very high level Gina and Rob I will hand it over to you.
+
+90
+00:29:36,315 --> 00:29:46,415
+I think that you know there's a lot of Pros that comes with this more flexible way of looking at work both to employee choice.
+
+91
+00:29:46,415 --> 00:30:07,115
+Not just from the employee side choosing where to live but also the employer choosing to employ people from I am around the world and looking at a diverse set of talent from around the world and saying, yes, we can equip you now and bring you into this organization because we have been forced to change the way we work.
+
+92
+00:30:07,115 --> 00:30:09,915
+We have been forced to restructure the way we meet.
+
+93
+00:30:10,015 --> 00:30:22,815
+We have been forced to rethink the way that we operate from the ground up because the best companies are doing that work and have already done that work to change the way they work, so they can support this new future.
+
+94
+00:30:23,615 --> 00:30:25,615
+And so A lot of Pros that comes on that side.
+
+95
+00:30:25,615 --> 00:30:44,115
+I think the cons comes and now and I say cons lightly because I think that cons is really the level of intention necessary to operate a successful organization today versus two years ago and it can be looked as a con because it looks like more work.
+
+96
+00:30:44,615 --> 00:30:52,315
+But this is the fast track way to be a more future-oriented Workforce and Company is to do the intentional work.
+
+97
+00:30:52,315 --> 00:31:07,615
+Now to figure out how to drive an equitable experience for people that are in the office versus not to do the work on, making sure that you have the right technology in place to know when to go to the office, we're obviously to the technology that you're building.
+
+98
+00:31:07,815 --> 00:31:08,015
+All right.
+
+99
+00:31:08,015 --> 00:31:16,615
+It's doing the intentional work to have the time to meet to figure out the policies to look at the tools to invest in whether that's training or technology.
+
+100
+00:31:17,115 --> 00:31:22,115
+So it feels like calm because there's a lot more work to it because people are resistant to change.
+
+101
+00:31:22,115 --> 00:31:26,015
+But the beauty about is if we lean into We're all in a better place, right?
+
+102
+00:31:26,015 --> 00:31:29,415
+Our employees are in a better place, our organization and the bottom line.
+
+103
+00:31:29,715 --> 00:31:33,415
+And so that's how I think about the pros and cons my side.
+
+104
+00:31:37,015 --> 00:32:01,815
+I will add a couple of thoughts and I agree, I think a lot of the framing around the intentionality resonates with me personally and maybe in terms of framing some of the benefits and then I will get into some of the cons, but I will kind of split the way I think about this, at least into two pieces, maybe one that's more macro and one that's kind of like more micro to the individual, you know, and in a macro context and it's pretty wild.
+
+105
+00:32:01,815 --> 00:32:03,615
+They want two things that fascinates me about it.
+
+106
+00:32:03,615 --> 00:32:16,215
+The concept of flexible work and hybrid remote work is Yeah, by end of this year, something like a billion people globally are going to be working in some kind of hybrid or flexible remote type of capacity.
+
+107
+00:32:16,415 --> 00:32:21,615
+It is arguably the biggest change that our generation will experience, right?
+
+108
+00:32:21,615 --> 00:32:24,515
+Then it comes to like the concept of work and what it means to work.
+
+109
+00:32:24,515 --> 00:32:36,415
+And one of the huge benefits I see in that is ability to enable talent and local markets to have access to more jobs and as a result, build local economies, right?
+
+110
+00:32:36,615 --> 00:32:39,615
+Like for a lot of us work in tech, for example.
+
+111
+00:32:39,615 --> 00:32:45,115
+And one of the things that used to be true in Tech is that certain metros our cities kind of hoovered up Tech Talent, right?
+
+112
+00:32:45,115 --> 00:32:49,715
+If you wanted to go work in technical would hike out to the Bay Area or two other locations.
+
+113
+00:32:49,715 --> 00:32:58,515
+And the idea that folks can be much more distributed now work in different locations, have local offices that they could go into and still join companies.
+
+114
+00:32:58,515 --> 00:33:02,715
+That may be headquartered halfway across the world as extremely powerful, right?
+
+115
+00:33:02,715 --> 00:33:04,315
+And it keeps local talent local.
+
+116
+00:33:04,315 --> 00:33:06,515
+It has a lot of impact on local economies in the world.
+
+117
+00:33:06,615 --> 00:33:08,415
+Those ecosystems get built over time.
+
+118
+00:33:08,615 --> 00:33:13,215
+So in a macro sense I think that's incredibly valuable on a more micro level.
+
+119
+00:33:13,215 --> 00:33:22,015
+It kind of the individual level there's a lot of things that I think we learned or beneficial about flexibility over the experience the last few years, right?
+
+120
+00:33:22,015 --> 00:33:31,715
+And whether that's days that you want to work from home because of a personal commitment or an errand or something else going on, I personally attitude.
+
+121
+00:33:31,715 --> 00:33:36,515
+Maybe that just a little insight to my life solve this really viscerally firsthand.
+
+122
+00:33:36,615 --> 00:33:40,515
+Because I have a daughter who will be one on actually tomorrow.
+
+123
+00:33:41,115 --> 00:33:51,515
+And so she was born during the pandemic and I saw the experience for my wife, you know, working and having that flexibility to work from home and how impactful that was for her when daughter was really, really young.
+
+124
+00:33:51,515 --> 00:34:00,915
+And so they're real benefits that come with being able to have that flexibility and work from home at the same time, like there's connection that comes from being around others.
+
+125
+00:34:00,915 --> 00:34:11,215
+And there are certain activities, you know whether it be grabbing lunch or grabbing coffee or brainstorming something, Snow White boarding where there will always be some value being able to get folks together.
+
+126
+00:34:11,215 --> 00:34:17,315
+And the idea that you have the flexibility to potentially pick and choose, you know, on what day is certain things work best for you.
+
+127
+00:34:17,415 --> 00:34:18,915
+I think is incredibly powerful.
+
+128
+00:34:18,915 --> 00:34:39,415
+It's one of the Silver, Linings of the pandemic, experience, on the flip side, you know, from a Content perspective, I think what Roberto said is pretty accurate, you know where it requires an increased level of intentionality, you know, in terms of, where do I spend my time and being thoughtful about that in advance, whereAs you know, before, maybe most folks have the default.
+
+129
+00:34:39,415 --> 00:34:46,614
+Okay, well, I know I am going to be in the office and so you get the car or get the subway, I go back and forth now, it's okay.
+
+130
+00:34:46,614 --> 00:34:49,014
+Well, is it a good decision to go into the office?
+
+131
+00:34:49,014 --> 00:34:51,715
+Who else is going to be in the office about that's type of software?
+
+132
+00:34:51,715 --> 00:35:06,415
+Obviously, it's scoop that we build is to try and reduce that decision pain, make it as easy as possible, so you can unlock those benefits, but I do think that there's an increase in intentionality and one of the things we will talk about a little bit as an increased need to be thoughtful around boundaries and how do you enable people?
+
+133
+00:35:06,615 --> 00:35:12,515
+Be able to set their own schedule and be thoughtful around that in the right way so that you can work flexibly but not have a takeover.
+
+134
+00:35:14,215 --> 00:35:14,515
+Hmm.
+
+135
+00:35:15,815 --> 00:35:37,415
+That's awesome context, Rob I like how you framed it most in the micro and the macro I might share my brief take on this as well and I will start just from the first person and then maybe expand, but I love that, you talked about being able to be there for your daughter's birthday, in my experience, in this whole remote work experience by working from home.
+
+136
+00:35:37,415 --> 00:35:38,615
+I am exercising, more.
+
+137
+00:35:38,615 --> 00:35:40,115
+I am back to my university.
+
+138
+00:35:40,115 --> 00:35:43,415
+Wait again, I am spending way more time with my family.
+
+139
+00:35:44,415 --> 00:35:50,315
+I have got a We're all going to six year old and I think the quality time relationship I am building with them is fantastic.
+
+140
+00:35:50,315 --> 00:35:57,115
+So personally I deeply passionate about remote work but then going more to the macro and framing the big picture.
+
+141
+00:35:57,115 --> 00:35:57,715
+That's it.
+
+142
+00:35:57,715 --> 00:36:11,115
+I think there's like really important context, for example, some Industries like healthcare Hospitality going to remotes can be far more challenging and the barriers of the pros and cons list might be a little bit different from say Tech space.
+
+143
+00:36:12,515 --> 00:36:18,815
+But even looking at organizations that are naturally conducive to going to remote hybrid type of environment.
+
+144
+00:36:19,215 --> 00:36:24,515
+I think there's some real important fundamentals that almost hit below the remote conversation.
+
+145
+00:36:24,815 --> 00:36:32,015
+For example, I read recently that seven percent of people do feel a sense of meaning and purpose from work.
+
+146
+00:36:32,015 --> 00:36:40,715
+Meaning they're looking to their job to help deal meaning in their life, so they can see more important than ever for companies to have really meaningful Mission Vision and values.
+
+147
+00:36:41,315 --> 00:36:45,215
+And then once you have a great Mission Vision and value, I also think it's deep.
+
+148
+00:36:45,415 --> 00:36:47,515
+You can call to get people in their zones, genius.
+
+149
+00:36:47,515 --> 00:37:03,015
+These are the things that we love to do, and they're also really, really good at and I think if you anchor from there, the remote conversation becomes a lot more easy because you're getting people to do the things that I love to do in a meaningful organization that has a big impact in the world and than Super tactically.
+
+150
+00:37:03,215 --> 00:37:08,015
+Any time, I attend a session like this, I am always looking for cool ideas on how to build a really great experience.
+
+151
+00:37:08,015 --> 00:37:15,115
+Remote experience we say quality of life experience in some kind of fun thing that we do internally that I think there's a lot of meaning.
+
+152
+00:37:15,315 --> 00:37:16,115
+For employees.
+
+153
+00:37:16,115 --> 00:37:20,415
+As we have, we have this program that helps employees achieve life goals.
+
+154
+00:37:20,415 --> 00:37:25,515
+So basically, everybody gets some money and a day off to knock something off, their, their life, to do list.
+
+155
+00:37:25,715 --> 00:37:35,415
+We happen to get $500 and one day off per year, and I have seen people do everything from taking flight lessons to go into an NFL football game with their son.
+
+156
+00:37:36,015 --> 00:37:37,415
+There's one girl named Julie.
+
+157
+00:37:37,415 --> 00:37:40,015
+She never taken her husband to go whale watching.
+
+158
+00:37:40,715 --> 00:37:44,615
+I asked her how it went afterwards, and she said it was one of the most meaningful experiences in our life.
+
+159
+00:37:44,615 --> 00:37:51,215
+So I think moving in Mission Vision and values getting people into the zones of genius and helping them achieve whatever matters.
+
+160
+00:37:51,215 --> 00:37:59,015
+Most in life are great Baseline to build a whole remote conversation offer Wow, that's powerful.
+
+161
+00:37:59,315 --> 00:38:11,215
+I think as a mom of three I totally relate to you and parenting and the joys that remote flexibility offers in getting that closeness and each of you our fathers.
+
+162
+00:38:12,115 --> 00:38:15,415
+And so, that's, that's pretty awesome to hear.
+
+163
+00:38:16,215 --> 00:38:17,415
+Thank you for answering that.
+
+164
+00:38:17,415 --> 00:38:26,115
+Now, we have got a question Q&A that actually relates to this Katie, if you don't mind pulling that on stage, how are you managing flexibility?
+
+165
+00:38:26,115 --> 00:38:27,115
+For your company?
+
+166
+00:38:27,615 --> 00:38:34,015
+Unseen both productivity and wellness so employees don't experience burnout.
+
+167
+00:38:37,315 --> 00:38:41,515
+It's kind of goes to boundaries, I think rob you mentioned that.
+
+168
+00:38:43,715 --> 00:38:45,315
+Yeah, I am happy to I will kick off.
+
+169
+00:38:45,315 --> 00:38:47,415
+I will just share, just we can cover more ground.
+
+170
+00:38:47,415 --> 00:38:49,615
+I will just cover one example of something that we're doing that.
+
+171
+00:38:49,615 --> 00:38:51,415
+We found impactful and then pass them along.
+
+172
+00:38:51,415 --> 00:38:58,315
+But one of the things that we learned over the last couple of years and you know, Roberto and incur.
+
+173
+00:38:58,315 --> 00:39:07,815
+I am curious if everybody else has ever experienced this Jason you to like, is when we would do time off and everybody kind of plan their own time off?
+
+174
+00:39:07,815 --> 00:39:13,315
+Sometimes when you're on PTO, it's a little bit challenging because the rest of the business is continuing to move.
+
+175
+00:39:13,515 --> 00:39:13,915
+Long.
+
+176
+00:39:13,915 --> 00:39:28,915
+And so you go on PTO and either you feel like you got do a bunch of work to kind of prep for it on the front end or you come back and you get this Avalanche of stuff that you missed, and it kind of creates a little bit of stress or fraying on the ends that make that dto slightly less valuable in some ways.
+
+177
+00:39:28,915 --> 00:39:34,015
+And so, one thing that we start doing it just for company-wide time off, any consistent basis.
+
+178
+00:39:34,015 --> 00:39:43,115
+And so a couple examples we did in that is like we did hold the whole week in July 4th off for the company, we do whole week between Christmas and New Year's off.
+
+179
+00:39:43,415 --> 00:39:46,815
+Have picked a few other kind of like long weekends, over the course of the year.
+
+180
+00:39:46,815 --> 00:40:03,715
+And basically tried to have the entire company be off at similar times and found that like, when everybody's work stops, it means the likelihood of you getting pinged with something else while you're out and not being able to protect that time goes down and the relative pick up on the other side of it, you know, isn't quite as bad.
+
+181
+00:40:03,715 --> 00:40:06,715
+People obviously still do, I am going to PTO.
+
+182
+00:40:06,715 --> 00:40:18,015
+So folks take their own vacation, obviously, at times if they want you outside of it, but at least having those couple moments of course, and they I have found to be, you know, pretty good refresher for folks in terms of trying to find some balance.
+
+183
+00:40:19,415 --> 00:40:20,115
+Yeah no doubt.
+
+184
+00:40:20,115 --> 00:40:22,715
+So Rob I will piggyback off of that.
+
+185
+00:40:22,715 --> 00:40:24,915
+We also do very similar, right?
+
+186
+00:40:24,915 --> 00:40:27,515
+We just did the week of summer break.
+
+187
+00:40:27,515 --> 00:40:28,215
+We called it.
+
+188
+00:40:28,215 --> 00:40:28,515
+Alright?
+
+189
+00:40:28,515 --> 00:40:29,115
+In July.
+
+190
+00:40:29,115 --> 00:40:38,215
+So we can just kind of check out super helpful to make sure that everybody's off and there's not like the feeling of being left behind or trying to catch up on emails.
+
+191
+00:40:38,715 --> 00:40:45,915
+One thing we also introduced is Wellness Fridays and with that means it's it really becomes just a wellness weekend.
+
+192
+00:40:46,415 --> 00:40:51,015
+A weekend, Focus On Wellness happens once Of the first Friday of every month.
+
+193
+00:40:52,015 --> 00:40:54,315
+We tell people, to log off and just go, B.
+
+194
+00:40:54,415 --> 00:40:55,915
+Go B, go do whatever it is.
+
+195
+00:40:55,915 --> 00:40:56,315
+You want to do.
+
+196
+00:40:56,315 --> 00:40:57,315
+You want to sleep in that day?
+
+197
+00:40:57,315 --> 00:40:59,715
+You want to go on a quick weekend trip.
+
+198
+00:40:59,715 --> 00:41:07,515
+Please go do that, and we kick that off this year, and it's been I think game-changing, not just for employees, before leaders, as well.
+
+199
+00:41:07,515 --> 00:41:13,015
+For Founders, for us, is actually unplugged and lead, by example, and say, you know what?
+
+200
+00:41:13,015 --> 00:41:15,415
+Like, I am actually going to go ahead and unplug.
+
+201
+00:41:15,415 --> 00:41:19,015
+I am a Google, go do this, and this is something that I am personally working on.
+
+202
+00:41:19,115 --> 00:41:21,115
+Jason, I love to hear your back to your college.
+
+203
+00:41:21,115 --> 00:41:22,415
+Wait that's inspiration.
+
+204
+00:41:22,415 --> 00:41:23,315
+I got to get back out there.
+
+205
+00:41:23,315 --> 00:41:24,315
+Go for a run as well.
+
+206
+00:41:24,415 --> 00:41:27,315
+But what are the things for me personally has been?
+
+207
+00:41:27,615 --> 00:41:32,615
+How do I make sure that if I want my employees to be well, how does it start with me?
+
+208
+00:41:32,615 --> 00:41:33,915
+How do I be well?
+
+209
+00:41:34,015 --> 00:41:45,615
+So, when I show up into a call so that when I show up on a 10-1, I am not carrying the weight of all the things of lack of boundaries and so, all my calendar.
+
+210
+00:41:45,615 --> 00:41:48,915
+I legit have family time blocked off my entire team.
+
+211
+00:41:49,215 --> 00:42:04,315
+Is this and I marked it in the golden color on my calendar because like, those golden hours is like, regardless of what time zone, you're on, like this is my time when I am going to be reading to my kid or having dinner with my family, that's like a no-go signal.
+
+212
+00:42:04,315 --> 00:42:08,015
+And I think there's such a mean going back to intention.
+
+213
+00:42:08,315 --> 00:42:09,915
+It's not just the employer intention.
+
+214
+00:42:09,915 --> 00:42:28,115
+This is why it's difficult, it's not just the employer in such an also the employee intention because as an employer you're saying, look, I want to hire people, that work around the world and I expect that you also can put the right boundaries around your work, and I want to empower you to do so.
+
+215
+00:42:28,415 --> 00:42:37,515
+And so it's a two-way thing where it's like, you control your calendar, you can jump off of a meeting if there's a meeting scheduled, that's not an alignment.
+
+216
+00:42:37,915 --> 00:42:44,515
+If the culture set up properly and properly accepting of remote and probably accepting of flexibility.
+
+217
+00:42:45,115 --> 00:42:50,515
+Then the magic there is empowering every individual to take Control of their time.
+
+218
+00:42:50,815 --> 00:42:54,115
+If you want to go for that run, then go for that run.
+
+219
+00:42:54,415 --> 00:43:05,415
+If it's important for you to pick up your daughter at 3:00, you know, East Coast time, every single day, you can do that because the school is 10 minutes away before you had to work an hour away.
+
+220
+00:43:05,615 --> 00:43:11,715
+But now you have the ability to jump into car or go for a walk, pick up your kid, come back, that's the beauty of remote.
+
+221
+00:43:11,715 --> 00:43:15,715
+And if we don't allow that to happen, then why are we working remotely?
+
+222
+00:43:15,715 --> 00:43:16,915
+Why are we even flexible?
+
+223
+00:43:17,015 --> 00:43:18,015
+If we're not going to do that.
+
+224
+00:43:18,015 --> 00:43:26,415
+So I think this really Important thing around, intentionality coming from the employer but also from the employee to feel empowered to take control of their time.
+
+225
+00:43:29,915 --> 00:43:31,415
+Yeah, I get awesome.
+
+226
+00:43:31,415 --> 00:43:51,215
+I think I am just gonna provide a short summary because we do some similar takes as to some of the items you mentioned Roberto and Rob it where we first started really struggling with work-life balance, is an organization, is when you became a truly distributed company, where we started having employees in different countries around the world.
+
+227
+00:43:51,215 --> 00:44:20,015
+And we're trying to manage multiple time zones, and so we built a full like Playbook policy on distributed work and one of the best Takeaways, I think because we have just a four-hour overlap, where we expect everybody to be available and freely like kind of on when it comes to like slack or instant messaging email excetera then outside of those hours, people can set their own boundaries in terms of like, you know, family time in terms of like health and wellness and then in terms of the health and wellness, peace, we don't do it, do it once per month.
+
+228
+00:44:20,015 --> 00:44:21,215
+So that's a really cool idea.
+
+229
+00:44:21,215 --> 00:44:29,215
+The Friday off every month, we have a health and wellness day once per quarter for all staff and that's similar to your take Right?
+
+230
+00:44:29,215 --> 00:44:32,515
+So we have had some awesome feedback, people love it and it's we don't question.
+
+231
+00:44:32,515 --> 00:44:33,915
+It doesn't require approval.
+
+232
+00:44:34,215 --> 00:44:38,615
+It's more of a notification than taking a certain day off to ya to take care of my health and wellness.
+
+233
+00:44:39,815 --> 00:44:47,515
+And then, lastly, I think one of the best ways for managing distributed teams or remote teams, is getting more focused on outcomes.
+
+234
+00:44:47,515 --> 00:44:48,315
+Not inputs.
+
+235
+00:44:48,615 --> 00:44:56,315
+So rather than grinding out a really, really heavy day setting some really clear like kpis or success metrics for each staff member.
+
+236
+00:44:57,315 --> 00:45:05,615
+And for example, we have these things called Scorecards that we used to create like job descriptions that we use in our weekly, 12 ones and performance reviews as well.
+
+237
+00:45:05,915 --> 00:45:11,015
+But it's typically three to five outcomes, we expect from every single role to create alignment across the organization.
+
+238
+00:45:11,815 --> 00:45:17,015
+And that's created a lot of clarity because the sales is always the easiest one because it's so metric driven.
+
+239
+00:45:17,015 --> 00:45:23,115
+But like, if you're crushing your sales Target, I don't really, and you're a good culture fit and a good human being.
+
+240
+00:45:23,815 --> 00:45:27,615
+I don't, you know, I don't really care whether you work in 12 hours or six hours.
+
+241
+00:45:27,615 --> 00:45:28,915
+It's about like hitting those out.
+
+242
+00:45:29,015 --> 00:45:29,515
+It comes.
+
+243
+00:45:29,515 --> 00:45:35,615
+So that's kind of been our take on managing distributed work and the work-life balance.
+
+244
+00:45:37,915 --> 00:45:38,215
+Thank you.
+
+245
+00:45:38,215 --> 00:45:46,615
+That Jason that's actually a perfect layup into our next trending category of employee management and communication for distributed teams.
+
+246
+00:45:47,015 --> 00:45:55,415
+So you know as we're all talking about here managing distributed teams, it's evolving the way we communicate.
+
+247
+00:45:55,415 --> 00:45:56,515
+The way we lead.
+
+248
+00:45:57,715 --> 00:45:58,815
+What are the challenges?
+
+249
+00:45:58,815 --> 00:46:01,015
+You're Currently encountering with that.
+
+250
+00:46:01,515 --> 00:46:03,715
+How do you see into the future?
+
+251
+00:46:04,015 --> 00:46:16,215
+This will evolve there was a quote from Stewart Butterfield slack where he was saying, we're barely skimming the surface of understanding the tools needed to effectively manage remote.
+
+252
+00:46:16,415 --> 00:46:22,615
+So what are the challenges that you're encountering, where things are seeing today and what do you see into the future?
+
+253
+00:46:30,015 --> 00:46:32,715
+Anybody going to jump into that one?
+
+254
+00:46:34,115 --> 00:46:35,115
+I will kick it off.
+
+255
+00:46:35,115 --> 00:46:43,815
+I will kick it off on my side, so I think you know Stuart from slack he's completely right on when you know when he talks about this all the time.
+
+256
+00:46:44,315 --> 00:46:45,515
+All of us use slack.
+
+257
+00:46:45,515 --> 00:46:59,315
+We feel like slack is the thing that connects us remotely in many, many ways and even yet you know, the person leading that's a technology in that company says we were just scratching the surface on the Technologies needed to do this really well.
+
+258
+00:46:59,815 --> 00:47:00,515
+And I think that's true.
+
+259
+00:47:00,515 --> 00:47:15,515
+I think that we have taking the tools that have existed already and have made them, so if the pillars of how we use technology to connect, but there's a ton of new technology that has to be built for these specific use cases.
+
+260
+00:47:15,815 --> 00:47:29,915
+We are just embarking a lot of different challenges and I think as technologists as folks that build as folks that create our job, is to figure out how to improve those problems that we interact with our showing up into the Office.
+
+261
+00:47:29,915 --> 00:47:34,115
+If I took a one-hour commute and my team is in there or is only two people in the office.
+
+262
+00:47:34,115 --> 00:47:41,215
+That's a problem because I feel like I made this effort and showed up and it wasn't there or posting a company.
+
+263
+00:47:41,215 --> 00:47:43,215
+All hands and saying, you know what?
+
+264
+00:47:43,215 --> 00:47:49,315
+Like we're doing it on Zoom or Google me and it doesn't feel engaging, I don't feel the music, I don't feel the presence.
+
+265
+00:47:49,315 --> 00:47:56,315
+I don't feel the energy that I want to feel that requires a new way of thinking and using technology to better, engage your employees.
+
+266
+00:47:56,615 --> 00:48:02,915
+And how do you actually track engagement and reward your Police through the entire Journey?
+
+267
+00:48:03,115 --> 00:48:03,915
+What does that look like?
+
+268
+00:48:03,915 --> 00:48:12,315
+Well, there's new technology that needs to be built, so I think like when we're looking at the Space is really about, you know, what is status quo?
+
+269
+00:48:12,315 --> 00:48:13,815
+And the status quo, good enough.
+
+270
+00:48:13,915 --> 00:48:22,615
+And I think all those who say no, like we're never satisfied with status quo, there's always a better way of doing it and you look at that employee communication employee management.
+
+271
+00:48:22,615 --> 00:48:29,515
+I think there's one side of it was technology base, but a lot of it is just, you know, conversation, we just had around policy.
+
+272
+00:48:29,715 --> 00:48:37,415
+See around intentionality around investing in Middle managers because they're carrying a lot of weight on how to lead.
+
+273
+00:48:37,415 --> 00:48:45,415
+Well, you know, I think so many folks have become managers and this new world that they're just understanding.
+
+274
+00:48:45,415 --> 00:48:46,615
+Like this is how we work.
+
+275
+00:48:46,815 --> 00:48:59,615
+Now, if there was a different manager that never managed ever distribute the team before, and they always relied on seeing them in the office and engaging their body language and seeing them sort of walk in the door at 8:00 AM and walk out.
+
+276
+00:48:59,715 --> 00:49:03,315
+At 5 PM and sort of that's how they measure success.
+
+277
+00:49:03,915 --> 00:49:07,415
+Even have a hard time if they don't change the way that they work.
+
+278
+00:49:07,415 --> 00:49:12,715
+And I think so equip Ting middle managers is important and will keep seeing.
+
+279
+00:49:12,715 --> 00:49:13,915
+I mean, we're talking about the future here.
+
+280
+00:49:13,915 --> 00:49:20,115
+We will keep seeing how technology evolves to solve the problems that we're all feeling, but it's a fun, it's a fun.
+
+281
+00:49:20,315 --> 00:49:21,515
+It's a fun place to be.
+
+282
+00:49:21,515 --> 00:49:27,215
+I think a lot of times we get it, we get on these conversations and it's it feels like heavy and it feels.
+
+283
+00:49:27,415 --> 00:49:31,315
+But I am so excited to of the future of like the future of work.
+
+284
+00:49:31,315 --> 00:49:33,015
+I get to see my kids grow up.
+
+285
+00:49:33,015 --> 00:49:34,515
+I don't need to be in traffic.
+
+286
+00:49:34,515 --> 00:49:38,415
+I can listen to Joe Rogan if I wanted to, when I go for a run worth is like in the car.
+
+287
+00:49:38,615 --> 00:49:43,315
+There're other ways to get to your pocket as there're other ways to engage in work.
+
+288
+00:49:43,315 --> 00:49:45,015
+And that's, that's what we're doing.
+
+289
+00:49:45,415 --> 00:49:51,715
+Anyway, I will shut up now because I can I get on my soapbox and just keep talking here but Gina hold me back.
+
+290
+00:49:52,715 --> 00:49:53,615
+We love it.
+
+291
+00:49:54,715 --> 00:49:56,215
+How about you Robert Jason?
+
+292
+00:49:56,815 --> 00:49:57,515
+Any thoughts?
+
+293
+00:49:57,815 --> 00:50:03,415
+Yeah, I can maybe lend a mini experience sharing in a now on this.
+
+294
+00:50:03,415 --> 00:50:07,915
+I have the deep personal passion and like, understanding like, what is the most simple?
+
+295
+00:50:07,915 --> 00:50:12,315
+Most elegant system and process to create alignment and motivation inside of team.
+
+296
+00:50:12,515 --> 00:50:13,115
+And what?
+
+297
+00:50:13,115 --> 00:50:15,415
+That's a preface, but by no means am.
+
+298
+00:50:15,415 --> 00:50:17,315
+I what I am about to share the answer.
+
+299
+00:50:17,315 --> 00:50:18,215
+It's just one answer.
+
+300
+00:50:18,215 --> 00:50:21,315
+We found, so I don't to be prescriptive and saying, what we're doing is the best way.
+
+301
+00:50:21,815 --> 00:50:28,215
+But for example, I think when it comes, Bringing people together getting them aligned and excited and motivated again.
+
+302
+00:50:28,215 --> 00:50:34,415
+It, it's what I was mentioning earlier about having a really compelling Vision to share just a few details of what we do and there's salt.
+
+303
+00:50:34,415 --> 00:50:38,715
+There's lots of resources on this topic, we have something called a Nutter traditional Vision.
+
+304
+00:50:38,715 --> 00:50:40,715
+We have a three-year vision is called a painted picture.
+
+305
+00:50:41,015 --> 00:50:46,015
+If you Google handed pitcher or Vivid Vision, there're all sorts of cool resources on how to create your own Vivid Vision.
+
+306
+00:50:46,215 --> 00:50:52,715
+But it's like a forward-looking statement of what you envision the company to look like in the future and it's very descriptive, very colorful.
+
+307
+00:50:53,215 --> 00:51:12,215
+And what we do to really bring Get to Life as we send it to every single new job applicant who comes to the organization to get given a sense, or a taste, as to what we're all about, to get them excited and then to celebrate the journey, because I think one thing we as entrepreneurs sometimes use, we don't celebrate the journey enough, won't celebrate those big wings and Milestones or this is what been one of my failings in the past.
+
+308
+00:51:13,115 --> 00:51:18,115
+So every quarter, we bring up our vision, and we celebrate the wins, and we do it via storytelling.
+
+309
+00:51:18,115 --> 00:51:20,315
+So we will highlight individual employees.
+
+310
+00:51:20,815 --> 00:51:30,015
+We anchor and how that person's contributions helped us achieve one of Our goals are rocks, from this longer-term vision and then from the vision, everything else falls out from there.
+
+311
+00:51:30,015 --> 00:51:46,315
+So we do your legal setting using okay, our framework we do quarterly goal-setting again with okrs we do weekly management meetings using something called that an l 10 frameworks, which is like a really well-defined super-tight meeting to make sure people are aligned motivated and removing rocks and barriers that come up.
+
+312
+00:51:46,415 --> 00:51:51,215
+So I think one of my favorite books and all that is, there's one called traction.
+
+313
+00:51:51,215 --> 00:51:54,715
+Another one called cos the entrepreneurial operating Mmm.
+
+314
+00:51:55,015 --> 00:52:05,915
+And so there's lots of good tools and systems that enable, I think a high-performing organization, but a specifically these tools in my experience are really impactful in the remote or distributed workplace.
+
+315
+00:52:06,915 --> 00:52:07,415
+Yeah.
+
+316
+00:52:07,415 --> 00:52:11,715
+Anyways, those are kind of my to limit my favorite tools and tips.
+
+317
+00:52:12,015 --> 00:52:16,915
+But alas, what were the to the entrepreneurial operating system?
+
+318
+00:52:17,015 --> 00:52:20,715
+There's a book called traction, which talks a lot about that and then, okay.
+
+319
+00:52:20,715 --> 00:52:27,715
+Ours, for example, I am sure many, many of us are familiar, familiar those Whether you call them, okay, ours, rocks or Boulders, lots of tools.
+
+320
+00:52:27,715 --> 00:52:32,915
+And then the final one is called a painted picture or Vivid Vision, just give it a Google.
+
+321
+00:52:32,915 --> 00:52:41,415
+There's an author out there and in Cameron Harold, who's built, you know, taking companies from a million to 100 million in three years using the kind of vision framework.
+
+322
+00:52:42,115 --> 00:52:47,215
+And as an entrepreneur in a company's actually really fun putting one together because there are quite colorful and playful.
+
+323
+00:52:49,915 --> 00:52:51,115
+Thank you, that's great.
+
+324
+00:52:51,415 --> 00:53:04,815
+How about you rob that I think first of all a bunch of really great tips from Jason and from Roberto on this, I will just add a little bit which is, you know, I think we naturally quite often.
+
+325
+00:53:04,815 --> 00:53:13,015
+I think we spent a lot of time talking about some of like the hardware stuff that's required and I don't mean how hard we're just in terms of wine, you know, like the kind of like physical assets or Machinery.
+
+326
+00:53:13,015 --> 00:53:18,815
+I mean, in terms of like also like how do you put in place the Right video conferencing technology right?
+
+327
+00:53:18,815 --> 00:53:20,915
+Or kind of operating Stems are things like that.
+
+328
+00:53:21,015 --> 00:53:29,415
+The choice that we built, for example, but I think half of that also is like around the, the software so to speak of like, how do you get this stuff right?
+
+329
+00:53:29,415 --> 00:53:44,415
+And, and, and the way that I would describe it is, you know if I had to guess prior to the pandemic, maybe 1 in every 1,000 to 10,000 managers and ever managed hybrid tea before, like, you know if you were to look at scale across that, right?
+
+330
+00:53:44,415 --> 00:53:55,715
+Like in so relative Collective knowledge and best practices and what that even means was like relatively minimal and Roberto is starting to like allude to this a little bit and talking about like, how do you think about management?
+
+331
+00:53:55,715 --> 00:54:00,515
+But collectively managers have to get better in this world?
+
+332
+00:54:00,615 --> 00:54:05,415
+They have to be better managers like, on average than they were in a world where everybody's in the office every day.
+
+333
+00:54:05,815 --> 00:54:23,915
+If everyone in the office every day, you can use generally crappy signals to figure out whether people are kind of like, you know, executing against their job clocking in and clocking out, you can look over them right, in a world where folks are hybrid, or But you have to be better, which means that you have to be more thoughtful around, what's the output?
+
+334
+00:54:23,915 --> 00:54:27,515
+We're trying to drive how to folks in the team contribute to that.
+
+335
+00:54:27,615 --> 00:54:31,615
+How do I find the right balance and checking in personally and professionally and supporting?
+
+336
+00:54:32,115 --> 00:54:47,015
+And, so I think it, one of the things that I spend a lot of time thinking about is, like, not only how do you, I kind of coach and train on this topic with managers and here, we do our monthly manager discussions to understand what stuff of mine team and cover other topics around performance or compensation and things like that over time.
+
+337
+00:54:47,915 --> 00:54:50,515
+But also like, how do you think About as a manager?
+
+338
+00:54:50,515 --> 00:54:54,515
+Like what are the tips and tricks you start to arm them with to get better at this stuff, right?
+
+339
+00:54:54,515 --> 00:54:58,715
+Like, can I give them better kind of customized training to having one on ones?
+
+340
+00:54:58,715 --> 00:55:01,415
+But folks who are they don't see very often?
+
+341
+00:55:02,215 --> 00:55:05,015
+Can we start to bring data over time?
+
+342
+00:55:05,015 --> 00:55:07,115
+And in one of the things I think that we're very excited about it.
+
+343
+00:55:07,115 --> 00:55:13,615
+Scoop is if I can marry overtime data around, how often folks are in the office, right?
+
+344
+00:55:13,915 --> 00:55:18,415
+With kind of like how we do in terms of recognition, are we only promoting folks?
+
+345
+00:55:18,415 --> 00:55:28,615
+For example, that we see, Often, because we haven't learned how to be good at recognizing folks that we don't see as often as, and you can turn that into training opportunities and coaching for managers.
+
+346
+00:55:28,615 --> 00:55:30,615
+Like, I think that stuff becomes really powerful.
+
+347
+00:55:30,615 --> 00:55:34,015
+And so in addition to the hardware stuff I think is really, really important.
+
+348
+00:55:34,015 --> 00:55:47,415
+I think there's this element of commitment as Executives and is companies to helping our people leaders get better in this world and manage to outcomes effectively, which just could take time and practice and best practice.
+
+349
+00:55:47,415 --> 00:55:49,515
+Distillation, they come with lots.
+
+350
+00:55:49,615 --> 00:55:53,415
+Lots and lots of organizations and teams practicing this, you know, and learning from each other.
+
+351
+00:55:55,415 --> 00:55:56,315
+That's right on.
+
+352
+00:55:56,715 --> 00:56:03,415
+I think that soft skill side of things is definitely something the hardware and the software, I like that a lot.
+
+353
+00:56:03,915 --> 00:56:05,815
+It's definitely something that we're all learning.
+
+354
+00:56:05,915 --> 00:56:08,715
+As we're figuring this management out.
+
+355
+00:56:08,715 --> 00:56:11,515
+We have a question, we're actually getting a ton of questions in queue.
+
+356
+00:56:11,515 --> 00:56:13,115
+A thank you everybody for dropping them in.
+
+357
+00:56:13,115 --> 00:56:14,415
+They're going to try to cover these.
+
+358
+00:56:15,115 --> 00:56:16,515
+So what's relevant to?
+
+359
+00:56:16,515 --> 00:56:17,615
+What we're talking about.
+
+360
+00:56:17,615 --> 00:56:21,015
+Beat you carry on, here's an up, bow to question.
+
+361
+00:56:21,315 --> 00:56:21,615
+Katie.
+
+362
+00:56:21,615 --> 00:56:39,015
+If you don't mind pulling on a stage, how the roles for managers Eve all of in the distributed World from what they focused on in physical offices, Yeah, I think we sort of covered a little bit of this in the conversation around outcomes being more outcome is driven than anything else.
+
+363
+00:56:39,015 --> 00:56:52,315
+The signals that Rob talks about these poor signals of like you know, presence being a measurement or how you know, sort of like extroverted you are how loud you are.
+
+364
+00:56:52,315 --> 00:56:55,615
+Whatever it is no longer a signal, all right.
+
+365
+00:56:55,615 --> 00:57:04,515
+I think it's more intention around having managers that understand the importance of that check-in, I think The important when you're meeting with.
+
+366
+00:57:05,915 --> 00:57:07,915
+Your employees on one-on-one basis.
+
+367
+00:57:07,915 --> 00:57:15,615
+If we're assuming that more flexibility, means that you also have more ownership of your space, meaning that you might have fewer meetings.
+
+368
+00:57:15,715 --> 00:57:19,915
+That means that the meetings times that you do have you have to make them count.
+
+369
+00:57:20,015 --> 00:57:41,515
+And so having the ability to approach a conversation with an employee and not just checking off the list of work-related things, but checking in on the person themselves and how, and how they're doing and how they're Managing all the things because you're not seeing the micro kitchen interaction.
+
+370
+00:57:41,515 --> 00:57:42,715
+You're not seeing that person.
+
+371
+00:57:42,715 --> 00:57:46,715
+There's no longer going to the micro kitchen engaging with other employees.
+
+372
+00:57:46,715 --> 00:57:47,615
+Like they always do.
+
+373
+00:57:48,215 --> 00:57:57,115
+So those missed opportunities of Engagement requires you to lean in and more to understand how employees are actually doing.
+
+374
+00:57:57,115 --> 00:57:57,415
+Is that?
+
+375
+00:57:57,415 --> 00:58:05,515
+So I think, I think managers have to be equipped differently in a distributed Workforce and understand.
+
+376
+00:58:05,615 --> 00:58:15,115
+The importance of weaning into those intentional conversations drawing off of your employees, what's happening, and how to be proactive.
+
+377
+00:58:15,115 --> 00:58:26,115
+And not just unblocking but having a conversation with your employee when you see and sense the signals sort of piling up where you can have an employee.
+
+378
+00:58:26,115 --> 00:58:29,215
+That's always small example, right?
+
+379
+00:58:29,215 --> 00:58:35,515
+For folks that are jumping into a zoom call right after this, but you can have an employee that you always know has brought good energy.
+
+380
+00:58:35,615 --> 00:58:45,515
+To a meeting is always greeting folks, or having the small talk, and if that person you're noticing, is not doing that as often as a manager.
+
+381
+00:58:45,515 --> 00:58:52,915
+Now, you have to pay attention to that and follow up and check on that employee versus, you know, just talking it up.
+
+382
+00:58:52,915 --> 00:58:56,115
+As, you know, they're just not vocal anymore.
+
+383
+00:58:56,115 --> 00:58:58,215
+They're just not leaving in like the way they used to.
+
+384
+00:58:58,515 --> 00:59:02,115
+So, I think at a high level, I think that there needs to be investment middle managers.
+
+385
+00:59:02,115 --> 00:59:05,115
+I think it goes from a training and policy.
+
+386
+00:59:05,615 --> 00:59:09,815
+Active tooling perspective and is the work to be done, right?
+
+387
+00:59:09,815 --> 00:59:11,015
+As we're all engaging in this.
+
+388
+00:59:11,015 --> 00:59:23,215
+And now on the flip side, yes, there hasn't been many managers leading remote teams, but then there's also companies who have also been leading remote teams for a long time.
+
+389
+00:59:23,215 --> 00:59:25,015
+And there's best practices out there.
+
+390
+00:59:25,215 --> 00:59:35,215
+So if you're looking for like the playbooks and how to lead remote teams, there's ton of resources, you can go to get lab first as a see what they're doing on their side.
+
+391
+00:59:35,215 --> 00:59:35,515
+Always.
+
+392
+00:59:35,615 --> 00:59:41,915
+Your HR also has public playbooks as well on how to structure these meetings in these conversations.
+
+393
+00:59:42,115 --> 00:59:45,015
+So there're resources out there but yes, no doubt.
+
+394
+00:59:45,415 --> 00:59:50,015
+The rows of managers are evolving and us that are leading.
+
+395
+00:59:50,015 --> 00:59:53,515
+These companies are thinking about this stuff are asking the question.
+
+396
+00:59:53,515 --> 00:59:56,015
+How do I clipped that middle manager?
+
+397
+00:59:56,515 --> 01:00:03,215
+Well, I love to ask just like a tactical question to you all, you know, Roberto.
+
+398
+01:00:03,215 --> 01:00:10,815
+I think what you mentioned was that you can sense when folks maybe our disengaging a little bit and their signals.
+
+399
+01:00:11,915 --> 01:00:16,015
+What are the things that each of you look for in your leadership team?
+
+400
+01:00:16,015 --> 01:00:22,915
+Like how you know, we're what's a majority of our time remote, you're just seeing somebody in this little virtual box.
+
+401
+01:00:23,215 --> 01:00:25,715
+So how are you picking up those cues?
+
+402
+01:00:26,615 --> 01:00:28,015
+I would love to share, it's funny.
+
+403
+01:00:28,115 --> 01:00:40,915
+That's I think a great area to dig deeper and all, maybe share some experiences and questions we used to unearth those both probably very meaningful and important feelings to Anchor into the context.
+
+404
+01:00:40,915 --> 01:00:47,315
+I read this article, it was like from Ink or Forbes and it was from a fortune like ten CEO, and she's like, here's a top 10 questions.
+
+405
+01:00:47,315 --> 01:00:51,015
+I ask all my Executives at a rather questions, like these are fantastic.
+
+406
+01:00:51,015 --> 01:00:55,315
+And, so I copied them, and they pasted them into, we call it a goal, set and review.
+
+407
+01:00:55,315 --> 01:00:59,615
+It's a just a weekly 121 between every team lead and the employee.
+
+408
+01:00:59,815 --> 01:01:00,915
+And we have about 10 questions.
+
+409
+01:01:00,915 --> 01:01:05,115
+We run through to dig deeper into like the real meaningful stuff of life.
+
+410
+01:01:05,115 --> 01:01:14,015
+And so, for example, some of the questions we asked one of them is like, what's the best thing that happened to you this week either at work or outside of work.
+
+411
+01:01:14,115 --> 01:01:18,315
+So, kind of opening it up, making it, making it safe for people to talk outside of work or in work.
+
+412
+01:01:18,715 --> 01:01:20,715
+And I have had some amazing Revelations.
+
+413
+01:01:20,715 --> 01:01:28,315
+I have had people like One account executive, Tom told me that after quite a long time with trying him and his wife finally were able to you know, get pregnant.
+
+414
+01:01:28,515 --> 01:01:34,715
+Instead, they're going to have a new baby, the September, I had another girl Lauren choose from our customer success.
+
+415
+01:01:34,715 --> 01:01:41,715
+Team, tell me about her, the trials and tribulations of an upcoming wedding and how was creating a lot of stress in her work life?
+
+416
+01:01:41,915 --> 01:01:45,515
+And then afterwards, I was able to catch up and find out what find out about.
+
+417
+01:01:45,515 --> 01:01:49,115
+What an amazing day that was another?
+
+418
+01:01:49,115 --> 01:01:54,015
+I think even better, but subtle question is to ask people on a scale of 1 to 10.
+
+419
+01:01:54,015 --> 01:01:55,815
+How happy are you, how happy are you?
+
+420
+01:01:55,815 --> 01:01:56,415
+And why?
+
+421
+01:01:56,615 --> 01:01:59,415
+Like a lot of times, we walk around a life where Okay, how are you doing?
+
+422
+01:01:59,415 --> 01:02:05,015
+And somebody can say fine, but in their, in their reality, maybe they're struggling to pay rent, so maybe their dad, just died.
+
+423
+01:02:05,015 --> 01:02:18,715
+But fine is the same answer across the board, but when you ask for a number out of 10, like they're going to give you a 3 or a 6, or a 9 and then you can dig deeper again it kind of creates this moment of safety to ask a follow-up question.
+
+424
+01:02:18,715 --> 01:02:20,415
+Like hey you want to share more about that.
+
+425
+01:02:21,115 --> 01:02:26,915
+Something else is really interesting around the asking how somebody is out of ten as I found people have different baselines.
+
+426
+01:02:26,915 --> 01:02:28,315
+Some people are naturally a 7.
+
+427
+01:02:28,415 --> 01:02:34,715
+210 week over week, some people are a 9 out of 10 and you can kind of in your own head, kind of watch that trend line go up or down.
+
+428
+01:02:35,015 --> 01:02:42,615
+If somebody goes from like, say at 92 a 5 or 4 for a couple weeks, there's something really important in your life, that you should be digging deeper in on.
+
+429
+01:02:43,915 --> 01:02:48,815
+And then, lastly, I think, you know, under this for the sake of transparency, just Global Leadership.
+
+430
+01:02:48,815 --> 01:02:53,215
+We always ask the question, how can I be a better leader like if you like it?
+
+431
+01:02:53,215 --> 01:03:03,815
+I think, in any communication, you have to open it up and make it truly two ways and in my experience, You won't get a lot of answers to that but when you do it's really heartfelt and there's these great learning moments.
+
+432
+01:03:03,815 --> 01:03:09,815
+And again it's about creating this High trust relationships where people could communicate and go deeper and build long deep.
+
+433
+01:03:09,815 --> 01:03:12,515
+Meaningful relationships at work.
+
+434
+01:03:12,615 --> 01:03:17,515
+So those are a few of the questions we asked, but I love to hear from Rob's take on this as well.
+
+435
+01:03:19,615 --> 01:03:20,215
+I think it's great.
+
+436
+01:03:20,215 --> 01:03:30,315
+I will just add a short one, so we can cut you because I think you guys covered it extremely well, I think one thing that becomes really important to hit our thinking around.
+
+437
+01:03:30,315 --> 01:03:41,215
+When you move into a more hybrid or distributed or remote type of environment is your managers kind of like and I think we're going to describe as like middle management.
+
+438
+01:03:41,215 --> 01:03:47,715
+I would think about is like anybody do basically is a, you know, is from managing a direct team to managing man.
+
+439
+01:03:47,915 --> 01:04:15,315
+Jurors for example, but maybe is not part of executive leadership or kind of like a direct report of the CEO, for example, like they don't just have an important role and kind of like translating top-down thinking or priorities down to the team but actually I think in a hybrid and remote World, their ability to Bubble Up relative sentiment and what's working and not working upward is actually far more important even than it was Prior you know in terms of different models.
+
+440
+01:04:15,315 --> 01:04:22,715
+And the reason why is that it's kind of like A fairly simple one which is you know we used to all be in the office.
+
+441
+01:04:22,715 --> 01:04:29,015
+I can walk around or you could walk around you kind of like pick up little signals on energy.
+
+442
+01:04:29,015 --> 01:04:30,715
+Facial expressions, Etc.
+
+443
+01:04:30,715 --> 01:04:32,415
+You grab someone for two minutes.
+
+444
+01:04:32,415 --> 01:04:40,315
+Like the amount of people, I think people ground, so to speak that you can cover, you know, in a day when everybody's in the office is quite extensive, right?
+
+445
+01:04:42,015 --> 01:04:46,415
+When everyone is not in the office, every day is actually a bit harder to clean that signal, right?
+
+446
+01:04:46,415 --> 01:04:49,715
+And the folks that actually Your most likely to get clear.
+
+447
+01:04:49,715 --> 01:04:56,315
+And true signal is a Frontline manager who may have built that relationship and a one-on-one and be able to sing to get that.
+
+448
+01:04:56,615 --> 01:05:14,115
+But if you don't create a space where there's comfort and manager, raising that up and being like, hey, look, I am noticing a couple of things in my team, you know, that maybe other folks might be seeing as well, and then create the right Forum to be able to share that information to, hey, look, is that emblematic of some bigger issue, culturally or operationally?
+
+449
+01:05:14,115 --> 01:05:15,715
+That we need to fix that.
+
+450
+01:05:15,715 --> 01:05:17,715
+I think getting this right gets a lot harder.
+
+451
+01:05:17,915 --> 01:05:21,015
+So tactical advice around.
+
+452
+01:05:21,015 --> 01:05:45,015
+That is one, make an effort from the way you talked about culture and great culture to make managers feel like it's a safe space to Bubble Up concerns that they're hearing from front lines, you know, in terms of what's working or not working or how they're feeling to we use our monthly people manager forums, as I mentioned is a way of saying, hey look, we have a dedicated item on the agenda every month which is just like, what are we hearing?
+
+453
+01:05:45,515 --> 01:05:47,715
+What's coming up from direct reports what our issues?
+
+454
+01:05:47,815 --> 01:05:49,315
+Is how we're folks dealing?
+
+455
+01:05:49,315 --> 01:05:51,615
+Are we seeing that in one place kind of in?
+
+456
+01:05:51,615 --> 01:05:55,915
+Its just idiosyncratic to that place or is it widespread across all manager groups?
+
+457
+01:05:56,115 --> 01:06:07,115
+But if you don't create that space for like that, really critical information, the bubble up, you can lose signal really fast, and not recognize an issue, or a cultural problem or something else.
+
+458
+01:06:07,115 --> 01:06:12,715
+And so, you really have to empower managers to operate, kind of like two ways in that regard.
+
+459
+01:06:14,815 --> 01:06:16,415
+It's really good.
+
+460
+01:06:16,415 --> 01:06:25,715
+So being able to create those feedback loops and that safety, ultimately that, that safety for the middle management layer to be able to bubble that up.
+
+461
+01:06:26,415 --> 01:06:27,115
+That's great.
+
+462
+01:06:27,115 --> 01:06:33,815
+All right, we have got only 10 minutes, believe you're not in our panel time, and we still have some questions here from the audience.
+
+463
+01:06:33,815 --> 01:06:36,215
+I would love to tackle one, that's being upvoted.
+
+464
+01:06:36,215 --> 01:06:42,615
+Pretty high as from wisdom, how do you engage remote employees to stay ahead in the retention battle?
+
+465
+01:06:45,715 --> 01:06:46,915
+Anyone feel free to jump in.
+
+466
+01:06:49,515 --> 01:06:53,115
+It's a, okay, I can share some hybrid perspective on it.
+
+467
+01:06:53,115 --> 01:06:55,015
+But why don't you take remote Roberto if you want to?
+
+468
+01:06:55,015 --> 01:06:56,615
+I can talk a little bit more about the hybrid element.
+
+469
+01:06:56,615 --> 01:06:56,915
+Rob.
+
+470
+01:06:56,915 --> 01:06:57,315
+I wasn't.
+
+471
+01:06:57,415 --> 01:06:59,115
+I was just going to just pass the ball to you.
+
+472
+01:06:59,115 --> 01:07:01,915
+So you go ahead and jump in, all right?
+
+473
+01:07:01,915 --> 01:07:12,315
+Well, so I will talk a little bit, maybe about from a hybrid perspective, which is probably where we spend more energy thinking about it and that I think they will be certain pieces of that, the better applicable to remote to, and you can talk more about it.
+
+474
+01:07:12,315 --> 01:07:17,215
+But I think, you know, maybe this ties to into something that may be another.
+
+475
+01:07:17,315 --> 01:07:36,415
+Folk Minds, if, if the whole focus of this conversation, the way we think about how work is evolving is related to flexibility, I certainly don't think the answer is kind of being overly rigid, you know in a non-intentional way in terms of like where and how people do their work.
+
+476
+01:07:36,815 --> 01:07:47,215
+And one of the interesting things that we started to find is there be discussions from companies or announcements as hey, I want everybody in the office you know, on Tuesdays.
+
+477
+01:07:47,315 --> 01:07:50,915
+Traditional everybody to, you know, to be in the office during these times.
+
+478
+01:07:50,915 --> 01:07:56,315
+And, yeah, I think what I found so far, and he kind of shows up consistently, not just in our users.
+
+479
+01:07:56,315 --> 01:08:02,015
+But in research that I have seen is people want to be treated like adults, you know?
+
+480
+01:08:02,015 --> 01:08:17,115
+And if there's one thing that really happened during the pandemic, it's folks, proved pretty concretely that they can be incredibly effective without having to be in the office and so if you tell them, I need you back in the office and that doesn't sound like a real.
+
+481
+01:08:17,314 --> 01:08:20,314
+Real reason or there's not like some intentionality around it.
+
+482
+01:08:20,415 --> 01:08:25,415
+People cry foul pretty fast and given the opportunities around distributive work.
+
+483
+01:08:25,814 --> 01:08:31,215
+One data point that I found really interesting that came out of LinkedIn was something like hitting gone from at one point.
+
+484
+01:08:31,215 --> 01:08:40,015
+Two percent of the jobs posted on LinkedIn, had a remote eligible to something like 25% and if you just think about the math of that it really over simplified terms.
+
+485
+01:08:40,314 --> 01:08:47,115
+It means that the average person has like 10x 20x, the number of opportunities available to them because of remote work.
+
+486
+01:08:47,314 --> 01:08:51,515
+Used to be available before and so people just aren't going to be here for that.
+
+487
+01:08:51,715 --> 01:08:52,715
+They're not right?
+
+488
+01:08:52,715 --> 01:09:04,015
+And so the biggest piece of advice they give to companies is like communicate like the thinking behind why you want folks to do what they do and make sure there's some intentionality around it, right?
+
+489
+01:09:04,015 --> 01:09:11,615
+And if you can give that flexibility at the team level or the department level to kind of figure out their own Norms based on what works well for them.
+
+490
+01:09:11,615 --> 01:09:17,115
+And folks can operate within that instead of saying, hey, look blanket across the company, you know, I see.
+
+491
+01:09:17,314 --> 01:09:20,814
+Yeah, I think it's good for people to be in the office three days a week and that works with my schedule.
+
+492
+01:09:20,814 --> 01:09:29,615
+So everybody's going to do that, people say not for me, you know, I am going to go elsewhere, I think that happens really fast, and so I think that's one way to kind of stay ahead of it.
+
+493
+01:09:30,515 --> 01:09:41,015
+And the other thing that's top of mind for me is like when I think this does really fast, you have remote and hybrid work cultures, is it shines a light on Mike relative quality of culture really quickly?
+
+494
+01:09:41,314 --> 01:09:47,115
+Because in a world where I can be at my laptop in sign out of one flag account and sign into somebody else.
+
+495
+01:09:47,314 --> 01:09:50,115
+Black accounts and effectively have switched companies, right?
+
+496
+01:09:50,115 --> 01:09:53,015
+Like something around vision and Mission.
+
+497
+01:09:53,015 --> 01:09:54,715
+And why do we do the work that we do?
+
+498
+01:09:54,715 --> 01:09:58,015
+And the impact went to have on the world becomes really, really important.
+
+499
+01:09:58,015 --> 01:10:01,215
+And so companies have to invest in that and Clarity.
+
+500
+01:10:01,215 --> 01:10:03,015
+And like why are we here?
+
+501
+01:10:03,015 --> 01:10:04,515
+And why is this important?
+
+502
+01:10:04,615 --> 01:10:07,015
+And are we hiring people that are values aligned?
+
+503
+01:10:07,615 --> 01:10:09,415
+Because otherwise, we're just gonna go, right?
+
+504
+01:10:09,415 --> 01:10:14,815
+There's just too many opportunities out there and the whole strength of your culture and the differentiation around.
+
+505
+01:10:14,815 --> 01:10:16,915
+That is one of the things that will keep people engaged.
+
+506
+01:10:20,715 --> 01:10:21,415
+So good.
+
+507
+01:10:21,615 --> 01:10:22,615
+Thank you rob.
+
+508
+01:10:23,115 --> 01:10:26,615
+All right, we're going to answer another question here from Stephanie Jones.
+
+509
+01:10:26,615 --> 01:10:34,515
+How do you support remote workers in setting up their physical office space to reduce physical pain symptoms?
+
+510
+01:10:34,515 --> 01:10:36,815
+We are seeing increases of that, right?
+
+511
+01:10:36,815 --> 01:10:39,015
+Lower back pain, neck pain, Etc.
+
+512
+01:10:41,115 --> 01:10:47,115
+This is an interesting one we hosted in one of our event series here called changing how we work.
+
+513
+01:10:47,115 --> 01:10:53,315
+We host it, Chris heard, who is a CEO of a company called first base.
+
+514
+01:10:53,715 --> 01:11:06,315
+First base .h, I mean, first base hq.com, I think, is this, there is their website and what they basically do is like, they equipped the remote employee with their office fittings, right?
+
+515
+01:11:06,315 --> 01:11:09,615
+So I think it's really important that companies.
+
+516
+01:11:10,015 --> 01:11:18,415
+Not just hire folks who remotely but think about how do they equip them in their space to be a safe space?
+
+517
+01:11:18,515 --> 01:11:20,315
+Like get the to office chair.
+
+518
+01:11:20,315 --> 01:11:20,915
+Yes, it costs.
+
+519
+01:11:20,915 --> 01:11:23,215
+A few hundred bucks, get the standing desk.
+
+520
+01:11:23,315 --> 01:11:25,215
+Yes, it costs a few hundred bucks.
+
+521
+01:11:25,415 --> 01:11:28,715
+Get the right keyboard, get the right Mouse, invest in those things.
+
+522
+01:11:28,715 --> 01:11:36,515
+Give employees, The Hit List of the best products to make sure that they have the best setup, so they can do their best work.
+
+523
+01:11:37,315 --> 01:11:39,815
+So I think it's one investing actual dollars.
+
+524
+01:11:39,915 --> 01:11:42,215
+To help employees do that.
+
+525
+01:11:42,315 --> 01:11:45,915
+And I think S I think that in this is an area to improve.
+
+526
+01:11:45,915 --> 01:12:14,015
+I think it's Car Technology out there but there's got to be ways to actually educate also in train folks on the best practices on getting up, moving around, you know, the small tip there's in your Google calendar, there's something called I think Speedy mint meetings and it basically forces your meetings from Two minutes to 25 minutes from 60 Minutes to 50 minutes.
+
+527
+01:12:14,015 --> 01:12:20,215
+So that always gives you five minutes for every 30 minutes back and it also gives you 10 minutes for every 60 Minutes back.
+
+528
+01:12:20,515 --> 01:12:22,615
+And so, the question is, how do you use that?
+
+529
+01:12:22,715 --> 01:12:27,515
+All right, take a break, go for the coffee, walk around, do those things.
+
+530
+01:12:27,515 --> 01:12:40,615
+So I think it goes both ways, not just on the equipment having the right setup, but also the training that for a better way of working from home, That's great.
+
+531
+01:12:40,615 --> 01:12:41,715
+Thanks, Roberto.
+
+532
+01:12:41,815 --> 01:12:45,115
+Alright I am going to keep tackling these questions because we got five minutes left.
+
+533
+01:12:45,115 --> 01:12:48,615
+Alright, so here's an interesting one.
+
+534
+01:12:49,715 --> 01:12:52,915
+Do you find that on boarding and training remote?
+
+535
+01:12:52,915 --> 01:13:00,115
+Employees are more challenging than in office employees, especially for employees right out of school?
+
+536
+01:13:02,715 --> 01:13:06,715
+I would, I would say in my experience, absolutely.
+
+537
+01:13:08,415 --> 01:13:14,215
+We because you're not face-to-face, it doesn't allow for those micro conversations.
+
+538
+01:13:14,215 --> 01:13:19,315
+As micro-moments could pop up where people can chat between each other and allow you to rapidly fix an issue issues.
+
+539
+01:13:19,315 --> 01:13:20,615
+Might kind of simmer below the surface.
+
+540
+01:13:22,215 --> 01:13:32,615
+Something we did is we just took the time to like map out the entire onboarding experience starting with like the first job interview are actually part of me even before that is looking at our curb page on our website.
+
+541
+01:13:32,715 --> 01:13:37,415
+In like mapping it from sort of 0 to 10, is a good experience, or a bad experience.
+
+542
+01:13:37,715 --> 01:13:40,715
+And once that was all mapped out where able to pinpoint where we're strong and weak.
+
+543
+01:13:40,715 --> 01:13:49,815
+So I was like, step one and step two, we created like a really specific repeatable onboarding Playbook, which is like is pretty darn granular.
+
+544
+01:13:49,815 --> 01:13:54,015
+And some of the cool things we use like tools, like doughnut till I was serendipitous conversations.
+
+545
+01:13:54,015 --> 01:13:59,815
+We have like the day one of Jenna's mapped out hour by hour for every single employee.
+
+546
+01:14:01,615 --> 01:14:02,515
+In fact, the whole weeks.
+
+547
+01:14:02,615 --> 01:14:05,815
+Opt hour by hour from sort of day 1 to day 7.
+
+548
+01:14:06,015 --> 01:14:08,315
+So we have all these consistent repeatable processes.
+
+549
+01:14:08,315 --> 01:14:15,515
+And then we also collect feedback on day 30 and a 60, or employees can fill out a survey like how good of a job did we do on our onboarding changes?
+
+550
+01:14:15,715 --> 01:14:19,215
+Because if you don't measure it, you can't truly prove whether it's working or not.
+
+551
+01:14:19,415 --> 01:14:25,215
+But those are kind of three steps we have taken mostly because we wanted to get ahead of like get ahead.
+
+552
+01:14:25,315 --> 01:14:27,215
+We didn't want to bad onboarding experience.
+
+553
+01:14:27,215 --> 01:14:33,015
+That I have heard some stories where we previously been doing a good job, and we also have you delivered a Job?
+
+554
+01:14:33,015 --> 01:14:41,915
+And that's really frustrating to me if I can't deliver that consistently great experience so that was the trigger for those kind of three processes that we rolled our internally.
+
+555
+01:14:43,315 --> 01:14:44,215
+That's great.
+
+556
+01:14:44,415 --> 01:14:44,715
+All right.
+
+557
+01:14:44,715 --> 01:14:45,815
+Just do two time.
+
+558
+01:14:46,215 --> 01:14:50,615
+I don't think we could get to all the questions but I do want to ask a question of each of you.
+
+559
+01:14:51,415 --> 01:14:57,615
+Of course, we're talking about predictions here and future, and so we I would love to hear from each of you.
+
+560
+01:14:58,215 --> 01:15:07,215
+What is the one top prediction that you are excited about and you are prioritizing for your organization?
+
+561
+01:15:09,715 --> 01:15:14,715
+Maybe there're two questions in there, but I would love to hear from each of you and I will start with you Rob.
+
+562
+01:15:18,815 --> 01:15:21,715
+Top the top prediction that we're prioritizing organization.
+
+563
+01:15:22,015 --> 01:15:35,515
+I think that the top prediction is that I think the majority of the world that is capable of working remotely will operate a hybrid environment time, not just next year, but into the future, right?
+
+564
+01:15:35,615 --> 01:15:42,615
+And I think the biggest barrier around that is purely going to be the ability to make it that people can work in the right place at the right time.
+
+565
+01:15:42,815 --> 01:15:46,815
+You know, that your home on the right days or in the office on the right days you can get the right people together.
+
+566
+01:15:46,915 --> 01:15:55,215
+So we spent all of Energy from a product perspective, trying to make that as easy as possible, which coincidentally is the biggest investment I can make in some ways in our own company?
+
+567
+01:15:55,215 --> 01:16:01,815
+You know, how we do this internally to make that really easy for folks, to be able to get together the office at the right time or out of the right time.
+
+568
+01:16:01,815 --> 01:16:07,215
+And so in my mind it's that hybrid is the future from majority of folks.
+
+569
+01:16:07,215 --> 01:16:09,815
+I would say and intentionality around that.
+
+570
+01:16:09,815 --> 01:16:11,315
+I think it's just extremely Accord.
+
+571
+01:16:11,315 --> 01:16:13,015
+That's what we're, that's what we're focused on.
+
+572
+01:16:13,115 --> 01:16:13,715
+I am helping with.
+
+573
+01:16:15,415 --> 01:16:18,315
+Thanks, I will head off to you Roberto Yeah, cool.
+
+574
+01:16:18,315 --> 01:16:33,115
+I think it's in this future sort of like, thinking about what's happening like to think about a short-term or long-term, but I will stick to like, it just in between and I think that the in between is that there's going to be much more digital Nomads.
+
+575
+01:16:33,115 --> 01:16:41,815
+There's going to be a lot of people that are just owning their careers and their part sizing life first, and then work.
+
+576
+01:16:42,515 --> 01:16:45,315
+And I think that's a big shift that is going to happen.
+
+577
+01:16:45,315 --> 01:16:47,415
+Is, you know what, I want to live this life, dear.
+
+578
+01:16:47,615 --> 01:17:06,915
+For I work this way and there's a journey and it cooked in people to think differently about that, not just employees, but employers, making sure that people know the expectations, making sure that there's this outcome driven, you do with your time, with to need to go do this, is, what's what Excellence looks like at the job.
+
+579
+01:17:07,115 --> 01:17:10,515
+Go be excellent and go live, an excellent life on your terms.
+
+580
+01:17:10,615 --> 01:17:17,415
+And I think that it's a foundation of trust and that's a big shift that still going to have to happen in employment.
+
+581
+01:17:17,515 --> 01:17:33,415
+In general, it's like trusting employees to do their job, you hired him to do the job, give them clear expectations and let them go surf every day if they want to in the morning as long as the job gets done, Love that Jason close up.
+
+582
+01:17:33,915 --> 01:17:37,015
+Yeah, I think Roberto and Rob give fantastic answers.
+
+583
+01:17:37,015 --> 01:17:38,715
+I gave a slightly quirky answer.
+
+584
+01:17:38,715 --> 01:17:44,515
+I am fascinated by the future but I think because so many people are going into remote distributed hybrid environments.
+
+585
+01:17:44,515 --> 01:17:55,215
+There's this really cool infrastructure change where transportation is going to get better new real estate and communities are going to grow but like whether its self-driving cars there's this really cool company called jobby.
+
+586
+01:17:55,215 --> 01:17:58,915
+It's like this quadcopter that holds any between around for people.
+
+587
+01:17:58,915 --> 01:18:00,015
+They're going to equip it with us.
+
+588
+01:18:00,215 --> 01:18:01,215
+Flying model.
+
+589
+01:18:01,215 --> 01:18:11,915
+So I think how we get around we literally show up on the world will change making commute times faster and more exciting, and I am really excited about that feature so yeah that's my quirky answer that question.
+
+590
+01:18:12,915 --> 01:18:14,315
+Thank you so much.
+
+591
+01:18:14,315 --> 01:18:18,515
+Each of you have shared some great insights resources and tips.
+
+592
+01:18:19,515 --> 01:18:24,015
+We're very excited of how this next year will unfold.
+
+593
+01:18:24,215 --> 01:18:27,215
+So, thank you, Roberto Rob and Jason.
+
+594
+01:18:27,415 --> 01:18:27,815
+Thank you.
+
+595
+01:18:27,815 --> 01:18:39,215
+Everybody here for showing up We are so happy to be able to have this conversation with you and continue the conversation around changing and evolving how it works.
+
+596
+01:18:39,215 --> 01:18:41,915
+So, definitely check out our next event.
+
+597
+01:18:41,915 --> 01:18:47,415
+It's going to be with Oyster Cult ramp and Roberto here, welcome.
+
+598
+01:18:47,915 --> 01:18:57,115
+It's going to be around leading with compassion and you know, all ones a similar theme of just supporting our distributed Workforce, the managers, and employees.
+
+599
+01:18:57,115 --> 01:18:58,315
+So it's going to be a great event.
+
+600
+01:18:58,315 --> 01:18:59,315
+Hope to see you there.
+
+601
+01:18:59,615 --> 01:19:00,015
+Thank.
+
+602
+01:19:00,215 --> 01:19:05,015
+Everyone have a wonderful Tuesday and I will see you next week.

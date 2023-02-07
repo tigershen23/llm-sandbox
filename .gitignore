@@ -2,6 +2,6 @@ notebooks/data
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
 /**/crawls/**/archive/**
-/**/qa_venv/**
+/**/*_venv/**
 **.pem
 **/proxy-certs/**

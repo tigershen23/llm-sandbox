@@ -1,0 +1,2220 @@
+
+1
+00:01:35,900 --> 00:01:40,500
+Did a full 180 crazy?
+
+2
+00:03:09,500 --> 00:03:10,700
+Don't show up.
+
+3
+00:04:30,700 --> 00:04:32,700
+Anything could stop me.
+
+4
+00:05:28,300 --> 00:05:32,200
+Hello everyone and welcome.
+
+5
+00:05:34,500 --> 00:05:39,300
+I am seeing people are tuning in from not so sunny places from sunny places.
+
+6
+00:05:39,300 --> 00:05:47,100
+It don't matter, you're tuned in, you are here with us today, and that makes us so happy and Overjoyed to have you.
+
+7
+00:05:47,100 --> 00:05:51,700
+As today's panel discussion, is going to be really hot.
+
+8
+00:05:51,700 --> 00:05:53,600
+We have got John Miller.
+
+9
+00:05:53,600 --> 00:05:55,300
+Who is the CMO demand base?
+
+10
+00:05:55,300 --> 00:05:56,500
+Nate Dame.
+
+11
+00:05:56,500 --> 00:05:57,900
+The CEO profound.
+
+12
+00:05:58,300 --> 00:06:07,400
+G + MK, the CMO of Loop and tie to talk about the expertise of the joint synergies of ABM and SEO.
+
+13
+00:06:07,500 --> 00:06:11,400
+So this is going to be a really great discussion with these experts.
+
+14
+00:06:11,600 --> 00:06:16,800
+You know, B2B buyers we know this 2023.
+
+15
+00:06:17,200 --> 00:06:28,200
+They want personalized self guided experiences, according to this recent stat by trust radius, 87 percent of buyers want the ability to self serve.
+
+16
+00:06:28,400 --> 00:06:30,300
+Or all of their buying Journey.
+
+17
+00:06:30,600 --> 00:06:33,100
+87%, okay.
+
+18
+00:06:33,200 --> 00:06:40,600
+Buyers, love it because then they can take their own time and Pace to explore research and purchase on their own terms.
+
+19
+00:06:40,900 --> 00:06:46,600
+We're seeing those touch points prior to conversion, go up, especially over the last couple of years.
+
+20
+00:06:46,900 --> 00:06:57,600
+And so if SEO and ABM are created in silos and isolated from another, which can happen often times, then these important parts of the buyers process.
+
+21
+00:06:58,300 --> 00:07:01,700
+It doesn't get the feedback that you need from sales.
+
+22
+00:07:01,700 --> 00:07:03,900
+There's a lot of other things, I am not the expert on this.
+
+23
+00:07:03,900 --> 00:07:09,200
+So this is what I want to unpack with our panel today.
+
+24
+00:07:09,800 --> 00:07:14,800
+So before that, we're going to take a quick poll and let us pull that up it.
+
+25
+00:07:16,200 --> 00:07:17,700
+I just want to get a check here.
+
+26
+00:07:18,600 --> 00:07:26,700
+How many of you are currently leveraging your SEO and ABM in conjunction with one another?
+
+27
+00:07:27,200 --> 00:07:29,300
+Go ahead and just drop your votes there.
+
+28
+00:07:31,400 --> 00:07:32,200
+All right.
+
+29
+00:07:32,200 --> 00:07:37,600
+Okay, so we see a much greater percentage oh kind of sort.
+
+30
+00:07:37,600 --> 00:07:42,600
+As we got some maybes and some nose and not as much of the yeses.
+
+31
+00:07:42,600 --> 00:07:50,200
+Okay, all right, all right, well with that, I would love to introduce our wonderful speakers to the stage.
+
+32
+00:07:52,500 --> 00:07:53,500
+Come enjoy a beer.
+
+33
+00:07:53,500 --> 00:07:56,500
+Hello, hello.
+
+34
+00:07:56,600 --> 00:07:57,200
+Hi there.
+
+35
+00:07:57,700 --> 00:07:58,900
+How's it going?
+
+36
+00:07:58,900 --> 00:08:00,500
+John 8 MK.
+
+37
+00:08:00,700 --> 00:08:04,300
+So, great to see where each of you tuning in from.
+
+38
+00:08:04,300 --> 00:08:06,400
+And could you give us a little introduction?
+
+39
+00:08:06,400 --> 00:08:07,600
+I will start with you, John?
+
+40
+00:08:08,100 --> 00:08:08,300
+Yeah.
+
+41
+00:08:08,300 --> 00:08:10,300
+Hey folks, glad to talk to you.
+
+42
+00:08:10,300 --> 00:08:13,800
+I am in Burlingame, California, a little South of San Francisco.
+
+43
+00:08:15,400 --> 00:08:18,400
+I have been in the Mart tech industry for years and years.
+
+44
+00:08:18,400 --> 00:08:28,800
+I was a co-founder of Marketo I was the CEO and founder of a company called engage you in about two and a half years ago, we merge engage you and demand base to create the leading ABM platform.
+
+45
+00:08:28,800 --> 00:08:30,900
+And now everyone is the CMO there.
+
+46
+00:08:31,900 --> 00:08:37,299
+I worked with at least one of our other panelists met Fred Marketo and engage you.
+
+47
+00:08:37,299 --> 00:08:41,000
+Oh, so it's really great to have the opportunity to chat with him on this panel, as well.
+
+48
+00:08:43,200 --> 00:08:44,200
+And where are you tuning in?
+
+49
+00:08:44,200 --> 00:08:46,000
+From what city Burlingame.
+
+50
+00:08:46,000 --> 00:08:47,700
+California, a little South of San Francisco.
+
+51
+00:08:48,000 --> 00:08:49,000
+Nice.
+
+52
+00:08:49,000 --> 00:08:50,200
+All right, I will hand it over to you.
+
+53
+00:08:50,200 --> 00:08:50,700
+Nate.
+
+54
+00:08:51,500 --> 00:08:52,100
+Sure.
+
+55
+00:08:52,300 --> 00:08:53,100
+I am in Lake Geneva.
+
+56
+00:08:53,100 --> 00:08:53,700
+Wisconsin.
+
+57
+00:08:53,700 --> 00:08:55,000
+Southeast Wisconsin.
+
+58
+00:08:55,000 --> 00:08:56,200
+Just above Chicago.
+
+59
+00:08:57,100 --> 00:08:58,000
+Someone already chatted.
+
+60
+00:08:58,000 --> 00:08:59,200
+I am not a Packer fan.
+
+61
+00:08:59,200 --> 00:09:00,800
+I am a Chicago transplant.
+
+62
+00:09:00,800 --> 00:09:01,500
+Wisconsin.
+
+63
+00:09:01,500 --> 00:09:05,000
+So I am a die-hard Bears fan.
+
+64
+00:09:05,800 --> 00:09:08,500
+Although my kids have been stolen over the Packer side.
+
+65
+00:09:08,500 --> 00:09:09,600
+It's a sad story.
+
+66
+00:09:09,800 --> 00:09:12,300
+Yeah, John and I worked together years and years.
+
+67
+00:09:12,500 --> 00:09:13,100
+For quite a while.
+
+68
+00:09:13,100 --> 00:09:22,100
+Marketo, I run an agency called profound strategy or an SEO results partner, we go high-growth scalable predictable, SEO campaigns for technology companies.
+
+69
+00:09:23,900 --> 00:09:24,800
+Amazing.
+
+70
+00:09:25,100 --> 00:09:27,000
+It looks like we just lost MK.
+
+71
+00:09:27,000 --> 00:09:31,300
+So whenever she jumps back on, well, there you are.
+
+72
+00:09:33,300 --> 00:09:35,300
+Presto change-o, seems you said money.
+
+73
+00:09:35,300 --> 00:09:35,600
+Yes.
+
+74
+00:09:35,600 --> 00:09:37,800
+83 times usually for me to appear but I gave you two.
+
+75
+00:09:38,500 --> 00:09:39,300
+Gotcha.
+
+76
+00:09:39,800 --> 00:09:44,000
+Hey, okay, so where are you tuning in from and could you give us a little intro?
+
+77
+00:09:45,000 --> 00:09:46,800
+I am not tuning in from anywhere.
+
+78
+00:09:46,800 --> 00:09:48,400
+Nearly as cool as California.
+
+79
+00:09:48,400 --> 00:09:54,700
+But I am dialing in from Rhode Island today, where we are expecting some snow in a tiny estate.
+
+80
+00:09:54,700 --> 00:10:00,900
+Here in the US, I am the CM 0 here at loop antenna, and I am thrilled to be able to talk to you about Pat top.
+
+81
+00:10:00,900 --> 00:10:05,100
+I said I am particularly passionate About in a, a VM and SEO.
+
+82
+00:10:06,700 --> 00:10:08,100
+Awesome, thank you.
+
+83
+00:10:08,500 --> 00:10:13,000
+All right, well, we're going to jump right into some of our questions here.
+
+84
+00:10:13,300 --> 00:10:25,000
+You know, it was interesting to see those results from that poll where majority of us are probably kinda sorta or not at all, using ABM and SEO in conjunction.
+
+85
+00:10:25,200 --> 00:10:35,300
+So one of my first questions is, where do you start with even thinking about bringing a BM strategy and SEO strategy in alignment?
+
+86
+00:10:35,400 --> 00:10:36,400
+And I am going to hand this over.
+
+87
+00:10:36,500 --> 00:10:38,200
+Huge on initially to kick it off.
+
+88
+00:10:39,200 --> 00:10:50,200
+Yeah, you know, I mean back when I was starting engage, you know, I used to use this analogy to describe a VM, you know, I talked about the sort of inbound manj and kind of marketing.
+
+89
+00:10:50,200 --> 00:11:08,800
+We did, it Marketo is fishing with Nets where we'd run our campaigns, and we didn't really care which fish, we caught we just cared if we caught enough fish, whereas ebm is what I like fishing with the spear, where would go identify the big fish that we really wanted, and we would reach out to them kind of proactively.
+
+90
+00:11:08,900 --> 00:11:18,800
+Yeah, and in those early days, you know whether I was intending to are not, I think I was purposely setting up sort of either-or dichotomy, right?
+
+91
+00:11:18,800 --> 00:11:25,400
+You're either fishing with Nets or you're fishing with Spears, you know, and I think a lot of people struggled with that a little bit.
+
+92
+00:11:26,300 --> 00:11:28,300
+However, fast-forward.
+
+93
+00:11:29,000 --> 00:11:30,900
+Gosh, seven plus years later.
+
+94
+00:11:31,900 --> 00:11:33,000
+I have come to learn that.
+
+95
+00:11:33,000 --> 00:11:35,700
+That's its more nuanced than that.
+
+96
+00:11:35,900 --> 00:11:47,400
+And what you actually have is something that looks more, like a spectrum of different go-to-market styles, you know, ranging from truly bespoke 1, to 1 atm.
+
+97
+00:11:48,300 --> 00:11:53,200
+You know, for deals that might be worth 2 million, 10 million, 500 million dollars a year.
+
+98
+00:11:54,000 --> 00:12:01,500
+You know, or if they talk about 12 few, which is good for deals, maybe half a million a year or so.
+
+99
+00:12:01,700 --> 00:12:22,000
+Um and then one too many ABMs which is appropriate for say a hundred fifty thousand or two hundred fifty thousand dollar deals and then you even have you know, just targeted demand gen where maybe you 50,000 Dollar Deals where, you know, you have a pretty wide universe of companies you're going after but you still want to be a little relevant targeted.
+
+100
+00:12:22,800 --> 00:12:26,400
+And a lot of companies span across these different deal points.
+
+101
+00:12:27,000 --> 00:12:32,300
+And so, I think, rather than thinking about it is an ATM strategy or demand gen strategy.
+
+102
+00:12:32,700 --> 00:12:37,500
+I think the beginning, your to answer your question, specifically about, how do you start by building an AVM strategy?
+
+103
+00:12:37,500 --> 00:12:41,100
+Aligns with your SEO strategy is to realize they aren't in Conflict.
+
+104
+00:12:41,300 --> 00:12:52,100
+You know, you have one go-to-market strategy, which happens to span different styles and which you just got, you're going to use different tactics for different kinds of deals.
+
+105
+00:12:52,600 --> 00:13:01,900
+And as we will talk about more, you know, some of the tactics and to being very complimentary that's great.
+
+106
+00:13:04,200 --> 00:13:04,900
+I think it's great.
+
+107
+00:13:04,900 --> 00:13:05,900
+I think it's spot on.
+
+108
+00:13:05,900 --> 00:13:11,600
+And to be honest John has built a framework for thinking about a VM that's still so relevant.
+
+109
+00:13:11,600 --> 00:13:14,900
+In fact, I saved his engage eoe book and pull it up again.
+
+110
+00:13:14,900 --> 00:13:25,500
+Yesterday, talking to my team about our own AVM programs, our doing scale campaigns to micro segment today, and we're talking about a strategic level Campaign, straight out of John's ebook.
+
+111
+00:13:25,500 --> 00:13:29,900
+So anything this guy says about a VM is tends to be pure gold.
+
+112
+00:13:30,000 --> 00:13:32,700
+What's interesting is thinking about, sorry to be over the top.
+
+113
+00:13:32,800 --> 00:13:40,400
+Top John but what's interesting about SEO, and we want SEO to sit next to a BM SEO.
+
+114
+00:13:40,700 --> 00:13:45,300
+Could be seen as a huge net and ABM could be seen as a spear.
+
+115
+00:13:46,300 --> 00:13:59,600
+And, so I think it's also important to think that these two things should coordinate, but they don't necessarily serve each other exclusively, SEO, conserve, a lot of broad purposes that might tie closer to brand or tie into other objectives.
+
+116
+00:13:59,600 --> 00:14:06,200
+To just be present when your buyers ask questions, May even be a strategy to plug leaks in a high scale.
+
+117
+00:14:06,500 --> 00:14:09,500
+ABM program, where you still have a leaky bucket.
+
+118
+00:14:09,800 --> 00:14:18,000
+I just be because people are searching questions as we do on Google, and they find answers that your competitors have answered.
+
+119
+00:14:18,200 --> 00:14:19,400
+And you got to be there too.
+
+120
+00:14:20,000 --> 00:14:26,900
+So they can tie together, but they're also quite distinct in the end the spectrum of how you might design your programs.
+
+121
+00:14:28,500 --> 00:14:29,300
+I love that.
+
+122
+00:14:29,300 --> 00:14:33,300
+I think when you also meet you're using SEO as I have wide.
+
+123
+00:14:33,300 --> 00:14:40,600
+Expansive, net SEO, coupled with the right engagement tactics through your avian strategy can also be the bait.
+
+124
+00:14:41,000 --> 00:14:46,400
+So not only your dredging, the ocean floor with some of your SEO strategy, at the highest level of intent.
+
+125
+00:14:46,400 --> 00:14:51,300
+In your keyword search, you can also be getting a lot more granular with that keyword searching.
+
+126
+00:14:51,300 --> 00:14:57,500
+How you start optimizing site pages to be hunting down certain fish, so that you can have them in close range?
+
+127
+00:14:57,700 --> 00:15:05,200
+To shoot with your sphere with a BMI think we teased our, the oceanic and fishing and metaphor to its fullest extent.
+
+128
+00:15:05,200 --> 00:15:07,800
+Right, that's good.
+
+129
+00:15:08,800 --> 00:15:32,900
+I definitely see that complement complementary nature in the way, each of you are describing a VM and SEO and how they can work together, you know, I think about the buyers journey, and from here's my qualified opportunity and then all the way through to conversion and Even post sale, could we get a little bit Technical and that flow?
+
+130
+00:15:33,300 --> 00:15:40,300
+How do you see ABM and SEO working together from even before qualify table?
+
+131
+00:15:40,300 --> 00:15:48,300
+Like what's that whole experience from awareness all the way through Yeah, I mean I mainly that off.
+
+132
+00:15:48,300 --> 00:15:49,000
+That's okay.
+
+133
+00:15:49,700 --> 00:15:50,000
+Sorry.
+
+134
+00:15:50,000 --> 00:15:52,500
+If MK4 about to speak there, you know?
+
+135
+00:15:52,500 --> 00:15:59,700
+I mean I sort of think I mentioned tactics that were complimentary you know, so I think the first one is there's this concept of.
+
+136
+00:15:59,700 --> 00:16:05,700
+What's people talk about his intent data, which is a really key part of ABM intent?
+
+137
+00:16:05,700 --> 00:16:07,900
+Data is your.
+
+138
+00:16:08,200 --> 00:16:15,800
+When you can sort of see what topics your target accounts are researching and reading about.
+
+139
+00:16:15,900 --> 00:16:20,600
+Out on the open web, I can get into more about how that data is figured out.
+
+140
+00:16:20,600 --> 00:16:36,300
+But, so I think Step 1, Campari tactic is when you have identified your target accounts, using 10 data, to see what topics that read about what keywords they talked about and then that's a pretty good Kion, kind of what you should be focusing, your SEO strategies on.
+
+141
+00:16:37,400 --> 00:16:45,700
+I think second when you, when company comes like a little further down the funnel, a company comes to your website.
+
+142
+00:16:46,400 --> 00:16:49,200
+You know, 98% of the time, they're going to be anonymous, right?
+
+143
+00:16:49,200 --> 00:16:53,400
+They just Googled something and they found you another F.
+
+144
+00:16:53,800 --> 00:16:58,000
+ABM tactic is to DN optimize that web traffic.
+
+145
+00:16:58,000 --> 00:17:04,500
+You don't, you're not going to hear who the person is, but you can figure out what company they work for based on their IP address and their cookie.
+
+146
+00:17:05,099 --> 00:17:11,000
+And if you see that this is coming to your site and it is a target account, you know.
+
+147
+00:17:11,099 --> 00:17:15,300
+Now you can actually personalize that webpage to recognize them.
+
+148
+00:17:15,500 --> 00:17:20,400
+Maybe you just the content based on their industry or other things, you know about them.
+
+149
+00:17:20,400 --> 00:17:31,700
+So you're being more relevant and more personalized for that kind of organic traffic and then last, you know, late in the sales cycle, to me that's all about validation and consensus.
+
+150
+00:17:32,000 --> 00:17:34,900
+Making the hiring committee feel safe with this purchase.
+
+151
+00:17:37,000 --> 00:17:53,700
+You know, and I think you can often times you're going to have some buyers like an executive who hasn't really been involved with the buying committee whose like, hey, what's this demand-based thing that were purchasing, you know, and they're going to answer that by typing something into Google and see what comes up.
+
+152
+00:17:53,900 --> 00:18:01,200
+So making sure that your SEO strategies also include late-stage validation, I think would be a third tactic.
+
+153
+00:18:01,200 --> 00:18:05,000
+I talk about okay.
+
+154
+00:18:05,000 --> 00:18:05,900
+Looked like you were going to speak right?
+
+155
+00:18:05,900 --> 00:18:18,100
+When I started talking there, I mean you, you summarize it so beautifully, the only, yes, and they have to the framework that you put out there for folks, to look at is also bifurcating.
+
+156
+00:18:18,100 --> 00:18:22,700
+Some of the data points you have with folks who have boots on the ground talking with your customers.
+
+157
+00:18:23,400 --> 00:18:34,000
+Obviously, I think one of the most important stakeholders in any of your ABM, or ABX strategies, or your sales team that you get to work alongside with, but I actually find it really interesting to spend time.
+
+158
+00:18:34,200 --> 00:18:42,000
+Working with your customer basing teams post-sale to understand a lot more about what is really compelling and helpful for them post.
+
+159
+00:18:42,000 --> 00:18:48,500
+So where they get hung up, where they get stuck on either product adoption, where they start to gain traction.
+
+160
+00:18:48,500 --> 00:18:50,700
+That time to Value multiplier.
+
+161
+00:18:50,700 --> 00:19:04,000
+To post sale is a really interesting way to build a top-down SEO strategy, starting all the way from awareness coming all the way down to decision to understand how to maximize that time to Value quotient.
+
+162
+00:19:04,100 --> 00:19:05,400
+For your customers.
+
+163
+00:19:05,400 --> 00:19:06,300
+Success teams?
+
+164
+00:19:07,700 --> 00:19:10,200
+Yeah, good point points.
+
+165
+00:19:11,700 --> 00:19:12,400
+It's interesting.
+
+166
+00:19:12,400 --> 00:19:23,200
+I think the intent data is one of the most valuable B, I know, and we're working with clients for kind of sometimes, looking over the fence like, oh, well, your will your ABM, your marketing team over there.
+
+167
+00:19:23,200 --> 00:19:25,000
+Give us that intent data as well.
+
+168
+00:19:25,000 --> 00:19:28,900
+We want to just tap into that pipe, it transfers to SEO.
+
+169
+00:19:28,900 --> 00:19:30,400
+You can think about intent data.
+
+170
+00:19:30,400 --> 00:19:46,400
+When you look at keywords, we think it's important to level that up a bit when you're doing your then getting tactical that Co so you know exactly what you're targeting exactly what you're getting and that Actually tie really well, even to last-minute, validation, with Executives.
+
+171
+00:19:47,400 --> 00:19:57,500
+There's this interesting Trend where many tech companies seem to have this user need at that, we call an SEO, this user need like, what is a BM for Adam and base?
+
+172
+00:19:57,700 --> 00:20:00,000
+What is what our webinars are?
+
+173
+00:20:00,000 --> 00:20:01,600
+What is a webinar platform?
+
+174
+00:20:01,600 --> 00:20:03,500
+Maybe for something like, welcome, what do they be?
+
+175
+00:20:03,500 --> 00:20:05,500
+I am gifting for something like Loop and tie.
+
+176
+00:20:06,000 --> 00:20:11,200
+What is the name of your category and there's an intent, or we call it a user need far more?
+
+177
+00:20:11,400 --> 00:20:19,700
+Avec than the intent and a modern SEO program will can hone in on the user needs that matter and sometimes he's this Wild Thing Happened.
+
+178
+00:20:19,700 --> 00:20:26,200
+So for many B2B tech companies that we worked with these highly generic user needs their specifically.
+
+179
+00:20:26,200 --> 00:20:47,000
+What is the topic, their core vertical will find that, you know, no one wants a Target that because it's generic a high level, but we often advocate for it and because time and again, we find the highest Revenue attribution to those pages when they gain traffic and earn traffic and keep it.
+
+180
+00:20:47,100 --> 00:21:11,200
+We see the highest revenue attribution to those pages and our best consensus it from that is we don't find those pages generating leads predominantly early in the process, but I seem to be gaining that attribution late in the stage, or when our best assumption here, the data is hard to always specify, it's a it gets messy, right?
+
+181
+00:21:11,300 --> 00:21:11,800
+Right?
+
+182
+00:21:11,800 --> 00:21:14,800
+But it's that it really seems like executives are doing exactly.
+
+183
+00:21:14,800 --> 00:21:16,000
+Like, John, described.
+
+184
+00:21:16,600 --> 00:21:17,600
+What's ABM again?
+
+185
+00:21:17,700 --> 00:21:19,500
+Oh, let me, let me Google it.
+
+186
+00:21:19,800 --> 00:21:23,300
+Oh, and I got a great answer and by that answer, by the way that answer came from demand base.
+
+187
+00:21:23,300 --> 00:21:25,500
+So yeah, let us move forward done with that.
+
+188
+00:21:25,500 --> 00:21:26,500
+What's my next decision?
+
+189
+00:21:29,300 --> 00:21:30,300
+So good.
+
+190
+00:21:30,300 --> 00:21:38,900
+Wow, just a Sal had said if there're any questions that, any of you have, feel free to drop them in the Q&A tab, as we're rolling here.
+
+191
+00:21:39,600 --> 00:21:51,300
+So what it comes to optimization throughout that occur throughout the entire funnel, how do you see ABM and SEO working in compliment?
+
+192
+00:21:51,300 --> 00:21:57,800
+I assume that there's going to be feedback loops and how does that happen on a week-to-week monthly?
+
+193
+00:21:58,800 --> 00:22:09,200
+With, but the teams Yeah, I mean they saw you got this one.
+
+194
+00:22:10,200 --> 00:22:10,800
+Sure.
+
+195
+00:22:10,800 --> 00:22:14,700
+I think that the right mechanisms are important to the right feedback.
+
+196
+00:22:14,700 --> 00:22:16,000
+Loops are important rate schedule.
+
+197
+00:22:16,000 --> 00:22:16,900
+The right, Cadence.
+
+198
+00:22:17,500 --> 00:22:25,500
+Most importantly, I would say that each program needs to have its own established goals and objectives which are probably not the same.
+
+199
+00:22:26,100 --> 00:22:37,800
+And then we're asking the question to say, how can, you know, now that we're say it's two people running each program, how can we help each other reach your Everett goals by collaborating, right?
+
+200
+00:22:37,800 --> 00:22:43,100
+I think it's a mistake to say, well, we got these two programs, they should work together and Magic will happen.
+
+201
+00:22:43,300 --> 00:22:44,400
+We used to hear that all the time.
+
+202
+00:22:44,400 --> 00:22:45,500
+And sometimes we still do.
+
+203
+00:22:45,700 --> 00:22:51,600
+If you do SEO and you do paid search and like you coordinate them, it's the silver bullet and often.
+
+204
+00:22:51,600 --> 00:22:55,400
+It's not, I mean, you can do a lot of work that we don't fight.
+
+205
+00:22:55,400 --> 00:23:02,900
+We haven't found a way as or it's like this Silver Bullet of just magical explosion of leads or Revenue, anything, you know that you can coordinate.
+
+206
+00:23:02,900 --> 00:23:04,600
+So I think maybe I am an SEO.
+
+207
+00:23:05,200 --> 00:23:11,800
+Aim separate objectives to contribute to higher level company, objectives, and the question for the teams.
+
+208
+00:23:11,900 --> 00:23:28,000
+And for leaders, helping those teams collaborate is, how can these two programs help there, you know, coordinate to help their individual goals being achieved better and that should be the question that drives collaboration and should drive the Cadence should drive how, you know, obviously to share all the data.
+
+209
+00:23:28,000 --> 00:23:35,000
+You can, you know, make decisions via the written word publish your conversations, you know, don't just have a rambling meeting.
+
+210
+00:23:35,100 --> 00:23:43,800
+Things but use the written material and use document of material so that it's much easier for others to see what's happening and jump in and jump out of different context.
+
+211
+00:23:43,800 --> 00:23:47,100
+But ultimately the, the goal of collaboration should be.
+
+212
+00:23:47,300 --> 00:23:52,200
+Hey, can you share something so that each team's goals can be reached faster and better?
+
+213
+00:23:54,600 --> 00:23:56,000
+Yeah, plus a million to that.
+
+214
+00:23:56,800 --> 00:24:00,800
+I love to think about to what could see be seemingly.
+
+215
+00:24:00,800 --> 00:24:07,700
+Disparate tactics like SEO and sem or sorry, an ABM have mutually shared kpi's.
+
+216
+00:24:08,100 --> 00:24:17,100
+So you have your discrete performance metrics that really, are you roll up metrics the overarching company successes Nate said but there should be mutually own kpi's.
+
+217
+00:24:17,100 --> 00:24:27,500
+I think one really important one is conversion rate, optimization metrics and understanding more about the Enter the audience, that's coming and then how that intent is actually yielding conversions.
+
+218
+00:24:28,000 --> 00:24:35,800
+And ABM obviously spending a lot of time thinking about conversions and how to get high quality High intent, folks over and into the hand of the sales team.
+
+219
+00:24:36,500 --> 00:24:50,100
+So, by appointing, some of those mutually shared kpis, there's a lot of really good Synergy and how the teams come together to collaborate and share this, Mutual goal to drive forward and actually start to orient themselves around.
+
+220
+00:24:50,100 --> 00:24:51,200
+One another's discipline.
+
+221
+00:24:53,400 --> 00:24:54,300
+Sookie.
+
+222
+00:24:54,500 --> 00:24:55,200
+Right there.
+
+223
+00:24:55,200 --> 00:24:58,100
+The, the alignment of those objectives.
+
+224
+00:24:58,100 --> 00:25:00,400
+John did, you have something to add to that?
+
+225
+00:25:01,100 --> 00:25:02,400
+I have talked a lot already.
+
+226
+00:25:04,600 --> 00:25:04,900
+All right.
+
+227
+00:25:04,900 --> 00:25:08,600
+Well, we have got a question that came through that I think is also relevant from Jose.
+
+228
+00:25:09,500 --> 00:25:11,500
+Do you have a framework or template?
+
+229
+00:25:11,500 --> 00:25:16,500
+That you can share to map, SEO, content, efforts to the ABM Journey.
+
+230
+00:25:21,200 --> 00:25:42,900
+I am going to I mean to me that does start back to the intent keywords and I mean if you get one, you get really sophisticated, you could look at the keywords that the accounts in your kind of early stages, what I would call a qualified or awareness stages.
+
+231
+00:25:43,800 --> 00:25:48,200
+Are using and are those keywords different from an account?
+
+232
+00:25:48,200 --> 00:25:50,700
+That's deeper like consideration.
+
+233
+00:25:51,000 --> 00:26:00,100
+What I might call marketing qualified account, you know, and those might be different keywords that the ones late in the stage or using.
+
+234
+00:26:01,300 --> 00:26:03,200
+And again, this is sort of the magic of intent data.
+
+235
+00:26:03,200 --> 00:26:07,600
+Are you can actually see what kinds of topics and articles your accounts are reading about?
+
+236
+00:26:08,200 --> 00:26:11,100
+Out that's how I might think about that.
+
+237
+00:26:11,400 --> 00:26:13,800
+John could you dive into that a little bit more?
+
+238
+00:26:13,800 --> 00:26:15,900
+How do you see that with demand Base today?
+
+239
+00:26:16,000 --> 00:26:24,000
+Like if you were too just to give us some examples of your buyers and what their intent search looks like order?
+
+240
+00:26:24,500 --> 00:26:27,300
+What does that experience look like?
+
+241
+00:26:28,700 --> 00:26:34,800
+I want to show me answer the question properly here soon every company that provides intend data follows.
+
+242
+00:26:34,800 --> 00:26:46,500
+The same basic algorithm, you know, it's basically you have got a person on a webpage and step one is UD, anonymize that person's company you know.
+
+243
+00:26:46,500 --> 00:26:55,900
+And again you don't know who that individual is because that would be not part, you know, breaking privacy, you know, ethics if you will but it's okay to figure out what company they work for.
+
+244
+00:26:56,900 --> 00:26:59,800
+And then you can do some natural language processing on the page.
+
+245
+00:27:00,700 --> 00:27:01,700
+And lo and behold.
+
+246
+00:27:01,700 --> 00:27:02,700
+You see, huh?
+
+247
+00:27:02,900 --> 00:27:06,400
+This person from Dell is researching event Solutions.
+
+248
+00:27:08,000 --> 00:27:12,600
+And if you saw just one signal of that, it's probably not that interesting.
+
+249
+00:27:13,300 --> 00:27:15,700
+All right, but when you start seeing, whoa.
+
+250
+00:27:15,700 --> 00:27:16,000
+Okay.
+
+251
+00:27:16,000 --> 00:27:21,800
+There are 7 people researching this a lot and that's three times the amount of activity last week.
+
+252
+00:27:22,900 --> 00:27:32,700
+Now sudden you like maybe something's happening, you know, and I want to kind of focus a little bit more time and attention there and so you get kind of two kinds of intent data.
+
+253
+00:27:32,700 --> 00:27:35,200
+You get kind of just Baseline levels.
+
+254
+00:27:35,400 --> 00:27:42,900
+These accounts are generally reading about these topics and then you get these surges like wow there's a lot more going on.
+
+255
+00:27:42,900 --> 00:27:46,800
+Something I might want to pay attention to something demand-based.
+
+256
+00:27:46,800 --> 00:27:50,000
+We get our intent data by mining, the advertising, Midstream.
+
+257
+00:27:50,700 --> 00:27:52,500
+So we basically are seeing everywhere.
+
+258
+00:27:52,600 --> 00:27:56,700
+Web page that has a display out of it, you know?
+
+259
+00:27:56,700 --> 00:28:06,900
+So, every article, every news publication, you know, all that kind of stuff, other content providers like G2, or trust radius, their mining, their own review sites.
+
+260
+00:28:08,300 --> 00:28:15,100
+And so we all get intent data using the same basic algorithm, but by mining different data streams.
+
+261
+00:28:16,500 --> 00:28:16,700
+Yeah.
+
+262
+00:28:17,100 --> 00:28:18,900
+Hopefully that answered your question very helpful.
+
+263
+00:28:18,900 --> 00:28:19,700
+Yes, thank you.
+
+264
+00:28:20,200 --> 00:28:42,200
+Yeah, I think Jose another option to depending on where you are in your journey with this is having a centralized document to that looks at, you know your ICP and it could be different types of icps and kind of laying out a matrix of sorts of your SEO and the keywords that you're targeting based on a tent based on the customer journey.
+
+265
+00:28:42,600 --> 00:29:07,000
+And then also layering right next to it Nea be IM strategies that compliment where that person is in that strategy and ideally, with that Matrix, you will be able to look at your SEO and ABM strategies and find complementary areas for your SEO to do some of the dredging that we talked about earlier in the call and your ABM to really get in there and start spearfishing to capitalize on the intent.
+
+266
+00:29:07,000 --> 00:29:20,100
+When folks actually hit your area, the pond, You know, I have a lot of opinions and a very love-hate relationship with keywords.
+
+267
+00:29:20,200 --> 00:29:23,800
+I think that they are an excellent start and can take you very far.
+
+268
+00:29:24,100 --> 00:29:29,500
+I also think that if we can take our keywords one step further, we go to be a lot.
+
+269
+00:29:29,500 --> 00:29:34,600
+We can I think that's what's needed to compete in SEO, and to get heat in SEO today.
+
+270
+00:29:34,600 --> 00:29:39,200
+A modern SEO versus traditional, kind of throw on the wall SEO.
+
+271
+00:29:39,200 --> 00:29:40,400
+It will throw spaghetti on the wall.
+
+272
+00:29:40,600 --> 00:29:45,400
+See What sticks, you know, publish 100 blogs, maybe one of them, kind of ranks.
+
+273
+00:29:45,400 --> 00:29:49,500
+The rest of them, don't you actually just lost a lot of money and are not ordinary engineer.
+
+274
+00:29:49,500 --> 00:29:51,100
+Any traffic to show for it?
+
+275
+00:29:51,900 --> 00:30:05,000
+We use this, we use a model and methodology to hone in, on the user need, which is the, the exact need and exactly how by John described it where, what is the need of page meets?
+
+276
+00:30:05,400 --> 00:30:08,300
+Not just a keyword but also the need that paid me to.
+
+277
+00:30:08,300 --> 00:30:12,600
+My, my comparing Solutions am I learning about High level of the solution.
+
+278
+00:30:12,600 --> 00:30:15,100
+Am I comparing this solution versus another solution category?
+
+279
+00:30:15,100 --> 00:30:22,000
+I am asking specific questions about that solution and so that's we call the user need, which can be of a more specific intent.
+
+280
+00:30:22,600 --> 00:30:26,500
+Try to we're building software, you tried a lot of NLP.
+
+281
+00:30:26,500 --> 00:30:29,500
+Algorithms can't find a tool that automates that yet.
+
+282
+00:30:29,500 --> 00:30:30,300
+It's human.
+
+283
+00:30:30,300 --> 00:30:39,400
+Editors human marketers that are deciphering user need and but once you know, the user need and the SEO world, you know, exactly who's waiting for that need.
+
+284
+00:30:39,400 --> 00:30:40,700
+It's usually three to five pages.
+
+285
+00:30:40,900 --> 00:30:41,000
+Has.
+
+286
+00:30:41,300 --> 00:30:48,500
+And then from an SEO standpoint, beating them isn't is not creating just another page with a keyword on it.
+
+287
+00:30:48,600 --> 00:30:51,500
+But actually a page that is does as good as these guys.
+
+288
+00:30:51,500 --> 00:30:54,300
+And even better than meeting that need.
+
+289
+00:30:54,300 --> 00:31:04,300
+Because there're thousands of pages that have met that need and you have to be the very best, you know, because Google is going to see that the people engage with that page even more than the others you have to be better than.
+
+290
+00:31:04,700 --> 00:31:12,900
+And it's just a far cry from traditional approach to SEO that, you know, I would be published a lot of blogs, but the keyword in it, Open pray and you know, you end up losing money.
+
+291
+00:31:13,200 --> 00:31:19,200
+So if you can transform and align your content strategy is so concentrated.
+
+292
+00:31:19,200 --> 00:31:20,100
+Use your needs.
+
+293
+00:31:20,300 --> 00:31:21,000
+You know what pages?
+
+294
+00:31:21,000 --> 00:31:29,300
+You need or Pages you have that, you need to increase and you can map your intent data to those user needs as well.
+
+295
+00:31:29,700 --> 00:31:39,100
+So that when people are on search with that intent, they're getting, they're getting you as the goal and Jose, you probably know, you know, we're going to be could talk all day long about user needs.
+
+296
+00:31:39,100 --> 00:31:43,000
+But when, you know, those user needs and can Catalog them and prioritize them.
+
+297
+00:31:43,400 --> 00:31:53,600
+That's the foundation to then winning that traffic and SEO actually winning and then incredibly competitive, you know, world or landscape of search results today.
+
+298
+00:31:57,600 --> 00:31:58,800
+Such good points.
+
+299
+00:31:58,800 --> 00:31:59,300
+Wow.
+
+300
+00:31:59,400 --> 00:31:59,700
+Okay.
+
+301
+00:31:59,700 --> 00:32:05,100
+My wheels are turning right now, and I am just thinking even about what you just said made about you.
+
+302
+00:32:05,100 --> 00:32:07,200
+Each of you mentioned user needs.
+
+303
+00:32:08,000 --> 00:32:13,000
+Is there a good number of needs that we should be identifying?
+
+304
+00:32:13,000 --> 00:32:32,600
+Or is it just based on like okay this is really spiking John like you said, and should we map those needs out then according to each part of the funnel How do you recommend to strategically hone in, as you said on those user needs across each stage?
+
+305
+00:32:33,700 --> 00:32:37,100
+I would argue that is the sort of most fundamental strategy.
+
+306
+00:32:37,100 --> 00:33:02,400
+Well, there's two, what are the top two most fundamental strategies behind ABM, you know is understanding where each account isn't as journey and then customizing you know segmenting and customizing your message accordingly you know and therefore Knowing, you know, that an account that you might be interested in, but is not even aware of the pain, right?
+
+307
+00:33:02,400 --> 00:33:04,000
+That you need to message that company.
+
+308
+00:33:04,000 --> 00:33:08,200
+Very, very differently from one that's spiking intent for your category.
+
+309
+00:33:09,900 --> 00:33:21,800
+So that's the first core fundamental as the other one is you can't focus your resources equally on the every account so you should know really prioritize interior accounts to put more resources on the more valuable accounts.
+
+310
+00:33:23,000 --> 00:33:24,900
+Those two things are probably a VM in a nutshell.
+
+311
+00:33:26,800 --> 00:33:27,200
+Yeah.
+
+312
+00:33:27,200 --> 00:33:33,300
+And to borrow the analogy of a BM is that spear, you know again, SEO can play with nicely with that.
+
+313
+00:33:33,300 --> 00:33:43,300
+But it is the net next to it where when anyone has a certain user need if you will when anyone has that need and if you win in the search landscape you're going to capture that.
+
+314
+00:33:43,300 --> 00:33:53,700
+So you want to know as again as I was alluding to earlier when people that are Target account land on your site because I went through that need.
+
+315
+00:33:53,900 --> 00:33:56,100
+You want to be sure you're a VM team.
+
+316
+00:33:56,600 --> 00:34:02,700
+Knows that and can respond to that even if they're brand-new visitor to your site there otherwise Anonymous, what do we will identify them?
+
+317
+00:34:02,700 --> 00:34:07,300
+And potentially, take action, SEO, cast that wide net.
+
+318
+00:34:07,300 --> 00:34:14,199
+If you have a good program that can compete in at the, you know, tightly competitive landscape of search today, and be present for that.
+
+319
+00:34:14,199 --> 00:34:17,800
+Need your hopefully going to capture anyone that's there all the time, right?
+
+320
+00:34:17,800 --> 00:34:22,000
+You got your booth in the trade show of search results, right?
+
+321
+00:34:22,000 --> 00:34:26,300
+And you're at the top and you're the biggest Booth, well, your ABM your target accounts.
+
+322
+00:34:26,500 --> 00:34:28,800
+They only represent 2% 5%.
+
+323
+00:34:28,800 --> 00:34:38,600
+20% of the people that are doing the search which the searching SEO wants to capture all those that are valuable and convert them to Pipeline and opportunity.
+
+324
+00:34:39,600 --> 00:34:46,300
+ABM you want to be sure that your VM team knows that leads to someone that they can should throw a spear at.
+
+325
+00:34:48,500 --> 00:34:52,699
+I also think the needs are really important way to align your team.
+
+326
+00:34:52,699 --> 00:34:54,000
+There's intent.
+
+327
+00:34:54,000 --> 00:35:15,700
+There's also the marketing teams, way to harness that intent, but your team's ability to actually action against that intent and use the context of understanding the need fundamentally understanding, the need to match the reaction towards intent is a really important except there's nothing worse than coming into an ABM strategy.
+
+328
+00:35:15,700 --> 00:35:16,900
+That was so thoughtful.
+
+329
+00:35:17,000 --> 00:35:19,600
+All men, all of my needs address everything.
+
+330
+00:35:19,600 --> 00:35:31,400
+I needed only to be met with that next human-to-human interaction, that feels so disconnected from the holistic approach, starting all the way from the very beginning until the point that you talk to a person.
+
+331
+00:35:31,600 --> 00:35:39,800
+So don't underestimate how important needs are in need alignment, internally is to create continuity in that customer Journey from dark funnel.
+
+332
+00:35:39,800 --> 00:35:43,500
+All the way to meeting the first real life human at your organization.
+
+333
+00:35:44,300 --> 00:35:45,500
+That's huge.
+
+334
+00:35:45,800 --> 00:35:46,700
+All these points.
+
+335
+00:35:46,700 --> 00:35:47,400
+Thank Q.
+
+336
+00:35:47,700 --> 00:35:58,400
+When talking about that alignment, how do you see that actually happening across teams just tactically week-to-week like, how, how does that happen?
+
+337
+00:36:01,400 --> 00:36:02,900
+Meet just to clarify your question a little bit.
+
+338
+00:36:02,900 --> 00:36:08,500
+Like, how do you align your teams around needs and your ideal customers needs?
+
+339
+00:36:08,900 --> 00:36:14,900
+And making sure we don't, we don't miss, you know, to your point like making sure we don't miss those opportunities.
+
+340
+00:36:16,200 --> 00:36:21,900
+Yeah, I mean Tales always time it's marketing and being able to align your team's.
+
+341
+00:36:21,900 --> 00:36:24,800
+That's one of the most foundational things.
+
+342
+00:36:24,800 --> 00:36:43,100
+I think when it comes to a VM or ABX holistically understanding how to really get your team communicating effectively with one another around those needs and understanding their role in shepherding, someone through they need diagnostic problem of the self-diagnostic problem.
+
+343
+00:36:43,100 --> 00:36:46,000
+I think it's really important, secondary.
+
+344
+00:36:46,200 --> 00:36:49,900
+Really, I think also too, just it's cannot be understated.
+
+345
+00:36:49,900 --> 00:37:01,100
+How important documenting the needs are and then documenting every person's role and responsibilities around those needs, are we talked a lot about documenting, SEO ABM?
+
+346
+00:37:01,100 --> 00:37:06,900
+But if you're not sharing those resources, if you are not providing that transparency for alignment around those needs.
+
+347
+00:37:07,000 --> 00:37:16,100
+It's hard for other folks to know how to get involved with the skill sets that are in their repertoire to carry that journey and make that customers experience a seamless and smooth as possible.
+
+348
+00:37:16,300 --> 00:37:16,400
+School.
+
+349
+00:37:18,400 --> 00:37:20,100
+I think this is, this is huge.
+
+350
+00:37:20,200 --> 00:37:26,400
+I feel like a lot of the misalignment internally can happen just because of the lack of some of these things.
+
+351
+00:37:26,400 --> 00:37:29,800
+You're mentioning the lack of documentation, the lack of communicating.
+
+352
+00:37:29,800 --> 00:37:39,600
+And, you know, asynchronously and synchronously aligning from objectives, kpi is all the way through to feedback and optimization.
+
+353
+00:37:39,900 --> 00:37:42,300
+So I think that's a huge Point.
+
+354
+00:37:42,900 --> 00:37:46,200
+As a lot of us are probably working remote or hybrid.
+
+355
+00:37:46,300 --> 00:37:49,300
+So This is, this is good.
+
+356
+00:37:50,700 --> 00:38:01,400
+You know, one of the questions that I have is around, identifying your perfect buyer Persona and leveraging, both SEO and ABM to do.
+
+357
+00:38:01,400 --> 00:38:11,700
+So, how are you seeing it with your own company and your own Persona is like, how have you seen that honing in process take place?
+
+358
+00:38:11,700 --> 00:38:12,900
+And what does that look like?
+
+359
+00:38:17,500 --> 00:38:26,100
+I have been lucky to go to worry about ideal account, ideal person ideal account and person.
+
+360
+00:38:30,100 --> 00:38:36,500
+I guess I will tackle the ideal account one first, you know?
+
+361
+00:38:36,500 --> 00:38:38,400
+So the framework.
+
+362
+00:38:38,400 --> 00:38:43,400
+I like to use for that is called fire fire1.
+
+363
+00:38:44,100 --> 00:38:57,000
+So the effing fire stands for fit and, you know, this is really if you look at the, just the information about that company, are they a good fit with your other customers?
+
+364
+00:38:57,000 --> 00:38:59,800
+Their industry, their size, their Station.
+
+365
+00:39:00,300 --> 00:39:06,100
+If you're a technology company turns out, one of the most important factors for fit is what other Technologies do.
+
+366
+00:39:06,100 --> 00:39:13,800
+They already own complementary Technologies, competitive Technologies, one of those Technologies up for Renewal, all those types of good things.
+
+367
+00:39:14,900 --> 00:39:19,200
+The I stand for intent, which we have talked about, you know, really like where are they?
+
+368
+00:39:19,300 --> 00:39:21,500
+In their Journey, you know, do they have?
+
+369
+00:39:21,500 --> 00:39:25,200
+They never heard of this category or they actively research.
+
+370
+00:39:26,600 --> 00:39:29,200
+The r stands for relationship, you know?
+
+371
+00:39:29,200 --> 00:39:33,000
+And this is really, you know, do you have contacts in history with this account?
+
+372
+00:39:33,000 --> 00:39:33,800
+I mean, maybe you.
+
+373
+00:39:34,100 --> 00:39:38,000
+Maybe they just hired somebody who wasn't your customer at a prior company.
+
+374
+00:39:39,200 --> 00:39:44,800
+You know, maybe you did a close loss deal because they weren't ready to buy six months ago.
+
+375
+00:39:44,800 --> 00:39:53,200
+But now they might be, you know, all that context and relationship and then the he's engagement and this is really representing.
+
+376
+00:39:53,200 --> 00:39:55,500
+Are they engaging with you and your company?
+
+377
+00:39:55,500 --> 00:40:00,800
+Are they coming to Website, are they attending your events, do they open your emails?
+
+378
+00:40:01,500 --> 00:40:02,800
+You know, that kind of thing.
+
+379
+00:40:04,200 --> 00:40:22,700
+Each of these, I think are interesting ingredients to use when your sort of tried to identify that ideal account because all things, you know, obviously want the good fit, but all things being equal, you know, knowing where they are in their journey and what context and how engaged they are also matters as well.
+
+380
+00:40:24,500 --> 00:40:27,900
+So I will take that on the company one and leave.
+
+381
+00:40:27,900 --> 00:40:29,200
+The person one may be for others.
+
+382
+00:40:31,000 --> 00:40:32,300
+That acronym is really strong.
+
+383
+00:40:32,300 --> 00:40:34,700
+So that's fire stands for fit.
+
+384
+00:40:34,800 --> 00:40:38,800
+Intent, relationship and engagement correct.
+
+385
+00:40:40,000 --> 00:40:40,600
+Thank you.
+
+386
+00:40:43,100 --> 00:40:45,800
+You do on the ABM side, running our own programs.
+
+387
+00:40:45,800 --> 00:40:48,300
+I only have two small items to throw into that.
+
+388
+00:40:48,300 --> 00:41:12,500
+Number one is if there are any defacto and I will say automatable if you're trying to scale an ABM program and there're certain aspects of a company's technos technology stack that can be that is existed in your CRM and you can process hundreds or even thousands accounts just to churn out the probable.
+
+389
+00:41:12,700 --> 00:41:15,200
+That's before you do a manual review.
+
+390
+00:41:15,700 --> 00:41:16,800
+It's incredibly powerful.
+
+391
+00:41:16,800 --> 00:41:29,500
+So always look to automate as much depth Z as many steps as you can to get down to the right fit accounts and then and frankly leave room for even two for higher scale, ABM programs.
+
+392
+00:41:29,500 --> 00:41:35,800
+You're trying to reach many hundreds, even thousands of accounts leave room for reasonable room for human review.
+
+393
+00:41:36,300 --> 00:41:39,300
+Don't just grab a proposed list.
+
+394
+00:41:39,500 --> 00:41:42,500
+That's a team member found, and we're excited about our first.
+
+395
+00:41:42,600 --> 00:42:03,300
+I am at it but allow yourself and engage and encourage your team to spend time in human review and to those doubts concerns or what about that come up, it's far easier to Target the right accounts and even a smaller list of the right accounts, then a bigger list of mixed accounts.
+
+396
+00:42:07,100 --> 00:42:07,900
+That's great.
+
+397
+00:42:09,100 --> 00:42:09,800
+Thank you MK.
+
+398
+00:42:09,800 --> 00:42:16,100
+Did you have anything there about the buyer in particular narrowing in?
+
+399
+00:42:16,300 --> 00:42:20,800
+Yeah, I am plus ones and Nate suggestion about getting some folks to partner with you.
+
+400
+00:42:20,800 --> 00:42:32,300
+For some real time, testing the Persona that you're using on top of the company fit for your business, I would be remiss if I didn't say that, that fire acronym was fire.
+
+401
+00:42:32,300 --> 00:42:38,700
+John's, I appreciate you sharing that with us, but there is something to be said about some of the feedback loop that you get.
+
+402
+00:42:38,800 --> 00:42:44,200
+Partnering with your business development teams, if your team has won, I have been lucky.
+
+403
+00:42:44,200 --> 00:42:51,700
+I have worked with a couple of different companies that have been at different stages of implementing a VM, and complementary to their SEO.
+
+404
+00:42:53,200 --> 00:43:04,800
+And some of the need suggestions about great creating smaller list and testing against Persona types of testing, the needs framework testing your messaging framework against certain job types.
+
+405
+00:43:04,800 --> 00:43:12,900
+And job titles has been a really fast feedback loop from marketing to In up additional testing for ebm strategies as well.
+
+406
+00:43:16,400 --> 00:43:17,400
+Thanks MK.
+
+407
+00:43:17,700 --> 00:43:28,200
+I am going to jump to this question on SEO analytics and how that can provide insights to the ABM campaigns.
+
+408
+00:43:28,400 --> 00:43:34,500
+As they're progressing, Nate I am going to hand it over to you sure.
+
+409
+00:43:36,100 --> 00:43:46,800
+You know, I think the reality and forgive me for repeating myself, but the reality of the competitive nature of SEO today, modern SEO is about competing with Was it ends, right?
+
+410
+00:43:46,800 --> 00:43:48,200
+You're trying to win the gold medal.
+
+411
+00:43:48,400 --> 00:43:52,400
+You're not just trying to go down to the local gym and swim for some exercise.
+
+412
+00:43:52,400 --> 00:43:57,400
+Like and if that's how you treat SEO, like I am just going down to the gym couple times a week.
+
+413
+00:43:58,100 --> 00:44:07,700
+The reality is that you win and you learn traffic, your SEO campaign delivers Roi when you win the gold medal or the silver or the bronze.
+
+414
+00:44:08,900 --> 00:44:10,200
+That doesn't mean it's impossible.
+
+415
+00:44:10,600 --> 00:44:16,000
+It means do the right things and really see who's winning and figure out how I can strategically beat them.
+
+416
+00:44:16,200 --> 00:44:19,000
+And it's very doable and it's a scalable approach.
+
+417
+00:44:19,400 --> 00:44:25,300
+And if you're doing that and you're getting traffic, I think you want to understand what traffic.
+
+418
+00:44:26,000 --> 00:44:29,600
+What are the what portion that traffic are inside of your target accounts?
+
+419
+00:44:30,300 --> 00:44:34,200
+What portion that traffic are part of your target account?
+
+420
+00:44:34,200 --> 00:44:34,700
+Set?
+
+421
+00:44:34,800 --> 00:44:42,000
+What portion are not, I consider it successful, no matter how much traffic were getting.
+
+422
+00:44:42,800 --> 00:44:46,000
+If we're moving the needle, I am tired accounts and pipeline generated.
+
+423
+00:44:47,000 --> 00:45:00,500
+I think the biggest mistake that's made in a SEO campaign that begins to take off is some level of leadership will say, you know, only 5% or 1% of this traffic converts.
+
+424
+00:45:01,500 --> 00:45:03,300
+Well, let us not look at direct conversion.
+
+425
+00:45:03,300 --> 00:45:09,100
+Let us look at Revenue attribution and broader metrics with a water time scale.
+
+426
+00:45:09,800 --> 00:45:11,800
+Regardless, the question isn't.
+
+427
+00:45:11,800 --> 00:45:15,900
+Just, what percent of traffic, converts, what's the ROI on the traffic?
+
+428
+00:45:16,300 --> 00:45:21,200
+How much is attributing to Pipeline and impacting pipeline directly or indirectly?
+
+429
+00:45:21,600 --> 00:45:25,200
+And if we're seeing a good impact on Pipeline SEO is a wide net.
+
+430
+00:45:25,300 --> 00:45:26,500
+You're going to see a lot of traffic.
+
+431
+00:45:26,500 --> 00:45:29,100
+You're going to see a lot of students researching.
+
+432
+00:45:29,700 --> 00:45:33,100
+You're going to see, maybe there are nonprofits, that's not a Target account.
+
+433
+00:45:33,100 --> 00:45:35,200
+Just companies that aren't a Target account.
+
+434
+00:45:35,600 --> 00:45:41,300
+You're going to see a lot of trap people with that need only a small percentage of might be those that are Target account.
+
+435
+00:45:41,300 --> 00:45:46,800
+So the question is in what percent is really driving in a VM programmer, Having leads.
+
+436
+00:45:46,800 --> 00:46:00,600
+But rather how much revenue or pipeline can we find that since that's measuredly associated with RSU initiatives and the co-worker That's huge distinction?
+
+437
+00:46:02,300 --> 00:46:03,000
+Thanks name.
+
+438
+00:46:03,200 --> 00:46:12,500
+We are sorry, if we in our customers generally, find that it's pretty useful to look at all your web analytics with that kind of account overlay.
+
+439
+00:46:12,500 --> 00:46:17,300
+On top of it, it's kind of what Nate's needs getting at, you know, you know.
+
+440
+00:46:17,300 --> 00:46:19,600
+So it's not just, hey, what am I traffic sources?
+
+441
+00:46:20,000 --> 00:46:21,200
+But you know what?
+
+442
+00:46:21,200 --> 00:46:23,800
+Am I traffic sources for the Target accounts?
+
+443
+00:46:25,500 --> 00:46:26,100
+You know what?
+
+444
+00:46:26,100 --> 00:46:28,200
+Not, just what page is convert the best.
+
+445
+00:46:28,300 --> 00:46:45,800
+What pages, convert the best for the Target accounts and to do all that you obviously need to build a connect, your DNA on immunization to your Analytics, And if I may just because it's free, I don't mind promoting a little bit.
+
+446
+00:46:45,800 --> 00:46:53,900
+Demand-based does have something called account ID, free where any company can just go and install our tag on your site and connect it to your Google analytics.
+
+447
+00:46:53,900 --> 00:46:54,900
+And we will do this for you.
+
+448
+00:46:55,500 --> 00:46:56,800
+Oh sweet.
+
+449
+00:46:57,900 --> 00:47:01,500
+So just you can search, you know, account ID free on our site and get it.
+
+450
+00:47:03,100 --> 00:47:03,700
+Good to know.
+
+451
+00:47:06,400 --> 00:47:07,100
+Awesome.
+
+452
+00:47:09,200 --> 00:47:12,000
+Alright, so here's another more tactical question.
+
+453
+00:47:12,100 --> 00:47:17,500
+How do you leverage SEO and ABM to build clean retargeting audiences?
+
+454
+00:47:21,700 --> 00:47:22,800
+Anyone else want to go first?
+
+455
+00:47:25,300 --> 00:47:27,600
+I do know that you're done, we want to learn from you.
+
+456
+00:47:28,000 --> 00:47:32,400
+Yeah, I think you have got the most to say John, but I do know that SEO.
+
+457
+00:47:32,400 --> 00:47:37,200
+Can, if you're getting a lots of high-value non-branded SEO.
+
+458
+00:47:37,200 --> 00:47:40,800
+Traffic retargeting is a must for sure.
+
+459
+00:47:41,300 --> 00:47:49,400
+Retargeting is generally how you drive the most conversion possible from the visitors that came to you from SEO in total.
+
+460
+00:47:49,400 --> 00:47:59,700
+Its I would call it a must But yeah I know John what were your thoughts the way I like to think about it.
+
+461
+00:47:59,700 --> 00:48:10,100
+You know is if you're only retargeting the target accounts then you're going to minimize your wasted money.
+
+462
+00:48:11,500 --> 00:48:30,300
+You know, typically, you know if you're just doing a regular retargeting campaign, you know, you very well may be retargeting that student or that you know, who was never going to be a customer, but when you take that account ID lens to it and say, all right well these are the companies that I can actually sell to.
+
+463
+00:48:31,000 --> 00:48:37,900
+They're the ones getting retargeting, you know, typically I think you're going to get better results and this matters.
+
+464
+00:48:37,900 --> 00:48:41,100
+I mean we did a study across.
+
+465
+00:48:41,500 --> 00:48:44,300
+Every company of ours that has our tag on the site.
+
+466
+00:48:44,300 --> 00:48:56,800
+So, all of our paid and free customers and across that whole universe, only 37 percent of the traffic coming from search to company sites.
+
+467
+00:48:57,400 --> 00:49:00,800
+We're we even able to identify it as coming from a business.
+
+468
+00:49:02,400 --> 00:49:05,100
+Let alone a Target account, you know?
+
+469
+00:49:05,100 --> 00:49:11,300
+And so there is, I think a fair amount of waste on this but, you know, it's even broader.
+
+470
+00:49:11,300 --> 00:49:13,600
+I think you goes back to that Journey.
+
+471
+00:49:14,600 --> 00:49:23,100
+You know where you have got that qualified account, you know, which is not even like be what you're interested in them, but they don't even know.
+
+472
+00:49:23,100 --> 00:49:32,700
+There's a problem, you know, and you know, you should know how do you reach out to them using something like display advertising, but it's not retargeting.
+
+473
+00:49:34,000 --> 00:49:39,800
+It's account focused advertising distant, try to build some awareness of the problem and Trust in your brand.
+
+474
+00:49:40,600 --> 00:49:44,300
+Then if they start showing some intent, now, you want to kind of catch their attention.
+
+475
+00:49:44,400 --> 00:49:45,900
+Tension to bring them to you.
+
+476
+00:49:46,900 --> 00:49:49,200
+And you thought leadership can work really well.
+
+477
+00:49:50,900 --> 00:49:55,600
+And now once you have got them to your site, that's when the retargeting can kick in, you know?
+
+478
+00:49:55,600 --> 00:49:57,800
+So I also like a theme.
+
+479
+00:49:57,800 --> 00:50:00,100
+We have had this whole, this whole conversation.
+
+480
+00:50:00,100 --> 00:50:03,100
+It's a line into the journey as well, hmm.
+
+481
+00:50:05,200 --> 00:50:06,800
+So good inside as well.
+
+482
+00:50:07,300 --> 00:50:16,300
+Bridging, the Divide between our last question and this question and making sure we're going really far down the funnel to understand where were generating revenue.
+
+483
+00:50:16,500 --> 00:50:21,300
+And also how we're generating Revenue that is not only retained the potentially expands.
+
+484
+00:50:21,400 --> 00:50:26,500
+I think that becomes a really interesting lens to layer on top of your retargeting efforts.
+
+485
+00:50:26,600 --> 00:50:34,000
+And it can't be understated to how important it is a knowing, how your business, like, what your business is and how it converts.
+
+486
+00:50:34,400 --> 00:50:44,900
+Just About this free traffic tracking tool as a great lead generation strategy of freemium strategy, product LED growth strategies.
+
+487
+00:50:45,200 --> 00:50:57,000
+Those strategies do need to be laid over top your retargeting strategy, to make sure you are not wasting the efficiencies, in your spend, you're gaining efficiencies and you're spending your retargeting campaigns as well.
+
+488
+00:51:00,100 --> 00:51:04,100
+Efficiency is the key for this year to name of the game.
+
+489
+00:51:04,100 --> 00:51:08,300
+So that's these are really insightful points.
+
+490
+00:51:08,300 --> 00:51:10,300
+Thank you so much for sharing.
+
+491
+00:51:11,900 --> 00:51:19,800
+So let us say we identify and narrow in on those that are Target's, even in the, in the retargeting.
+
+492
+00:51:20,200 --> 00:51:22,200
+How do we drive the engagement up?
+
+493
+00:51:22,200 --> 00:51:29,000
+John, you mentioned a few things about thought leadership and different things, you know, across that entire funnel MK.
+
+494
+00:51:29,000 --> 00:51:29,700
+I am gonna throw this one out.
+
+495
+00:51:29,900 --> 00:51:38,800
+Do you like what are some things that we can do to really double down on the engagement with high intent buyers?
+
+496
+00:51:38,800 --> 00:51:45,200
+And at what point should we be pulling those levers and tripling down?
+
+497
+00:51:47,500 --> 00:52:04,000
+Yeah I mean I would be remiss if I didn't talk about gifting somewhere in the answer of boosting engagement with your high, in 10, high value accounts, but I will copy it that by saying that Gifting just by sending someone to give cars by throwing something like that.
+
+498
+00:52:04,000 --> 00:52:08,900
+To someone to try to get them to convert, or spend time with you is actually winning in efficacy.
+
+499
+00:52:09,600 --> 00:52:20,900
+So making sure that the tactic that you're using to boost engagement matches the authenticity of the need of the moment and of the audience that you are targeting.
+
+500
+00:52:22,100 --> 00:52:29,600
+I think there's a lot of really fun and interesting ways to engage with folks and capitalizing on their need first.
+
+501
+00:52:29,600 --> 00:52:38,100
+And I am working outwards is a really valuable way to examine your options and the exploration of Engagement with folks.
+
+502
+00:52:38,500 --> 00:52:44,800
+For example, if their need is I need to see more Intel on who's coming to my website.
+
+503
+00:52:44,800 --> 00:52:47,700
+Then creating an amazing free tool.
+
+504
+00:52:47,700 --> 00:52:54,400
+Like demand base has is an awesome way to engage with your community creating a webinar.
+
+505
+00:52:54,400 --> 00:52:59,700
+Like this to help folks, who are maybe just starting off with SEO and a VM and trying to find complementary.
+
+506
+00:52:59,900 --> 00:53:01,300
+Geez to boost efficiency.
+
+507
+00:53:01,300 --> 00:53:05,900
+He's there in, is a really great way to engage with folks.
+
+508
+00:53:06,400 --> 00:53:22,400
+The rule of thumb that I advise folks out on finding the right engagement tactic is to understand what's going to help someone authentically connect with your brand and learn about your domain, expertise, through that experience.
+
+509
+00:53:22,900 --> 00:53:32,800
+And when you layer that lens on top of the engagement tactics that you have available to you, you start ruling out things that feel a little Official, you start ruling out some of those engagement tactics.
+
+510
+00:53:32,800 --> 00:53:41,000
+That feels a diamond doesn't from everybody else's playbooks and ABF, but I will say coming all the way full circle back to gifting.
+
+511
+00:53:41,000 --> 00:53:47,500
+I do think gifting has a vital role to play in account-based execution and I love seeing it.
+
+512
+00:53:47,500 --> 00:53:49,700
+Be used as mid-cycle accelerators.
+
+513
+00:53:49,700 --> 00:53:58,200
+I love it, being the relationship accelerant in a sales cycle, it's not the best door opener.
+
+514
+00:53:58,200 --> 00:54:01,800
+I think it's like I said, waiting and See there but it's a great way to show.
+
+515
+00:54:01,800 --> 00:54:03,000
+Hey I am a real human.
+
+516
+00:54:03,300 --> 00:54:11,700
+I know you're a real human and it's a really fun time and a place for us to partner to help one another in are mutually shared objectives moving forward.
+
+517
+00:54:12,400 --> 00:54:17,900
+So that's really interesting that you're saying that it's not best.
+
+518
+00:54:17,900 --> 00:54:25,300
+Maybe be leveraged at the very top of the funnel that like, hey, get a free gift, you know, you don't know me.
+
+519
+00:54:25,400 --> 00:54:36,200
+Well, but yeah, you don't know that Brian gifting is really kind of Channel fundamentally above it all, but it also, there's a quid pro quo kind of nature to it, right?
+
+520
+00:54:36,200 --> 00:54:52,800
+Like you are going to give someone a gift card to get something in return and so that ruse, I think it like I said, is not working as well, for some folks who know that on the other side of getting five dollars to Starbucks, are going to have to sit and have someone go through the pinch of sorts.
+
+521
+00:54:52,800 --> 00:54:59,900
+And it does the lost the intent of a gift is just completely with lost in the meaning of that exchange with someone one.
+
+522
+00:55:00,900 --> 00:55:06,500
+So post-relationship being established is where, yeah, you recommend.
+
+523
+00:55:07,600 --> 00:55:19,800
+That's my Pro tip for folks who are thinking about incorporating getting into their avian strategy and don't forget, your customers are also great, great marketers for your business too.
+
+524
+00:55:20,000 --> 00:55:24,900
+So post-sales celebrate celebrations, through gifting is also great to account-based.
+
+525
+00:55:24,900 --> 00:55:26,700
+Marketing doesn't stop at the first point of sale.
+
+526
+00:55:27,800 --> 00:55:28,400
+That's a big one.
+
+527
+00:55:28,400 --> 00:55:29,900
+That's a whole other webinar right there.
+
+528
+00:55:33,000 --> 00:55:39,000
+Yeah, for sale might have to invite you guys up for that conversation, as we have got four minutes left.
+
+529
+00:55:39,000 --> 00:55:48,900
+So this has been an incredibly Rich conversation, you have taken us way, 300,000 stretch, strategic level thinking very tactical to the ground.
+
+530
+00:55:49,100 --> 00:55:50,400
+I really appreciate it.
+
+531
+00:55:50,400 --> 00:55:51,900
+John Nate MK.
+
+532
+00:55:52,100 --> 00:55:55,400
+Thank you so much for taking the time to share your experience.
+
+533
+00:55:55,400 --> 00:55:57,900
+Your wisdom, MK.
+
+534
+00:55:58,300 --> 00:56:01,600
+You have got something special for everyone who's I showed up today.
+
+535
+00:56:02,500 --> 00:56:03,400
+Yeah, of course.
+
+536
+00:56:03,400 --> 00:56:07,800
+Well because you took time out of your day to come share your time with us.
+
+537
+00:56:08,600 --> 00:56:14,300
+I thought it would be helpful for our relationship to continue to say thank you for that.
+
+538
+00:56:14,600 --> 00:56:28,100
+And so we will be giving everybody a gift for those who attended live today, just to show our appreciation and gratitude for you being able to occupy this space and place with us and allow us a chance to kind of share some of our musings on this topic.
+
+539
+00:56:29,800 --> 00:56:31,300
+Awesome, thank you.
+
+540
+00:56:31,300 --> 00:56:31,800
+I am K.
+
+541
+00:56:31,800 --> 00:56:36,200
+We see you in chat to folks, are stoked to receive something.
+
+542
+00:56:36,600 --> 00:56:39,500
+All right, well with that makes gone, Nate MK.
+
+543
+00:56:39,900 --> 00:56:43,100
+Thank you everybody for joining today.
+
+544
+00:56:43,500 --> 00:56:51,700
+We have our next event, taking place an interview with Julie, who's the VP of demand generation at lob.
+
+545
+00:56:51,900 --> 00:56:56,400
+And we're going to talk about the yin and yang of demand gen and marketing Ops.
+
+546
+00:56:56,700 --> 00:57:03,600
+So feel free to register for This is happening next Tuesday, and I have got the here we go.
+
+547
+00:57:03,700 --> 00:57:06,500
+Thank you, Sal, and I love pointing at this button here.
+
+548
+00:57:06,500 --> 00:57:11,900
+Go ahead and click right there to register for this interview with Julie taking place next Tuesday.
+
+549
+00:57:12,400 --> 00:57:17,200
+Alright, everyone have a wonderful day and rest of your week.
+
+550
+00:57:17,500 --> 00:57:23,500
+I am sending the Hope Hawaii sunshine to each of you and lots of love aloe hell of.
+
+551
+00:57:23,600 --> 00:57:24,200
+All right.
+
+552
+00:57:24,200 --> 00:57:24,800
+Bye.
+
+553
+00:57:37,100 --> 00:57:50,100
+Clock strikes upon the Earth and the Sun begins to fade still enough time to figure out how to Chase my Blues Away.
+
+554
+00:58:02,400 --> 00:58:03,300
+The Only Name.
+
+555
+00:59:45,400 --> 00:59:46,700
+Who loves me?

@@ -1,0 +1,2180 @@
+
+1
+00:03:07,200 --> 00:03:08,900
+Hello, everyone.
+
+2
+00:03:09,100 --> 00:03:11,000
+How are you doing?
+
+3
+00:03:11,100 --> 00:03:12,900
+Happy Wednesday.
+
+4
+00:03:13,100 --> 00:03:17,000
+And I know the temperatures range all across wherever you're tuning in from.
+
+5
+00:03:17,000 --> 00:03:26,900
+I see, folks from Scottsdale Texas to Chi from the cold in Boston here I am in Honolulu Hawaii, and it's about 80 degrees or so.
+
+6
+00:03:26,900 --> 00:03:28,000
+So I am not complaining.
+
+7
+00:03:29,900 --> 00:03:31,100
+Hello danilot.
+
+8
+00:03:31,100 --> 00:03:31,500
+Yep.
+
+9
+00:03:31,500 --> 00:03:33,300
+And we got Natalie Seattle.
+
+10
+00:03:33,300 --> 00:03:37,500
+So this is, this is great to have representation across the states.
+
+11
+00:03:37,800 --> 00:03:45,100
+Today, we're going to have a great panel plus bonus magic show.
+
+12
+00:03:45,300 --> 00:03:47,500
+So it's going to be a really fun event.
+
+13
+00:03:47,500 --> 00:03:53,800
+We're going to have first part, A really rich discussion around human-to-human marketing, even more.
+
+14
+00:03:53,800 --> 00:04:04,800
+So this is such a key element to having those human touch points across your entire buyer Journey, even through the customer retention experience.
+
+15
+00:04:04,800 --> 00:04:12,700
+So we have got some of our panel It's represented from Roll, Works sin do so and Marco will become joining very shortly.
+
+16
+00:04:12,900 --> 00:04:24,300
+In the meantime, as you have questions, feel free to drop them in the Q&A Tab and I will pull them up as they're relevant to the conversation that we're having.
+
+17
+00:04:24,300 --> 00:04:25,500
+So you are just as much.
+
+18
+00:04:25,500 --> 00:04:36,700
+A participant in this conversation as we are dialoguing on stage, then we're going to wrap up this event with an amazing virtual magic show all led by.
+
+19
+00:04:36,900 --> 00:04:39,200
+Bye Marco experiences and Kevin Blake.
+
+20
+00:04:39,200 --> 00:04:44,000
+So that's going to be really fun and yeah it's going to be great event today.
+
+21
+00:04:44,200 --> 00:04:49,900
+So with that I would love to introduce our panelists to the stage.
+
+22
+00:04:49,900 --> 00:04:51,100
+Please join me.
+
+23
+00:04:51,300 --> 00:04:55,400
+Emily Daniel O Brien Suman.
+
+24
+00:04:58,200 --> 00:04:58,200
+Hi.
+
+25
+00:04:59,500 --> 00:05:00,200
+Hey, how's it going?
+
+26
+00:05:01,000 --> 00:05:01,500
+How's it going?
+
+27
+00:05:04,200 --> 00:05:06,000
+Will be colder out to be you're doing.
+
+28
+00:05:06,000 --> 00:05:10,600
+And if you don't mind, Reducing your cells, will start with Brian, and then go all the way around.
+
+29
+00:05:11,200 --> 00:05:15,800
+Let us know where you're tuning in from and what you do?
+
+30
+00:05:15,800 --> 00:05:19,100
+And a little bit about each of your company's, your thanks.
+
+31
+00:05:19,100 --> 00:05:27,800
+I am joining you from Long Island, New York, and I am the EBP of sales and account management at send do so.
+
+32
+00:05:28,300 --> 00:05:38,300
+And really looking forward to this conversation and, you know, the human market experience in human to human approach is Everything that Santos was built on.
+
+33
+00:05:38,300 --> 00:05:40,000
+So looking forward to the discussion.
+
+34
+00:05:42,600 --> 00:05:43,000
+Awesome.
+
+35
+00:05:43,000 --> 00:05:44,800
+I handed over to you, Emily.
+
+36
+00:05:46,100 --> 00:05:47,000
+Hi, everyone.
+
+37
+00:05:47,300 --> 00:05:48,100
+I am Emily.
+
+38
+00:05:48,100 --> 00:05:50,000
+I am a technical marketing manager.
+
+39
+00:05:50,000 --> 00:05:58,400
+Over a troll Works where an account based platform focused on helping our customers deliver or in find and deliver.
+
+40
+00:05:58,400 --> 00:06:04,300
+Their most high-quality leads, I have been a troll works for about three years and super excited to chat with you all today.
+
+41
+00:06:05,900 --> 00:06:06,800
+Thanks, Emily.
+
+42
+00:06:07,000 --> 00:06:07,600
+Daniel.
+
+43
+00:06:07,600 --> 00:06:15,100
+Oh, hey, sorry, I am having some technical difficulties here but hopefully everybody can hear me.
+
+44
+00:06:16,300 --> 00:06:19,500
+I head up the SDR team here at roll.
+
+45
+00:06:19,500 --> 00:06:21,600
+Works been doing it for it.
+
+46
+00:06:21,600 --> 00:06:26,900
+Would take about 15 or so years and just love the space.
+
+47
+00:06:27,700 --> 00:06:32,200
+I have been with companies like Marketo, semantics Aruba Networks and so forth.
+
+48
+00:06:32,200 --> 00:06:37,800
+So very happy to be here and To be with this amazing panel.
+
+49
+00:06:39,600 --> 00:06:40,900
+Thanks, Daniel asuman.
+
+50
+00:06:41,700 --> 00:06:46,800
+Hey, Gina Suman CEO and co-founder of Marco equally excited to be here.
+
+51
+00:06:46,800 --> 00:06:47,600
+As part of the panel.
+
+52
+00:06:47,600 --> 00:06:55,800
+Similar to what Brian said, what we're building at Marco is really centered around, making the human kind of connection through experiences more accessible.
+
+53
+00:06:56,000 --> 00:07:00,200
+So, so excited to be here Great, thank you all.
+
+54
+00:07:00,400 --> 00:07:07,400
+Alright, so, you know, in this age of big data and automation, it's so important.
+
+55
+00:07:07,400 --> 00:07:13,400
+I mean, even more than that, let us layer on what's Happening across Tech with layoffs and recession uncertainty.
+
+56
+00:07:13,400 --> 00:07:14,600
+So, even more.
+
+57
+00:07:14,600 --> 00:07:28,300
+So, in the sea of emails ads calls, it's like, I feel like every B2B marketer is completely Reinventing how they approach marketing with tighter budgets and being a lot smarter.
+
+58
+00:07:28,400 --> 00:07:30,500
+Smarter and more performance data driven.
+
+59
+00:07:30,500 --> 00:07:42,900
+So human centricity across the customer journey is going to stand out over the others and you know, how we're defining human to human marketing.
+
+60
+00:07:42,900 --> 00:07:54,000
+And I would love to hear each of your definitions to this too, but it's a way you can see and interact with your customers as human first and customers second.
+
+61
+00:07:54,000 --> 00:07:58,300
+So let us unpack this a little more how to each of you.
+
+62
+00:07:58,700 --> 00:08:00,500
+Human to human experiences.
+
+63
+00:08:00,500 --> 00:08:05,300
+In go-to-market across each of your relative areas of responsibility.
+
+64
+00:08:09,500 --> 00:08:10,300
+I can hop in here.
+
+65
+00:08:10,900 --> 00:08:15,300
+So I think I was thinking about how to answer this question.
+
+66
+00:08:15,500 --> 00:08:19,800
+And first of all, in my opinion, how you think about like marketing or sales?
+
+67
+00:08:19,800 --> 00:08:28,400
+Just generally is helpful and so to us, you know, marketing and sales is really educating customers and then kind of selling your offering ultimately.
+
+68
+00:08:28,400 --> 00:08:33,600
+But a lot of people talk about sales and marketing really is being able to find customer pain.
+
+69
+00:08:33,799 --> 00:08:37,900
+And so they're not going to folks are going to listen to you as customers and purchase from you.
+
+70
+00:08:37,900 --> 00:08:40,799
+If you don't really Understand their problems.
+
+71
+00:08:40,900 --> 00:08:51,500
+So for us I think you're much more likely to find that pain if you come at it from a human angle so you actually have empathy for your customers and I think you mentioned a couple of themes.
+
+72
+00:08:51,500 --> 00:08:56,900
+One is like big data and how do you kind of Leverage that but also, how do you be human at the same time?
+
+73
+00:08:56,900 --> 00:08:59,000
+And I think those aren't mutually exclusive to us, right?
+
+74
+00:08:59,000 --> 00:09:18,700
+So you can still have a robust kind of data me, analytics, and use those to measure kind of how ethicacy of your marketing programs but still show up as a human still listen to your Various still use that to inform how you show up in individual interactions, as well as how that manifests in your overall brand and your value proposition.
+
+75
+00:09:19,500 --> 00:09:26,200
+So yeah, I think fundamentally, you know, having that as part of how you view marketing is a function to us is super important.
+
+76
+00:09:29,100 --> 00:09:34,200
+Little bit duplicative to that is, it's all about the connections.
+
+77
+00:09:34,200 --> 00:09:49,700
+You create with the people you're speaking to and, you know, in an age of video that has completely turned our Outreach upside down, the human connection is much harder to make without walking through the hallways and sitting in a conference room with your clients and Prospects.
+
+78
+00:09:50,500 --> 00:09:56,700
+So finding new ways to make those connections is vital to the growth of, you know, marketing and sales organizations.
+
+79
+00:09:57,100 --> 00:10:00,400
+So having I am these new opportunities to do.
+
+80
+00:10:00,400 --> 00:10:02,100
+So, through companies like mine.
+
+81
+00:10:02,100 --> 00:10:02,500
+It's a do.
+
+82
+00:10:02,500 --> 00:10:11,000
+So, and Marco and roll words, these are just things you have to have in your Tech stack in order to create these connections moving forward.
+
+83
+00:10:11,200 --> 00:10:14,500
+So it's all to me and to us, it's know so it's all about.
+
+84
+00:10:14,500 --> 00:10:17,500
+What is that human connection mean and how do you get there quickly?
+
+85
+00:10:19,900 --> 00:10:27,900
+For me, for me, from a marketing perspective, I really do think about human to human experiences.
+
+86
+00:10:28,100 --> 00:10:35,600
+Like I think all of you said is as finding those pain points that your customers are having and really providing them with those actionable Solutions.
+
+87
+00:10:36,400 --> 00:10:41,700
+And then I am also thinking about how we can get really focused on the Right audience for those programs.
+
+88
+00:10:41,700 --> 00:10:49,200
+So using all the data at our fingertips, thinking about how I can make my programs be more one-to-one or one too few?
+
+89
+00:10:49,700 --> 00:10:53,700
+Even if they are one of the few, how can I make them feel more one-to-one?
+
+90
+00:10:54,500 --> 00:11:04,700
+So part of that is just getting really focused on who has the highest likelihood of buying right now who's raising their hands wanting to talk to sales and then really tightening up that messaging.
+
+91
+00:11:04,700 --> 00:11:06,900
+So you know what your audience cares about?
+
+92
+00:11:06,900 --> 00:11:13,400
+You're not throwing out 20 different messages at once and just hoping one sticks were able to deliver the right message every time.
+
+93
+00:11:15,700 --> 00:11:17,900
+Yeah, that's something that I just wanted to Echo.
+
+94
+00:11:17,900 --> 00:11:20,000
+You know what Emily said, right?
+
+95
+00:11:20,000 --> 00:11:27,100
+We tend to talk about, you know, being empathetic, being personalized and so forth in our Outreach.
+
+96
+00:11:27,100 --> 00:11:30,700
+But like before you even get to that point, right?
+
+97
+00:11:30,700 --> 00:11:39,700
+I think you need to take a, you know, broader, you know, look at things and really think about it from a 30,000 foot view what that really means, right?
+
+98
+00:11:39,700 --> 00:11:44,700
+So for us it's really taking that customer Obsession that everybody.
+
+99
+00:11:44,900 --> 00:11:48,900
+It's about its one of those buzzwords and operationalizing it, right?
+
+100
+00:11:48,900 --> 00:11:53,000
+So what I mean by that is you know Emily talked about this, right?
+
+101
+00:11:53,000 --> 00:11:58,300
+Reaching out to the right people with the topic that they care about, at that time, right?
+
+102
+00:11:58,300 --> 00:12:04,400
+So we have Technologies today that are available to help us get a lot more focused, you know.
+
+103
+00:12:04,400 --> 00:12:08,200
+So we're not, you know, spraying and praying sort of speak, right?
+
+104
+00:12:08,400 --> 00:12:14,300
+Or even in a situation where you try and personalize the message, but it's not the right message at that time.
+
+105
+00:12:14,800 --> 00:12:16,000
+It's a miss, right?
+
+106
+00:12:16,000 --> 00:12:33,600
+So as much as you want to do that, you know, good work of, you know, getting into the weeds personalizing really looking up, you know, someone's background or doing research on the company, you got to step back a little bit and just make sure is this the right company and the right person to reach out to at this point, right?
+
+107
+00:12:34,100 --> 00:12:37,200
+Because that's going to be a huge, huge piece of it.
+
+108
+00:12:37,500 --> 00:12:44,700
+The other thing that I like to think about that, we do really well here internally, you know a troll works, is it?
+
+109
+00:12:44,900 --> 00:12:47,800
+Not just about the handoff these days, right?
+
+110
+00:12:47,800 --> 00:12:51,500
+It's a lot about the cross functional overlap, right?
+
+111
+00:12:51,500 --> 00:12:53,600
+It may be a situation, Emily, what?
+
+112
+00:12:53,600 --> 00:13:00,200
+Then I will talk about this later where, you know, there is an initial hand off, but then it gets Revisited, right?
+
+113
+00:13:00,200 --> 00:13:03,600
+Like she's just going to jump in afterwards then nasty.
+
+114
+00:13:03,600 --> 00:13:05,900
+Our team is going to jump in and so forth, right?
+
+115
+00:13:05,900 --> 00:13:13,100
+So you really got to think through this in terms of the human to human component, from operational perspective as well.
+
+116
+00:13:13,400 --> 00:13:14,700
+And not just coach people.
+
+117
+00:13:14,800 --> 00:13:21,100
+People to talk about, you know, specific items that, you know, or messaging that's going to be relevant.
+
+118
+00:13:22,700 --> 00:13:23,100
+Yeah.
+
+119
+00:13:23,500 --> 00:13:24,600
+Oh, go ahead, jump in.
+
+120
+00:13:25,300 --> 00:13:32,900
+No, I was just going to say I think it's sometimes helpful to giving anecdotes for some of these things we can't talk about it.
+
+121
+00:13:32,900 --> 00:13:33,400
+Conceptually.
+
+122
+00:13:33,400 --> 00:13:38,100
+So give one which is what we something we were doing with internally with their team.
+
+123
+00:13:38,300 --> 00:13:44,300
+So Marco helps companies build culture through event so that could be virtual personal TD Retreat.
+
+124
+00:13:44,500 --> 00:13:58,700
+And one of the things we do, and we're trying to operationalize to delete danilo's point is we did a retreat for a company went well but then now we're operationalizing kind of pre and post sale kind of conversations and Vague.
+
+125
+00:13:58,900 --> 00:14:28,000
+And I joined one yesterday with a great company and mental health space and learned a lot from a human who was a customer and a happy customer but then walked away with their from the conversation with the head of sales saying, oh these are you know various things we did clarify within our offering or improve and this is how we're going to sell again, but that's almost like a nice knock-on effect but really the important thing was we were able to form a human connection and really View.
+
+126
+00:14:28,100 --> 00:14:36,800
+Do the relationship as a partnership versus just kind of transactional sale, which I think is really helpful, particularly, we're fairly early stage, right?
+
+127
+00:14:36,800 --> 00:14:51,000
+So for us, getting feedback from customers is truly, I mean, I think it is always a gift, but it's particularly more so a gift as you're, as you're really kind of iterating on the product in the offering to us, that to me, that's a good example.
+
+128
+00:14:51,300 --> 00:14:58,000
+And then I attended an event yesterday with a company called Mutiny, which is basically they optimize your landing pages with kind of AI.
+
+129
+00:14:58,200 --> 00:14:59,100
+Really cool company.
+
+130
+00:14:59,400 --> 00:15:06,300
+And one of the individuals there have looked into me and, you know, looked into what Market was, and that sort of thing.
+
+131
+00:15:06,400 --> 00:15:08,100
+And, and we had a good conversation.
+
+132
+00:15:08,100 --> 00:15:14,500
+And then we both talked about how we might build work together, help each other, and so that, but I will remember that person, right?
+
+133
+00:15:14,500 --> 00:15:16,500
+And kind of their story.
+
+134
+00:15:16,700 --> 00:15:19,800
+And so, at the end of the day, we are all human rights.
+
+135
+00:15:20,300 --> 00:15:22,400
+All of us on this call and all the folks listening.
+
+136
+00:15:22,800 --> 00:15:27,800
+So, I think that's important to keep in mind, especially in a time when things can be quite stressful.
+
+137
+00:15:28,100 --> 00:15:41,600
+And you're kind of Doom scrolling on the news and Twitter and then just sometimes reminding yourself that like the person on the other side of the conversation is in kind of row in a spreadsheet that you're trying to optimize, but they're human being is helpful.
+
+138
+00:15:42,900 --> 00:15:53,500
+Yeah, and I want to Echo that, right because a lot of times, you know, what happens is people you know really fixate on the short-term, right?
+
+139
+00:15:53,500 --> 00:15:53,700
+Sure.
+
+140
+00:15:53,700 --> 00:15:54,600
+We all have a quarter.
+
+141
+00:15:54,600 --> 00:15:56,200
+We need a head, right?
+
+142
+00:15:56,400 --> 00:15:58,000
+It's cute for we got a closed business.
+
+143
+00:15:58,300 --> 00:16:00,300
+CL from a Str perspective.
+
+144
+00:16:00,300 --> 00:16:02,400
+How do we build that pipeline, right?
+
+145
+00:16:02,400 --> 00:16:11,600
+And see that immediacy but, you know, to your point sumon on this one, you got to think about, you know, building that relationship.
+
+146
+00:16:11,600 --> 00:16:17,800
+You got to think about the long game and a lot of people on the collar like, well, that doesn't help me right now.
+
+147
+00:16:17,900 --> 00:16:18,900
+Yeah, it doesn't.
+
+148
+00:16:18,900 --> 00:16:28,000
+But it will come around right, and so I always, you know, talk about this from an SD, our perspective, it's not just about book in the meeting right now.
+
+149
+00:16:28,100 --> 00:16:35,400
+Oh, it's about, you know, incorporating, you know, the nurture piece of it into the equation.
+
+150
+00:16:35,400 --> 00:16:39,400
+It's not just the responsibility of the marketing team to do that.
+
+151
+00:16:39,400 --> 00:16:41,300
+You got to do that from a sales perspective.
+
+152
+00:16:41,300 --> 00:16:49,000
+You got to do that from a Str perspective, you know, so much spot on man with building that relationship.
+
+153
+00:16:49,000 --> 00:16:51,000
+That's, that's, that's what it's about.
+
+154
+00:16:53,300 --> 00:16:53,900
+That's really powerful.
+
+155
+00:16:53,900 --> 00:17:06,700
+What you're beginning to describe, especially with the I meant the one team alignment between sales and marketing to really make that human touch authentic and meaningful across the funnel.
+
+156
+00:17:07,900 --> 00:17:23,000
+I would love to double-click a little bit more into the strategies like a cross across a process, but before we go into strategies and tactics, you know, we were talking a little bit about some of the vital qualities of human-to-human marketing.
+
+157
+00:17:23,000 --> 00:17:26,400
+So just continuing to unravel a little bit more of that.
+
+158
+00:17:27,300 --> 00:17:33,900
+Meaning like, okay, so we're talking about being human and yeah, it's like, duh, we should know what that's like.
+
+159
+00:17:33,900 --> 00:17:35,100
+But what is that?
+
+160
+00:17:35,100 --> 00:17:38,700
+What are some of the key qualities that you all are seeing?
+
+161
+00:17:39,300 --> 00:17:42,800
+That's translating over into the work that you do?
+
+162
+00:17:44,700 --> 00:17:47,000
+I think the human to human interactions.
+
+163
+00:17:47,000 --> 00:17:53,100
+Are obviously their personalized, transparent authentic, but at the same time, something really important.
+
+164
+00:17:53,100 --> 00:17:55,000
+There's their also really timely.
+
+165
+00:17:55,800 --> 00:18:14,100
+So, as marketers and the salespeople, we have so many data at our fingertips, that we can use to really Target somebody with the right message at the right time, the right buying Persona, so I Rovers freezing, our own product to define journey stages, basically, buying stages that I work with Noah, and his team on defining.
+
+166
+00:18:14,600 --> 00:18:16,100
+It's kind of two-way street.
+
+167
+00:18:16,100 --> 00:18:21,700
+There were able to get a really clear picture by a combined combining data from our CRM.
+
+168
+00:18:21,700 --> 00:18:24,000
+So that's like sales engagement or marketing.
+
+169
+00:18:24,000 --> 00:18:33,800
+Automation platform, more of those like form fills campaign responses, intent data and then website engagement to get a really clear picture of where somebody's at in their buying journey.
+
+170
+00:18:34,800 --> 00:18:44,400
+And from there, we can really zero in on, you know, the people that are sales ready, raising their hands and from the marketing side we're going after those folks with air cover.
+
+171
+00:18:44,600 --> 00:18:56,900
+Odds, nurture, emails Etc but then from the sales side, Nolan has teams using that information to really reach out to those people at the right time and were able to identify what message is going to work right for them.
+
+172
+00:18:57,500 --> 00:19:10,100
+And then even create Dynamic campaigns that can change the offer or message depending on when the final stage changes to really, just support the sales team and stay top of Mind against competition.
+
+173
+00:19:12,900 --> 00:19:18,800
+Yeah, just to add to that, just very basic things that are really important.
+
+174
+00:19:18,800 --> 00:19:24,600
+It's, you know, I think the know who you're talking to piece really helps create that experience.
+
+175
+00:19:25,600 --> 00:19:37,100
+If you know, you're going to be speaking to someone who is in a VM, why you talk, while you tell them how your use cases for sales of Client Services can benefit them, they don't care, right?
+
+176
+00:19:37,100 --> 00:19:42,300
+So if you create the conversation on what they care about, that's really important.
+
+177
+00:19:42,700 --> 00:19:48,900
+And that alone will create this personal Human Experience because now you're having a conversation about what they really care about.
+
+178
+00:19:50,300 --> 00:19:51,700
+Sometimes you just miss the basics.
+
+179
+00:19:52,300 --> 00:19:52,900
+Hmm.
+
+180
+00:19:54,200 --> 00:19:56,900
+So can we dive into some of the tools?
+
+181
+00:19:56,900 --> 00:20:00,100
+Like what our strategy and tools that you're starting to touch it?
+
+182
+00:20:00,100 --> 00:20:11,000
+Emily, you know, cross funnel, but what are some key strategies and tools that, and we can start from even at the awareness part of the funnel and let us make our way all the way through.
+
+183
+00:20:11,500 --> 00:20:19,200
+So just from that initial touch point because there was a recent Forrester stat that said that it requires close to 27.
+
+184
+00:20:20,000 --> 00:20:22,700
+All touch points for the average B2B buyer.
+
+185
+00:20:22,700 --> 00:20:24,400
+These days post pandemic.
+
+186
+00:20:24,800 --> 00:20:26,200
+It might even be more than that.
+
+187
+00:20:27,000 --> 00:20:33,400
+And majority of that exploration of the buyer is taking place so low and that's how they want it.
+
+188
+00:20:33,900 --> 00:20:38,400
+So how are we making that experience human?
+
+189
+00:20:39,600 --> 00:20:48,900
+Well, I mean, I am a little passionate around this, you know, in and I get a little irritated by the stats.
+
+190
+00:20:49,100 --> 00:21:02,300
+You know, because I will be honest, you know, you hear these stats and it's, you know, and what happens, you know, you have the SDR is that are basically adopting that, right?
+
+191
+00:21:02,300 --> 00:21:12,700
+And you got Str teams that are like emulating that and, you know, quite honestly, you know, Actuated and reinforcing that narrative, right?
+
+192
+00:21:13,100 --> 00:21:23,700
+Because will hero, you got to have a sequence as, you know, 13, 14 touches, right and Outreach or salesloft, or, you know, whatever tool you're using out there.
+
+193
+00:21:24,200 --> 00:21:36,300
+And as opposed to figuring out a way to cut that amount of interaction down, we just actually create those sequences that long and just reinforce it, right?
+
+194
+00:21:36,300 --> 00:21:37,300
+And that's brutal.
+
+195
+00:21:37,300 --> 00:21:46,000
+Because if you're on the other end of it, It, you know, you're opting for more of a, you know, quantity than a quality approach, right?
+
+196
+00:21:46,200 --> 00:21:53,100
+And so, you know, the goodness is, in the details doubles, not in the details, it's a goodness.
+
+197
+00:21:53,100 --> 00:21:55,100
+That's in the details right now, like that.
+
+198
+00:21:55,100 --> 00:22:08,400
+Well, you know, that just to give a shot out to get O'Brien of the team out there at Sand, do, so we use the heck out of, so do, so I don't care what our budget is forced to do.
+
+199
+00:22:08,400 --> 00:22:12,900
+So if we're booking Things like let us get that budget as big as possible.
+
+200
+00:22:12,900 --> 00:22:15,400
+So Brian and closing some deals here for you.
+
+201
+00:22:15,700 --> 00:22:19,400
+But like, that's the approach you want to take, right?
+
+202
+00:22:19,400 --> 00:22:23,900
+Is it's not about throwing out a, you know, Amazon gift card.
+
+203
+00:22:23,900 --> 00:22:24,300
+Right?
+
+204
+00:22:24,300 --> 00:22:28,400
+It's about, you know, maybe doing a, you know, Wellness kit.
+
+205
+00:22:28,400 --> 00:22:34,500
+Emily can talk a little bit about that or you see somebody that you know, has you know pets.
+
+206
+00:22:34,600 --> 00:22:38,200
+You know you're doing a kit for, you know for dogs.
+
+207
+00:22:38,200 --> 00:22:39,200
+I got three of them.
+
+208
+00:22:39,700 --> 00:22:47,200
+So if I am getting a Centos will gift, you know, that's pet-related got one of those lazy dogs, right next?
+
+209
+00:22:47,200 --> 00:22:51,000
+To me, sleep in a way as I am on a webinar, right?
+
+210
+00:22:51,000 --> 00:22:57,400
+So you just got to get more relevant with what you're actually putting out there, right?
+
+211
+00:22:57,400 --> 00:23:02,800
+And not taking the, you know, oh, it's sticking to take 27 touches.
+
+212
+00:23:02,800 --> 00:23:06,000
+Okay, well that maybe you know what we're doing.
+
+213
+00:23:06,000 --> 00:23:07,700
+Now, how do we get that?
+
+214
+00:23:07,700 --> 00:23:10,300
+Like 12 or a Right?
+
+215
+00:23:10,700 --> 00:23:26,500
+So that we're providing a lot more relevancy to what they're going to digest versus that, you know, mentality of like, I am going to choke you with so much information until you know, scream uncle and okay.
+
+216
+00:23:26,500 --> 00:23:27,200
+Sure you're going to.
+
+217
+00:23:27,200 --> 00:23:28,900
+You're going to hear back from me, right?
+
+218
+00:23:28,900 --> 00:23:30,700
+But it's going to be a no, right?
+
+219
+00:23:30,700 --> 00:23:32,100
+Or it's going to be a knock-down.
+
+220
+00:23:32,600 --> 00:23:37,100
+So I know I went off there a little bit, but I am just passionate about this.
+
+221
+00:23:37,700 --> 00:23:52,100
+Yeah, it's Really, really important to me that our team is providing value to the folks on the other end and be mindful of when do we get those replies?
+
+222
+00:23:52,100 --> 00:23:58,100
+Are we getting them on step 3, or is it 9:00, you know, and how do we get better?
+
+223
+00:23:58,400 --> 00:24:02,100
+So I will shut up and pass the someone else greens.
+
+224
+00:24:03,500 --> 00:24:05,400
+I think you missed the fine print on that survey.
+
+225
+00:24:05,400 --> 00:24:09,100
+It said, if you're doing things, the way you were 10 years ago, it's going to take you 27.
+
+226
+00:24:10,200 --> 00:24:10,500
+Right?
+
+227
+00:24:11,800 --> 00:24:17,300
+We need to change the way you're doing your Outreach, and lean on the new things that are in Market to help you get there.
+
+228
+00:24:18,100 --> 00:24:19,600
+So do so obviously being one of them.
+
+229
+00:24:19,600 --> 00:24:23,400
+So, thank you for the shout out but there are things you can be doing differently.
+
+230
+00:24:23,400 --> 00:24:26,100
+It's the stale organizations that are still happy.
+
+231
+00:24:26,100 --> 00:24:26,600
+That's trouble.
+
+232
+00:24:29,700 --> 00:24:30,400
+That's kind of funny.
+
+233
+00:24:30,400 --> 00:24:32,500
+So I sent an email to a we're doing it.
+
+234
+00:24:32,500 --> 00:24:35,100
+We do events for internal and external use cases.
+
+235
+00:24:35,100 --> 00:24:37,100
+So, we're doing ahead of community of that.
+
+236
+00:24:37,100 --> 00:24:44,900
+We will often sell to VCS or heads of community at companies, and they do a bunch of events to activate their Community as commercial interest and so forth.
+
+237
+00:24:45,100 --> 00:24:49,100
+But we're doing this really curated event with Robert.
+
+238
+00:24:49,100 --> 00:24:51,000
+Who's the founder of daybreaker?
+
+239
+00:24:51,000 --> 00:24:51,800
+It's amazing Community.
+
+240
+00:24:51,800 --> 00:24:52,900
+She's also an entrepreneur.
+
+241
+00:24:53,000 --> 00:25:02,300
+She wrote a book called The Long, which is about community building, and then we invited the head of Immunity who hadn't responded to a few emails of mine in a bit for this BC.
+
+242
+00:25:02,300 --> 00:25:05,000
+And she immediately goes, oh my gosh, this looks amazing.
+
+243
+00:25:05,000 --> 00:25:06,100
+I actually can't make it.
+
+244
+00:25:06,100 --> 00:25:07,700
+But thank you so much for the invite.
+
+245
+00:25:07,700 --> 00:25:14,100
+I am going to invite this, you know, had a couple of my people from my firm join unless definitely catch up as soon as possible.
+
+246
+00:25:14,600 --> 00:25:21,600
+So it's kind of interesting because, of course, we have certain sequences, and we're figuring out who to Target, but that resonated, right?
+
+247
+00:25:21,600 --> 00:25:27,000
+And so, it resonated because we thought about the actual format of what that what we're asking.
+
+248
+00:25:27,200 --> 00:25:27,400
+Yeah.
+
+249
+00:25:27,700 --> 00:25:34,200
+Ask given a skit, hopefully that experience should be providing value to them the same way.
+
+250
+00:25:34,200 --> 00:25:35,500
+I mean, Junior putting this together.
+
+251
+00:25:35,500 --> 00:25:41,100
+Hopefully folks, on this, on this call can get some value, and it's not just a one-way value Street.
+
+252
+00:25:41,100 --> 00:25:46,200
+You're asking, and receiving as well, but So good.
+
+253
+00:25:46,800 --> 00:25:53,100
+So what are some strategies and tactics that we have a sense?
+
+254
+00:25:53,100 --> 00:25:54,200
+Clearly not working.
+
+255
+00:25:54,200 --> 00:26:05,600
+So that's the inundation all of us are experiencing right now with emails ads and it's not really resonating, you know, but what is working.
+
+256
+00:26:05,700 --> 00:26:07,800
+So what have you all been doing it?
+
+257
+00:26:07,800 --> 00:26:13,500
+Like, are there any strategies or creative ideas that you're currently implementing?
+
+258
+00:26:13,500 --> 00:26:14,400
+That's really working?
+
+259
+00:26:14,400 --> 00:26:19,400
+Well, I can touch on the wellness kit that Danilo mentioned.
+
+260
+00:26:19,400 --> 00:26:25,900
+So basically all of our reps have this Wellness kit has like chicken noodle soup.
+
+261
+00:26:25,900 --> 00:26:33,900
+Like all things kind of comfort related in this Wellness kit and all of our reps have access to some this, to their customers and their prospects.
+
+262
+00:26:34,200 --> 00:26:45,800
+But we initially launched this, it was because we were getting a lot of feedback from Danilo and his team that they were seeing open rates were down, reply rates were down, and we really needed to find a way.
+
+263
+00:26:46,000 --> 00:26:47,900
+To re-engage this audience.
+
+264
+00:26:48,600 --> 00:27:01,000
+So we pulled our Target account list of all the people that had been not responding to emails but had responded to us in the past and basically acknowledged that it was, it was early winter.
+
+265
+00:27:01,000 --> 00:27:08,200
+A lot of people were under the weather understanding that when they kind of come back, they're probably going to have a really increased workload.
+
+266
+00:27:08,200 --> 00:27:10,500
+So what can we do to help them on both friends there?
+
+267
+00:27:11,200 --> 00:27:15,800
+So, we sent them this Wellness kit to help them kind of recover as they come back into work.
+
+268
+00:27:15,900 --> 00:27:22,500
+And then we're also pairing that with something helpful to help them, you know, hit the ground running once they come back into the office.
+
+269
+00:27:22,500 --> 00:27:24,800
+So we paired it with our AVM play generator.
+
+270
+00:27:25,800 --> 00:27:29,600
+Hello and his team were going out to customize and Prospects that way.
+
+271
+00:27:29,600 --> 00:27:35,100
+But then on the marketing side we were providing air cover ads with very, very simple.
+
+272
+00:27:35,100 --> 00:27:38,500
+Add to this audience with no CTA.
+
+273
+00:27:38,500 --> 00:27:40,400
+It just had some text on it.
+
+274
+00:27:40,400 --> 00:27:46,800
+That said, check your email from us, this actually increased open rates about 20% across this email program.
+
+275
+00:27:46,900 --> 00:27:53,000
+And then, after once, once the people started redeeming, we started targeting them with those a VM play generator ads.
+
+276
+00:27:53,600 --> 00:28:04,200
+We were able to see about an 11% redeemed opportunity, right on this, just by getting sales to open the or just by getting this gift, kind of opened the door for sales to really build those relationships.
+
+277
+00:28:06,700 --> 00:28:07,400
+Right on.
+
+278
+00:28:11,500 --> 00:28:12,600
+Stephen were even jumping?
+
+279
+00:28:13,100 --> 00:28:14,400
+No, I was purely saying that.
+
+280
+00:28:14,400 --> 00:28:15,100
+I think I love that.
+
+281
+00:28:15,100 --> 00:28:16,000
+That's a great idea.
+
+282
+00:28:17,000 --> 00:28:20,400
+That was the extent of my reaction but I can say some other stuff if you'd like.
+
+283
+00:28:21,600 --> 00:28:26,700
+I mean if you have got anything else to contribute to what's working for you all.
+
+284
+00:28:27,200 --> 00:28:28,100
+Yeah, it's interesting.
+
+285
+00:28:28,100 --> 00:28:32,100
+I guess so, you know, on this subject of tools for us.
+
+286
+00:28:32,800 --> 00:28:35,800
+So we are doing a lot of testing on paid marketing and growth rate.
+
+287
+00:28:35,800 --> 00:28:42,400
+And what we have realized is from our experiences, the interesting thing for us is even though we're beat to be part of what we do.
+
+288
+00:28:42,400 --> 00:28:43,700
+Feels consumer II.
+
+289
+00:28:43,700 --> 00:28:45,500
+Yeah, consumer-friendly in nature.
+
+290
+00:28:45,500 --> 00:28:52,900
+It's B2B to see the ultimate consumer is the employee or the Community member from the experiences events kind of standpoint.
+
+291
+00:28:53,200 --> 00:29:03,600
+So, some folks actually don't necessarily from a product experience perspective, actually, just want to shop as they would normally, on a Marketplace, like Airbnb experiences or whatever it is.
+
+292
+00:29:03,900 --> 00:29:09,500
+And then we have higher complexity products whether it's like a venue by outdoor Retreat or some newer.
+
+293
+00:29:09,500 --> 00:29:11,200
+He's spending a lot of money and it's more.
+
+294
+00:29:11,400 --> 00:29:17,800
+Flex where you really want to talk to someone and then it's like, how do we actually structure our lead flow?
+
+295
+00:29:17,900 --> 00:29:19,800
+And we only have so many people right?
+
+296
+00:29:19,800 --> 00:29:20,100
+Steph.
+
+297
+00:29:20,400 --> 00:29:23,600
+So then with that multi kind of variable equation we're thinking about.
+
+298
+00:29:23,700 --> 00:29:24,000
+Okay.
+
+299
+00:29:24,000 --> 00:29:27,300
+How do we how does that inform product roadmap around?
+
+300
+00:29:27,300 --> 00:29:29,400
+What should be what ought to be self cert?
+
+301
+00:29:29,500 --> 00:29:47,100
+And I think this applies for mobile view be SAS as well, which is okay, you know, how really there should be damned for eternity to perhaps, you know, learn as much as you can and then at the right moment, bringing that human because you may not want to have a certain interaction and you may want to.
+
+302
+00:29:47,400 --> 00:29:51,100
+I can actually mutiny is an example where they have a really great product.
+
+303
+00:29:51,100 --> 00:30:02,500
+LED growth component, where you can actually literally redesign your website with beauty and so you can see the value of it and that I am like, oh gosh, I really want to talk to someone over there.
+
+304
+00:30:02,800 --> 00:30:11,200
+And so it's this interesting Dynamic around human centricity, doesn't have to mean also to nil.
+
+305
+00:30:11,400 --> 00:30:23,400
+Point, you know, let us just talk to people as much as we can and now I heard this buzzword called human to human interaction and how we were going to throw all our humans out to interact with many people as possible.
+
+306
+00:30:23,600 --> 00:30:27,500
+I think if you hear some of these buzzwords that I think it's the same way of like growth hacking.
+
+307
+00:30:27,500 --> 00:30:33,600
+People are right about growth hacking, and then they're like okay cool, we're gonna like create all these tests we're going to get all these customers.
+
+308
+00:30:34,000 --> 00:30:38,800
+I think it's really taking that phrase in understanding how it ought to apply to your customer.
+
+309
+00:30:38,800 --> 00:30:49,900
+So in our case, it's kind of like okay well Who do we, who should we talk to both from, you know, ability to solve their problems and bandwidth of our team.
+
+310
+00:30:49,900 --> 00:30:52,900
+And that's how we're prioritizing kind of sales interactions.
+
+311
+00:30:52,900 --> 00:30:53,000
+It?
+
+312
+00:30:53,000 --> 00:31:02,100
+Ultimately, when we build more product is features for the high complexity stuff within our business, it will also still serve up human interaction in the right time.
+
+313
+00:31:02,100 --> 00:31:09,600
+So we think about it in the context of not only sales and marketing but also product and other kind of areas of our business.
+
+314
+00:31:12,400 --> 00:31:17,800
+But one other thing to touch on, just following up on what Emily said.
+
+315
+00:31:17,800 --> 00:31:30,000
+And as you can see, you know, just from the examples that Emily share, and we're very spoiled here, we have got an amazing marketing team and it's just amazing partnership, right?
+
+316
+00:31:30,000 --> 00:31:31,800
+So it just goes back to what I was saying.
+
+317
+00:31:31,800 --> 00:31:38,900
+I think when we first started about, you know, the cross-functional team work, right?
+
+318
+00:31:38,900 --> 00:31:40,600
+The overlap, right?
+
+319
+00:31:40,600 --> 00:31:42,500
+So you No Emily shared.
+
+320
+00:31:42,500 --> 00:31:50,400
+You know, an example or two, there are a couple things that stand out to me, you know, is you know, the high engagers, right?
+
+321
+00:31:50,400 --> 00:32:04,600
+So if we have, you know, folks that are out there, you know, and you can tell this through Outreach or salesloft, or any of these platforms who's clicking on your links who's opening and multiple times, and so forth.
+
+322
+00:32:04,800 --> 00:32:11,100
+So, you know, that those folks are interested, but there's something that's preventing them from, you know, replying to you.
+
+323
+00:32:11,100 --> 00:32:19,900
+And Aim, you know whether it's hey, we're not quite ready this quarter, or we may be, you know, there's a budget constraint.
+
+324
+00:32:19,900 --> 00:32:25,500
+I mean, that's your the climate that we're in, you know, today, for example.
+
+325
+00:32:25,500 --> 00:32:41,400
+But you know, we do a really, really good job of marketing providing that are cover and jumping in with additional channels to really unstuck those folks, right?
+
+326
+00:32:41,500 --> 00:32:52,000
+And so we will try a few different messages and depending on which message, they resonate, we kind of shift our mindset here to address that pain point.
+
+327
+00:32:52,100 --> 00:32:52,800
+Right?
+
+328
+00:32:52,800 --> 00:32:58,100
+Because, you know, typically you have that messaging that's like industry-focused, right?
+
+329
+00:32:58,300 --> 00:33:04,000
+You have messaging, that's, you know, related to a particular product or so forth, right?
+
+330
+00:33:04,300 --> 00:33:10,800
+But that's just doesn't cut it these days anymore, you got to go the Step Beyond and understand.
+
+331
+00:33:10,800 --> 00:33:11,400
+Okay.
+
+332
+00:33:11,500 --> 00:33:14,700
+Well, maybe it's dependent on the tech that they use, right?
+
+333
+00:33:14,700 --> 00:33:19,800
+Could that be a trigger for what you know, messaging we want to use, right?
+
+334
+00:33:19,800 --> 00:33:23,600
+So we have an amazing integration with HubSpot, for example, right?
+
+335
+00:33:23,600 --> 00:33:27,000
+That you know, we want to know if that's a driver, right?
+
+336
+00:33:27,000 --> 00:33:37,000
+So our marketing team does incredible job, you know, providing that are cover and putting those messages in and depending on what they're actually clicking on.
+
+337
+00:33:37,000 --> 00:33:40,800
+You know, we're able to actually then get even a lot more.
+
+338
+00:33:41,500 --> 00:33:44,100
+Or you know what the messaging Emily.
+
+339
+00:33:44,100 --> 00:33:57,100
+I don't know if you want to jump in with an additional comment on that, but I think you all do an amazing job when it comes to that type of stuff to harm us with, you know, necessary tools from a messaging perspective.
+
+340
+00:33:58,300 --> 00:33:59,100
+Thanks, Noah.
+
+341
+00:33:59,100 --> 00:34:00,900
+Well, I grew I can definitely touch on that.
+
+342
+00:34:00,900 --> 00:34:05,200
+I definitely think that we use our marketing automation platform.
+
+343
+00:34:05,200 --> 00:34:20,500
+So much to kind of identify when these customers are responding to campaigns that are relevant to you know, certain topics certain Integrations, and then we also track who's visiting those pages, and we have trigger set up.
+
+344
+00:34:20,500 --> 00:34:35,400
+So if somebody lands on a page that talks about are how spotted integration they're immediately going to be getting an email, it's usually going to From that assigned sales rep, just kind of continue building that relationship and make it feel like it's a human talking to another human.
+
+345
+00:34:36,100 --> 00:34:37,900
+Just going to be giving them more information.
+
+346
+00:34:37,900 --> 00:34:52,199
+It's very like light message just acknowledging that they have been looking at some of this content across the web and what can we do to help their experience be a little bit better and what can we do to help them?
+
+347
+00:34:55,500 --> 00:35:00,400
+So rich, these are, these are like some amazing key insights and tips.
+
+348
+00:35:00,400 --> 00:35:01,700
+Brian, where you go to say something?
+
+349
+00:35:02,400 --> 00:35:02,600
+Yeah.
+
+350
+00:35:02,600 --> 00:35:29,000
+Just going to add some of the a really focused on internally is to make sure we're focused on the full customer journey and where, as Danilo said, not just sending stuff to send stuff, I think the only other good thing about having a sending strategy within your Outreach programs is if I is to send, you know, a few ten emails to Danilo, and he wasn't getting back to me.
+
+351
+00:35:29,000 --> 00:35:31,800
+But then I sent him a bone for his dog.
+
+352
+00:35:32,000 --> 00:35:37,700
+We might be like, well for one second, that's creepy, but then he's like my dog.
+
+353
+00:35:37,900 --> 00:35:44,100
+So I think the one place where you can get beyond the creepy is by sending someone a gift if it's going to work.
+
+354
+00:35:44,100 --> 00:35:50,000
+And if this personalized and it's something that they can use, then all the creepiness goes away.
+
+355
+00:35:50,400 --> 00:35:56,400
+So using the data to learn about people, and then using that as a benefit to you, We will break through the Clutter.
+
+356
+00:35:56,700 --> 00:36:09,200
+Yeah, I think is, is again why we built what we built its and do so, but the externally, you know, you want to make sure that you're getting into our clients workflows.
+
+357
+00:36:09,500 --> 00:36:25,100
+So, to Emily's point the usage of or Danilo uses of HubSpot and all these other Technologies, we want to make sure that the doses available to you in those platforms so that as a client, you're able to streamline her entire process without having to go into multiple that forms.
+
+358
+00:36:25,800 --> 00:36:29,900
+So I think that's a really big way we personalize for our clients.
+
+359
+00:36:34,300 --> 00:36:35,100
+That's great.
+
+360
+00:36:35,400 --> 00:36:39,500
+Yeah, that's a really good point that Brian just brought up, right?
+
+361
+00:36:39,500 --> 00:36:50,600
+Because, you know, the more you need to go into, you know, different areas, you know, to find information, you know, human nature, right?
+
+362
+00:36:50,600 --> 00:36:51,800
+The less you're going to do it.
+
+363
+00:36:52,000 --> 00:36:54,100
+Hey, you know, let us be honest, right?
+
+364
+00:36:54,100 --> 00:37:05,700
+We can preach, you know, about it, and we will get a lot of head nods but you know, you have to have a platform that's going to be, you know, Little more inclusive, right?
+
+365
+00:37:05,700 --> 00:37:11,800
+That's going to be in the tools that you're currently, you know, your sales team in your SD, our team live it, right?
+
+366
+00:37:11,800 --> 00:37:20,400
+So whether its sales force was, its HubSpot or, you know, one of the other, you know, crms out there and, you know, that's, that's what we do here.
+
+367
+00:37:20,400 --> 00:37:27,400
+You know, a troll works as well as you know if you think about sales, you think about, you know, the Str realm.
+
+368
+00:37:28,500 --> 00:37:31,000
+You want to be multi-threaded, right?
+
+369
+00:37:31,000 --> 00:37:40,500
+What you don't want is You know, going after something that is very, very specific to that one particular person.
+
+370
+00:37:40,500 --> 00:37:40,800
+Sure.
+
+371
+00:37:40,800 --> 00:37:47,500
+You can personalize it, based on, you know, send me a bone Brian any time for my dogs, by the way.
+
+372
+00:37:47,700 --> 00:37:52,000
+But you don't want to just rely on that piece of information, right?
+
+373
+00:37:52,000 --> 00:37:59,300
+There's buying committees that these days are, you know if you're looking at strategic accounts, right?
+
+374
+00:37:59,300 --> 00:38:09,800
+I mean could be 1520 people even with smaller organizations when You know, all our sales team pulls me in on calls to say, hey, how does Roller Shoes roll works?
+
+375
+00:38:10,800 --> 00:38:14,800
+You know, there's two to three people on those calls, right at the very minimum, right?
+
+376
+00:38:14,800 --> 00:38:19,500
+And that's just, you know, people that are into buying committee that are on the sales side, right?
+
+377
+00:38:19,700 --> 00:38:25,700
+So, you want to make sure that as you're personalizing, this approach, you don't lose sight of that, right?
+
+378
+00:38:25,700 --> 00:38:27,400
+It's not just about that individual.
+
+379
+00:38:27,400 --> 00:38:33,900
+It's about, you know how that individual, you know, is basically.
+
+380
+00:38:34,000 --> 00:38:37,100
+We interact with other people within that organization.
+
+381
+00:38:37,100 --> 00:38:41,900
+So if you can see those data points, bring that into the conversation, right?
+
+382
+00:38:42,200 --> 00:38:50,500
+Because they have got folks that they're working with internally, just like I work very, very closely with Emily and the rest of the marketing team.
+
+383
+00:38:52,400 --> 00:38:58,800
+I think one app one interesting point is to throw back, but how to win, friends and influence people?
+
+384
+00:38:58,800 --> 00:39:02,300
+I see a lot of folks have read the book, and I was just pulling it up to.
+
+385
+00:39:02,300 --> 00:39:05,900
+There're six ways to make people, like you or become genuinely interested.
+
+386
+00:39:05,900 --> 00:39:06,800
+In other people.
+
+387
+00:39:07,200 --> 00:39:09,500
+Another really interesting is remembered the person's name.
+
+388
+00:39:09,600 --> 00:39:10,600
+Be a good listener.
+
+389
+00:39:11,200 --> 00:39:16,500
+Talk in terms of other people's interest and make the other person feel important sincerely.
+
+390
+00:39:16,700 --> 00:39:18,900
+So you think about those lessons?
+
+391
+00:39:18,900 --> 00:39:25,800
+Those are few that have always people always known What is the anecdote that Carnegie would write people's Nate?
+
+392
+00:39:25,800 --> 00:39:29,700
+They have got on a note card and practice, you know what they're interested in now?
+
+393
+00:39:29,700 --> 00:39:31,000
+We have all these tools, right?
+
+394
+00:39:31,000 --> 00:39:44,400
+So we have C, we have sophisticated crms, we have multiple systems that can tell you, when you should say all that stuff with technology, whether it's in whatever Channel, it is, right, whether it's email or SMS, or whatever, whatever channel.
+
+395
+00:39:44,600 --> 00:39:50,400
+So I think taking those lessons and then taking, you know, with a beginner's mind set around.
+
+396
+00:39:50,400 --> 00:39:52,000
+Okay, now I have all this technology.
+
+397
+00:39:52,100 --> 00:39:53,400
+How do I do that?
+
+398
+00:39:53,400 --> 00:39:56,400
+And then do it authentically because if you just take it and then you're like, cool.
+
+399
+00:39:56,400 --> 00:40:00,800
+Now, I am going to send everyone dog bones and like Willie, that's right, not going to work, right?
+
+400
+00:40:00,800 --> 00:40:09,300
+But if you do it the right way, then with Brian and Danielle of might work, but Love that book.
+
+401
+00:40:10,000 --> 00:40:13,500
+If you got the lake, feel free to drop it in chat for us.
+
+402
+00:40:13,500 --> 00:40:14,000
+Human.
+
+403
+00:40:15,400 --> 00:40:21,800
+I have I just put up the best summary of How to Win Friends and Influence People to well, alright, whatever you got, I think this is irrelevant.
+
+404
+00:40:25,900 --> 00:40:31,400
+So, talking about high intent and really being able to identify that across a buyer Journey.
+
+405
+00:40:31,900 --> 00:40:34,300
+Some of you have mentioned using your current CRM tools.
+
+406
+00:40:34,300 --> 00:40:37,200
+Like what are you guys using like, a sixth sense?
+
+407
+00:40:37,200 --> 00:40:40,300
+What tools are you using to track that?
+
+408
+00:40:40,300 --> 00:40:46,900
+And how are you continuing to keep tabs and alignment with your marketing and sales teams?
+
+409
+00:40:49,900 --> 00:40:55,200
+We're using our own tool roll Works to do a lot of this from a marketing perspective.
+
+410
+00:40:55,200 --> 00:40:59,100
+We're able to create Dynamic campaigns.
+
+411
+00:40:59,100 --> 00:41:08,300
+Based that change the messaging based on what Journey stage or what buying stage somebody might be in and then that information is also being transferred over to our CRM.
+
+412
+00:41:08,700 --> 00:41:17,900
+So our sales reps are also able to see the same thing and use that to really prioritize which accounts to reach out to First and what kinds of messages might resonate with those customers or prospects.
+
+413
+00:41:21,100 --> 00:41:23,700
+Yeah, just to follow up on what Emily said, right?
+
+414
+00:41:24,600 --> 00:41:37,000
+You know what's great about having a, you know, comprehensive ABM platform is that, you know, it can you know, really coordinate help coordinate those efforts right?
+
+415
+00:41:37,000 --> 00:41:41,900
+So what you know Emily was talking about in terms of Journey stages right?
+
+416
+00:41:42,700 --> 00:41:52,400
+What them you know for us means is you know think of as an accounts for right like an account stage score You know, whatever term you want to use.
+
+417
+00:41:52,800 --> 00:42:12,200
+So, you know, it helps us, you know, from a perspective of, you know, those additional signals, you know, understand you know, for example whether it's Marketo that you're using as a marketing automation platform or whether it's HubSpot, we want to understand those signals, right?
+
+418
+00:42:12,200 --> 00:42:15,900
+We want to understand, you know what links they're clicking on, right?
+
+419
+00:42:16,100 --> 00:42:23,000
+And we want to take, you know, T dat up and our product is called sales insights to the Str team.
+
+420
+00:42:23,000 --> 00:42:32,400
+So that way, as they're really reaching out and trying to personalize that message, you know, we do have that human a human, you know, connection, right?
+
+421
+00:42:32,400 --> 00:42:36,800
+So if I am reaching out, for example to Emily, I can say, hey, I notice your colleague.
+
+422
+00:42:36,800 --> 00:42:37,600
+Yeah.
+
+423
+00:42:37,600 --> 00:42:40,900
+You know, Susan or Bill, we're on the website.
+
+424
+00:42:40,900 --> 00:42:43,900
+There were checking out these pieces of content and so forth.
+
+425
+00:42:43,900 --> 00:42:46,700
+So it's a lot more relative you know, interaction.
+
+426
+00:42:46,700 --> 00:42:53,900
+Much more personalized that Of all the people at the organization and the buying committee, right?
+
+427
+00:42:53,900 --> 00:43:03,800
+And tees it up for, you know, our sales development rep to have all those, you know, right there in the tool at their fingertips.
+
+428
+00:43:03,800 --> 00:43:07,000
+So that way we can, we can reference it right?
+
+429
+00:43:07,600 --> 00:43:10,200
+Because that's a piece of that personalization, right?
+
+430
+00:43:10,200 --> 00:43:11,600
+That we don't talk about.
+
+431
+00:43:11,600 --> 00:43:13,400
+It's like, the person that's kind of raising.
+
+432
+00:43:13,400 --> 00:43:27,900
+Their hand may not be the right person to reach out to, but you can certainly use their interaction with your Brand and your organization to actually make it a much more human conversation with the person that is relevant.
+
+433
+00:43:29,400 --> 00:43:44,300
+And that's become even more important today because of the economy that we're in, because of the layoffs that were going through, you know, marketing as a general profession is a rapid, you know as a revolving door.
+
+434
+00:43:44,500 --> 00:43:54,500
+So if you're only the multi-threading I think the no you said before has become even more important and there's there has to be a focus on that through these organizations.
+
+435
+00:43:54,900 --> 00:43:58,700
+Because number one, you might be talking to the wrong person, it doesn't have a decision ability.
+
+436
+00:43:59,100 --> 00:44:02,800
+Number two, that person your Champion might not be there tomorrow and then, what do you do?
+
+437
+00:44:04,500 --> 00:44:07,100
+Key point it's real.
+
+438
+00:44:08,700 --> 00:44:09,300
+All right.
+
+439
+00:44:09,300 --> 00:44:11,600
+Well we're going to have a magic show soon.
+
+440
+00:44:12,200 --> 00:44:25,400
+So just to wrap this time up, could each of you share any point of encouragement or advice or tip for the B2B go-to-market Community?
+
+441
+00:44:26,100 --> 00:44:27,600
+Brian, you just touched it.
+
+442
+00:44:27,600 --> 00:44:31,500
+It's a hard time right now, we're seeing on LinkedIn.
+
+443
+00:44:31,500 --> 00:44:32,100
+It's like a doom.
+
+444
+00:44:32,100 --> 00:44:40,700
+Scroll of just some of our friends in Tech, getting let go left and right at the same time we're seeing a lot of hiring opportunities also open up.
+
+445
+00:44:40,700 --> 00:44:45,500
+So it's a really up and down kind of experience.
+
+446
+00:44:46,400 --> 00:44:52,400
+What advice would you give to our community in just had to show up?
+
+447
+00:44:54,400 --> 00:44:55,500
+And any other pots.
+
+448
+00:44:55,600 --> 00:44:57,400
+This is there's a very open for you.
+
+449
+00:44:57,400 --> 00:44:59,300
+I could be a tactical point of advice as well.
+
+450
+00:44:59,500 --> 00:45:08,100
+Well, I will start as been mentioned but find the problem that you can solve and help the person solve it and then the biggest thing is don't waste anyone's time.
+
+451
+00:45:08,100 --> 00:45:12,500
+No one has a lot of time anymore to waste or to be wasted.
+
+452
+00:45:12,700 --> 00:45:22,000
+So if you come with a Subjective in a bowl that you can help them solve as a problem they're facing and their daily work life.
+
+453
+00:45:22,700 --> 00:45:24,300
+They're going to be more active listening into it.
+
+454
+00:45:24,300 --> 00:45:32,500
+So I think that's really important, especially in the first conversation Yeah, I would touch on that.
+
+455
+00:45:32,500 --> 00:45:36,300
+I just to give a shot out to, you know, our VP of sales here.
+
+456
+00:45:36,300 --> 00:45:42,200
+Sean you know, he's got an approach of like Choose Your Own Adventure, right?
+
+457
+00:45:42,400 --> 00:45:51,600
+So a lot of times, you know, you go into, you know, these sales Cycles would organizations right?
+
+458
+00:45:51,900 --> 00:45:52,100
+Yeah.
+
+459
+00:45:52,100 --> 00:45:58,000
+And you know it's helpful to just you know as Brian mentioned don't waste people's time, right?
+
+460
+00:45:58,100 --> 00:46:00,400
+Help them understand what.
+
+461
+00:46:00,500 --> 00:46:01,600
+It's the best course of action.
+
+462
+00:46:01,600 --> 00:46:19,200
+You know for them in terms of like an evaluation process right help guide them along the way and you know, we have got, you know, for different, you know, choose your adventures, you know, kind of, you know, sales cycle that we have walk people through, and we guide them, right?
+
+463
+00:46:19,200 --> 00:46:27,800
+So it's, you know, you hear a lot about, you know, solution selling walking people through it, but rarely do people live that right?
+
+464
+00:46:27,800 --> 00:46:31,600
+And really, you know, It's something like that.
+
+465
+00:46:31,600 --> 00:46:40,200
+So that's probably my advice is just, you know, give the folks out there a little more guidance in terms of, you know, how to go about it.
+
+466
+00:46:40,400 --> 00:46:41,000
+Right?
+
+467
+00:46:41,300 --> 00:46:59,000
+There's a lot of products out there a lot of confusing, you know, sometimes, you know, everybody sounds the same so help people walk through it and you know what they should look for, they should evaluate it and just be very genuine about it.
+
+468
+00:47:02,300 --> 00:47:07,600
+Thinking about what Brian and Danielle said to, I think, from a marketing perspective.
+
+469
+00:47:07,600 --> 00:47:17,100
+Like once, you have that account list really, really, well, defined what I often do when I am creating new campaigns, is just reading it over again and asking myself.
+
+470
+00:47:17,100 --> 00:47:25,600
+Like, is this actually helping the customer Prospect do their job and meet their personal and professional goals.
+
+471
+00:47:25,600 --> 00:47:30,200
+So we get oftentimes really wrapped up in our day-to-day work.
+
+472
+00:47:30,200 --> 00:47:32,000
+We sometimes forget, we're talking to another human.
+
+473
+00:47:32,100 --> 00:47:39,700
+On the other the side of the screen even if you're serving ads to an entire buying committee, there's only one person on the other side of the screen that's going to be looking at that ad.
+
+474
+00:47:40,400 --> 00:47:52,500
+So throughout the jargon really tighten up, your messaging focus on individuals, pain points and how your business can really help them achieve their professional and personal goals and hopefully close their laptop.
+
+475
+00:47:52,500 --> 00:47:55,600
+At the end of the day, just feeling a little bit less stress off their shoulders.
+
+476
+00:47:59,400 --> 00:48:01,100
+I would say so I live in New York.
+
+477
+00:48:01,100 --> 00:48:15,800
+One positive thing that happened recently was I didn't run the marathon, but I went to Central Park and solve like we're running a marathon, and they're just people just on the side just like cheering and Hi-Fi vegan and, you know, cheering honored strangers.
+
+478
+00:48:15,800 --> 00:48:20,400
+And, so I thought that was kind of uplifting because I was like, alright, Humanity, still not so bad.
+
+479
+00:48:20,400 --> 00:48:27,300
+You got hundreds of thousands of people out here just like happy to be kind of physically able to go on a run.
+
+480
+00:48:27,300 --> 00:48:42,600
+So I was like, That's doesn't have anything to be marketing but I think that was encouraging for me to see that and then also just you know marketing and sales you're talking to folks on the other side it's important for me is someone who's working with a great team at Marco.
+
+481
+00:48:42,600 --> 00:48:55,600
+To also remember to treat and get better and better at treating folks within our company as humans because I think you just mentioned like multi-threading and how are we all going to speak to the prospect in this in the certain way?
+
+482
+00:48:55,700 --> 00:48:57,800
+And I think it's important to speak to each other.
+
+483
+00:48:57,900 --> 00:49:00,800
+You have people that you work with super frequently in that way.
+
+484
+00:49:00,800 --> 00:49:05,100
+So then they can take that ethos and bring it forward to the End customer.
+
+485
+00:49:05,300 --> 00:49:15,000
+So it might be, it might be kind of rocky time in the economy but I think everything is cyclical and ways that I think just also remember that.
+
+486
+00:49:15,000 --> 00:49:17,200
+So, Right on.
+
+487
+00:49:17,400 --> 00:49:20,100
+Thank you all for sharing those insights.
+
+488
+00:49:20,100 --> 00:49:21,100
+My heart already.
+
+489
+00:49:21,100 --> 00:49:22,600
+Feels lifted from that.
+
+490
+00:49:23,300 --> 00:49:26,800
+Alright, so again, thank you to all our panelists.
+
+491
+00:49:26,800 --> 00:49:34,700
+We're going to transition now Suman, I am going to hand it over to you, because we have got a pretty exciting magic show with Kevin Blake.
+
+492
+00:49:35,400 --> 00:49:40,500
+So, hey everyone.
+
+493
+00:49:41,300 --> 00:49:42,800
+Let us see, do we?
+
+494
+00:49:43,200 --> 00:49:49,700
+I will tell him I will do a little kind of intro injury here because we have known each other for a while and it will cut to video.
+
+495
+00:49:49,700 --> 00:49:59,300
+So I said a little bit about Marco what we do is we help companies build culture through events that started off with like six hosts on a PDF, Kevin Blake was one of them.
+
+496
+00:49:59,600 --> 00:50:09,000
+And so he's been a great part of our journey, on the subject of kind of humanizing experiences, super talented, but really has this amazing ability to connect.
+
+497
+00:50:09,100 --> 00:50:13,700
+People through stories and 4-bit, suspend reality with magic.
+
+498
+00:50:13,700 --> 00:50:16,900
+So he's going to share a bit of that with us today.
+
+499
+00:50:17,100 --> 00:50:18,500
+Just a bit about his background.
+
+500
+00:50:19,500 --> 00:50:20,200
+Yeah, there we go.
+
+501
+00:50:20,200 --> 00:50:23,500
+There's Kevin, he is an Illusionist that Palace Theater.
+
+502
+00:50:23,500 --> 00:50:33,900
+He has performed in front of crowds from companies, as big as kind of Google and is Amazon, as small as Marco, and his done tons of shows with us virtually.
+
+503
+00:50:33,900 --> 00:50:39,000
+And in person throughout the pandemic and excited to call him a friend, as they one thing to Kevin.
+
+504
+00:50:39,200 --> 00:50:45,300
+Is he wrote hand wrote three people on our team, a letter once to Express gratitude for our partnership?
+
+505
+00:50:45,400 --> 00:50:50,200
+And so that I will always have had the thing is, Kevin has lost his voice.
+
+506
+00:50:50,200 --> 00:50:56,200
+So on the subject of being a human, Kevin is a wizard but also a human as well.
+
+507
+00:50:56,300 --> 00:51:02,500
+So he's been kind enough to join us still and figure out how to do some somewhat of a silent show here.
+
+508
+00:51:02,900 --> 00:51:07,800
+And, so I just wanted to come on really quickly and brag about Kevin and do it a bit.
+
+509
+00:51:07,800 --> 00:51:08,800
+A bit of an intro.
+
+510
+00:51:09,500 --> 00:51:39,400
+And so with that, I will pass it over to Kevin and Gina, perhaps we can bring someone from the, from the stage or I will I am so sorry.
+
+511
+00:52:06,100 --> 00:52:10,100
+Prophecy about deal.
+
+512
+00:52:11,600 --> 00:52:13,800
+All right, I got it.
+
+513
+00:52:47,900 --> 00:52:48,700
+Santa Claus.
+
+514
+00:53:17,400 --> 00:53:18,000
+I am curious.
+
+515
+00:54:28,100 --> 00:54:30,000
+18, 19, 20.
+
+516
+00:54:51,400 --> 00:55:05,000
+30 31, 31, 32 33, 34 35 36.
+
+517
+00:55:26,100 --> 00:55:26,800
+Awesome.
+
+518
+00:55:32,200 --> 00:55:33,100
+Awesome.
+
+519
+00:55:49,300 --> 00:55:49,900
+Very good.
+
+520
+00:55:49,900 --> 00:55:50,300
+Kevin.
+
+521
+00:55:50,300 --> 00:55:50,700
+Thank you.
+
+522
+00:55:52,500 --> 00:55:53,400
+Quite impressed.
+
+523
+00:55:55,000 --> 00:55:55,600
+Thank you.
+
+524
+00:55:55,600 --> 00:55:56,300
+Thank you.
+
+525
+00:55:59,100 --> 00:55:59,500
+Bye.
+
+526
+00:56:07,400 --> 00:56:10,200
+Wow, that was amazing.
+
+527
+00:56:10,200 --> 00:56:12,600
+I was not expecting that to happen.
+
+528
+00:56:13,100 --> 00:56:15,800
+Major, Kudos props to you.
+
+529
+00:56:15,800 --> 00:56:17,400
+Kevin and Spencer.
+
+530
+00:56:17,400 --> 00:56:20,800
+Thank you so much for being a great volunteer.
+
+531
+00:56:21,100 --> 00:56:22,600
+Kevin appreciate that.
+
+532
+00:56:22,600 --> 00:56:24,800
+You showed up, even though you aren't feeling.
+
+533
+00:56:24,800 --> 00:56:26,700
+Well we hope you feel better soon.
+
+534
+00:56:26,900 --> 00:56:30,100
+Alright everyone, thank you so much for joining us today.
+
+535
+00:56:30,300 --> 00:56:32,800
+Check out the upcoming events tab above.
+
+536
+00:56:32,800 --> 00:56:38,700
+We have got At a really exciting event coming up with G2 C Mo Amanda and six senses.
+
+537
+00:56:38,700 --> 00:56:39,700
+See, a mole at me.
+
+538
+00:56:39,900 --> 00:56:42,600
+So please be sure to register, check that out.
+
+539
+00:56:42,600 --> 00:56:51,700
+We're gonna be talking about 20-23 predictive be to be buying behavior, and how to think about marketing during a recession.
+
+540
+00:56:52,100 --> 00:56:53,000
+All right, y'all?
+
+541
+00:56:53,400 --> 00:56:54,800
+That's all we got for today.
+
+542
+00:56:54,900 --> 00:56:56,800
+Have a wonderful rest of your day.
+
+543
+00:56:56,900 --> 00:56:58,900
+Stay hopeful stay positive.
+
+544
+00:56:58,900 --> 00:56:59,900
+You got this.
+
+545
+00:57:00,100 --> 00:57:01,200
+All right, take care.

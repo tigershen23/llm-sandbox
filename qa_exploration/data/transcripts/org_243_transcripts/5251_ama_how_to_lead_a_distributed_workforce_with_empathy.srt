@@ -1,0 +1,2796 @@
+
+1
+00:04:59,800 --> 00:05:00,800
+Hello, everyone.
+
+2
+00:05:00,800 --> 00:05:02,200
+I am Gina head of marketing.
+
+3
+00:05:02,600 --> 00:05:05,900
+Welcome to today's amazing.
+
+4
+00:05:05,900 --> 00:05:12,000
+Am a panel where we're going to talk about leading distributed teams with empathy.
+
+5
+00:05:12,300 --> 00:05:14,300
+So we're so happy to see you here.
+
+6
+00:05:14,500 --> 00:05:25,600
+I see George from London, Amanda from Toronto, charlena from Puerto Rico, Miami San Francisco, and we got folks from all over tuning in today.
+
+7
+00:05:25,600 --> 00:05:30,600
+So welcome to welcome, and We are happy to have you here.
+
+8
+00:05:30,600 --> 00:05:40,300
+Now, before we get started, a few housekeeping items, note that there is a Q&A tab at the top, and some of you have submitted some questions for our panelists in advance.
+
+9
+00:05:40,500 --> 00:05:43,100
+So we have dropped a few of those questions in queue.
+
+10
+00:05:43,100 --> 00:05:46,400
+A feel free to upvote any of those.
+
+11
+00:05:46,600 --> 00:05:56,400
+If you're it's a burning topic and if you have additional questions that you like to ask the panelists, drop them in Q&A, and then we have got to help tab there if you're experiencing any.
+
+12
+00:05:56,400 --> 00:05:59,200
+Technical issues are friends are right there to help.
+
+13
+00:05:59,300 --> 00:06:00,100
+Help you out.
+
+14
+00:06:00,100 --> 00:06:05,600
+There is a volume and a closed caption, knob at the bottom of the screen as well.
+
+15
+00:06:05,700 --> 00:06:09,100
+So feel free to adjust the settings as you see fit.
+
+16
+00:06:09,600 --> 00:06:18,000
+All right, so we're going to kick this off and jump into a pole, you know, burnout and fatigue is at an all-time high.
+
+17
+00:06:18,500 --> 00:06:29,100
+And what we're seeing is that leaders that portray empathy in with their teams with especially with a distributed or hybrid remote.
+
+18
+00:06:29,300 --> 00:06:30,200
+Workforce.
+
+19
+00:06:30,400 --> 00:06:41,200
+We're finding that the it's not only successful but it's a strategic Advantage for leaders that truly lead their teams with empathy.
+
+20
+00:06:41,200 --> 00:06:47,600
+So on a scale of 1 to 10, how well do you feel your leadership team leads with empathy?
+
+21
+00:06:47,900 --> 00:06:49,500
+Okay, everyone.
+
+22
+00:06:49,500 --> 00:06:50,800
+Feel free to submit your votes.
+
+23
+00:06:50,800 --> 00:06:59,100
+Okay, we're seeing this, so we got some fours, some fives, majority sixes right now, and we have got a few tests.
+
+24
+00:06:59,300 --> 00:07:01,500
+Tense, 7% says 10.
+
+25
+00:07:01,500 --> 00:07:03,100
+All right, okay.
+
+26
+00:07:03,100 --> 00:07:04,900
+Okay, adjusting real-time there.
+
+27
+00:07:05,000 --> 00:07:05,500
+Okay.
+
+28
+00:07:06,500 --> 00:07:09,200
+Well, let us bring up our panelists.
+
+29
+00:07:09,300 --> 00:07:20,500
+We have some amazing experts, who are figuring it out with a bunch of us leaders figuring out how to drive and lead with empathy with their distribute team.
+
+30
+00:07:20,500 --> 00:07:24,000
+So I would like to welcome to the stage London Tomika.
+
+31
+00:07:24,000 --> 00:07:25,200
+Roberto.
+
+32
+00:07:25,400 --> 00:07:26,800
+Please join me on stage.
+
+33
+00:07:26,800 --> 00:07:28,000
+Hello.
+
+34
+00:07:29,900 --> 00:07:33,900
+Hey Gina, you all hello.
+
+35
+00:07:34,400 --> 00:07:35,200
+Look how it's going.
+
+36
+00:07:35,500 --> 00:07:36,100
+Really?
+
+37
+00:07:36,800 --> 00:07:43,100
+Some of my People, it's Grace great to be graced by your presence.
+
+38
+00:07:43,500 --> 00:07:57,600
+So, thank you for being, you know, I always say this every single time that I am on an event with Gina like can we give it up a Gina and chat, like is Gina's energy, not contagious like we hear Dina speak, you can't help, but to smile from with it.
+
+39
+00:07:57,600 --> 00:07:59,100
+And so love you Tina.
+
+40
+00:07:59,100 --> 00:08:02,600
+Thanks for providing space and looking forward to this conversation.
+
+41
+00:08:03,200 --> 00:08:04,200
+I am looking forward to it as well.
+
+42
+00:08:04,200 --> 00:08:05,100
+Thanks, Rob.
+
+43
+00:08:05,400 --> 00:08:15,000
+Well, I would love to hear a little bit more about Each of you and particularly how you're white you're responsible for today.
+
+44
+00:08:15,700 --> 00:08:18,200
+The main topic is how we're leading are distributed.
+
+45
+00:08:18,200 --> 00:08:18,900
+Workforce has.
+
+46
+00:08:18,900 --> 00:08:19,800
+So give us a penis.
+
+47
+00:08:19,800 --> 00:08:23,100
+A little picture of the teens that you're leading.
+
+48
+00:08:23,400 --> 00:08:27,800
+How are these structured regionally, you know, feel free to share?
+
+49
+00:08:27,800 --> 00:08:30,400
+And I, let us start with you to Mika, and we will go around.
+
+50
+00:08:31,500 --> 00:08:32,000
+Hi.
+
+51
+00:08:32,000 --> 00:08:33,200
+Good afternoon everyone.
+
+52
+00:08:33,900 --> 00:08:38,600
+My name is Tamika Smith, and the CEO of the Virginia Community Health Plan at you.
+
+53
+00:08:38,700 --> 00:08:39,600
+Knighted Healthcare.
+
+54
+00:08:39,900 --> 00:08:44,700
+I have a span of control of 300 employees.
+
+55
+00:08:44,700 --> 00:08:47,700
+I like to call them teammates and our team members.
+
+56
+00:08:48,400 --> 00:09:02,000
+Most of those individuals are clinicians and their job is to serve and help support to navigate this complex Healthcare System for the members that we have in our, in our program.
+
+57
+00:09:02,500 --> 00:09:16,300
+We currently have and serve nearly 300,000 members and so a lot of our members Burgers are all of our members are on Medicaid or there, or they qualify for Medicare meaning their dual eligible.
+
+58
+00:09:16,600 --> 00:09:27,900
+And what that means is these are people that are often marginalized in our communities, are underserved and may even suffer from the social determinants of health.
+
+59
+00:09:28,000 --> 00:09:35,200
+And these are things that prevent an individual from achieving their highest health potential in a lifetime.
+
+60
+00:09:35,600 --> 00:09:38,600
+And so we serve those people on a day-to-day.
+
+61
+00:09:38,700 --> 00:09:42,700
+Aces and I have to do it across the entire state of Virginia.
+
+62
+00:09:43,300 --> 00:09:48,900
+And there are six regions within the Commonwealth of Virginia that we do that through.
+
+63
+00:09:48,900 --> 00:09:52,800
+And so, having a distributed Workforce is real.
+
+64
+00:09:53,500 --> 00:09:55,300
+I live and breathe it every day.
+
+65
+00:09:55,700 --> 00:10:05,400
+And so, happy to be here to talk to you about what we see in our business, on a day-to-day basis, and how complex it is, and how we're trying to unravel that.
+
+66
+00:10:06,700 --> 00:10:07,800
+Thank you, Tomika.
+
+67
+00:10:07,900 --> 00:10:09,300
+I am headed over to you, Roberto.
+
+68
+00:10:10,200 --> 00:10:14,800
+Hey, hey guys, Wilbur dority CEO and co-founder of welcome.
+
+69
+00:10:14,800 --> 00:10:16,100
+The platform that you're on today.
+
+70
+00:10:16,100 --> 00:10:20,900
+So Bienvenidos, we, you know, we're fast growing company serving.
+
+71
+00:10:21,100 --> 00:10:36,400
+Helping distributed Workforce has been more connected, and so we're serving customers across the gamut of, you know, tech companies to financial institute's and everything in between really helping them connect their employees like never before.
+
+72
+00:10:36,700 --> 00:10:47,600
+And I am glad to be part of this conversation because I distributed Workforce add layers of complex complexity, right to leaders to peers to, how are you in pathetic?
+
+73
+00:10:47,600 --> 00:10:51,700
+How do you really understand all the complexities that this new way of work?
+
+74
+00:10:51,700 --> 00:10:53,500
+Legal Services up.
+
+75
+00:10:54,300 --> 00:11:00,100
+But yeah, I am here for we're distributed team across the United States, Canada and Puerto Rico.
+
+76
+00:11:00,100 --> 00:11:06,300
+So every time zone is a juggling act setting meetings and such but it's a fun time.
+
+77
+00:11:06,500 --> 00:11:07,600
+I am so glad to be here.
+
+78
+00:11:09,100 --> 00:11:09,800
+Thanks, Rob.
+
+79
+00:11:09,900 --> 00:11:11,100
+Heading over to you, London.
+
+80
+00:11:11,800 --> 00:11:12,300
+Hi everyone.
+
+81
+00:11:12,300 --> 00:11:13,000
+My name is London.
+
+82
+00:11:13,000 --> 00:11:13,400
+Lomax.
+
+83
+00:11:13,400 --> 00:11:16,400
+I am a chief strategic advisor for Aetna.
+
+84
+00:11:17,100 --> 00:11:20,500
+A CVS Health company, and I am excited to be here today as well.
+
+85
+00:11:21,100 --> 00:11:25,300
+You know, our goal is to be a, you know, every moment of Health, for all of our members.
+
+86
+00:11:25,300 --> 00:11:29,200
+We serve about 24 million members across the country in the United States.
+
+87
+00:11:29,200 --> 00:11:41,400
+So, you know, all over the place and to the point of Roberto and Tamika distributed Workforce is essential in, making sure that We can service our members and ultimately a happy.
+
+88
+00:11:41,400 --> 00:11:44,500
+And engaged Workforce is the best for our members as well.
+
+89
+00:11:46,400 --> 00:11:47,300
+Awesome.
+
+90
+00:11:47,800 --> 00:11:51,000
+All right, so jumping into our first question.
+
+91
+00:11:51,400 --> 00:11:54,200
+What does empathy mean to you?
+
+92
+00:11:56,200 --> 00:11:57,200
+Let us just start with that.
+
+93
+00:11:57,300 --> 00:11:58,700
+What is empathy mean to you?
+
+94
+00:11:58,900 --> 00:12:01,600
+And then you can go into.
+
+95
+00:12:02,300 --> 00:12:05,100
+How are you thinking about empathy with your teams?
+
+96
+00:12:06,000 --> 00:12:08,400
+Well, the first starting you kick us off.
+
+97
+00:12:08,600 --> 00:12:14,100
+Hey, hey, there to hear what you have to say potato here.
+
+98
+00:12:14,100 --> 00:12:14,600
+I am good.
+
+99
+00:12:14,600 --> 00:12:15,200
+I am good with it.
+
+100
+00:12:15,200 --> 00:12:17,200
+So high level, you know, it was funny.
+
+101
+00:12:17,200 --> 00:12:18,000
+I was having this conversation.
+
+102
+00:12:18,000 --> 00:12:19,800
+First of all, I will be the first one to admit.
+
+103
+00:12:19,800 --> 00:12:21,800
+I am not an expert at empathetic leader thing.
+
+104
+00:12:22,200 --> 00:12:25,000
+I think it's a, we're learning every day.
+
+105
+00:12:25,000 --> 00:12:27,900
+We learn as we grow, but it's really.
+
+106
+00:12:27,900 --> 00:12:30,100
+I had a conversation about this couple weeks ago.
+
+107
+00:12:30,100 --> 00:12:40,500
+Somebody was asking, hey, what's the difference between being sympathetic and empathetic and You know, being sympathetic is, I feel sorry for this person, right?
+
+108
+00:12:40,500 --> 00:12:51,500
+That's like the Cleavers definition of that being empathetic is, I can relate to that person, but being able to authentically, say you can relate to that person is being able to put yourselves in their shoes.
+
+109
+00:12:51,500 --> 00:12:56,900
+Which requires you to slow down, pause a second and go there and say, you know what?
+
+110
+00:12:57,100 --> 00:13:05,600
+I hired a rockstar single mom, and she's working for us, and she's a single mom of two if I am empathetic to her.
+
+111
+00:13:05,800 --> 00:13:21,500
+That means that I am politically trying to place myself in her shoes managing the schedules that we have managing the demands of a customer managing the time zones and then asking myself, how do we make sure that we enable her to thrive in those circumstances?
+
+112
+00:13:21,900 --> 00:13:24,600
+And I think that's, it was tration of being empathetic is saying, you know what?
+
+113
+00:13:24,600 --> 00:13:25,200
+Let us pause.
+
+114
+00:13:25,200 --> 00:13:31,100
+Let us understand this scenario, this person, the complexities of their circumstances.
+
+115
+00:13:31,400 --> 00:13:33,400
+And then, how do we make decisions based on that?
+
+116
+00:13:34,100 --> 00:13:35,500
+That's a high level.
+
+117
+00:13:35,800 --> 00:13:38,100
+Perspective on my site on being empathetic.
+
+118
+00:13:39,500 --> 00:13:40,100
+Love that.
+
+119
+00:13:40,700 --> 00:13:49,100
+I mean, I would Echo that and just say for me it means, you know, having a true understanding or ability to understand people at a human level.
+
+120
+00:13:49,500 --> 00:13:49,900
+Right?
+
+121
+00:13:50,700 --> 00:13:58,200
+And I think what that yields are an element of respect for the lives of the people that you're working with and the things that they're going through.
+
+122
+00:14:01,300 --> 00:14:04,300
+So I will snap onto what they did, what they both said.
+
+123
+00:14:04,300 --> 00:14:18,800
+So I will first say what they said to think that they put it, put it very well, but I also to would add that all the more reason why it's important for us to appreciate the differences, amongst all of us in amongst all the people that are on the team, right?
+
+124
+00:14:18,800 --> 00:14:21,000
+We are walking a very different shoes.
+
+125
+00:14:21,900 --> 00:14:25,400
+One woman is not the same as the same woman as a next one.
+
+126
+00:14:25,400 --> 00:14:27,700
+Man is not the same man as a next right?
+
+127
+00:14:27,700 --> 00:14:31,000
+You may have a father that is a single father.
+
+128
+00:14:31,100 --> 00:14:33,500
+Could be how he could have adopted children?
+
+129
+00:14:33,500 --> 00:14:35,100
+He get a foster kid.
+
+130
+00:14:35,100 --> 00:14:37,400
+He could be a widower, right?
+
+131
+00:14:37,400 --> 00:14:55,000
+And so you got to take time to understand your staff, your teammates and then be sensitive to the difference that they bring to work every day and the difference in their Lifestyles and what's going on in their individual circumstances and the other.
+
+132
+00:14:55,000 --> 00:15:01,900
+The other thing I would say about it is The one thing that we can count on in life is change, right?
+
+133
+00:15:01,900 --> 00:15:11,900
+And so, we're all going to go through changes in our lifetime that require us to behave differently to function differently to cope differently.
+
+134
+00:15:12,300 --> 00:15:18,600
+And so, I think being an empathetic leader, we have to take that into consideration that we can expect someone to deliver.
+
+135
+00:15:19,600 --> 00:15:24,000
+A hundred percent of the time because we're human and things are going to happen.
+
+136
+00:15:24,400 --> 00:15:31,900
+And so having empathy to Roberto's point in like, walking in someone's shoes and understanding what they're going through.
+
+137
+00:15:33,000 --> 00:15:36,900
+And to London's point being human about, it gives us an opportunity to say.
+
+138
+00:15:36,900 --> 00:15:37,200
+Okay.
+
+139
+00:15:37,200 --> 00:15:42,700
+Listen, I am going to provide this individual with Grace at a certain point in time and it may be forever.
+
+140
+00:15:42,700 --> 00:15:44,300
+You may need to adjust a work schedule.
+
+141
+00:15:44,300 --> 00:15:53,500
+They need to do something different, but the end of the day, if you're treating For who they are individually, it matters and it makes a difference.
+
+142
+00:15:55,700 --> 00:15:58,100
+So good rich.
+
+143
+00:15:58,800 --> 00:16:02,300
+I was like tweetable is quotables right there from all of you.
+
+144
+00:16:02,500 --> 00:16:03,500
+Thank you for sharing.
+
+145
+00:16:03,500 --> 00:16:09,300
+So you know what you think about empathy with your distributed team in particular?
+
+146
+00:16:10,100 --> 00:16:18,000
+How do you balance being empathetic but also driving for results and maintaining high performance?
+
+147
+00:16:18,000 --> 00:16:21,000
+They have sort of feel like they could conflict.
+
+148
+00:16:22,600 --> 00:16:24,600
+Yeah, that's a great point.
+
+149
+00:16:24,600 --> 00:16:30,700
+And I think I have we have talked about this before is empathy and results are not mutually exclusive, right?
+
+150
+00:16:30,900 --> 00:16:33,900
+You can be empathy forward and results driven at the same time.
+
+151
+00:16:34,400 --> 00:16:40,200
+I think the misconception historically, has been that you have to have the care to the stick and often, you got that, right?
+
+152
+00:16:40,200 --> 00:16:51,900
+You got to drive those results and in a way, that's not empathetic, but I think as we have seen, not just through the pandemic, but over time even generationally, it's becoming more and more important to understand.
+
+153
+00:16:52,100 --> 00:16:58,700
+People understand what drives them and what inspires them and what gets you result, while also being human.
+
+154
+00:16:59,000 --> 00:17:02,300
+And I think, you know, that's something that I constantly work on.
+
+155
+00:17:02,300 --> 00:17:19,900
+I know to make it as an owner for a long time, and I am sure, you know, the welcome team does as well, but it's really important to understand that, you know, you can have both, Absolutely, that's 100%.
+
+156
+00:17:19,900 --> 00:17:35,300
+I think one of the things that, if you rewind years ago, I think people will look at empathetic leadership as a soft skill and not a performance indicator, and it's completely, like, in recent years.
+
+157
+00:17:35,300 --> 00:17:41,100
+It's become so much more evident that empathetic leadership drives the best result possible.
+
+158
+00:17:41,100 --> 00:17:53,000
+And I think in the question being for the distributed Workforce, I think that it's, it's become such a necessity more than anything else for us, and we distributed teams.
+
+159
+00:17:53,000 --> 00:18:03,400
+Well, I think that at a high level, when you look at initial studies out there, that show sympathetic leadership, just least it's a better results in better performance.
+
+160
+00:18:03,700 --> 00:18:14,100
+And I think at the heart of It, kind of humanizing that a second, I was talking to a mentor while back, and she said, hey, you know what?
+
+161
+00:18:14,100 --> 00:18:15,900
+Every time I on board a new employee.
+
+162
+00:18:16,200 --> 00:18:21,700
+The first question, I asked that person is what's the most important thing to you outside of work?
+
+163
+00:18:24,400 --> 00:18:26,300
+And what are you trying to accomplish outside of work?
+
+164
+00:18:26,400 --> 00:18:29,400
+Because we hired you, we're going to go, we're going to go work.
+
+165
+00:18:29,400 --> 00:18:30,700
+We're going to go up field.
+
+166
+00:18:30,700 --> 00:18:36,800
+We're going to get into battle together, but then go chase a number but for you and this season, what's the most important thing?
+
+167
+00:18:36,900 --> 00:18:43,400
+And I think that just starts to establish the foundations that can lead to more empathetic leadership.
+
+168
+00:18:43,400 --> 00:18:43,700
+All right.
+
+169
+00:18:43,700 --> 00:19:01,600
+So for instance, this person says, you know what the most important thing in this season right now is my kids recital and actually, Has practice every time at 9 AM On Friday is the most important to think, for me this season, because she'd been working really hard and I want her to be excellent at that.
+
+170
+00:19:01,900 --> 00:19:04,400
+So now it's a leader and as a manager.
+
+171
+00:19:04,500 --> 00:19:11,100
+Now, you know, by just asking that question that 9:00 in the morning is off limits for Samantha who lives in Georgia.
+
+172
+00:19:11,300 --> 00:19:13,800
+Because that's the most important thing for her.
+
+173
+00:19:14,100 --> 00:19:20,700
+Now, just one simple question, allows you to be sympathetic to an employee in a very material way because that's the most important thing for her.
+
+174
+00:19:20,700 --> 00:19:21,800
+And that's even right.
+
+175
+00:19:21,800 --> 00:19:24,700
+And I think that At us in a distributed Workforce.
+
+176
+00:19:24,900 --> 00:19:32,900
+We just have to lean in a little bit harder Than Leaders to understand what are those opportunities for us to fill the Gap right?
+
+177
+00:19:32,900 --> 00:19:40,400
+As leaders and make sure that person pride and when we do that, I think performance of six Carousels because if you take care of your people, they're going to date.
+
+178
+00:19:40,400 --> 00:19:41,100
+They owe it to you.
+
+179
+00:19:41,100 --> 00:19:42,500
+They like, you know what you look out for me.
+
+180
+00:19:42,900 --> 00:19:59,200
+I am going to look out for you and this company, and I am here for I mean, I couldn't, I couldn't agree more with that, and I think, companies, and, or leaders that lead without empathetic leadership will suffer at the end of the day.
+
+181
+00:19:59,200 --> 00:20:01,600
+And I think if they're, if they're doing it now, they're suffering.
+
+182
+00:20:01,600 --> 00:20:13,300
+Now if they continue to do what they will suffer, even more in the future, you know, one of the things that we do on my leadership team and then it's been cascaded, right?
+
+183
+00:20:14,100 --> 00:20:19,200
+But one of the things that we do to make sure that we're double-clicking on, Knowing each other.
+
+184
+00:20:19,200 --> 00:20:28,100
+So we first subscribe, I something like to call first team, and our for our first commitment is to our first team and that's our executive leadership team.
+
+185
+00:20:28,100 --> 00:20:39,000
+And the reason being is you think about being on a national sports team, you're throwing the ball that team, not the team that sitting behind that, the second team gets the first team, right?
+
+186
+00:20:39,000 --> 00:20:41,200
+So you have got it, you have to have a commitment to one another.
+
+187
+00:20:41,200 --> 00:20:41,600
+There.
+
+188
+00:20:41,900 --> 00:20:42,900
+That's the first thing.
+
+189
+00:20:43,100 --> 00:20:45,100
+The second thing is, we commit.
+
+190
+00:20:45,700 --> 00:20:55,600
+So we spend 90 minutes together as a — leadership team every single week, and we reserve 20 minutes of that 90 minutes every single week to do, what we call a check in.
+
+191
+00:20:56,500 --> 00:20:59,700
+Now, some might be what as a mental health check in.
+
+192
+00:20:59,700 --> 00:21:11,100
+I kind of view it as that, but it's also to a check in to understand where people are in their station and place in life At that moment in that week because it does change day to day and it changes by week to week.
+
+193
+00:21:11,500 --> 00:21:13,600
+And so we asked you question and I got this from another leader.
+
+194
+00:21:13,600 --> 00:21:15,400
+This is not Tamika Smith.
+
+195
+00:21:15,400 --> 00:21:24,200
+I actually stole it from a person that I reported to, but it was so fascinating to me and how well he was able to build a strong team.
+
+196
+00:21:24,200 --> 00:21:30,100
+But as two questions and the questions are, what is your energy for the job?
+
+197
+00:21:30,300 --> 00:21:32,300
+And what's your stress?
+
+198
+00:21:32,300 --> 00:21:36,300
+Your level of stress, be it outside or inside, right?
+
+199
+00:21:36,300 --> 00:21:39,600
+Because the fact of the matter is, there are polarities in life, right?
+
+200
+00:21:39,600 --> 00:21:41,300
+What goes up must come down, right?
+
+201
+00:21:41,300 --> 00:21:45,500
+You pull, you pull one thing this way something, it's cooled and another Direction.
+
+202
+00:21:45,500 --> 00:21:49,900
+And so and that's on a scale of Loved one to ten energy for the job.
+
+203
+00:21:49,900 --> 00:21:59,600
+If someone writes it on a nine, but they're outside, stress is a 1, they're doing great, but great and their will, if they're willing to share why that week is going so great.
+
+204
+00:21:59,700 --> 00:22:09,900
+We are all happier to hear those stories because we want to share in the joy, but then there are opportunities are times and opportunities where someone will share that their energy for the job is a five.
+
+205
+00:22:10,900 --> 00:22:12,600
+And they're outside stresses and nine.
+
+206
+00:22:14,100 --> 00:22:15,900
+And that happened this past week.
+
+207
+00:22:15,900 --> 00:22:19,700
+We had someone on my leadership team who had a friend pass away.
+
+208
+00:22:19,800 --> 00:22:22,600
+34 years old suddenly, they weren't expecting it.
+
+209
+00:22:23,100 --> 00:22:24,700
+So you think about that?
+
+210
+00:22:25,000 --> 00:22:27,900
+What my team was able to do is to back off, right?
+
+211
+00:22:27,900 --> 00:22:36,000
+The things that we were asking for in the things that we thought are important At that moment that week is not important to him or weren't important to him in that week.
+
+212
+00:22:36,400 --> 00:22:39,000
+And so we backed off we let him have a space.
+
+213
+00:22:39,300 --> 00:22:45,900
+We let him die a lot of meetings early if you needed to or take a half of a day, the During that week because that was traumatic for him.
+
+214
+00:22:46,500 --> 00:22:47,100
+Yes, business.
+
+215
+00:22:47,100 --> 00:22:48,400
+Still needs to get done.
+
+216
+00:22:49,400 --> 00:22:53,500
+But he's an important member of our clan, and we recognize that.
+
+217
+00:22:53,700 --> 00:22:59,100
+And so it gives us an opportunity to be empathetic as an entire leadership team.
+
+218
+00:22:59,500 --> 00:23:13,500
+And so, what I am starting to see now is that are my leaders are doing that for their teams and then their managers are doing that for their teams, and we are becoming a more empathetic organization within just, the Virginia health plan.
+
+219
+00:23:15,500 --> 00:23:18,700
+Yeah, it's because I think that's important that you mentioned.
+
+220
+00:23:18,700 --> 00:23:21,900
+That just around the influence of the teams.
+
+221
+00:23:22,000 --> 00:23:23,100
+It starts with the leadership, right?
+
+222
+00:23:23,100 --> 00:23:42,700
+It starts the top starts with making conscious efforts to, to infuse empathy into the culture of the team and finding unique ways that to do that in ways that are, you know, feasible for your team, whether it's 90 minutes, whether it's 30, whether its individual check-ins, but prioritizing it as part of your leadership imperatives.
+
+223
+00:23:43,400 --> 00:23:48,600
+I It is absolutely crucial when you think about trying to inspire your people.
+
+224
+00:23:50,000 --> 00:23:56,400
+You're not and I just have to say this one last thing here we have to care about our people just as much as we care about our profits.
+
+225
+00:24:01,300 --> 00:24:06,100
+And when you do that, you're going to see profits rise, you have to care that much.
+
+226
+00:24:06,300 --> 00:24:10,300
+We spend a lot of time trying to figure out how to make more money how to make the process work.
+
+227
+00:24:10,800 --> 00:24:18,100
+We need to spend equal amount of time, trying to figure out how to keep our people happy and productive, and to make sure that they are right?
+
+228
+00:24:18,200 --> 00:24:20,700
+Because if they're right, the business will be right.
+
+229
+00:24:21,200 --> 00:24:21,500
+Yeah.
+
+230
+00:24:24,200 --> 00:24:30,600
+Powerful and the Tactical questions that can be asked.
+
+231
+00:24:30,900 --> 00:24:32,500
+I think I jotted it down and chat.
+
+232
+00:24:32,500 --> 00:24:32,900
+There.
+
+233
+00:24:33,400 --> 00:24:35,500
+What is your energy for the job?
+
+234
+00:24:35,500 --> 00:24:37,100
+What is your level of stress?
+
+235
+00:24:37,700 --> 00:24:41,800
+Those are some really good questions and you do it on a scale of one to ten random.
+
+236
+00:24:43,000 --> 00:24:43,700
+Got it.
+
+237
+00:24:44,300 --> 00:24:45,500
+That's great.
+
+238
+00:24:46,100 --> 00:24:48,100
+Wow, thank you for sharing all of that.
+
+239
+00:24:48,600 --> 00:24:51,900
+We got a bunch of questions that are getting a pop up in Q&A.
+
+240
+00:24:51,900 --> 00:25:01,700
+I have one more question before we Jump over to Q&A, how has the pandemic changed your approach to empathetic leadership?
+
+241
+00:25:05,200 --> 00:25:19,900
+I think it's made as double-click on it, right for me at least because we you know, you here, you see the all these ads and all these right inputs, asking you to check in on your friends and family.
+
+242
+00:25:20,400 --> 00:25:22,300
+It's a mystery for work, right?
+
+243
+00:25:22,300 --> 00:25:35,400
+You have got to check in on people because you don't know what people are going through at times unless you ask and, and we have got to get out of the habit of and maybe we're already out of the habit of asking people how they're doing, but not actually stopping to listen to how they Do.
+
+244
+00:25:35,400 --> 00:25:38,800
+And to me, it's one of my biggest pet peeves, is someone will say how you do.
+
+245
+00:25:38,900 --> 00:25:41,400
+And before I can even finish their, like, asking me another question.
+
+246
+00:25:41,400 --> 00:25:43,100
+Like, did you care?
+
+247
+00:25:45,700 --> 00:25:52,500
+What if, what if I told you I wasn't doing so well, were you prepared to pause and listen to that?
+
+248
+00:25:53,400 --> 00:25:56,800
+And so, you know, I know we're going to talk about, we will probably get into this a little bit later.
+
+249
+00:25:56,800 --> 00:25:59,700
+But like, I miss being in the office for that.
+
+250
+00:25:59,700 --> 00:26:01,800
+Very reason, I really do.
+
+251
+00:26:01,800 --> 00:26:11,100
+I miss the water cooler conversations or the elevator comes Station or the, we're getting ready to leave the office conversation and oh, by the way, do you want to catch a drink Gina and London?
+
+252
+00:26:11,100 --> 00:26:13,100
+And I did that a lot this pencil.
+
+253
+00:26:13,100 --> 00:26:14,300
+We had it when we work together.
+
+254
+00:26:14,300 --> 00:26:15,500
+We had a really good time.
+
+255
+00:26:15,500 --> 00:26:15,800
+At least.
+
+256
+00:26:15,800 --> 00:26:16,600
+I think we did.
+
+257
+00:26:16,600 --> 00:26:21,500
+We had a great time, and we became more friends than we were co-workers.
+
+258
+00:26:21,500 --> 00:26:32,100
+I still talk to them on a regular, pretty consistent basis, and we check in with each other's families, but that's because of the team that we have in the relationship that we both with one another.
+
+259
+00:26:33,800 --> 00:26:34,800
+Yeah, you haven't.
+
+260
+00:26:35,000 --> 00:26:38,700
+Had to make a, I think there's a difference in hearing versus listening, right?
+
+261
+00:26:38,700 --> 00:26:48,200
+And, and truly, making sure someone feels heard and taking that active effort to understand what someone is feeling and what they're going through often.
+
+262
+00:26:48,300 --> 00:26:53,200
+I have found that's more important than the work because the work is going to have to get done, right?
+
+263
+00:26:53,200 --> 00:26:57,400
+We're gonna all continue to drive the prophets, the process, the operations.
+
+264
+00:26:57,700 --> 00:27:04,700
+Otherwise, none of us will be in our positions on our roles in our companies or whatever, but I think what's cements the connection.
+
+265
+00:27:04,700 --> 00:27:05,700
+The Bomb the Loyalty.
+
+266
+00:27:05,700 --> 00:27:14,500
+The inspiration is taking that time and making it a part of your process to check on your people to follow through and I think that's another piece, right?
+
+267
+00:27:14,500 --> 00:27:20,200
+As it's one thing to pick up the phone and say or walk see somebody walking down the hall or on a meeting to how's your day?
+
+268
+00:27:20,500 --> 00:27:28,800
+And then I will after you talked about five minutes, all those great to hear and then you don't talk to me again about anything about themselves for six months or three months later.
+
+269
+00:27:29,200 --> 00:27:29,700
+I am right.
+
+270
+00:27:29,700 --> 00:27:34,500
+So, really making that concerted, concerted effort, and, you know, I will say that.
+
+271
+00:27:35,000 --> 00:27:39,500
+What we don't think about, as it relates to that, is that often, that's hard, right?
+
+272
+00:27:39,700 --> 00:27:53,500
+Sometimes it's hard to get out of your, your go, go, you know, Roadrunner focus and work or lives to stop and engage deeply with someone else and or multiple people or multiple folks on your team.
+
+273
+00:27:53,500 --> 00:28:00,200
+So, so you ask the original question of how, you know, has a pandemic influenced, my leadership style around that.
+
+274
+00:28:00,300 --> 00:28:04,800
+I have made it a priority to put time on my calendar, every week to check on.
+
+275
+00:28:04,900 --> 00:28:07,400
+A couple of people and they may be different.
+
+276
+00:28:07,400 --> 00:28:08,400
+It may be an email.
+
+277
+00:28:08,400 --> 00:28:10,400
+It may be 15 minutes, Hutch point.
+
+278
+00:28:10,400 --> 00:28:19,000
+But really making that part of the calendar, just like you do your workouts, just like you do your meditation or your, you know, your QB ours or sprs.
+
+279
+00:28:19,300 --> 00:28:22,800
+You got to put up a part of your calendar says, check on your people this week.
+
+280
+00:28:22,800 --> 00:28:27,100
+It's going to be X y&z or this area or these five.
+
+281
+00:28:27,500 --> 00:28:34,400
+I think that's really important and it goes a long way for the culture of your team and building a true empathetic culture.
+
+282
+00:28:36,700 --> 00:28:37,700
+Check on your people.
+
+283
+00:28:38,000 --> 00:28:40,000
+I have to say, I have been something, I have been something.
+
+284
+00:28:40,000 --> 00:28:44,600
+I think two things, one, you know, to be curious.
+
+285
+00:28:44,600 --> 00:28:48,400
+I might like came first and your Frontline leaders.
+
+286
+00:28:48,500 --> 00:28:49,800
+I think I want to touch on that.
+
+287
+00:28:49,800 --> 00:28:51,300
+And then, second on making time.
+
+288
+00:28:51,300 --> 00:28:57,500
+They both of you guys have, clearly articulated are the importance of actually caring and making time.
+
+289
+00:28:57,500 --> 00:29:16,200
+And not just like the check the box, how you do a response on the management for I think that, you know, for us to have the opportunity to read readers, I think leaders in the season need a little bit more double-clicking and check ins than we typically.
+
+290
+00:29:16,500 --> 00:29:23,400
+I think our Frontline leaders are typically the ones that carry the weight of the company, but also carry the weight of your vehicle at the same time.
+
+291
+00:29:23,400 --> 00:29:29,400
+All right, so it's like not only do you hear all the needs of the business but you also hear the needs of your people.
+
+292
+00:29:29,400 --> 00:29:34,600
+And the question is, who's checking on you and that's become very clear to me as a leader in my core.
+
+293
+00:29:34,600 --> 00:29:45,000
+Team is like, how is My core team doing because Vex I think love that you said this, if they're not doing well, nothing, nothing else matters because they're going to be the leaders that are meeting 14th.
+
+294
+00:29:45,000 --> 00:29:45,600
+Right?
+
+295
+00:29:46,100 --> 00:29:47,900
+I think that's become really clear to me.
+
+296
+00:29:47,900 --> 00:29:54,600
+And then I think the second thing on how has it changed with remote image or distributed.
+
+297
+00:29:55,200 --> 00:29:58,300
+I think it's just we're not bumping into each other to make it like you said, right?
+
+298
+00:29:58,300 --> 00:30:03,200
+We're not seeing that person that's checked out, or we're not seeing that person.
+
+299
+00:30:03,200 --> 00:30:04,200
+That feels down.
+
+300
+00:30:04,200 --> 00:30:06,000
+You're not picking up on the body language.
+
+301
+00:30:06,000 --> 00:30:06,100
+No.
+
+302
+00:30:06,700 --> 00:30:24,700
+So that means that we have to be almost like so in tune with like how people are showing up on slack on an email, one word that they said that was maybe out of character or there's a lot that goes into like that level of communication.
+
+303
+00:30:24,700 --> 00:30:25,700
+The question is as leaders.
+
+304
+00:30:25,700 --> 00:30:26,800
+Are we going to make Tom?
+
+305
+00:30:27,100 --> 00:30:32,200
+I am just this happened to me very recently, an employee's hear something.
+
+306
+00:30:32,200 --> 00:30:36,100
+And I was traveling, and I was in the Bay Area and my calendar stacked.
+
+307
+00:30:36,200 --> 00:30:42,000
+And I am like, you know what, this is a very important conversation and Instead of jumping on a quick 5-minute call.
+
+308
+00:30:42,100 --> 00:30:49,100
+I am a punt this to like a week and a half later where I know there's going to be a window for an unlimited window of time.
+
+309
+00:30:50,400 --> 00:30:52,200
+And the question becomes, how am I going to clear?
+
+310
+00:30:52,200 --> 00:31:00,600
+My calendar for 23 hours, whatever it is to really listen to a key player on your team so that you can answer questions.
+
+311
+00:31:00,600 --> 00:31:05,900
+So you can dig into the layers of complexities that a person might be going through and make space.
+
+312
+00:31:06,300 --> 00:31:08,600
+And I think that's crazy talk.
+
+313
+00:31:08,600 --> 00:31:18,000
+When you're a busy CEO and the leader and say hold on, you're going to block out that time and I think that's the level of attention we have to do, especially in a remote world to say, you know what?
+
+314
+00:31:18,000 --> 00:31:19,600
+Yes, the ten minute.
+
+315
+00:31:19,800 --> 00:31:21,100
+All is not going to be enough.
+
+316
+00:31:21,100 --> 00:31:26,800
+I have to clear my calendar at a certain point, but I'ma give you the space in the time, so we can dig in together.
+
+317
+00:31:27,000 --> 00:31:35,500
+And I think that's something that I am learning as a leader of distributed Workforce is the intention that comes with making space and checking in on your people.
+
+318
+00:31:36,900 --> 00:31:42,900
+Yeah, and I can, I just add one thing is when you mentioned leaders, here's what I would also add.
+
+319
+00:31:42,900 --> 00:31:47,500
+This is a plug for me you and London like so check on your leaders.
+
+320
+00:31:48,000 --> 00:31:48,500
+Yeah.
+
+321
+00:31:48,700 --> 00:31:49,100
+Yes.
+
+322
+00:31:51,800 --> 00:31:53,600
+People check on your leader.
+
+323
+00:31:54,400 --> 00:32:04,700
+Like it is rather Lonely at the Top and the you don't have a lot of people within your organization checking on you white there.
+
+324
+00:32:04,700 --> 00:32:06,400
+Assume that you got it right there.
+
+325
+00:32:06,400 --> 00:32:12,000
+Assuming that you're at the wheel, you got it, but when someone does call, it's kind of, its kind of weird.
+
+326
+00:32:12,000 --> 00:32:15,200
+You have to like, adjust your thoughts, your license, ask how you're doing.
+
+327
+00:32:15,200 --> 00:32:23,300
+You're like, okay, but that's how Also to build rapport and you build relationship, right?
+
+328
+00:32:23,800 --> 00:32:25,400
+Not a lot of people are checking on us.
+
+329
+00:32:26,400 --> 00:32:28,100
+Yeah, it goes back to this analogy.
+
+330
+00:32:28,100 --> 00:32:35,000
+If you're driving the bus or driving the ship and you're the captain, right and you're driving all day, all night, who's coming to the front, it to say, how are you doing?
+
+331
+00:32:35,000 --> 00:32:37,500
+Or can you take can we do something for you?
+
+332
+00:32:38,700 --> 00:32:47,300
+I think you touched on it, you know, around this idea of paying attention, and I am an expressive texture and Communicator often.
+
+333
+00:32:47,300 --> 00:32:49,400
+I use a lot of emojis for that very reason.
+
+334
+00:32:50,000 --> 00:32:55,900
+I really do believe in it, you know, some always send a smiley face or thumbs up or something funny.
+
+335
+00:32:56,000 --> 00:33:04,000
+So most people know how I am feeling or know that I am engaged when you get a one word text for me or you get, you know, a very short response either.
+
+336
+00:33:04,000 --> 00:33:06,400
+I am super busy or not in it, right?
+
+337
+00:33:06,900 --> 00:33:22,100
+You gotta pay attention to those little things to your point around emails and communication, and then also respecting other people's Styles and it goes back to as a leader, just being in tuned and making that a priority.
+
+338
+00:33:24,500 --> 00:33:28,600
+Such Rich nuggets shared by you all.
+
+339
+00:33:28,800 --> 00:33:32,800
+Wow, it's almost like every Emoji, every response.
+
+340
+00:33:33,000 --> 00:33:36,000
+There could be a double-click, you know, into that.
+
+341
+00:33:36,000 --> 00:33:42,700
+And Roberto is Infamous for the double-click, you know, which is awesome and needed in this time.
+
+342
+00:33:42,900 --> 00:33:58,300
+And, so I think as Leaders we could be mindful of like, okay, wait, you know, know the norms and habits of each of your employees and if something's a little off, like, they're not, but not that, The Emoji like they normally do, or they're not responding with a thumbs up.
+
+343
+00:33:58,400 --> 00:33:59,600
+Let me double-click into that.
+
+344
+00:33:59,700 --> 00:34:01,000
+What's going on there?
+
+345
+00:34:01,000 --> 00:34:04,300
+You know, I think that's really important and it goes both ways.
+
+346
+00:34:04,300 --> 00:34:06,900
+It's not only managers to their direct reports.
+
+347
+00:34:06,900 --> 00:34:08,600
+But management.
+
+348
+00:34:08,699 --> 00:34:10,100
+Let us do that for our leaders.
+
+349
+00:34:10,699 --> 00:34:13,199
+Let us check in with our bosses.
+
+350
+00:34:15,199 --> 00:34:15,600
+All right.
+
+351
+00:34:15,600 --> 00:34:19,000
+Well, we have got a ton of great questions that are coming through.
+
+352
+00:34:19,000 --> 00:34:22,400
+So we're going to go through them and try to answer as many as we can.
+
+353
+00:34:22,400 --> 00:34:25,000
+And there are many times the highwomen Highest upvotes.
+
+354
+00:34:25,000 --> 00:34:27,400
+We have is with this first question.
+
+355
+00:34:28,699 --> 00:34:35,000
+How do you get a male-dominated leadership team to see the value of empathetic leadership?
+
+356
+00:34:35,800 --> 00:34:44,800
+And I think we have to be mindful of any gender dominated leadership because it could be a full female-dominated leadership team.
+
+357
+00:34:44,800 --> 00:34:46,699
+It could be a full male, right?
+
+358
+00:34:47,400 --> 00:34:53,500
+I think just knowing that when you have that kind of, you know, majority group.
+
+359
+00:34:53,500 --> 00:34:57,600
+Are we being Mindful and empathetic in our leadership?
+
+360
+00:34:59,800 --> 00:35:00,900
+Do you want to take that one?
+
+361
+00:35:03,800 --> 00:35:07,100
+Tamika, hey, I will go for it.
+
+362
+00:35:07,400 --> 00:35:22,800
+Well, you know, so the question, the way it was, it was originally proposed or posed made the assumption that men aren't as empathetic and maybe there's some truth in that, it has not been my experience.
+
+363
+00:35:23,800 --> 00:35:30,900
+For me, I do know that there are some people in general that just aren't empathetic and part of that too.
+
+364
+00:35:30,900 --> 00:35:32,700
+I don't, you know, I don't know if that's nature-nurture.
+
+365
+00:35:33,600 --> 00:35:34,900
+Like, are you born with it?
+
+366
+00:35:35,500 --> 00:35:37,800
+I don't know, but I think that's a debate that should be it.
+
+367
+00:35:37,800 --> 00:35:38,200
+That's it.
+
+368
+00:35:38,200 --> 00:35:44,000
+That's debatable in the topic in and of itself, but it hasn't, it hasn't been my experience for me.
+
+369
+00:35:44,000 --> 00:35:52,700
+I have tended to surround myself with and be surrounded by people that genuinely care about me as an individual.
+
+370
+00:35:53,700 --> 00:36:00,300
+And when they don't I kind of step out because I can see the soup how superficial relationship is.
+
+371
+00:36:01,600 --> 00:36:07,800
+I have right now the best boss I have ever had and my life, and he's amazing.
+
+372
+00:36:08,300 --> 00:36:09,300
+He takes time.
+
+373
+00:36:09,500 --> 00:36:10,800
+He knows when to call me.
+
+374
+00:36:11,000 --> 00:36:15,300
+He allows me to say, exactly what's on my mind.
+
+375
+00:36:15,300 --> 00:36:18,400
+Even if it is not the right thing to say at the time.
+
+376
+00:36:18,700 --> 00:36:22,400
+And so, but you need that space to be able to do that.
+
+377
+00:36:23,300 --> 00:36:36,900
+And, so I, you know, I think you got to surround yourself and you got to know when to went to move on to because some of us think that we have got to stay on a team, got to take what's dished out and you don't you have choices in life.
+
+378
+00:36:37,200 --> 00:36:40,200
+You choose every single day, you're going to brush your teeth.
+
+379
+00:36:40,200 --> 00:36:43,200
+If you're gonna put one foot in front of the other you make choices.
+
+380
+00:36:43,600 --> 00:36:51,000
+And if you're on a team where you're not feeling that you're getting what you need you have an opportunity to leave that team.
+
+381
+00:36:51,200 --> 00:36:52,300
+Go somewhere else.
+
+382
+00:36:52,600 --> 00:36:58,300
+Take Your gifts elsewhere because sometimes it might, it might not be the place or the space for you.
+
+383
+00:36:58,300 --> 00:36:58,900
+And that's okay.
+
+384
+00:36:59,400 --> 00:37:02,700
+It's okay that it's not the end of the world when it doesn't work out.
+
+385
+00:37:05,900 --> 00:37:06,500
+It's good.
+
+386
+00:37:06,700 --> 00:37:07,200
+It's good.
+
+387
+00:37:07,200 --> 00:37:12,300
+I think, I think this is a, it's a I mean, powerful question, right?
+
+388
+00:37:12,300 --> 00:37:20,500
+I think there's a lot of layers in this question as well, and we can parse have an entire session with a much more qualified panel than me being on here.
+
+389
+00:37:21,500 --> 00:37:23,800
+But I think I need to get a high level.
+
+390
+00:37:23,900 --> 00:37:26,600
+I think, at a high level, it's me.
+
+391
+00:37:26,600 --> 00:37:29,300
+It's just speak to at the core of it is also diversity.
+
+392
+00:37:29,400 --> 00:37:29,800
+Right?
+
+393
+00:37:29,800 --> 00:37:36,800
+I think that if we're not talking about that as it relates to Teams and team build outs.
+
+394
+00:37:36,800 --> 00:37:37,200
+Then.
+
+395
+00:37:37,200 --> 00:37:39,600
+I think there's going to be an imbalance of perspectives.
+
+396
+00:37:40,000 --> 00:37:42,700
+And so, regardless of male Dominator or not.
+
+397
+00:37:42,700 --> 00:37:48,200
+I think it's also how the versus the thinking a representation of that team and that company.
+
+398
+00:37:48,400 --> 00:37:52,100
+And how does that then drive empathetic leadership?
+
+399
+00:37:52,200 --> 00:38:05,200
+And I think, I mean, when I, when I think about like, you know, one of my mentors has this core concept that you she's he's always, I don't have his first term is I got my mentors that are women powerful women, which is awesome.
+
+400
+00:38:05,500 --> 00:38:16,200
+But he's an investor, and she says, you know what, I want to hear your distance, traveled story, which really is like regardless of, what your resume say, or you always have what school you went to.
+
+401
+00:38:16,400 --> 00:38:18,500
+I want to hear your story, your life Journey.
+
+402
+00:38:18,500 --> 00:38:20,000
+Have you been through some hard times?
+
+403
+00:38:20,300 --> 00:38:33,600
+My tell me about the hard times you have been in and I think like having a team that naturally has been through some hard times and a crazy distance travel story just leads to just having more empathetic leadership as well because you had the fight.
+
+404
+00:38:33,600 --> 00:38:38,700
+You have to like climb walls and Hunker down, you had to overcome some things in life.
+
+405
+00:38:38,700 --> 00:38:42,000
+And I think that should build you to be a bit more empathetic as well.
+
+406
+00:38:43,100 --> 00:38:43,500
+Roberta.
+
+407
+00:38:44,600 --> 00:38:50,300
+So, if though, that if, and I am thinking about this in my head and out loud right now, so, we're in the moment.
+
+408
+00:38:50,500 --> 00:38:57,500
+But I also wonder if authenticity could be a catalyst for empathy, right?
+
+409
+00:38:57,600 --> 00:39:03,900
+Because the more authentic, I have been bringing my whole self to work whether people like it or not.
+
+410
+00:39:04,000 --> 00:39:05,400
+Like this is who I am.
+
+411
+00:39:05,700 --> 00:39:08,800
+And, you know, not a lot of going to change at this point.
+
+412
+00:39:08,800 --> 00:39:12,500
+I mean, I am I can work on it, but I am who I am and my core.
+
+413
+00:39:14,100 --> 00:39:19,700
+Bringing my whole self to work, has paid more dividends for me than anything else.
+
+414
+00:39:19,700 --> 00:39:30,300
+And I think it's given people the license or the opportunity to care about me as an individual because they know about me as a person, right?
+
+415
+00:39:30,300 --> 00:39:38,600
+So, I used to be afraid to tell people that I started out my career while I was on Medicaid, a mother on Medicaid, right?
+
+416
+00:39:38,900 --> 00:39:40,700
+And now I am leading Medicaid.
+
+417
+00:39:42,100 --> 00:39:42,700
+I should share that.
+
+418
+00:39:42,800 --> 00:39:43,300
+Story.
+
+419
+00:39:43,500 --> 00:39:49,300
+And now I am sharing that story and people are seeing themselves in me.
+
+420
+00:39:49,500 --> 00:39:56,000
+And so now, right when I have an issue, when I talk to them about, what's going on with my family and some of these stories are unbelievable people.
+
+421
+00:39:56,000 --> 00:39:58,600
+Can they can identify with that?
+
+422
+00:39:58,800 --> 00:40:06,700
+And, so I think that authenticity can be a path to yeah, opening up that.
+
+423
+00:40:06,700 --> 00:40:08,100
+Absolutely no one.
+
+424
+00:40:08,300 --> 00:40:10,100
+I mean and you can we can talk about this.
+
+425
+00:40:10,100 --> 00:40:17,100
+I mean, I know we probably need to and But we have tried getting to Q&A but at a high level to make a I would say authenticity.
+
+426
+00:40:17,100 --> 00:40:21,500
+And just I think Aaron with that is with the given as Alpha born ability, right?
+
+427
+00:40:21,500 --> 00:40:22,600
+As Leaders bought a time.
+
+428
+00:40:22,600 --> 00:40:25,300
+We think that run ability is a weakness that the okay.
+
+429
+00:40:25,300 --> 00:40:32,400
+Yeah, that Us opening up and say, you know what, I have had a hard for, you know what, I am going through some crap in Life or you know what?
+
+430
+00:40:32,400 --> 00:40:35,100
+I don't know the answer to that, and I am going to be vulnerable.
+
+431
+00:40:35,100 --> 00:40:37,600
+I don't know the answer to that, but we're going to go figure it out.
+
+432
+00:40:37,600 --> 00:40:42,600
+In fact, we have the team to go figure that up and I think just being more vulnerable.
+
+433
+00:40:42,600 --> 00:40:48,400
+All also just allowed level of authenticity across teams that just makes you more human at the end of the day.
+
+434
+00:40:48,400 --> 00:40:50,400
+And I think that's what we're talking about here.
+
+435
+00:40:51,400 --> 00:40:56,200
+So I will double-click I am above you said because I think you guys you to hit that nail on the head.
+
+436
+00:40:56,800 --> 00:41:07,500
+And I think it goes back to this underlying kind of layer of the onion around the capacity for authenticity organizations of people that value authenticity, right?
+
+437
+00:41:08,100 --> 00:41:12,700
+And when you think about this idea that we have all been a part of organizations for a significant.
+
+438
+00:41:12,900 --> 00:41:34,100
+Of our time of our lives and time whether it's businesses, family, schools, social groups, and then when you're thinking about this idea of empathy, with in all of that, it comes down to, you know, language context culture, and having the want to understand it and end-to-end to Value it.
+
+439
+00:41:34,200 --> 00:41:42,700
+And to your point a second ago, your life Journey or your life travel and then Tomika bringing you're bringing your full and authentic self to the job you're in.
+
+440
+00:41:43,100 --> 00:41:48,300
+And people being able, not only to recognize that, see the value, and then bringing more of that.
+
+441
+00:41:48,300 --> 00:41:59,300
+And, and I think as Leaders, we owe it to our teams and our organizations to build that out and to continue to build that perspective and thought leadership and diversity.
+
+442
+00:41:59,800 --> 00:42:12,700
+And that, and you get into this up, this bigger concept of diversity, equity and inclusion, and he's thinking sympathies at the core, and I am seeing a lot of this, these themes across organizations across Industries.
+
+443
+00:42:13,700 --> 00:42:15,300
+And the importance of it.
+
+444
+00:42:16,100 --> 00:42:21,500
+The bigger we get as a world in a country and, you know, so on and it's important, right?
+
+445
+00:42:21,500 --> 00:42:22,600
+It's so important.
+
+446
+00:42:23,500 --> 00:42:27,800
+Well, you know, before we leave this, I do think we should talk about trust.
+
+447
+00:42:28,400 --> 00:42:30,600
+So I think important equation, right?
+
+448
+00:42:30,900 --> 00:42:32,200
+I think trust is huge.
+
+449
+00:42:32,200 --> 00:42:34,700
+Right and without it, you have nothing, right?
+
+450
+00:42:34,700 --> 00:42:38,700
+And it's in a marriage friendship or relationship with your boss, right?
+
+451
+00:42:38,800 --> 00:42:41,900
+With your customers, where people don't trust, you can't get very far.
+
+452
+00:42:42,300 --> 00:42:46,400
+And, so I think that there's a connection with empathy and Trust.
+
+453
+00:42:47,400 --> 00:42:53,100
+I like to take my teens through happiness training with an expert Rick Fox.
+
+454
+00:42:53,300 --> 00:42:53,600
+It's a wreck.
+
+455
+00:42:53,600 --> 00:42:54,100
+If you're out there.
+
+456
+00:42:54,100 --> 00:42:54,800
+I hope you're listening.
+
+457
+00:42:55,500 --> 00:42:56,400
+Love him.
+
+458
+00:42:56,500 --> 00:42:57,600
+Love his approach.
+
+459
+00:42:57,600 --> 00:43:03,600
+But he gave, he gives us when we go through this training, a trust formula, right?
+
+460
+00:43:03,600 --> 00:43:11,700
+And that trust formula is high levels of interaction, high levels of flexibility and high levels of disclosure.
+
+461
+00:43:12,900 --> 00:43:20,800
+And you think about that, any relationship that you value has those three components or ingredients in it, right?
+
+462
+00:43:21,000 --> 00:43:23,100
+You think about the bigger your closest friend, your wife?
+
+463
+00:43:23,200 --> 00:43:28,100
+Wife, your husband, your right, your parents, your brothers and sisters.
+
+464
+00:43:28,100 --> 00:43:31,000
+Those that you're closest to, you are flexible.
+
+465
+00:43:31,000 --> 00:43:34,000
+They know things about you that other people don't know.
+
+466
+00:43:34,000 --> 00:43:38,500
+And you spend a lot of time with them because you choose to.
+
+467
+00:43:38,500 --> 00:43:43,900
+And, so I think that trust and empathy are connected in that way in that vein.
+
+468
+00:43:43,900 --> 00:43:47,400
+And so when you put those things together, right?
+
+469
+00:43:47,400 --> 00:43:50,900
+Actually we might be building something around empathy, but it's like authenticity.
+
+470
+00:43:50,900 --> 00:43:52,300
+It's trust right?
+
+471
+00:43:52,300 --> 00:43:56,100
+You and You miss all those things together.
+
+472
+00:43:56,100 --> 00:43:59,500
+And I think empathy then comes along for the ride.
+
+473
+00:44:00,300 --> 00:44:03,100
+You say interaction, flexibility and disclosure.
+
+474
+00:44:03,100 --> 00:44:09,300
+What were the three high levels of flexibility high levels of Engagement and high levels of disclosure?
+
+475
+00:44:10,500 --> 00:44:13,600
+Equals trust awesome Mica.
+
+476
+00:44:13,600 --> 00:44:16,100
+I need to get this happiness training ASAP.
+
+477
+00:44:16,100 --> 00:44:22,100
+So we're going to have your friend is going to have a referral coming in really soon, because I need that in my life.
+
+478
+00:44:22,100 --> 00:44:22,400
+I think.
+
+479
+00:44:22,400 --> 00:44:26,800
+I think it's brilliant, especially again, tying it back to remote and distributed teams.
+
+480
+00:44:26,900 --> 00:44:37,000
+It's like, I think, you know, you're mentioning happiness training and for some people that vote on that sounds like from Mars somewhere, but no, it's like in this distributed world.
+
+481
+00:44:37,600 --> 00:44:40,100
+The intentionality just have to be so much more.
+
+482
+00:44:41,400 --> 00:44:46,100
+And water and having teams go through intentional, training on how to do this.
+
+483
+00:44:46,100 --> 00:44:47,600
+Well, especially when both teams.
+
+484
+00:44:47,600 --> 00:44:49,000
+It's fascinating.
+
+485
+00:44:49,000 --> 00:44:53,400
+So I guess we're talking The Green Room, so we can talk about that referral.
+
+486
+00:44:54,100 --> 00:44:59,200
+But before we go, next question, so you take, you take that trust for me line, you take all the depth that we just talked about.
+
+487
+00:44:59,400 --> 00:45:01,400
+Now you go say to me, go create a PowerPoint.
+
+488
+00:45:01,800 --> 00:45:09,800
+Now, you say now you say to your team, go get prepared for some business review, or go get prepared for something that in the grand scheme of what it is.
+
+489
+00:45:09,800 --> 00:45:10,100
+You're trying.
+
+490
+00:45:10,200 --> 00:45:10,900
+To accomplish.
+
+491
+00:45:10,900 --> 00:45:22,200
+Is it, is that big you'd be amazed how much you get done together when you build, you know, those High degrees of, trust disclosure partnership and understanding of each other.
+
+492
+00:45:23,700 --> 00:45:26,600
+When, when now the ask is, how can you lean in with me?
+
+493
+00:45:27,300 --> 00:45:28,400
+Can we do this together?
+
+494
+00:45:28,800 --> 00:45:29,700
+I am are you ready?
+
+495
+00:45:29,700 --> 00:45:31,200
+What support do you need that?
+
+496
+00:45:31,700 --> 00:45:35,900
+It's something fascinating when you get to that threshold and over that Hill.
+
+497
+00:45:37,500 --> 00:45:50,800
+And Roberto London can tell you, he's been through the training and it was, I mean, it's an experience and you can't unknow what you learn when you go to that, that did that programming that try that process.
+
+498
+00:45:50,800 --> 00:45:52,400
+You can't, you can't unknow it.
+
+499
+00:45:52,800 --> 00:45:56,600
+And so you're wet with it and you have to apply it because it's in your head.
+
+500
+00:45:58,000 --> 00:46:00,400
+So, that's the happiness training with Rick Foster.
+
+501
+00:46:01,900 --> 00:46:11,000
+Okay, and I mean, there is a question here in chat about leadership exercises to help improve empathy.
+
+502
+00:46:11,500 --> 00:46:13,900
+So would you take your whole leadership team?
+
+503
+00:46:13,900 --> 00:46:15,000
+Unlike an off-site?
+
+504
+00:46:15,000 --> 00:46:20,200
+And is this, like a whole day activity, or it's a two-day the way Rick does it?
+
+505
+00:46:20,500 --> 00:46:27,700
+It's a two-day investment in your leadership team, and he really talks to you about the realities and the science of what happy.
+
+506
+00:46:27,900 --> 00:46:28,500
+People do.
+
+507
+00:46:28,700 --> 00:46:33,000
+And so happy people behave and they do certain things.
+
+508
+00:46:33,000 --> 00:46:36,800
+There are certain things that they do in life because they're happy.
+
+509
+00:46:36,900 --> 00:46:53,200
+And then there's also two when your, when your team is happy, they are functioning from the executive level of their brain, which means that's the highest place of productivity, you can get from that team because they're high functioning there are high functioning teams.
+
+510
+00:46:54,200 --> 00:46:57,700
+And so as you think about, you think about that executive function, that's where we want.
+
+511
+00:46:57,800 --> 00:47:02,200
+Our people to be leading from is that executive function of their brain?
+
+512
+00:47:03,000 --> 00:47:07,400
+And then when you do that, there's these other components of Happiness, like, showing appreciation.
+
+513
+00:47:08,000 --> 00:47:08,900
+I mean, you got to think about it.
+
+514
+00:47:08,900 --> 00:47:10,400
+How often do you tell someone?
+
+515
+00:47:10,400 --> 00:47:19,200
+I really appreciate it, but you did for me or I appreciate you, staying late on that meeting, or appreciate you stand up to 2:00 in the morning to work on that deck, whatever it is.
+
+516
+00:47:19,200 --> 00:47:23,700
+But it's you got to show real appreciation for people, and they have to feel it here.
+
+517
+00:47:24,800 --> 00:47:30,600
+It can't be superficial but that's something that You people do is they show appreciation.
+
+518
+00:47:31,100 --> 00:47:32,300
+They show humility.
+
+519
+00:47:32,500 --> 00:47:35,600
+They focus around intention rights.
+
+520
+00:47:35,600 --> 00:47:44,100
+If you think about when people harm you, you got to ask yourself the question about that individuals intention, right?
+
+521
+00:47:44,100 --> 00:47:48,800
+And so, you can forgive people if their intention wasn't to harm you.
+
+522
+00:47:49,600 --> 00:48:16,700
+Now, if their intention was to harm you, that is a whole nother ball of wax dealing with something totally different, but he takes us, he will take your Teams through all of that exercise, to help, you understand what happy people do, how they function, how they engage and whatnot, and how to recognize when you have or likely might have someone on your team, that is intentionally causing people harm because hurt, people hurt people.
+
+523
+00:48:17,700 --> 00:48:20,800
+Mmm, so good.
+
+524
+00:48:20,900 --> 00:48:22,600
+All right, let us talk to you before.
+
+525
+00:48:22,600 --> 00:48:23,500
+Before we leave this.
+
+526
+00:48:23,500 --> 00:48:25,900
+We're going to have, like, happiness workshop on.
+
+527
+00:48:25,900 --> 00:48:26,900
+Welcome for Distributing.
+
+528
+00:48:26,900 --> 00:48:27,300
+Yeah.
+
+529
+00:48:27,800 --> 00:48:29,300
+Like that's like the next event.
+
+530
+00:48:29,300 --> 00:48:37,800
+We have to get going, love that and I think somebody in chat was asking, you know, is there a happiness index or test that we can take?
+
+531
+00:48:38,000 --> 00:48:38,800
+We're going.
+
+532
+00:48:39,100 --> 00:48:41,700
+We're going to do it on a walk on, so we can do it all together.
+
+533
+00:48:41,800 --> 00:48:42,200
+Okay?
+
+534
+00:48:42,200 --> 00:48:42,700
+Yeah.
+
+535
+00:48:43,000 --> 00:48:45,000
+Well Rick Foster on, I love it.
+
+536
+00:48:45,500 --> 00:48:47,000
+Alright, here's another question.
+
+537
+00:48:47,500 --> 00:48:53,200
+How do you scale empathetic leadership as your team and as your company grows?
+
+538
+00:48:55,800 --> 00:48:56,400
+I think you.
+
+539
+00:48:57,700 --> 00:48:58,200
+You stay true.
+
+540
+00:48:58,200 --> 00:48:58,800
+The formula.
+
+541
+00:48:59,100 --> 00:49:06,700
+Whatever that formula is for your team, right in the end, wherever you have seen that most success and obviously, you know, to make is mentioning the happiness formula.
+
+542
+00:49:06,900 --> 00:49:11,200
+I am sure there're others, you know, that have worked specific to Industries or what it is.
+
+543
+00:49:11,200 --> 00:49:14,200
+You're trying to accomplish as you scale.
+
+544
+00:49:14,800 --> 00:49:21,500
+Not only do you have to make sure that you're staying true to that formula, but you are evolving it over time for scalability, right?
+
+545
+00:49:21,600 --> 00:49:26,400
+Whether that's more resources or that's more in time that you use dedicated to it.
+
+546
+00:49:26,800 --> 00:49:37,700
+When you go from A Thousand person company or 500 person company to have 50,000 person company, you will notice the infrastructure around people and the infrastructure around programs and diversity, inclusion.
+
+547
+00:49:38,700 --> 00:49:42,500
+Just simple networking or teaching gross, right?
+
+548
+00:49:42,500 --> 00:49:50,500
+It's no longer one person to maybe five, maybe ten, maybe different groups and organizations and then you create the Matrix around that.
+
+549
+00:49:51,100 --> 00:49:57,300
+But I would say, you know, from my experiences, you know, scaling that empathy empathetic culture and Leadership.
+
+550
+00:49:57,400 --> 00:50:01,500
+Aisle and, you know, kind of anchor, you got it State Route.
+
+551
+00:50:01,500 --> 00:50:03,400
+It has to be a priority, has to be measured.
+
+552
+00:50:03,400 --> 00:50:04,300
+It has to be a priority.
+
+553
+00:50:04,300 --> 00:50:04,500
+Right?
+
+554
+00:50:04,500 --> 00:50:07,300
+What's measured gets done and it gets done.
+
+555
+00:50:07,300 --> 00:50:07,700
+Well.
+
+556
+00:50:10,400 --> 00:50:10,800
+Good point.
+
+557
+00:50:10,800 --> 00:50:17,000
+I think for me I go back to interviewing like when your interview especially like a leader in your organization.
+
+558
+00:50:17,000 --> 00:50:26,200
+Your leaders can be responsible for people and so having the wrong higher that's coming in and is responsible for driving culture and building people up.
+
+559
+00:50:26,800 --> 00:50:29,200
+I mean, it's become so much more important, right?
+
+560
+00:50:29,200 --> 00:50:39,300
+So, the interviewing process that you have, I think Linda back to your point that interviewing formula is making sure that you don't lower the bar.
+
+561
+00:50:39,500 --> 00:50:44,100
+You're very people consider company and what you're bringing company, people consider the company for.
+
+562
+00:50:44,600 --> 00:50:48,100
+I think a lot of times we get into these pressure pocket.
+
+563
+00:50:48,100 --> 00:50:50,500
+Sometimes we were just, I just need someone to come in and kind of.
+
+564
+00:50:50,500 --> 00:50:53,800
+Yes, they check all the boxes on the resume, they do all of this.
+
+565
+00:50:54,000 --> 00:50:59,700
+But how are you actually double-clicking to kind of hammer that one home on the person?
+
+566
+00:50:59,800 --> 00:51:03,400
+Can I really trust this person to lead people?
+
+567
+00:51:03,400 --> 00:51:12,600
+Well, and I just hold my leader so a higher bar because at the end, Of the day, they're the ones building culture with their teams.
+
+568
+00:51:12,600 --> 00:51:12,800
+Right?
+
+569
+00:51:12,800 --> 00:51:16,900
+So I am only a successful as I am able to influence my reader.
+
+570
+00:51:17,000 --> 00:51:25,000
+And so bringing the Right leader in and carry that culture further is, I think we're starts again at let me touch on that as well.
+
+571
+00:51:26,900 --> 00:51:28,100
+None of this is easy.
+
+572
+00:51:28,800 --> 00:51:29,100
+Right?
+
+573
+00:51:29,100 --> 00:51:31,300
+Well, let us be clear, right?
+
+574
+00:51:31,300 --> 00:51:42,900
+None of this, this thinking and these approaches, and the framework is easy, and it gets harder, especially the bigger you get, and the more diverse you get as an organization, and I am a firm believer in.
+
+575
+00:51:42,900 --> 00:51:50,000
+Not one size, fits all and I think that's one of the biggest challenges that we have as big companies and, you know, different Industries.
+
+576
+00:51:50,000 --> 00:51:54,800
+We try to take these Frameworks at ideas and Concepts and just layer it on and do this.
+
+577
+00:51:55,500 --> 00:52:07,200
+You have to find the Formula that works for your team, your direct team, and your broader organization, and you have to solicit the inspiration and to buy into it.
+
+578
+00:52:08,100 --> 00:52:13,200
+So I will just I will leave that because I don't want people to think that we're just saying this and it's, you know, snap of a finger.
+
+579
+00:52:13,200 --> 00:52:14,500
+But this takes work.
+
+580
+00:52:14,500 --> 00:52:15,600
+It takes alignment.
+
+581
+00:52:15,600 --> 00:52:17,200
+It takes time.
+
+582
+00:52:17,200 --> 00:52:23,000
+It takes energy takes measurement takes investment, and it's important to think about it holistically in that way.
+
+583
+00:52:24,700 --> 00:52:25,300
+I agree.
+
+584
+00:52:25,400 --> 00:52:25,900
+You know what?
+
+585
+00:52:25,900 --> 00:52:27,100
+I think it's around.
+
+586
+00:52:27,100 --> 00:52:28,500
+I think it's around intention.
+
+587
+00:52:28,900 --> 00:52:29,400
+Right?
+
+588
+00:52:29,400 --> 00:52:40,900
+And so for people that have children, you will this will resonate our kids do as we do not necessarily as we say, right?
+
+589
+00:52:40,900 --> 00:52:43,800
+And sometimes kids are like, huh?
+
+590
+00:52:44,300 --> 00:52:44,800
+That's me.
+
+591
+00:52:45,800 --> 00:52:48,000
+That is me off every day.
+
+592
+00:52:48,100 --> 00:52:49,300
+And it's interesting.
+
+593
+00:52:49,300 --> 00:53:02,200
+They do more of what you do than what you say because and most times We're saying things, we have to say it a thousand times, but when you're doing something right, that's easier to adopt because it becomes habit.
+
+594
+00:53:02,400 --> 00:53:11,600
+And, so I think it's around and tension and around making sure that you were modeling the way and calling it out when you don't see it because that's important too, right?
+
+595
+00:53:11,600 --> 00:53:16,900
+Sometimes we, you know, people do something wrong or something terrible and will whisper behind the scenes.
+
+596
+00:53:16,900 --> 00:53:18,900
+Like did you believe did you hear you?
+
+597
+00:53:18,900 --> 00:53:19,500
+No, no.
+
+598
+00:53:19,500 --> 00:53:20,100
+No.
+
+599
+00:53:20,100 --> 00:53:23,800
+We need to call those bad behaviors out, but we should also too.
+
+600
+00:53:24,300 --> 00:53:25,700
+Call out in a good way.
+
+601
+00:53:25,700 --> 00:53:31,400
+The behaviors that we see and model those, and make sure that we're being intentional about that.
+
+602
+00:53:32,200 --> 00:53:35,400
+So I want to double-click into that Tomika.
+
+603
+00:53:36,200 --> 00:53:39,700
+How do you do it in honoring and respectful way?
+
+604
+00:53:42,300 --> 00:53:44,900
+I think it's about Tak tone and timing, right?
+
+605
+00:53:44,900 --> 00:53:48,800
+So it's about when you do it, so I will give an example of something that happened today.
+
+606
+00:53:48,800 --> 00:53:50,800
+So this is like I am sharing, right?
+
+607
+00:53:50,800 --> 00:54:06,100
+Like some of my baggage life is not perfect and especially in leadership, but I joined a call today and I had a member of my staff was saying well sometimes our leader doesn't give clear directions, but they didn't know that.
+
+608
+00:54:06,100 --> 00:54:06,800
+I was on the call.
+
+609
+00:54:06,900 --> 00:54:10,100
+So it's not helped myself.
+
+610
+00:54:10,100 --> 00:54:12,800
+I could not help us up because it was like, I was Shocked rapidly.
+
+611
+00:54:13,500 --> 00:54:14,200
+Wait what?
+
+612
+00:54:14,400 --> 00:54:18,300
+So then I was like, you know, running through my email, the figure like was I not clear?
+
+613
+00:54:19,500 --> 00:54:23,100
+And so and I just asked them in the moment and that particular point in time.
+
+614
+00:54:23,500 --> 00:54:28,200
+There were few of us on the call for me to say what was not clear.
+
+615
+00:54:28,600 --> 00:54:30,300
+Like, like talking about this, talk about it right.
+
+616
+00:54:30,300 --> 00:54:30,600
+Now.
+
+617
+00:54:31,000 --> 00:54:36,100
+What were you not clear on and oh, by the way, if you're not clear, please call me text me.
+
+618
+00:54:36,500 --> 00:54:41,700
+I am all this, and we dealt with literally At that moment and but I am an in-the-moment time.
+
+619
+00:54:41,800 --> 00:54:44,100
+I believed her London knows this, right?
+
+620
+00:54:44,100 --> 00:54:45,500
+Right, then it was it.
+
+621
+00:54:46,400 --> 00:54:47,600
+I am telling you that day.
+
+622
+00:54:47,700 --> 00:54:48,600
+I can't sleep on it.
+
+623
+00:54:48,600 --> 00:54:57,000
+Like I literally cannot take it to bed with me, if there's something awry, I have to talk to you about it that day before I close my eyes.
+
+624
+00:54:57,000 --> 00:54:59,300
+I can't let it Fester you, let things Fester.
+
+625
+00:54:59,300 --> 00:55:10,700
+They actually get worse than they were when you originally encountered it like you start overthinking it, you start processing, and you start adding on your own stuff to it, but I think it has a lot to do with timing.
+
+626
+00:55:10,900 --> 00:55:15,900
+So And so you do that as it's comfortable for you, right?
+
+627
+00:55:15,900 --> 00:55:19,600
+So if you're an in-the-moment type of person deal with it, then move on.
+
+628
+00:55:20,100 --> 00:55:27,900
+If you're not process, take I know some folks like to process things, process it and then it sometimes it really involved.
+
+629
+00:55:27,900 --> 00:55:32,900
+You pull a person to the side and having a separate conversation because, guess what?
+
+630
+00:55:33,000 --> 00:55:34,500
+No one likes to be embarrassed.
+
+631
+00:55:34,900 --> 00:55:37,700
+None of us are who, like, who are signing up for embarrassment every day?
+
+632
+00:55:37,700 --> 00:55:38,500
+Not me.
+
+633
+00:55:38,900 --> 00:55:41,700
+I don't wanna be embarrassed, that's part of what drives me to, to succeed.
+
+634
+00:55:41,800 --> 00:55:45,000
+In the world is to not fail, definitely not be embarrassed.
+
+635
+00:55:45,200 --> 00:55:47,500
+And so, none of us likes to feel that way.
+
+636
+00:55:47,500 --> 00:56:01,500
+And so, it's a matter of making sure that you're doing it and honoring, the person with their, with respect, right, giving them, the respect that they're done and doing it in a safe space and, and Tomika, I think the asterisk there.
+
+637
+00:56:01,500 --> 00:56:02,500
+You know what you just said?
+
+638
+00:56:02,500 --> 00:56:03,800
+Is that you care, right?
+
+639
+00:56:03,800 --> 00:56:11,700
+You care as a leader, and you want to make sure that if someone doesn't feel like they brought up to speed up their brought up to speed, or there's something missing that you want to address it.
+
+640
+00:56:11,900 --> 00:56:13,100
+And you know, there's lots of ways to do it.
+
+641
+00:56:13,100 --> 00:56:14,400
+Like you said, it's in the moment.
+
+642
+00:56:14,400 --> 00:56:24,800
+It's taking them to the side, but I think it goes back to, you know, Tak tone and timing and then this idea of like the language you use the context in which you're communicating right in the culture.
+
+643
+00:56:24,900 --> 00:56:25,200
+Right?
+
+644
+00:56:25,400 --> 00:56:33,600
+I mean, everyone is engaged differently, everyone receives information differently and received criticism attention.
+
+645
+00:56:33,600 --> 00:56:33,900
+Right?
+
+646
+00:56:33,900 --> 00:56:36,700
+Like you're exactly that person.
+
+647
+00:56:36,700 --> 00:56:36,900
+Are you?
+
+648
+00:56:36,900 --> 00:56:44,200
+Absolutely and I think that's a really powerful element of Leadership is being aware and cognizant of that.
+
+649
+00:56:44,200 --> 00:56:45,300
+And to me, that's empathy, right.
+
+650
+00:56:45,300 --> 00:56:49,400
+That's a version of empathy in the moment in an instance.
+
+651
+00:56:49,900 --> 00:56:55,200
+And you know, that is something that I hate to say, it is not something that you're born with.
+
+652
+00:56:55,400 --> 00:57:17,900
+I mean the reality is, you learn that over time, you learn that, their experiences, you learn that through, you know, going through the battles, you learn that through managing and leading different types of people and working with different groups of people, to build up that skill set and ability to deliver that message or Support that colleague or whatever it is At that moment in time, but you got again, it's not easy.
+
+653
+00:57:17,900 --> 00:57:19,100
+You have to pay attention.
+
+654
+00:57:19,100 --> 00:57:22,800
+You have to be engaged as a leader that has to be a priority of yours.
+
+655
+00:57:22,800 --> 00:57:26,800
+Otherwise, you just you're just a driver, you just hate, you know, just drive and push it.
+
+656
+00:57:28,100 --> 00:57:30,100
+I know we're running on time, but I have to say this.
+
+657
+00:57:30,500 --> 00:57:33,600
+I like to consider it like, spinach in my teeth, right?
+
+658
+00:57:35,700 --> 00:57:35,900
+Yes.
+
+659
+00:57:35,900 --> 00:57:36,700
+Spinach in your teeth.
+
+660
+00:57:36,700 --> 00:57:45,400
+You want someone to tell you that you have to walk around at a party with the you care about the person.
+
+661
+00:57:45,800 --> 00:57:47,600
+Tell him, tell him what's right?
+
+662
+00:57:47,600 --> 00:57:48,100
+And what's wrong?
+
+663
+00:57:50,000 --> 00:57:50,400
+That's good.
+
+664
+00:57:50,400 --> 00:57:57,600
+I, you know, before we wrap up here, I just gotta say, both Tomika in London that I don't know.
+
+665
+00:57:57,600 --> 00:57:59,800
+I think, Two guys are doing is pretty powerful.
+
+666
+00:57:59,800 --> 00:58:03,700
+Not only you lead distributed teams, but it's super teams in healthcare.
+
+667
+00:58:03,800 --> 00:58:08,200
+And I mean, when we talk about taking care of people, empathetic leadership is important.
+
+668
+00:58:08,300 --> 00:58:11,600
+Overall well-being is as important, right?
+
+669
+00:58:11,800 --> 00:58:20,500
+So anyway, I just want to thank you to before we run out of time here for just sharing the stage and sharing best practices that you are seeing on your thigh.
+
+670
+00:58:21,300 --> 00:58:22,200
+And thank you.
+
+671
+00:58:22,200 --> 00:58:26,500
+Thank you for your leadership and your leadership in the tech space and doing what you're doing.
+
+672
+00:58:27,300 --> 00:58:30,300
+You're In the game and you're doing it, right?
+
+673
+00:58:30,300 --> 00:58:39,400
+You're doing it better, and we can all see that and so appreciate having the opportunity just to be on a panel with you next to the greatness.
+
+674
+00:58:40,100 --> 00:58:41,400
+So really appreciate that.
+
+675
+00:58:42,100 --> 00:58:49,700
+Yeah, you better share the stage with you three and it's been a, it's been a privilege and hopefully this has helped folks that were listening in today.
+
+676
+00:58:49,700 --> 00:58:52,200
+And if there's anything you need, let us know.
+
+677
+00:58:54,300 --> 00:58:59,200
+Wow, I am like feeling the love wrapping up at time here.
+
+678
+00:58:59,200 --> 00:59:09,500
+And I know we didn't get through all of the questions, but this was so rich and there were some tactical takeaways some really meaningful insights shared.
+
+679
+00:59:09,500 --> 00:59:12,100
+I hope all of you took something away.
+
+680
+00:59:12,400 --> 00:59:16,400
+We will be sharing this recording out to all those who had registered.
+
+681
+00:59:16,600 --> 00:59:19,200
+And so thank you, Tomika London.
+
+682
+00:59:19,200 --> 00:59:20,000
+Roberto.
+
+683
+00:59:20,000 --> 00:59:25,100
+Thank you so much for taking the time to Share your experience and insights with us.
+
+684
+00:59:25,500 --> 00:59:26,200
+Thank you, Gina.
+
+685
+00:59:26,500 --> 00:59:27,600
+Thank you guys.
+
+686
+00:59:28,300 --> 00:59:29,300
+All right.
+
+687
+00:59:29,300 --> 00:59:33,900
+Well with that, we are going to wrap up and gosh.
+
+688
+00:59:33,900 --> 00:59:36,000
+After these rich conversations.
+
+689
+00:59:36,100 --> 00:59:42,500
+I wish that we could all like, hang out at the bar and go grab a drink together and chill out.
+
+690
+00:59:43,300 --> 00:59:45,700
+But, you know, we hope to see you at our next event.
+
+691
+00:59:45,700 --> 00:59:52,000
+We have got an event coming up, May 31st, and it's going to be an internal comms focused event.
+
+692
+00:59:52,000 --> 01:00:02,000
+We're going to talk about Out the new Norms, the new tools and different things that internal comms team members are really challenged within this new distributed world.
+
+693
+01:00:02,200 --> 01:00:05,600
+And so be sure to check that out go to our website.
+
+694
+01:00:05,600 --> 01:00:10,700
+And of course you're on welcome, and we love that you're in our house here.
+
+695
+01:00:10,800 --> 01:00:21,800
+If you want to learn more about how to uplevel your All Hands experience or your employee onboarding or do a webinar, check out what welcomes all about.
+
+696
+01:00:21,800 --> 01:00:22,700
+See it for yourself.
+
+697
+01:00:22,900 --> 01:00:24,900
+Can book a demo on the tabs right above?
+
+698
+01:00:25,100 --> 01:00:34,900
+So with that we send our love and gratitude to you all have a wonderful rest of the day and week, and we look forward to seeing you soon.
+
+699
+01:00:35,100 --> 01:00:35,800
+Take care.
