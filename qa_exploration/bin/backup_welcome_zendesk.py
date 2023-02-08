@@ -46,7 +46,3 @@ with open(os.path.join(backup_path, '_log.csv'), mode='wt', encoding='utf-8') as
     writer.writerow( ('File', 'Title', 'Author ID') )
     for article in log:
         writer.writerow(article)
-
-# print(response.status_code)
-# print(response.json())
-# curl -u tiger@experiencewelcome.com:CU3QpXjdVPAjqv7 https://experiencewelcome.zendesk.com/api/v2/users/me.json
