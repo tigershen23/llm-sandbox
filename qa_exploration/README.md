@@ -46,7 +46,9 @@ Same process as above, but `s/marketing/blog`
 
 #### Welcome ZenDesk
 
-ZENDESK_PASSWORD
+Set ENV["ZENDESK_PASSWORD"] to zendesk password. If using another user, modify `bin/backup_welcome_zendesk.py` accordingly.
+
+Run `python bin/backup_welcome_zendesk.py`
 
 
 #### Transcripts
@@ -56,6 +58,10 @@ From a machine with heroku logged in to whichever Welcome environment you are pu
 
 
 ### Chatbase
+
+There's a chatbase bot on the "combined" data here, if you want to look for any reason. It's noticeably worse than the
+base QA from this repo, that might be due to a higher temperature?
+https://www.chatbase.co/chatbot/combined-pdf-4y3fc29rd
 
 ### Misc
 
