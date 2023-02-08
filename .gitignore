@@ -5,3 +5,4 @@ notebooks/cifar_net.pth
 /**/*_venv/**
 **.pem
 **/proxy-certs/**
+**pycache**
